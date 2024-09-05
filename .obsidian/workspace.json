@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "ed1e406c8718872b",
+    "type": "split",
+    "children": [
+      {
+        "id": "52317633eaedf4b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4261d11a021f3457",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "83e68833f4b6b0bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "contents/Scientific article/A Decade of Knowledge Graphs in Natural Language Processing: A Survey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7640cc6c5502fbe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "contents/Blog post/Read Medium articles with AINo Results.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35cb7fbf4e2320d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "contents/Scientific article/Attention Is All You Need.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15c6376683eb40ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "4497e92f64cc14d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62863784a8b49b67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0bf24646d3c74b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Data_Engineering  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c43e1f9c49370f89",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "right": {
+    "id": "f88016cf7b751135",
+    "type": "split",
+    "children": [
+      {
+        "id": "1efe2763118728d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67456c2ac3e15d95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42e7872b1d1808e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fbc15170f0ba4744",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4606b1a8e1ca96d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4261d11a021f3457",
+  "lastOpenFiles": [
+    "contents/Scientific article/GameNGen: Real-Time Game Engine with Diffusion Models.md",
+    "topics/Concept/Auto-regressive Generation.md",
+    "topics/Concept/Interactive Data Simulation.md",
+    "topics/Model/Diffusion Models.md",
+    "topics/Platform/GameNGen.md",
+    "artefacts/2408.14837",
+    "contents/Scientific article/Attention Is All You Need.md",
+    "contents/Repository/LitServe: Lightning-fast Serving Engine for AI Models.md",
+    "topics/Concept/Batching.md",
+    "topics/Concept/GPU Autoscaling.md",
+    "topics/Concept/Serving.md",
+    "topics/Concept/API.md",
+    "topics/Library/LitServe.md",
+    "contents/Documentation/DataFrames at Scale Comparison: TPC-H.md",
+    "topics/Library/DuckDB.md",
+    "topics/Library/Spark.md",
+    "topics/Library/Dask.md",
+    "topics/Concept/TPC-H Benchmark.md",
+    "contents/Scientific article/A Decade of Knowledge Graphs in Natural Language Processing: A Survey.md",
+    "contents/Blog post/Read Medium articles with AINo Results.md",
+    "topics/Library/Transformers with Reinforcement Learning.md",
+    "contents/Blog post/MLStack.Cafe - Kill Your Next Machine Learning & Data Science Interview.md",
+    "contents/Product main page/Zed - Next-Gen Code Editor.md",
+    "contents/Documentation/Common Plots for Economists.md",
+    "topics/Concept/Data Structures and Graph Structures.md",
+    "topics/Concept/Retrieval-Augmented Generation (RAG).md",
+    "contents/Documentation/Rules of Machine Learning: Best Practices.md",
+    "artefacts/rules_of_ml.pdf",
+    "artefacts/2205.02302.pdf",
+    "contents/Book",
+    "artefacts/1706.03762.pdf",
+    "artefacts/deeplearningwithpython.pdf",
+    "artefacts/2308.09687.pdf",
+    "artefacts/2312.11805.pdf",
+    "artefacts/2312.10997v1.pdf",
+    "contents/Documentation",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
