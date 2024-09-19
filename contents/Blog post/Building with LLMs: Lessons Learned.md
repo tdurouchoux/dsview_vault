@@ -38,6 +38,6 @@ The authors emphasize the importance of continuous learning and adaptation in th
 
 - [[topics/Concept/Retrieval-Augmented Generation (RAG)]]
 - [[topics/Concept/Prompt Engineering]]
-- [[topics/Concept/Human-in-the-Loop Workflows]]
+- [[topics/Concept/Human-in-the-Loop]]
 - [[topics/Concept/Evaluation Strategies]]
 - [[topics/Concept/Deterministic Workflows]]
