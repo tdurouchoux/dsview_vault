@@ -176,8 +176,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4261d11a021f3457",
+  "active": "62863784a8b49b67",
   "lastOpenFiles": [
+    "status.md",
     "contents/Scientific article/GameNGen: Real-Time Game Engine with Diffusion Models.md",
     "topics/Concept/Auto-regressive Generation.md",
     "topics/Concept/Interactive Data Simulation.md",
@@ -204,7 +205,6 @@
     "contents/Documentation/Common Plots for Economists.md",
     "topics/Concept/Data Structures and Graph Structures.md",
     "topics/Concept/Retrieval-Augmented Generation (RAG).md",
-    "contents/Documentation/Rules of Machine Learning: Best Practices.md",
     "artefacts/rules_of_ml.pdf",
     "artefacts/2205.02302.pdf",
     "contents/Book",
