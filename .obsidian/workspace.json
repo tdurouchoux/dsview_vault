@@ -42,18 +42,31 @@
             }
           },
           {
-            "id": "35cb7fbf4e2320d5",
+            "id": "05f4f752279344e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contents/Scientific article/Attention Is All You Need.md",
+                "file": "topics/Concept/Impact de l'IA sur la création artistique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d872298fcf070c2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "topics/Library/Ice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "contents/Blog post/Read Medium articles with AINo Results.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "contents/Blog post/Read Medium articles with AINo Results.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "contents/Blog post/Read Medium articles with AINo Results.md"
+              }
             }
           }
         ]
@@ -176,8 +193,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62863784a8b49b67",
+  "active": "7640cc6c5502fbe9",
   "lastOpenFiles": [
+    "topics/Concept/Impact de l'IA sur la création artistique.md",
+    "topics/Library/Ice.md",
+    "contents/Scientific article/A Decade of Knowledge Graphs in Natural Language Processing: A Survey.md",
+    "topics/Concept/Retrieval-Augmented Generation (RAG).md",
+    "contents/Scientific article/Retrieval-Augmented Generation for Large Language Models: A Survey.md",
+    "contents/Scientific article/Attention Is All You Need.md",
+    "contents/Blog post/A Failed AI Girlfriend Product, and My Lessons.md",
+    "contents/Course/Introduction to LangGraph.md",
+    "topics/Concept/Human-in-the-Loop.md",
+    "topics/Concept/State and Memory Management.md",
+    "topics/Concept/Agentic Workflows.md",
+    "topics/Platform/LangGraph Cloud.md",
+    "topics/Library/LangGraph.md",
     "status.md",
     "contents/Scientific article/GameNGen: Real-Time Game Engine with Diffusion Models.md",
     "topics/Concept/Auto-regressive Generation.md",
@@ -185,7 +215,6 @@
     "topics/Model/Diffusion Models.md",
     "topics/Platform/GameNGen.md",
     "artefacts/2408.14837",
-    "contents/Scientific article/Attention Is All You Need.md",
     "contents/Repository/LitServe: Lightning-fast Serving Engine for AI Models.md",
     "topics/Concept/Batching.md",
     "topics/Concept/GPU Autoscaling.md",
@@ -193,18 +222,6 @@
     "topics/Concept/API.md",
     "topics/Library/LitServe.md",
     "contents/Documentation/DataFrames at Scale Comparison: TPC-H.md",
-    "topics/Library/DuckDB.md",
-    "topics/Library/Spark.md",
-    "topics/Library/Dask.md",
-    "topics/Concept/TPC-H Benchmark.md",
-    "contents/Scientific article/A Decade of Knowledge Graphs in Natural Language Processing: A Survey.md",
-    "contents/Blog post/Read Medium articles with AINo Results.md",
-    "topics/Library/Transformers with Reinforcement Learning.md",
-    "contents/Blog post/MLStack.Cafe - Kill Your Next Machine Learning & Data Science Interview.md",
-    "contents/Product main page/Zed - Next-Gen Code Editor.md",
-    "contents/Documentation/Common Plots for Economists.md",
-    "topics/Concept/Data Structures and Graph Structures.md",
-    "topics/Concept/Retrieval-Augmented Generation (RAG).md",
     "artefacts/rules_of_ml.pdf",
     "artefacts/2205.02302.pdf",
     "contents/Book",
