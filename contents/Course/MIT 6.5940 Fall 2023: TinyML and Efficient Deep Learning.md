@@ -35,5 +35,5 @@ Students will engage in hands-on labs, including tasks like LLM deployment and m
 - [[topics/Concept/Efficient AI Computing]]
 - [[topics/Concept/Model Compression]]
 - [[topics/Concept/Neural Architecture Search]]
-- [[topics/Concept/Distributed Training]]
+- [[topics/Concept/Distributed Computing and Training]]
 - [[topics/Concept/Fine-Tuning Techniques]]
