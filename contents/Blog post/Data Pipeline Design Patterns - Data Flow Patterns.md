@@ -40,7 +40,7 @@ Overall, the article provides a comprehensive overview of data pipeline design p
 5. [Medallion architecture from Databricks](https://docs.databricks.com/lakehouse/medallion.html) - A structured approach to organizing data in a lakehouse architecture for better data management.
 ## Topics
 
-- [[topics/Concept/Data Pipeline Design Patterns]]
+- [[topics/Concept/Data Pipeline]]
 - [[topics/Concept/Source & Sink]]
 - [[topics/Concept/Extraction Patterns]]
 - [[topics/Concept/Behavioral Patterns]]

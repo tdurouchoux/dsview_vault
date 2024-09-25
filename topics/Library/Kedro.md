@@ -1,6 +1,6 @@
 ---
-date: '2023-09-14'
+date: '2024-09-25'
 type: Library
 ---
 
-An open-source framework designed for building production-ready data science code, incorporating software engineering best practices.
+A framework for building reproducible, maintainable, and modular data pipelines in Python, designed for creating production-ready data science code while incorporating software engineering best practices.
