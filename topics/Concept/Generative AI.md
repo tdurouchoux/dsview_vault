@@ -1,6 +1,6 @@
 ---
-date: '2022-10-13'
+date: '2024-09-25'
 type: Concept
 ---
 
-Applications of AI focused on generating content, including video, text, and coding.
+Intelligent systems and applications focused on generating content, including video, text, and coding, using generative AI techniques.
