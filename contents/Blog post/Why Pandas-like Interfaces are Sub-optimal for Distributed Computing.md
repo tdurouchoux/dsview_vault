@@ -28,6 +28,6 @@ no links
 
 - [[topics/Concept/Pandas-like Interfaces]]
 - [[topics/Concept/Distributed Computing and Training]]
-- [[topics/Concept/Data Processing Efficiency]]
+- [[topics/Concept/Data Processing]]
 - [[topics/Concept/Scalability Issues]]
 - [[topics/Concept/Data Parallelism]]
