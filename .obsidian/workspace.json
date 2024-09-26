@@ -18,55 +18,32 @@
             }
           },
           {
-            "id": "83e68833f4b6b0bd",
+            "id": "b222b5ce279e2213",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contents/Scientific article/A Decade of Knowledge Graphs in Natural Language Processing: A Survey.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f50db89165f9a388",
+        "type": "tabs",
+        "children": [
           {
-            "id": "7640cc6c5502fbe9",
+            "id": "880b521eb493ce0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contents/Blog post/Read Medium articles with AINo Results.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05f4f752279344e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "topics/Concept/Impact de l'IA sur la création artistique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d872298fcf070c2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "topics/Library/Ice.md",
+                "file": "contents/Course/Large Language Models Course.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Data_Engineering  ",
+                "query": "tag:#Natural_Language_Processing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -132,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contents/Blog post/Read Medium articles with AINo Results.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contents/Blog post/Read Medium articles with AINo Results.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "contents/Blog post/Read Medium articles with AINo Results.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -193,35 +167,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7640cc6c5502fbe9",
+  "active": "4261d11a021f3457",
   "lastOpenFiles": [
-    "topics/Concept/Impact de l'IA sur la création artistique.md",
-    "topics/Library/Ice.md",
-    "contents/Scientific article/A Decade of Knowledge Graphs in Natural Language Processing: A Survey.md",
+    "contents/Course/Large Language Models Course.md",
     "topics/Concept/Retrieval-Augmented Generation (RAG).md",
-    "contents/Scientific article/Retrieval-Augmented Generation for Large Language Models: A Survey.md",
-    "contents/Scientific article/Attention Is All You Need.md",
-    "contents/Blog post/A Failed AI Girlfriend Product, and My Lessons.md",
-    "contents/Course/Introduction to LangGraph.md",
-    "topics/Concept/Human-in-the-Loop.md",
-    "topics/Concept/State and Memory Management.md",
-    "topics/Concept/Agentic Workflows.md",
-    "topics/Platform/LangGraph Cloud.md",
-    "topics/Library/LangGraph.md",
-    "status.md",
-    "contents/Scientific article/GameNGen: Real-Time Game Engine with Diffusion Models.md",
-    "topics/Concept/Auto-regressive Generation.md",
-    "topics/Concept/Interactive Data Simulation.md",
-    "topics/Model/Diffusion Models.md",
-    "topics/Platform/GameNGen.md",
+    "topics/Platform/PyPI.md",
+    "topics/Platform/LlamaCloud.md",
+    "topics/Library/thepipe.md",
+    "topics/Library/styler.md",
+    "topics/Library/precommit.md",
+    "topics/Library/lintr.md",
+    "topics/Library/dbt.md",
+    "topics/Library/Rio.md",
+    "topics/Library/LlamaParse.md",
+    "topics/Library/Ibis.md",
+    "topics/Library/Fugue.md",
+    "topics/Concept/Vision-language models.md",
+    "topics/Concept/Structured data extraction.md",
+    "topics/Concept/Scalability Issues.md",
+    "topics/Concept/SQL.md",
+    "topics/Concept/RAG.md",
+    "topics/Concept/Pandas-like Interfaces.md",
+    "topics/Concept/Multimodal Processing.md",
+    "topics/Concept/Markdown extraction.md",
+    "topics/Concept/FugueSQL.md",
+    "topics/Concept/Filetype detection.md",
+    "topics/Concept/Distributed Computing and Training.md",
+    "topics/Concept/Declarative UI.md",
+    "topics/Concept/Data Processing Efficiency.md",
     "artefacts/2408.14837",
-    "contents/Repository/LitServe: Lightning-fast Serving Engine for AI Models.md",
-    "topics/Concept/Batching.md",
-    "topics/Concept/GPU Autoscaling.md",
-    "topics/Concept/Serving.md",
-    "topics/Concept/API.md",
-    "topics/Library/LitServe.md",
-    "contents/Documentation/DataFrames at Scale Comparison: TPC-H.md",
     "artefacts/rules_of_ml.pdf",
     "artefacts/2205.02302.pdf",
     "contents/Book",
