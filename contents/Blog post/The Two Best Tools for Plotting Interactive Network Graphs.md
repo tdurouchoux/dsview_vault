@@ -26,5 +26,5 @@ Overall, the content emphasizes the importance of these tools in enhancing data 
 no links
 ## Topics
 
-- [[topics/Library/D3.js]]
+- [[topics/Library/D3]]
 - [[topics/Library/Plotly and Plotly Dash]]
