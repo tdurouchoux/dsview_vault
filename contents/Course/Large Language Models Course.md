@@ -2,9 +2,9 @@
 already_read: false
 link: https://github.com/mlabonne/llm-course
 read_priority: 5
-source: 
+source: null
 tags:
-  - Large_Language_Model
+- Large_Language_Model
 type: Content
 upload_date: 2024-01-04
 ---

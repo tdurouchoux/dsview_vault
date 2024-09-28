@@ -42,4 +42,4 @@ The course aims to foster a deep understanding of Transformers and their applica
 - [[topics/Concept/Large Language Models]]
 - [[topics/Concept/Reinforcement Learning Techniques]]
 - [[topics/Library/Hugging Face]]
-- [[topics/Concept/Multimodal Processing]]
+- [[topics/Concept/Multimodal AI and Processing]]

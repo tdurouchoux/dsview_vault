@@ -31,6 +31,6 @@ LlamaParse integrates with LlamaIndex and offers a free plan for up to 1000 page
 
 - [[topics/Library/LlamaParse]]
 - [[topics/Concept/RAG]]
-- [[topics/Concept/Multimodal Processing]]
+- [[topics/Concept/Multimodal AI and Processing]]
 - [[topics/Concept/Custom Parsing]]
 - [[topics/Platform/LlamaCloud]]
