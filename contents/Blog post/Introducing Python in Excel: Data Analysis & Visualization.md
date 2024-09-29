@@ -38,4 +38,4 @@ Overall, Python in Excel aims to enhance data analysis workflows by combining th
 - [[topics/Platform/Python in Excel]]
 - [[topics/Concept/Data Analysis]]
 - [[topics/Concept/Data Visualization]]
-- [[topics/Concept/Collaboration Tools]]
+- [[topics/Concept/Collaboration and Collaboration Tools]]
