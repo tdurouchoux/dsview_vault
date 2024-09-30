@@ -1,6 +1,6 @@
 ---
-date: '2023-01-19'
+date: '2024-09-30'
 type: Concept
 ---
 
-Model evaluation involves assessing the performance and capabilities of machine learning models, often through systematic testing and analysis.
+A process for assessing the performance of machine learning models, including large language models, which may involve metrics, evaluation data, and systematic testing and analysis.
