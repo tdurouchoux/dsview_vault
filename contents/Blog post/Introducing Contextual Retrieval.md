@@ -38,6 +38,6 @@ The article encourages developers to experiment with these techniques to improve
 
 - [[topics/Concept/Contextual Retrieval]]
 - [[topics/Concept/Retrieval-Augmented Generation (RAG)]]
-- [[topics/Concept/Contextual Embeddings]]
+- [[topics/Concept/Embeddings]]
 - [[topics/Concept/BM25]]
 - [[topics/Concept/Reranking]]
