@@ -25,7 +25,7 @@ Evaluation of RAG models involves independent and end-to-end methods, focusing o
 Overall, RAG represents a significant advancement in improving LLM performance by effectively integrating retrieval mechanisms, thereby addressing inherent limitations of traditional LLMs.
 ## Topics
 
-- [[topics/Concept/Retrieval-Augmented Generation (RAG)]]
+- [[topics/Concept/Retrieval Augmented Generation (RAG)]]
 - [[topics/Concept/Naive RAG]]
 - [[topics/Concept/Advanced RAG]]
 - [[topics/Concept/Modular Architecture and RAG]]

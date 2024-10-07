@@ -35,4 +35,4 @@ Installation is straightforward via pip, and users must authenticate with model 
 - [[topics/Library/LangChain]]
 - [[topics/Concept/Magic Commands]]
 - [[topics/Concept/Jupyternaut]]
-- [[topics/Concept/Retrieval-Augmented Generation (RAG)]]
+- [[topics/Concept/Retrieval Augmented Generation (RAG)]]
