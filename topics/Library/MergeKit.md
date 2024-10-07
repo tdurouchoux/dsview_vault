@@ -1,6 +1,6 @@
 ---
-date: '2024-01-04'
+date: '2024-10-08'
 type: Library
 ---
 
-A tool for easily merging models without requiring GPU resources.
+A library designed for merging pre-trained language models with support for various merging algorithms and configurations, while also enabling easy model merging without the need for GPU resources.
