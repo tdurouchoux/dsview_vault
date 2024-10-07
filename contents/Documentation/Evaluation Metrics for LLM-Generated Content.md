@@ -46,7 +46,7 @@ The content also mentions implementations like Azure Machine Learning prompt flo
 ## Topics
 
 - [[topics/Concept/Evaluation Metrics and Strategies]]
-- [[topics/Library/OpenAI Evals]]
+- [[topics/Library/OpenAI Tools]]
 - [[topics/Concept/Reference-based Metrics]]
 - [[topics/Concept/Reference-free Metrics]]
 - [[topics/Concept/LLM-based Evaluators]]
