@@ -1,6 +1,6 @@
 ---
-date: '2024-09-25'
+date: '2024-10-08'
 type: Concept
 ---
 
-None
+The process of consolidating data from various sources into a single, unified dataset for analysis.
