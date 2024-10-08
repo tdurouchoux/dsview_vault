@@ -25,5 +25,5 @@ The development of MusicLM involved collaboration with musicians to gather insig
 - [[topics/Model/MusicLM]]
 - [[topics/Platform/AI Test Kitchen]]
 - [[topics/Concept/Text-to-Music Generation]]
-- [[topics/Concept/User Feedback in AI Development]]
+- [[topics/Concept/User Feedback Loop in AI Development]]
 - [[topics/Concept/Collaboration with Musicians]]

@@ -32,6 +32,6 @@ Overall, the piece highlights that successful data integration is a complex, hum
 
 - [[topics/Concept/Data Integration]]
 - [[topics/Concept/Digital Transformation]]
-- [[topics/Concept/Data Cleaning]]
+- [[topics/Concept/Data Quality Improvement]]
 - [[topics/Platform/Palantir Technologies]]
 - [[topics/Concept/Data Access Negotiation]]
