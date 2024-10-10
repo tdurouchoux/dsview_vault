@@ -16,14 +16,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "b222b5ce279e2213",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       },
@@ -32,14 +24,90 @@
         "type": "tabs",
         "children": [
           {
-            "id": "880b521eb493ce0f",
+            "id": "481184457475873d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contents/Course/Large Language Models Course.md",
+                "file": "contents/Blog post/Prompt Engineering 101: Introduction and resources.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0a0b40fb32d6adac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7d848f7f824f4b8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "[\"type\":\"content\"]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "[\"type\":\"Library\"]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
+                      }
+                    },
+                    {
+                      "query": "[\"type\":\"Model\"]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6079191
+                      }
+                    },
+                    {
+                      "query": "[\"type\":\"Platform\"]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6054102
+                      }
+                    },
+                    {
+                      "query": "[\"type\":\"Concept\"]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13333975
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.309814453125,
+                  "repelStrength": 8.61328125,
+                  "linkStrength": 0.79296875,
+                  "linkDistance": 35,
+                  "scale": 0.6621766869700474,
+                  "close": false
+                }
               }
             }
           }
@@ -169,6 +237,14 @@
   },
   "active": "4261d11a021f3457",
   "lastOpenFiles": [
+    "contents/Blog post/Prompt Engineering 101: Introduction and resources.md",
+    "contents/Blog post/LLM From the Trenches: Lessons at GoDaddy.md",
+    "topics/Concept/Retrieval Augmented Generation (RAG).md",
+    "contents/Repository/LlamaParse: Document Parser for RAG.md",
+    "topics/Library/ExLlamaV2 and Llama2.md",
+    "contents/Blog post/Understanding Shapley Values in AI.md",
+    "contents/Documentation/Haystack: Open Source AI Framework.md",
+    "topics/Library/Hugging Face.md",
     "contents/Course/Large Language Models Course.md",
     "topics/Concept/Retrieval-Augmented Generation (RAG).md",
     "topics/Platform/PyPI.md",
@@ -187,14 +263,6 @@
     "topics/Concept/Scalability Issues.md",
     "topics/Concept/SQL.md",
     "topics/Concept/RAG.md",
-    "topics/Concept/Pandas-like Interfaces.md",
-    "topics/Concept/Multimodal Processing.md",
-    "topics/Concept/Markdown extraction.md",
-    "topics/Concept/FugueSQL.md",
-    "topics/Concept/Filetype detection.md",
-    "topics/Concept/Distributed Computing and Training.md",
-    "topics/Concept/Declarative UI.md",
-    "topics/Concept/Data Processing Efficiency.md",
     "artefacts/2408.14837",
     "artefacts/rules_of_ml.pdf",
     "artefacts/2205.02302.pdf",
