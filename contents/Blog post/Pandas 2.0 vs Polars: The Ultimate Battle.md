@@ -32,5 +32,5 @@ Overall, the choice between Pandas 2.0 and Polars depends on specific project re
 no links
 ## Topics
 
-- [[topics/Library/pandas]]
+- [[topics/Library/Pandas]]
 - [[topics/Library/Polars]]

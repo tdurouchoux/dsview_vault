@@ -31,6 +31,6 @@ no links
 
 - [[topics/Library/DVC]]
 - [[topics/Library/BeeWare]]
-- [[topics/Library/pandas]]
+- [[topics/Library/Pandas]]
 - [[topics/Library/Flask]]
 - [[topics/Library/ReportLab]]

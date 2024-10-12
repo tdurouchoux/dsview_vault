@@ -25,7 +25,7 @@ Overall, while Pandas 2.0 has made strides, it does not yet match the performanc
 no links
 ## Topics
 
-- [[topics/Library/pandas]]
+- [[topics/Library/Pandas]]
 - [[topics/Library/Polars]]
 - [[topics/Library/Datatable]]
 - [[topics/Concept/DataFrame and Performance Comparison]]

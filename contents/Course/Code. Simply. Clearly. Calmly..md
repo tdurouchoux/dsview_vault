@@ -31,5 +31,5 @@ no links
 - [[topics/Library/fastapi]]
 - [[topics/Library/pytest]]
 - [[topics/Library/Streamlit]]
-- [[topics/Library/pandas]]
+- [[topics/Library/Pandas]]
 - [[topics/Library/Matplotlib]]

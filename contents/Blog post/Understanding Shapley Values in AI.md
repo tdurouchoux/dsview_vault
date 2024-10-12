@@ -37,5 +37,5 @@ Key points include:
 - [[topics/Concept/Shapley Values]]
 - [[topics/Concept/SHAP and Feature Importance]]
 - [[topics/Library/scikit-learn]]
-- [[topics/Library/pandas]]
+- [[topics/Library/Pandas]]
 - [[topics/Library/Plotly]]
