@@ -19,5 +19,5 @@ no links
 - [[topics/Concept/Data Science Books]]
 - [[topics/Concept/Machine Learning Books]]
 - [[topics/Concept/Reading Recommendations]]
-- [[topics/Concept/Educational Resources]]
+- [[topics/Concept/Educational Content and Resources]]
 - [[topics/Concept/2023 Trends in Data Science Literature]]

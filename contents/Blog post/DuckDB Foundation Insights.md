@@ -30,4 +30,4 @@ The author draws parallels with PostgreSQL, suggesting that DuckDB could see sim
 - [[topics/Concept/DuckDB Foundation]]
 - [[topics/Concept/Open-source model]]
 - [[topics/Concept/Corporate structure in open-source]]
-- [[topics/Concept/Community feedback integration]]
+- [[topics/Concept/Community engagement and feedback integration]]
