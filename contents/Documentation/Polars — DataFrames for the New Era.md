@@ -43,6 +43,6 @@ Overall, Polars is positioned as a powerful alternative to pandas, particularly 
 
 - [[topics/Library/Polars]]
 - [[topics/Concept/Multi-threaded query engine]]
-- [[topics/Concept/Vectorized processing]]
+- [[topics/Concept/Vectorized Data Processing]]
 - [[topics/Concept/Apache Arrow]]
 - [[topics/Concept/Out of core processing]]
