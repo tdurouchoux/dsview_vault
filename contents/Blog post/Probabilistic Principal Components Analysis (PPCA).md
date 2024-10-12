@@ -31,7 +31,7 @@ Key takeaways include:
 3. [PPCA Test Implementation](https://github.com/nstew296/ppca/blob/main/test_ppca.py) - A specific Python script from the PPCA GitHub repository that tests the implementation of the EM algorithm for PPCA.
 ## Topics
 
-- [[topics/Concept/Probabilistic Principal Components Analysis (PPCA)]]
+- [[topics/Concept/Principal Components Analysis (PCA)]]
 - [[topics/Concept/Latent Variables and Spaces]]
 - [[topics/Concept/EM Algorithm]]
 - [[topics/Concept/Missing Values]]
