@@ -1,6 +1,6 @@
 ---
-date: '2024-04-10'
+date: '2024-10-15'
 type: Library
 ---
 
-An open-source Python package for creating web applications that showcase machine learning models or Python functions, with various input/output components.
+An open-source library for building user interfaces and web applications that showcase machine learning models or Python functions, featuring various input/output components.

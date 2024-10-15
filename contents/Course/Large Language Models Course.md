@@ -33,4 +33,4 @@ The course includes hands-on Colab notebooks and resources for further learning,
 - [[topics/Library/MergeKit]]
 - [[topics/Library/Axolotl]]
 - [[topics/Library/ExLlamaV2 and Llama2]]
-- [[topics/Concept/Retrieval Augmented Generation (RAG)]]
+- [[topics/Concept/Retrieval-Augmented Generation (RAG)]]

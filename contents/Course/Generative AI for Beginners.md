@@ -42,4 +42,4 @@ Each lesson includes video introductions, written content, code samples, and add
 - [[topics/Library/Azure OpenAI Service]]
 - [[topics/Library/OpenAI Tools]]
 - [[topics/Concept/Prompt Engineering]]
-- [[topics/Concept/Retrieval Augmented Generation (RAG)]]
+- [[topics/Concept/Retrieval-Augmented Generation (RAG)]]

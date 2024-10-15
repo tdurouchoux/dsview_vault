@@ -37,7 +37,7 @@ The article encourages developers to experiment with these techniques to improve
 ## Topics
 
 - [[topics/Concept/Contextual Retrieval]]
-- [[topics/Concept/Retrieval Augmented Generation (RAG)]]
+- [[topics/Concept/Retrieval-Augmented Generation (RAG)]]
 - [[topics/Concept/Embeddings]]
 - [[topics/Concept/BM25]]
 - [[topics/Concept/Reranking]]

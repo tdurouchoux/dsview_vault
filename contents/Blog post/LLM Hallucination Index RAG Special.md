@@ -42,7 +42,7 @@ Overall, the report emphasizes the importance of context length in model perform
 ## Topics
 
 - [[topics/Concept/Hallucination Index]]
-- [[topics/Concept/Retrieval Augmented Generation (RAG)]]
+- [[topics/Concept/Retrieval-Augmented Generation (RAG)]]
 - [[topics/Model/Claude 3.5 Sonnet]]
 - [[topics/Model/Gemini]]
 - [[topics/Model/Qwen2-72B-Instruct]]
