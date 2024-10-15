@@ -32,7 +32,7 @@ Key takeaways include the exploration of various techniques and applications of 
 ## Topics
 
 - [[topics/Library/DataDreamer]]
-- [[topics/Library/AgentInstruct]]
+- [[topics/Concept/Agent and AgentInstruct]]
 - [[topics/Library/Distilabel]]
 - [[topics/Library/Fuxion]]
 - [[topics/Concept/Synthetic Data Generation]]

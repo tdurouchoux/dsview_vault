@@ -47,4 +47,4 @@ Overall, the paper advocates for leveraging generative AI to improve the efficie
 - [[topics/Concept/Human-centered design principles]]
 - [[topics/Library/LIDA]]
 - [[topics/Library/Data Formulator]]
-- [[topics/Concept/Multi-agent systems]]
+- [[topics/Concept/Multi-agent orchestration and systems]]

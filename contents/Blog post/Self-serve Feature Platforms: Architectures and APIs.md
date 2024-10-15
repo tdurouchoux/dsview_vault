@@ -32,4 +32,4 @@ The conclusion stresses that while building a feature platform can be resource-i
 - [[topics/Library/Feathr]]
 - [[topics/Concept/Feature Store]]
 - [[topics/Concept/Feature API]]
-- [[topics/Concept/Streaming Features]]
+- [[topics/Concept/Streaming and Streaming Features]]
