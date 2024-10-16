@@ -39,6 +39,6 @@ no links
 
 - [[topics/Concept/Descriptive Statistics]]
 - [[topics/Concept/Inferential Statistics]]
-- [[topics/Concept/Regression Analysis]]
+- [[topics/Concept/Regression]]
 - [[topics/Concept/Data Sampling]]
 - [[topics/Concept/Feature Selection]]
