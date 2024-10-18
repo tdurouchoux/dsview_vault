@@ -32,6 +32,6 @@ Future work will focus on improving dataset quality and expanding open-source tr
 ## Topics
 
 - [[topics/Library/DataTrove]]
-- [[topics/Library/Hugging Face]]
+- [[topics/Platform/Hugging Face]]
 - [[topics/Library/datasets]]
 - [[topics/Concept/Data Processing]]

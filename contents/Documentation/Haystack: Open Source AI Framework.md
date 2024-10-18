@@ -37,6 +37,6 @@ Haystack encourages community engagement through platforms like Discord and host
 
 - [[topics/Library/Haystack]]
 - [[topics/Concept/Retrieval-Augmented Generation (RAG)]]
-- [[topics/Concept/Multi-modal AI and Processing]]
+- [[topics/Concept/Multimodal AI and Processing]]
 - [[topics/Concept/Conversational Data Analysis and AI]]
 - [[topics/Concept/Agentic Pipelines]]

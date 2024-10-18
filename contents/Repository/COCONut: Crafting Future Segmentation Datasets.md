@@ -31,6 +31,6 @@ For those interested in utilizing the dataset, instructions for downloading anno
 ## Topics
 
 - [[topics/Platform/Kaggle]]
-- [[topics/Library/Hugging Face]]
+- [[topics/Platform/Hugging Face]]
 - [[topics/Concept/Segmentation]]
 - [[topics/Concept/Instance Segmentation]]

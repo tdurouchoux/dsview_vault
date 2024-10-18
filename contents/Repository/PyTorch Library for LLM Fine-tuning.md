@@ -33,8 +33,8 @@ Community contributions are encouraged, and the library is open-source under the
 5. [torchao](https://github.com/pytorch-labs/ao) - A library for advanced optimization techniques in PyTorch, including quantization methods.
 ## Topics
 
-- [[topics/Library/torchtune]]
+- [[topics/Library/Torchtune]]
 - [[topics/Model/Llama 3]]
 - [[topics/Library/ExLlamaV2 and Llama2]]
 - [[topics/Concept/Fine-tuning]]
-- [[topics/Library/Hugging Face]]
+- [[topics/Platform/Hugging Face]]

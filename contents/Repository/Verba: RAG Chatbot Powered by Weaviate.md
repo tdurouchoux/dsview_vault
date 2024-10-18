@@ -36,4 +36,4 @@ To get started, users can install Verba via pip, build from source, or deploy us
 - [[topics/Concept/Retrieval-Augmented Generation (RAG)]]
 - [[topics/Platform/Weaviate]]
 - [[topics/Library/Ollama]]
-- [[topics/Library/Hugging Face]]
+- [[topics/Platform/Hugging Face]]

@@ -37,4 +37,4 @@ Licensing details include Creative Commons licenses for base and fine-tuned mode
 - [[topics/Model/StableLM-3B-4E1T]]
 - [[topics/Model/StableLM-Alpha v2]]
 - [[topics/Concept/Diffusion and Stable Diffusion]]
-- [[topics/Library/Hugging Face]]
+- [[topics/Platform/Hugging Face]]

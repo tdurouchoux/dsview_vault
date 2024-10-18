@@ -41,5 +41,5 @@ The course aims to foster a deep understanding of Transformers and their applica
 - [[topics/Library/Transformers with Reinforcement Learning]]
 - [[topics/Concept/Large Language Models]]
 - [[topics/Concept/Reinforcement Learning Techniques]]
-- [[topics/Library/Hugging Face]]
-- [[topics/Concept/Multi-modal AI and Processing]]
+- [[topics/Platform/Hugging Face]]
+- [[topics/Concept/Multimodal AI and Processing]]

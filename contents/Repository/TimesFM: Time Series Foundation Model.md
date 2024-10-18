@@ -31,7 +31,7 @@ The model focuses on point forecasts and does not support probabilistic forecast
 ## Topics
 
 - [[topics/Model/TimesFM]]
-- [[topics/Library/Hugging Face]]
+- [[topics/Platform/Hugging Face]]
 - [[topics/Concept/Covariates Support]]
 - [[topics/Concept/Fine-tuning]]
 - [[topics/Concept/Installation Methods]]
