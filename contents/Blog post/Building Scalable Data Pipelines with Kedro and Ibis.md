@@ -35,5 +35,5 @@ Overall, the integration of Ibis into Kedro workflows is presented as a solution
 - [[topics/Library/Kedro]]
 - [[topics/Library/Ibis]]
 - [[topics/Concept/Data Pipeline]]
-- [[topics/Concept/SQL]]
+- [[topics/Library/SQL and SQLMesh]]
 - [[topics/Library/dbt]]

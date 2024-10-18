@@ -36,7 +36,7 @@ For further exploration, users can access the demo, GitHub repository, and commu
 ## Topics
 
 - [[topics/Library/DocETL]]
-- [[topics/Concept/Declarative Operators]]
+- [[topics/Concept/Declarative Data Tools]]
 - [[topics/Concept/User-Defined Pipelines]]
 - [[topics/Concept/Agent-Based Optimization]]
 - [[topics/Concept/Iterative Refinement]]
