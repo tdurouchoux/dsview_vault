@@ -1,6 +1,6 @@
 ---
-date: '2024-07-03'
+date: '2024-10-23'
 type: Model
 ---
 
-Upcoming model in the Claude 3.5 family, expected to enhance capabilities further.
+A new AI model in the Claude 3.5 family that offers state-of-the-art performance in coding tasks, with a focus on affordability and speed, while also expected to enhance capabilities further.
