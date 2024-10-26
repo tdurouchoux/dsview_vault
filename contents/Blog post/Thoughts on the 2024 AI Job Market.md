@@ -39,5 +39,5 @@ The author shares personal insights on joining Cohere, emphasizing the importanc
 - [[topics/Concept/AI Job Market Trends]]
 - [[topics/Concept/Applied Research]]
 - [[topics/Concept/General-purpose and Generative AI]]
-- [[topics/Library/Cohere]]
+- [[topics/Platform/Cohere]]
 - [[topics/Concept/Research Collaboration]]

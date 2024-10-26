@@ -41,6 +41,6 @@ The project encourages collaboration from researchers and audio experts to advan
 ## Topics
 
 - [[topics/Model/Ichigo]]
-- [[topics/Concept/Multimodal AI and Processing]]
+- [[topics/Concept/Multimodal AI]]
 - [[topics/Library/Torchtune]]
 - [[topics/Platform/Hugging Face]]
