@@ -31,6 +31,6 @@ The course materials are designed to be hands-on, with a focus on real-world app
 
 - [[topics/Concept/Machine Learning Systems Design]]
 - [[topics/Library/Designing Machine Learning Systems]]
-- [[topics/Concept/Stakeholder Management in Data Science]]
+- [[topics/Concept/Stakeholder and Project Management in Data Science]]
 - [[topics/Concept/Privacy, Fairness, and Security in ML]]
 - [[topics/Concept/Iterative Framework for ML Development]]

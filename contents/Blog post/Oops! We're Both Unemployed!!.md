@@ -31,6 +31,6 @@ no links
 
 - [[topics/Concept/Data Science Career Development]]
 - [[topics/Concept/Data Science Subfields]]
-- [[topics/Concept/Stakeholder Management in Data Science]]
+- [[topics/Concept/Stakeholder and Project Management in Data Science]]
 - [[topics/Concept/Job Search Strategies]]
 - [[topics/Concept/Portfolio Development]]
