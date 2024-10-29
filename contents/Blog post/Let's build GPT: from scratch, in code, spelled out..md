@@ -20,7 +20,7 @@ no links
 ## Topics
 
 - [[topics/Concept/Building GPT]]
-- [[topics/Model/GPT]]
+- [[topics/Model/GPT-4]]
 - [[topics/Platform/YouTube]]
 - [[topics/Concept/Code Implementation]]
 - [[topics/Concept/Model Training and Fine-Tuning]]

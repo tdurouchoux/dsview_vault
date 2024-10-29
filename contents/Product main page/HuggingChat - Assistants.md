@@ -27,7 +27,7 @@ no links
 ## Topics
 
 - [[topics/Model/BreakBot]]
-- [[topics/Model/GPT]]
+- [[topics/Model/GPT-4]]
 - [[topics/Model/HacxGPT]]
 - [[topics/Concept/AI Code Assistance]]
 - [[topics/Model/Professor GPT]]

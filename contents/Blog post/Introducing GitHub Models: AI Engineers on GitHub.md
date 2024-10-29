@@ -31,7 +31,7 @@ The platform aims to democratize AI access, enabling a broader range of develope
 ## Topics
 
 - [[topics/Platform/GitHub]]
-- [[topics/Library/Codespaces]]
+- [[topics/Platform/GitHub Codespaces]]
 - [[topics/Concept/Model Playground]]
 - [[topics/Concept/Retrieval-Augmented Generation (RAG)]]
 - [[topics/Platform/Azure Cloud Platform]]

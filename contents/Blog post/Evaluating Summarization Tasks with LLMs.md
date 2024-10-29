@@ -48,4 +48,4 @@ Overall, the content emphasizes the need for improved evaluation methods in summ
 - [[topics/Library/ROUGE]]
 - [[topics/Library/BERTScore]]
 - [[topics/Model/G-Eval]]
-- [[topics/Model/GPT]]
+- [[topics/Model/GPT-4]]
