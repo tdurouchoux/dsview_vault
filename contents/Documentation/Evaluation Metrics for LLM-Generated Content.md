@@ -2,7 +2,7 @@
 already_read: true
 link: https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/evaluation/list-of-eval-metrics
 read_priority: 1
-source: me
+source: Me
 tags:
 - Natural_Language_Processing
 - Model_evaluation
@@ -40,13 +40,13 @@ The content also mentions implementations like Azure Machine Learning prompt flo
 
 1. [BLEU (Bilingual Evaluation Understudy)](https://aclanthology.org/P02-1040.pdf) - A widely used metric for evaluating the quality of machine-translated text, applicable to various text generation tasks.
 2. [ROUGE (Recall-Oriented Understudy for Gisting Evaluation)](https://aclanthology.org/W04-1013.pdf) - A set of metrics for evaluating the quality of generated text, particularly in summarization tasks, focusing on recall.
-3. [BERTScore](https://github.com/Tiiiger/bert_score) - A metric that uses contextualized embeddings to measure the similarity between two texts, providing a more nuanced evaluation than traditional metrics.
+3. [BERTScore](https://github.com/Tiiiger/bert_score) - A metric that uses contextualized embeddings to measure the similarity between two texts, providing insights into semantic similarity.
 4. [MoverScore](http://tiny.cc/vsqtbz) - A metric that evaluates the quality of generated text by measuring the distance between word embeddings, focusing on semantic similarity.
-5. [RAGAS](https://github.com/explodinggradients/ragas/blob/main/src/ragas/metrics/_faithfulness.py) - An evaluation framework for Retrieval-Augmented Generation pipelines, providing metrics for assessing both retrieval and generation models.
+5. [RAGAS](https://github.com/explodinggradients/ragas/blob/main/src/ragas/metrics/_faithfulness.py) - An evaluation framework for Retrieval-Augmented Generation pipelines, providing metrics for assessing the performance of retrieval and generation models.
 ## Topics
 
 - [[topics/Concept/Evaluation Metrics for RAG Systems]]
-- [[topics/Library/OpenAI Evaluation Tools]]
-- [[topics/Library/Azure Machine Learning prompt flow]]
-- [[topics/Concept/Reference-based Metrics]]
-- [[topics/Concept/Reference-free Metrics]]
+- [[topics/Library/OpenAI Evaluation Framework]]
+- [[topics/Platform/Azure Machine Learning]]
+- [[topics/Concept/Text Evaluation Metrics]]
+- [[topics/Concept/Text Evaluation Metrics]]

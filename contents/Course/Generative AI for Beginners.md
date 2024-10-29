@@ -40,6 +40,6 @@ Each lesson includes video introductions, written content, code samples, and add
 
 - [[topics/Concept/Generative AI]]
 - [[topics/Library/Azure OpenAI Service]]
-- [[topics/Library/OpenAI Evaluation Tools]]
+- [[topics/Library/OpenAI Evaluation Framework]]
 - [[topics/Concept/Prompt Engineering]]
 - [[topics/Concept/Retrieval-Augmented Generation (RAG)]]
