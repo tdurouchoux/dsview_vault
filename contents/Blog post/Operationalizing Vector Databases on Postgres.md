@@ -32,7 +32,7 @@ Future improvements for pg_vectorize and the VectorDB Stack are planned, includi
 5. [Detailed Guide for VectorDB](https://tembo.io/docs/product/stacks/ai/vectordb/getting-started) - A comprehensive guide to getting started with VectorDB and pg_vectorize.
 ## Topics
 
-- [[topics/Library/pg_vectorize]]
+- [[topics/Library/pgvector and pg_vectorize]]
 - [[topics/Model/all-MiniLM-L6-v2]]
 - [[topics/Model/text-embedding-ada-002]]
 - [[topics/Platform/Tembo Cloud]]

@@ -29,4 +29,4 @@ Overall, RAG represents a significant advancement in improving LLM performance b
 - [[topics/Concept/Naive RAG]]
 - [[topics/Concept/Advanced RAG]]
 - [[topics/Concept/Modular Architecture and RAG]]
-- [[topics/Concept/Evaluation Metrics for RAG Systems]]
+- [[topics/Concept/Evaluation Metrics]]

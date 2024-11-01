@@ -44,5 +44,5 @@ The article concludes with benchmarking results, highlighting the efficiency of 
 - [[topics/Library/DuckDB]]
 - [[topics/Library/Numba]]
 - [[topics/Concept/User-Defined Functions (UDFs)]]
-- [[topics/Concept/Vectorized Data Processing]]
+- [[topics/Concept/Vectorization Concepts]]
 - [[topics/Concept/Arrow Format]]

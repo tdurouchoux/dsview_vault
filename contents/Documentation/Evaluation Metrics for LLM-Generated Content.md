@@ -45,7 +45,7 @@ The content also mentions implementations like Azure Machine Learning prompt flo
 5. [RAGAS](https://github.com/explodinggradients/ragas/blob/main/src/ragas/metrics/_faithfulness.py) - An evaluation framework for Retrieval-Augmented Generation pipelines, providing metrics for assessing the performance of retrieval and generation models.
 ## Topics
 
-- [[topics/Concept/Evaluation Metrics for RAG Systems]]
+- [[topics/Concept/Evaluation Metrics]]
 - [[topics/Library/OpenAI Evaluation Framework]]
 - [[topics/Platform/Azure Machine Learning]]
 - [[topics/Concept/Text Evaluation Metrics]]
