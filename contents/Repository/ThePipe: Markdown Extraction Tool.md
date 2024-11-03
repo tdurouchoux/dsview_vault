@@ -38,4 +38,4 @@ Overall, thepipe streamlines the extraction of clean content for use in AI appli
 - [[topics/Concept/Markdown extraction]]
 - [[topics/Concept/Structured data extraction]]
 - [[topics/Concept/Filetype detection]]
-- [[topics/Concept/Vision-language models]]
+- [[topics/Concept/Vision-Language Models]]
