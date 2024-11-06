@@ -29,5 +29,5 @@ no links
 - [[topics/Concept/Pandas-like Interfaces]]
 - [[topics/Concept/Distributed Computing and Training]]
 - [[topics/Concept/Data Processing]]
-- [[topics/Concept/Scalability Issues]]
+- [[topics/Concept/Scalability Challenges and Issues]]
 - [[topics/Concept/Data Parallelism]]
