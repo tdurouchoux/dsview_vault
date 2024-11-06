@@ -37,4 +37,4 @@ Practical considerations suggest testing on small samples first and recognizing 
 - [[topics/Model/gpt-4o-mini]]
 - [[topics/Model/gpt-4o]]
 - [[topics/Concept/Unstructured to Structured Data Conversion]]
-- [[topics/Concept/Bulk Text Summarization]]
+- [[topics/Concept/Text Summarization]]
