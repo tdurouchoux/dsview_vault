@@ -36,4 +36,4 @@ The repository encourages contributions and provides guidelines for users to sha
 ## Topics
 
 - [[topics/Concept/Generative AI]]
-- [[topics/Concept/Retrieval-Augmented Generation (RAG)]]
+- [[topics/Concept/Retrieval-Augmented Generation]]

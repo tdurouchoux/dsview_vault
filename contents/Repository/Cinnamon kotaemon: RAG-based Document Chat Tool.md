@@ -33,7 +33,7 @@ Installation options include Docker and manual setup, with detailed instructions
 ## Topics
 
 - [[topics/Library/kotaemon]]
-- [[topics/Concept/Retrieval-Augmented Generation (RAG)]]
+- [[topics/Concept/Retrieval-Augmented Generation]]
 - [[topics/Library/Gradio]]
 - [[topics/Concept/Multimodal AI]]
 - [[topics/Concept/Document Indexing]]

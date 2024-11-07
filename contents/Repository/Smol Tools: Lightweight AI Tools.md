@@ -31,4 +31,4 @@ no links
 - [[topics/Model/SmolLM2-1.7B Instruct]]
 - [[topics/Concept/Text Summarization]]
 - [[topics/Concept/Text Rewriting]]
-- [[topics/Concept/AI Agent]]
+- [[topics/Concept/AI Agents]]

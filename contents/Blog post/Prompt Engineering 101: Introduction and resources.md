@@ -38,7 +38,7 @@ Overall, prompt engineering is positioned as a critical skill in leveraging gene
 ## Topics
 
 - [[topics/Concept/Prompt Engineering]]
-- [[topics/Concept/Prompt Elements]]
+- [[topics/Concept/Prompt Design Elements]]
 - [[topics/Library/Microsoft’s Prompt Engine]]
 - [[topics/Library/Ice]]
 - [[topics/Concept/Chain of Thought Prompting]]

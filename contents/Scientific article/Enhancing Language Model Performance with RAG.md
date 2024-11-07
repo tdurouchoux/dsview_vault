@@ -38,7 +38,7 @@ Overall, the study emphasizes the importance of embedding models, chunking strat
 5. [Chunk Visualizer](https://huggingface.co/spaces/m-ric/chunk_visualizer) - A tool for visualizing the chunking of text, aiding in understanding chunking techniques in NLP.
 ## Topics
 
-- [[topics/Concept/Retrieval-Augmented Generation (RAG)]]
+- [[topics/Concept/Retrieval-Augmented Generation]]
 - [[topics/Model/BGE]]
 - [[topics/Model/E5]]
 - [[topics/Model/Solon]]

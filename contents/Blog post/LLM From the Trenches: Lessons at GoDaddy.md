@@ -49,5 +49,5 @@ Overall, while LLMs offer significant potential for enhancing user experience, c
 - [[topics/Concept/Operationalizing LLMs]]
 - [[topics/Concept/Prompt Engineering]]
 - [[topics/Concept/Memory Management]]
-- [[topics/Concept/Retrieval-Augmented Generation (RAG)]]
+- [[topics/Concept/Retrieval-Augmented Generation]]
 - [[topics/Concept/Adaptive Model Selection]]

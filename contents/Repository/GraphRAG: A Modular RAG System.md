@@ -32,7 +32,7 @@ The system is open-source under the MIT license, with a strong community presenc
 ## Topics
 
 - [[topics/Library/GraphRAG]]
-- [[topics/Concept/Retrieval-Augmented Generation (RAG)]]
+- [[topics/Concept/Retrieval-Augmented Generation]]
 - [[topics/Concept/Knowledge Graphs]]
 - [[topics/Concept/Prompt Engineering]]
 - [[topics/Platform/Azure Cloud Platform]]
