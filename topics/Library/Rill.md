@@ -1,6 +1,6 @@
 ---
-date: '2024-10-18'
+date: '2024-11-09'
 type: Library
 ---
 
-A tool for creating declarative dashboards and visualizations using structured data modeling syntax.
+A BI-as-Code tool that combines generative AI for creating and managing dashboards and metrics with a declarative syntax for visualizations, enabling a user-friendly experience through structured data modeling.
