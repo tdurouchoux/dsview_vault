@@ -1,6 +1,6 @@
 ---
-date: '2022-12-07'
+date: '2024-11-09'
 type: Concept
 ---
 
-A representation of data in a compressed form, allowing diffusion models to operate on lower-dimensional embeddings instead of raw pixel data.
+Latent space refers to the multi-dimensional space where embeddings are positioned, allowing for the representation of semantic relationships between texts and enabling models to operate on lower-dimensional embeddings instead of raw pixel data.

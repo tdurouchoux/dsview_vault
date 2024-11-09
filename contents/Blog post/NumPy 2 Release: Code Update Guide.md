@@ -30,7 +30,7 @@ Overall, preparation for NumPy 2 involves careful dependency management and proa
 2. [NumPy 2 migration guide](https://numpy.org/devdocs/numpy_2_0_migration_guide.html) - Official guide for migrating code to be compatible with NumPy 2.
 ## Topics
 
-- [[topics/Library/NumPy 2]]
+- [[topics/Library/NumPy]]
 - [[topics/Library/Ruff]]
 - [[topics/Concept/Dependency Management]]
 - [[topics/Concept/Lockfile]]
