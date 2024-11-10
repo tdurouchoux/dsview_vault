@@ -14,23 +14,24 @@ https://sqlmodel.tiangolo.com/tutorial/automatic-id-none-refresh/
 
 The content discusses the use of SQLModel in Python for managing database interactions, focusing on automatic IDs, handling None defaults, and refreshing data. Key points include:
 
-- **Automatic IDs**: The `id` field is defined as a primary key and can be `None` in Python code, allowing for the creation of new instances without needing to set an ID initially.
-- **Session Management**: When instances are added to a session and committed, they are marked as "expired" until refreshed. This means that accessing their attributes will trigger a database query to fetch the latest data.
-- **Explicit Refreshing**: The `session.refresh(object)` method can be used to manually refresh an object's data from the database.
-- **Data Synchronization**: The session ensures that the data in memory is synchronized with the database, automatically handling the expiration of objects and refreshing them as needed.
+- **Automatic IDs**: The `id` field is defined as a primary key and can be `None` in Python code, allowing for flexibility when creating new instances of models.
+- **Session Management**: When objects are added to a session, they remain in a pending state until the session is committed. After committing, objects are marked as "expired" until their attributes are accessed, which triggers a refresh from the database.
+- **Explicit Refreshing**: Users can manually refresh an object using `session.refresh(object)` to ensure it has the latest data from the database.
+- **Data Synchronization**: The session manages the synchronization between the in-memory objects and the database, automatically fetching updated data when attributes are accessed.
+- **Practical Example**: The content includes a detailed code example demonstrating the creation of hero instances, adding them to a session, committing changes, and refreshing data.
 
-The content also includes code examples demonstrating how to create instances, add them to a session, commit changes, and refresh data, along with the expected outputs at each step. The overall takeaway emphasizes understanding how SQLModel and SQLAlchemy manage data states and interactions with the database.
+Overall, the material emphasizes understanding how SQLModel interacts with databases, the importance of managing session states, and the implications of data expiration.
 ## Links
 
 1. [SQLModel GitHub Repository](https://github.com/fastapi/sqlmodel) - The official repository for SQLModel, which provides a way to interact with SQL databases using Python.
-2. [SQLAlchemy Documentation](https://docs.sqlalchemy.org/en/14/) - Comprehensive documentation for SQLAlchemy, the underlying library that SQLModel is built upon, detailing how to manage database interactions.
+2. [SQLAlchemy Documentation](https://docs.sqlalchemy.org/en/14/) - Comprehensive documentation for SQLAlchemy, the underlying library used by SQLModel for database interactions.
 3. [FastAPI Documentation](https://fastapi.tiangolo.com/) - Documentation for FastAPI, which is often used in conjunction with SQLModel for building APIs.
 4. [Pydantic Documentation](https://pydantic-docs.helpmanual.io/) - Documentation for Pydantic, which is used for data validation and settings management in Python, and is integrated with SQLModel.
-5. [SQLite Documentation](https://www.sqlite.org/docs.html) - Official documentation for SQLite, the database used in the examples, providing insights into its features and usage.
+5. [Python Typing Documentation](https://docs.python.org/3/library/typing.html) - Official documentation on Python's typing system, which is relevant for understanding type hints like `Optional` used in SQLModel.
 ## Topics
 
 - [[topics/Library/SQLModel]]
 - [[topics/Concept/Session Management]]
 - [[topics/Concept/Object Relational Mapping (ORM)]]
-- [[topics/Concept/Data Refreshing]]
-- [[topics/Concept/Primary Key Management]]
+- [[topics/Concept/Data Expiration]]
+- [[topics/Concept/Database Transactions]]
