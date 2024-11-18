@@ -1,9 +1,10 @@
 # Index of Input Contents
 
-> Last updated on : 2024-11-18T22:58:06.596617
+> Last updated on : 2024-11-18T23:01:21.581700
 
 | Upload Date | Read priority | Source | Note |
 |-------------|---------------|--------|------|
+| 2024-11-18 | 3 | Alpha Signal | [Neo AI Engineer](obsidian://open?vault=dsview_vault&file=Neo%20AI%20Engineer) |
 | 2024-11-18 | 3 | Alpha Signal | [Mitigating LLM Jailbreaks with Rapid Response](obsidian://open?vault=dsview_vault&file=Mitigating%20LLM%20Jailbreaks%20with%20Rapid%20Response) |
 | 2024-11-18 | 4 | Alpha Signal | [Mixture of Experts Explained](obsidian://open?vault=dsview_vault&file=Mixture%20of%20Experts%20Explained) |
 | 2024-11-18 | 4 | Alpha Signal | [Lecture Series in AI How Could Machines Reach Human Level Intelligence](obsidian://open?vault=dsview_vault&file=Lecture%20Series%20in%20AI%20How%20Could%20Machines%20Reach%20Human%20Level%20Intelligence) |
