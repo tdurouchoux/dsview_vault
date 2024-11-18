@@ -1,9 +1,10 @@
 # Index of Input Contents
 
-> Last updated on : 2024-11-18T22:34:45.034412
+> Last updated on : 2024-11-18T22:54:05.320391
 
 | Upload Date | Read priority | Source | Note |
 |-------------|---------------|--------|------|
+| 2024-11-18 | 4 | Alpha Signal | [Lecture Series in AI How Could Machines Reach Human Level Intelligence](obsidian://open?vault=dsview_vault&file=Lecture%20Series%20in%20AI%20How%20Could%20Machines%20Reach%20Human%20Level%20Intelligence) |
 | 2024-11-18 | 2 | Data Elixir | [Project VERDAD Misinformation Tracking](obsidian://open?vault=dsview_vault&file=Project%20VERDAD%20Misinformation%20Tracking) |
 | 2024-11-18 | 1 | Alpha Signal | [Transformer Explained Visually](obsidian://open?vault=dsview_vault&file=Transformer%20Explained%20Visually) |
 | 2024-11-10 | 1 | The Batch | [Automatic IDs None Defaults and Refreshing Data](obsidian://open?vault=dsview_vault&file=Automatic%20IDs%20None%20Defaults%20and%20Refreshing%20Data) |
