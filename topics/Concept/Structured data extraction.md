@@ -3,4 +3,4 @@ date: '2024-09-24'
 type: Concept
 ---
 
-None
+The process of extracting organized data from unstructured or semi-structured sources.

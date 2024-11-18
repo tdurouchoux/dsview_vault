@@ -3,4 +3,4 @@ date: '2024-04-24'
 type: Concept
 ---
 
-Techniques and algorithms for analyzing and understanding networks.
+Techniques and algorithms used to analyze and interpret data represented as networks.

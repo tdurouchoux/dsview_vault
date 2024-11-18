@@ -12,27 +12,30 @@ upload_date: '2024-06-12'
 https://github.com/KindXiaoming/pykan
 ## Summary
 
-Kolmogorov-Arnold Networks (KANs) are introduced as an alternative to Multi-Layer Perceptrons (MLPs), grounded in the Kolmogorov-Arnold representation theorem. KANs differ from MLPs by having activation functions on edges rather than nodes, which can enhance model accuracy and interpretability. 
+Kolmogorov-Arnold Networks (KANs) are introduced as an alternative to Multi-Layer Perceptrons (MLPs), grounded in the Kolmogorov-Arnold representation theorem. KANs differ from MLPs by having activation functions on edges rather than nodes, which can enhance model accuracy and interpretability. The repository provides installation instructions via PyPI or GitHub, with specific requirements for Python and various libraries.
 
 Key points include:
-- Installation can be done via PyPI or GitHub, with specific Python and package requirements outlined.
-- KANs are computationally efficient, typically running examples on a single CPU in under 10 minutes, though more complex tasks may require longer.
+- KANs are suitable for scientific computing tasks, often requiring less computational power than typical machine learning tasks.
 - Hyperparameter tuning is crucial, with recommendations to start simple and gradually increase complexity.
-- The balance between accuracy and interpretability is emphasized, suggesting that they can be positively correlated but may also present trade-offs.
-- The documentation and tutorials provide guidance for users, especially those in scientific computing.
+- The balance between accuracy and interpretability is emphasized, suggesting that they can be positively correlated in some cases.
+- The documentation includes tutorials and advice on model training and evaluation.
 
-The repository encourages collaboration and feedback, acknowledging that KANs may not be a straightforward plug-in for machine learning tasks and require careful tuning.
+The author encourages critical thinking about current architectures and invites collaboration for scientific applications. KANs are not yet a straightforward plug-in for machine learning tasks, and their effectiveness compared to LLMs remains uncertain.
 ## Links
 
-1. [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756) - The original paper introducing Kolmogorov-Arnold Networks (KANs).
-2. [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205) - A follow-up paper discussing advancements in KANs and their applications in scientific contexts.
-3. [efficientkan](https://github.com/Blealtan/efficient-kan) - A GitHub repository focused on improving the efficiency of KAN implementations.
-4. [GraphKAN](https://github.com/WillHua127/GraphKAN-Graph-Kolmogorov-Arnold-Networks) - A repository that explores the application of KANs in graph-based contexts.
-5. [KANRL](https://github.com/riiswa/kanrl) - A repository that discusses the use of KANs in reinforcement learning scenarios.
+1. [GraphKAN-Graph-Kolmogorov-Arnold-Networks](https://github.com/WillHua127/GraphKAN-Graph-Kolmogorov-Arnold-Networks) - A repository for GraphKAN, which extends the concept of Kolmogorov-Arnold Networks to graph data.
+2. [efficient-kan](https://github.com/Blealtan/efficient-kan) - A repository focused on improving the efficiency of Kolmogorov-Arnold Networks.
+3. [KAN: Kolmogorov-Arnold Networks (arXiv)](https://arxiv.org/abs/2404.19756) - The original paper discussing the theory and applications of Kolmogorov-Arnold Networks.
+4. [KAN 2.0: Kolmogorov-Arnold Networks Meet Science (arXiv)](https://arxiv.org/abs/2408.10205) - A follow-up paper that explores the advancements and applications of KANs in scientific contexts.
+5. [KAN Examples](https://kindxiaoming.github.io/pykan/Examples/Example_1_function_fitting.html) - A page providing examples of how to use Kolmogorov-Arnold Networks for function fitting tasks.
 ## Topics
 
-- [[topics/Library/pykan]]
-- [[topics/Model/Kolmogorov-Arnold Networks]]
-- [[topics/Concept/Activation Functions on Edges]]
-- [[topics/Concept/Hyperparameter Tuning and Optimization]]
-- [[topics/Concept/Sparsification]]
+![](topics/Library/pykan)
+
+![](topics/Concept/Kolmogorov%20Arnold%20Networks)
+
+![](topics/Product/GitHub)
+
+![](topics/Dataset/PDE)
+
+![](topics/Concept/Hyperparameter%20Tuning%20and%20Optimization)

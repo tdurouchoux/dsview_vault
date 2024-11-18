@@ -20,14 +20,14 @@ The article discusses best practices for selecting fonts in data visualizations,
    - Ensure the chosen font includes all necessary symbols and characters.
 
 2. **Font Weight and Style**:
-   - Use bold fonts sparingly for emphasis, primarily in titles or key points.
+   - Use bold fonts sparingly, primarily for emphasis or titles.
    - Avoid very thin fonts as they can be hard to read; use them only in high-contrast situations.
    - Steer clear of overly narrow or wide fonts to maintain readability.
 
 3. **Font Size and Color**:
-   - Ensure font size is large enough for readability, with a minimum of 14px recommended.
+   - Ensure font size is large enough for readability, with a minimum of 12px recommended.
    - Use high-contrast colors for text to enhance visibility.
-   - Limit the use of uppercase text, as it can hinder readability; use it for labels or short headings.
+   - Limit the use of uppercase text, as it can hinder readability; use it for short labels or titles.
 
 4. **Customization**: 
    - Adjust letter spacing and font size to improve the appearance of uppercase text.
@@ -36,15 +36,19 @@ The article discusses best practices for selecting fonts in data visualizations,
 Overall, the article advocates for thoughtful font choices to enhance the effectiveness of data visualizations.
 ## Links
 
-1. [Choosing Fonts for Your Data Visualization](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/) - A comprehensive guide on selecting appropriate fonts for data visualizations.
-2. [Finding the best free fonts for numbers](https://www.invisionapp.com/inside-design/best-free-fonts-for-numbers/) - An article discussing the best free fonts specifically designed for displaying numbers effectively.
-3. [Fonts for Complex Data](https://www.typography.com/blog/fonts-for-complex-data) - Insights into choosing fonts that can handle complex data presentations.
-4. [Checklist for choosing data viz typefaces](https://observablehq.com/@didoesdigital/10-june-2020-typography-for-data-viz#mdChecklist) - A practical checklist to help in selecting typefaces for data visualizations.
-5. [Accessible Font Sizing, Explained](https://css-tricks.com/accessible-font-sizing-explained/) - An explanation of how to choose font sizes that enhance accessibility in visualizations.
+1. [Choosing Fonts for Your Data Visualization](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/) - A guide on selecting appropriate fonts for data visualizations to enhance readability and effectiveness.
+2. [Accessible Font Sizing, Explained](https://css-tricks.com/accessible-font-sizing-explained/) - An article discussing best practices for font sizing to ensure accessibility in web design.
+3. [Uniwidth typefaces for interface design](https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7) - A resource on the benefits of using uniwidth typefaces in design for consistency and readability.
+4. [Do’s and Don’ts of Using Light Typefaces](https://uxmovement.com/content/dos-and-donts-of-using-light-typefaces/) - An article outlining the best practices for using light typefaces in design to maintain legibility.
+5. [Fonts for Complex Data](https://www.typography.com/blog/fonts-for-complex-data) - A discussion on selecting fonts that work well with complex data visualizations to improve clarity and understanding.
 ## Topics
 
-- [[topics/Library/Datawrapper]]
-- [[topics/Concept/Font Selection]]
-- [[topics/Concept/Font Customization]]
-- [[topics/Concept/Readability]]
-- [[topics/Concept/Accessibility in Typography]]
+![](topics/Product/Datawrapper)
+
+![](topics/Concept/Font%20Selection)
+
+![](topics/Concept/Font%20Types)
+
+![](topics/Concept/Font%20Customization)
+
+![](topics/Concept/Accessibility%20in%20Typography)

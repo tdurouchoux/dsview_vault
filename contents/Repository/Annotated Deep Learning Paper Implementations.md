@@ -18,23 +18,27 @@ The GitHub repository "annotated_deep_learning_paper_implementations" by labmlai
 - **Transformers**: Various architectures such as the original Transformer, Transformer XL, and Vision Transformer (ViT).
 - **Optimizers**: Implementations of popular optimizers like Adam, AdaBelief, and Sophia.
 - **Generative Adversarial Networks (GANs)**: Includes CycleGAN and StyleGAN2.
-- **Reinforcement Learning**: Techniques like Proximal Policy Optimization (PPO) and Deep Q-Networks (DQN).
-- **Other Models**: Capsule Networks, U-Net, and Graph Neural Networks.
+- **Reinforcement Learning**: Techniques like Proximal Policy Optimization (PPO) and Deep Q Networks (DQN).
+- **Other Models**: Capsule Networks, ResNet, and Graph Neural Networks.
 - **Distillation and Adaptive Computation**: Techniques for model efficiency.
-- **Uncertainty Quantification**: Methods for assessing classification uncertainty.
+- **Uncertainty Quantification**: Methods to assess classification uncertainty.
 
-The repository is actively maintained, with new implementations added regularly, and is designed to enhance understanding of deep learning algorithms through practical coding examples. Installation can be done via `pip install labml-nn`.
+The repository is actively maintained, with new implementations added regularly, and is built using PyTorch. Installation is straightforward via pip.
 ## Links
 
-1. [Transformers](https://nn.labml.ai/transformers/index.html) - Overview of transformer models, including various architectures and techniques.
-2. [Generative Adversarial Networks](https://nn.labml.ai/gan/index.html) - Comprehensive guide to GANs, including implementations of various types like Cycle GAN and StyleGAN 2.
-3. [Reinforcement Learning](https://nn.labml.ai/rl/index.html) - Detailed explanations and implementations of reinforcement learning algorithms such as Proximal Policy Optimization and Deep Q Networks.
-4. [Optimizers](https://nn.labml.ai/optimizers/index.html) - Overview of different optimization algorithms used in training neural networks, including Adam and AdaBelief.
-5. [Diffusion models](https://nn.labml.ai/diffusion/index.html) - Introduction to diffusion models, including Denoising Diffusion Probabilistic Models and Stable Diffusion.
+1. [Transformers](https://nn.labml.ai/transformers/index.html) - Overview and implementations of various transformer architectures.
+2. [Generative Adversarial Networks (GANs)](https://nn.labml.ai/gan/index.html) - Detailed explanations and implementations of different GAN models.
+3. [Reinforcement Learning](https://nn.labml.ai/rl/index.html) - Comprehensive resources and implementations for reinforcement learning algorithms.
+4. [Optimizers](https://nn.labml.ai/optimizers/index.html) - A collection of different optimization algorithms used in deep learning.
+5. [Normalization Techniques](https://nn.labml.ai/normalization/index.html) - Overview of various normalization methods and their implementations.
 ## Topics
 
-- [[topics/Library/labml-nn]]
-- [[topics/Concept/Generative Adversarial Networks (GANs)]]
-- [[topics/Concept/Reinforcement Learning]]
-- [[topics/Library/Transformers with Reinforcement Learning]]
-- [[topics/Concept/Optimizers]]
+![](topics/Library/labml%20nn)
+
+![](topics/Concept/Generative%20Adversarial%20Networks%20GANs)
+
+![](topics/Concept/Reinforcement%20Learning)
+
+![](topics/Library/Transformers%20with%20Reinforcement%20Learning)
+
+![](topics/Concept/Optimizers)

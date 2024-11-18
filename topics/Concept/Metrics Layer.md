@@ -3,4 +3,4 @@ date: '2024-11-09'
 type: Concept
 ---
 
-A semantic layer that defines and maintains core business definitions and relationships between data models, essential for AI understanding.
+A semantic foundation in GenBI that provides a declarative way to define and maintain core business definitions, including measures and data model relationships.

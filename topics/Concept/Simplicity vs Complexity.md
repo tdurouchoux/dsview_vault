@@ -3,4 +3,4 @@ date: '2023-09-21'
 type: Concept
 ---
 
-The guideline that favors simple solutions over complex ones, while recognizing the need for complexity in certain situations.
+The principle that simple solutions are preferred over complex ones, and that complexity should be managed carefully.

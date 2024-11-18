@@ -3,4 +3,4 @@ date: '2022-09-29'
 type: Concept
 ---
 
-The practice of creating visual representations of scientific data to enhance understanding and communication.
+The practice of representing data in a visual context to make information easier to understand.

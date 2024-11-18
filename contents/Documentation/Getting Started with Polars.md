@@ -14,24 +14,27 @@ https://docs.pola.rs/user-guide/getting-started/#concat
 
 The Polars user guide provides a comprehensive introduction to the Polars library, focusing on its core functionalities. Key sections include:
 
-- **Installation**: Instructions for installing Polars in Python and Rust.
-- **Reading & Writing**: Supports various file formats (CSV, JSON, Parquet) and cloud storage options.
-- **Expressions**: Central to Polars, allowing for complex queries through modular components like select, filter, and group by.
-- **DataFrame Operations**: Includes adding columns, filtering, and grouping data.
-- **Combining DataFrames**: Methods for joining and concatenating DataFrames, supporting various join types (left, right, inner, outer).
+- **Installation**: Instructions for installing Polars via Python and Rust.
+- **Reading & Writing**: Supports various file formats (CSV, JSON, Parquet) and cloud storage options, with examples of creating and manipulating dataframes.
+- **Expressions and Contexts**: Highlights the use of expressions for data transformations, including contexts like `select`, `with_columns`, `filter`, and `group_by`.
+- **Combining Dataframes**: Demonstrates methods for joining and concatenating dataframes, showcasing different join algorithms and concatenation techniques.
 
-The guide emphasizes the library's performance and ease of use, making it suitable for data manipulation and analysis tasks.
+The guide emphasizes the flexibility and efficiency of Polars for data manipulation, making it suitable for data science tasks.
 ## Links
 
-1. [DataFrame (Python)](https://docs.pola.rs/api/python/stable/reference/dataframe/index.html) - Reference for the DataFrame class in the Python Polars library.
-2. [DataFrame (Rust)](https://docs.pola.rs/api/rust/dev/polars/frame/struct.DataFrame.html) - Reference for the DataFrame struct in the Rust Polars library.
-3. [read_csv](https://docs.pola.rs/api/python/stable/reference/api/polars.read_csv.html) - Documentation for reading CSV files into a DataFrame using Polars in Python.
-4. [write_csv](https://docs.pola.rs/api/python/stable/reference/api/polars.DataFrame.write_csv.html) - Documentation for writing a DataFrame to a CSV file using Polars in Python.
-5. [CsvReader](https://docs.pola.rs/api/rust/dev/polars_io/csv/struct.CsvReader.html) - Reference for the CsvReader struct in the Rust Polars library, used for reading CSV files.
+1. [Polars DataFrame](https://docs.pola.rs/api/rust/dev/polars/frame/struct.DataFrame.html) - Detailed documentation on the DataFrame structure in Polars, including methods and properties.
+2. [Polars DataFrame filter](https://docs.pola.rs/api/python/stable/reference/dataframe/api/polars.DataFrame.filter.html) - Documentation on how to filter data within a Polars DataFrame.
+3. [Polars DataFrame group_by](https://docs.pola.rs/api/python/stable/reference/dataframe/api/polars.DataFrame.group_by.html) - Information on grouping data in a DataFrame and performing aggregations.
+4. [Polars DataFrame write_csv](https://docs.pola.rs/api/python/stable/reference/dataframe/api/polars.DataFrame.write_csv.html) - Guide on writing a DataFrame to a CSV file.
+5. [Polars concat](https://docs.pola.rs/api/python/stable/reference/api/polars.concat.html) - Documentation on concatenating DataFrames in Polars.
 ## Topics
 
-- [[topics/Library/Polars]]
-- [[topics/Concept/DataFrame and Performance Comparison]]
-- [[topics/Concept/Expressions]]
-- [[topics/Concept/Lazy API]]
-- [[topics/Concept/Join]]
+![](topics/Library/Polars)
+
+![](topics/Concept/DataFrame)
+
+![](topics/Concept/Expressions)
+
+![](topics/Concept/Lazy%20API)
+
+![](topics/Concept/Joining%20DataFrames)

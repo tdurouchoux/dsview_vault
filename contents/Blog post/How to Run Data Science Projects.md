@@ -32,8 +32,12 @@ The author emphasizes the importance of a structured approach while remaining op
 no links
 ## Topics
 
-- [[topics/Concept/Stakeholder and Project Management in Data Science]]
-- [[topics/Concept/Stakeholder Engagement]]
-- [[topics/Concept/Project Scoping]]
-- [[topics/Concept/Metrics and Success Definition]]
-- [[topics/Concept/Execution Flexibility]]
+![](topics/Concept/Project%20Scoping)
+
+![](topics/Concept/Stakeholder%20Engagement)
+
+![](topics/Concept/Metrics%20Definition)
+
+![](topics/Concept/Experimentation%20Planning)
+
+![](topics/Concept/Project%20Execution)

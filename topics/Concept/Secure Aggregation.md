@@ -3,4 +3,4 @@ date: '2022-11-17'
 type: Concept
 ---
 
-A protocol in federated learning that allows the combination of local models into a global model without revealing individual contributions.
+A technique used in federated learning to combine local models from different users without revealing individual contributions, enhancing privacy.

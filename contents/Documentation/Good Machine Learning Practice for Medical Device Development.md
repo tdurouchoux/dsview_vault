@@ -5,6 +5,7 @@ read_priority: 1
 source: null
 tags:
 - AI_regulation
+- Data_Quality
 type: Content
 upload_date: '2022-12-07'
 ---
@@ -17,28 +18,32 @@ The FDA, along with Health Canada and the UK's MHRA, has established 10 guiding 
 Key principles include:
 
 1. **Multi-Disciplinary Expertise**: Involvement of diverse expertise throughout the product lifecycle to ensure safety and effectiveness.
-2. **Software Engineering and Security**: Implementation of robust software engineering practices, data quality assurance, and cybersecurity.
-3. **Representative Data Sets**: Ensuring clinical study participants and data sets reflect the intended patient population to manage bias and enhance generalizability.
-4. **Independent Data Sets**: Maintaining independence between training and test datasets to avoid bias.
+2. **Software Engineering and Security**: Emphasis on robust software engineering practices, data quality, and cybersecurity.
+3. **Representative Data Sets**: Ensuring clinical study participants reflect the intended patient population to manage bias and enhance generalizability.
+4. **Independent Data Sets**: Maintaining independence between training and test datasets to ensure unbiased performance evaluation.
 5. **Best Available Reference Datasets**: Utilizing clinically relevant and well-characterized data for model development.
-6. **Tailored Model Design**: Designing models suited to available data and intended use, mitigating known risks.
-7. **Human-AI Team Performance**: Focusing on the performance of the human-AI collaboration rather than the model alone.
-8. **Clinically Relevant Testing**: Conducting statistically sound tests to demonstrate device performance under relevant conditions.
-9. **Clear User Information**: Providing users with essential information about the device's use, performance, and limitations.
-10. **Monitoring Deployed Models**: Ensuring ongoing monitoring of deployed models to manage performance and retraining risks.
+6. **Tailored Model Design**: Designing models that align with available data and intended use, mitigating known risks.
+7. **Human-AI Team Performance**: Focusing on the interaction between human users and AI outputs.
+8. **Clinically Relevant Testing**: Conducting tests that reflect real-world conditions and intended use.
+9. **Clear User Information**: Providing users with essential, understandable information about the device's use and performance.
+10. **Monitoring and Risk Management**: Continuously monitoring deployed models for performance and managing retraining risks.
 
-These principles are intended to foster collaboration among regulatory bodies and stakeholders to advance responsible innovation in AI/ML-enabled medical devices.
+These principles are intended to foster collaboration among regulatory bodies and stakeholders to advance responsible innovation in AI/ML medical devices.
 ## Links
 
-1. [FDA-2019-N-1185](https://www.regulations.gov/docket/FDA-2019-N-1185) - Public docket for feedback on Good Machine Learning Practice for medical device development.
-2. [Vulnerability Disclosure Policy](https://www.hhs.gov/vulnerability-disclosure-policy/index.html) - Information on the policy for reporting vulnerabilities in HHS systems.
-3. [HHS.gov](https://www.hhs.gov/) - Official website of the U.S. Department of Health and Human Services, providing resources and information related to health and human services.
-4. [USA.gov](https://www.usa.gov/) - The U.S. government's official web portal, offering access to government services and information.
-5. [Artificial Intelligence and Machine Learning (AI/ML)-Enabled Medical Devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices) - Overview of AI/ML-enabled medical devices and their regulatory considerations.
+1. [Artificial Intelligence and Machine Learning (AI/ML)-Enabled Medical Devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices) - Overview of AI/ML technologies in medical devices and their regulatory considerations.
+2. [Predetermined Change Control Plans for Machine Learning-Enabled Medical Devices: Guiding Principles](https://www.fda.gov/medical-devices/software-medical-device-samd/predetermined-change-control-plans-machine-learning-enabled-medical-devices-guiding-principles) - Guidance on managing changes in ML-enabled medical devices.
+3. [Transparency for Machine Learning-Enabled Medical Devices: Guiding Principles](https://www.fda.gov/medical-devices/software-medical-device-samd/transparency-machine-learning-enabled-medical-devices-guiding-principles) - Principles aimed at enhancing transparency in ML-enabled medical devices.
+4. [Good Software Engineering and Security Practices Are Implemented](https://www.fda.gov/medical-devices/software-medical-device-samd/good-software-engineering-and-security-practices-are-implemented) - Importance of software engineering and security in the development of medical devices.
+5. [Clinical Study Participants and Data Sets Are Representative of the Intended Patient Population](https://www.fda.gov/medical-devices/software-medical-device-samd/clinical-study-participants-and-data-sets-are-representative-intended-patient-population) - Guidelines for ensuring representative data in clinical studies for medical devices.
 ## Topics
 
-- [[topics/Concept/Good Machine Learning Practice (GMLP)]]
-- [[topics/Concept/Software as a Medical Device (SaMD)]]
-- [[topics/Concept/Multi-Disciplinary Expertise]]
-- [[topics/Concept/Clinical Study Design]]
-- [[topics/Concept/Model Monitoring and Re-training]]
+![](topics/Concept/Good%20Machine%20Learning%20Practice%20GMLP)
+
+![](topics/Concept/Software%20as%20a%20Medical%20Device%20SaMD)
+
+![](topics/Concept/Multi%20Disciplinary%20Expertise)
+
+![](topics/Concept/Clinical%20Study%20Design)
+
+![](topics/Concept/Model%20Monitoring%20and%20Re%20training)

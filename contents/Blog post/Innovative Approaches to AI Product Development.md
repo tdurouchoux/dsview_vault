@@ -14,33 +14,31 @@ upload_date: '2023-11-23'
 https://www.builder.io/blog/build-ai/
 ## Summary
 
-The article emphasizes a unique approach to building AI products, advocating against the common practice of simply wrapping existing models, like using ChatGPT via API. Key issues with this approach include:
+The article emphasizes a unique approach to building AI products, advocating against the common practice of merely wrapping existing models like ChatGPT. Key issues with this approach include:
 
 1. **Lack of Differentiation**: Many products are easily replicable, leading to high competition and risk.
 2. **High Costs**: Large language models (LLMs) are expensive to operate, often costing more than what users are willing to pay.
-3. **Slow Performance**: LLMs can be slow, making them impractical for applications requiring quick responses.
+3. **Slow Performance**: LLMs can be slow, which is problematic for applications requiring quick responses.
 4. **Limited Customization**: Fine-tuning LLMs often yields insufficient improvements for specific use cases.
 
-The recommended solution is to create a custom toolchain that combines a fine-tuned LLM with specialized models and hand-coded logic. This approach allows for faster, cheaper, and more differentiated products. The article also highlights the importance of starting with traditional programming to understand the problem space before integrating AI.
+The recommended solution is to create a custom toolchain that combines a fine-tuned LLM with specialized models and traditional coding. This approach allows for faster, cheaper, and more differentiated products. The article suggests starting with standard programming to understand the problem space before integrating AI, using AI only where it adds significant value.
 
-Key takeaways include:
-
-- Control over your models allows for continuous improvement and better privacy.
-- Use AI only where necessary, as traditional coding is often more efficient and manageable.
-- Building in layers and gradually integrating AI can lead to more effective solutions.
-
-The article concludes by encouraging developers to explore this method for their AI projects, emphasizing the potential for innovation and efficiency.
+The author highlights the benefits of controlling your own models, including the ability to improve them continuously and maintain privacy, which is crucial for many businesses. The conclusion encourages developers to minimize AI use initially and leverage it strategically to enhance their products.
 ## Links
 
-1. [Visual Copilot](https://www.builder.io/blog/figma-to-code-visual-copilot) - A tool that converts Figma designs to high-quality code, enhancing the development process.
-2. [Mitosis](https://github.com/builderio/mitosis) - A custom compiler that helps in building applications with a focus on performance and efficiency.
-3. [Qwik](https://qwik.dev/) - A framework designed for optimal performance, particularly in web applications.
-4. [Partytown](https://partytown.builder.io/) - A library that helps offload heavy tasks to web workers, improving application performance.
-5. [GitHub Copilot](https://www.wsj.com/tech/ai/ais-costly-buildup-could-make-early-products-a-hard-sell-bdd29b9f) - An example of a large language model application that has faced challenges with cost and performance.
+1. [GitHub Copilot](https://www.wsj.com/tech/ai/ais-costly-buildup-could-make-early-products-a-hard-sell-bdd29b9f) - Article discussing the cost implications of using large language models like GitHub Copilot.
+2. [Mitosis](https://github.com/BuilderIO/mitosis) - Open-source project for building components that can be rendered in multiple frameworks.
+3. [Figma to HTML](https://github.com/BuilderIO/figma-html) - GitHub repository for converting Figma designs to HTML, relevant for building AI products that involve design-to-code workflows.
+4. [Qwik](https://github.com/BuilderIO/qwik) - A framework for building fast web applications, which can be useful in the context of AI product development.
+5. [Partytown](https://github.com/BuilderIO/partytown) - A library for running web workers in the main thread, which can enhance performance in web applications, including those using AI.
 ## Topics
 
-- [[topics/Platform/Visual Copilot]]
-- [[topics/Platform/Visual CMS]]
-- [[topics/Concept/Toolchain Development]]
-- [[topics/Concept/Object Detection Performance Assessment]]
-- [[topics/Platform/Builder.io]]
+![](topics/Product/Visual%20Copilot)
+
+![](topics/Platform/Builder%20io)
+
+![](topics/Concept/Toolchain)
+
+![](topics/Concept/Object%20Detection%20Evaluation)
+
+![](topics/Product/Headless%20CMS)

@@ -20,26 +20,30 @@ The Illustrated Stable Diffusion by Jay Alammar provides a comprehensive overvie
   2. **UNet + Scheduler**: This component processes information in latent space, enhancing performance by operating on compressed data rather than pixel images.
   3. **Autoencoder Decoder**: Converts processed information into the final image.
 
-- **Diffusion Process**: The model generates images through a step-by-step diffusion process, which involves adding noise to images and then predicting and removing that noise to create clearer images. This process is trained using a dataset of images and their corresponding captions.
+- **Diffusion Process**: The model generates images through a step-by-step diffusion process, starting with random noise and gradually refining it based on the input text. This involves training a noise predictor to remove noise from images, effectively learning to generate aesthetically pleasing images.
 
-- **Latent Space**: To improve speed and efficiency, the diffusion process operates in a compressed latent space, allowing for faster image generation.
+- **Latent Space**: The model operates in latent space, which allows for faster processing and improved efficiency compared to traditional pixel-based methods.
 
-- **Text Conditioning**: The model incorporates text by adjusting the noise predictor to use text embeddings, enhancing the relevance of generated images to the input prompts.
+- **Text Conditioning**: The integration of text into the image generation process is achieved through attention layers in the UNet, allowing the model to generate images that align with the provided text prompts.
 
-- **Training**: The model is trained on a large dataset of images and captions, allowing it to learn the relationships between visual elements and textual descriptions.
+- **Training**: The model is trained on a large dataset of images and their corresponding captions, enabling it to learn the relationships between visual elements and textual descriptions.
 
-Overall, the article emphasizes the innovative architecture of Stable Diffusion and its implications for AI-driven art creation, highlighting the importance of both the text and image components in generating high-quality visuals.
+Overall, the article emphasizes the innovative architecture of Stable Diffusion and its implications for the future of AI-generated art.
 ## Links
 
-1. [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) - A foundational paper that describes the principles behind diffusion models used in image generation.
-2. [Google Imagen paper by Saharia et. al.](https://arxiv.org/abs/2205.11487) - A research paper detailing the Google Imagen model, which is relevant to understanding advancements in diffusion models.
-3. [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) - An informative blog post that provides an overview of diffusion models and their applications in machine learning.
-4. [Stable Diffusion with 🧨 Diffusers](https://huggingface.co/blog/stable_diffusion) - A blog post that discusses the implementation and usage of Stable Diffusion models.
-5. [High-Resolution Image Synthesis with Latent Diffusion Models](https://ommer-lab.com/research/latent-diffusion-models/) - A resource that explores the techniques and methodologies behind latent diffusion models for high-resolution image synthesis.
+1. [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2205.11487) - The original paper detailing the Latent Diffusion Models, which are foundational to understanding Stable Diffusion.
+2. [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion) - A comprehensive guide that annotates the diffusion model, providing insights into its workings and applications.
+3. [Stable Diffusion - What, Why, How?](https://www.youtube.com/watch?v=J87hffSMB60) - A video that explains the Stable Diffusion model, its purpose, and its functionality in a visual format.
+4. [Large OpenCLIP](https://laion.ai/blog/large-openclip/) - A blog post discussing the OpenCLIP model, which is relevant for understanding the text encoding component used in Stable Diffusion.
+5. [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) - An in-depth article that explores diffusion models, their principles, and their applications in machine learning.
 ## Topics
 
-- [[topics/Model/Stable Diffusion]]
-- [[topics/Model/Diffusion Models]]
-- [[topics/Model/CLIP]]
-- [[topics/Model/UNet]]
-- [[topics/Model/Autoencoder]]
+![](topics/Concept/Stable%20Diffusion)
+
+![](topics/Model/CLIP)
+
+![](topics/Model/UNet)
+
+![](topics/Model/Autoencoder)
+
+![](topics/Concept/Latent%20Space)

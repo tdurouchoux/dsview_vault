@@ -1,6 +1,6 @@
 ---
-date: '2024-02-08'
+date: '2024-04-29'
 type: Library
 ---
 
-A library for processing large scale data, including customizable pipeline processing blocks for filtering and deduplicating text data, specifically designed for datasets like FineWeb.
+A large scale data processing library for processing, filtering, and deduplicating text data, including the FineWeb dataset, with customizable pipeline processing blocks.

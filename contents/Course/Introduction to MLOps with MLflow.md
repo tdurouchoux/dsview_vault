@@ -23,7 +23,7 @@ Le contenu présente une introduction au MLOps avec MLflow, abordant les défis 
 
 **Pourquoi MLflow ?**
 - Open-source et couvre l'ensemble du cycle de vie d'un modèle ML.
-- Compatible avec divers frameworks de machine learning.
+- Agnostique au package ML utilisé.
 
 **Plan de la formation :**
 1. Introduction à MLFlow
@@ -36,24 +36,25 @@ Le contenu présente une introduction au MLOps avec MLflow, abordant les défis 
 - Utilisation de MLflow pour le suivi des expérimentations et la gestion des modèles.
 - Déploiement d'un modèle via une API REST sur Kubernetes.
 - Surveillance des modèles en production, intégration de logs et création de tableaux de bord pour l'observabilité.
+- Distribution de l'optimisation des hyperparamètres à l'aide d'Argo Workflows.
 
-**Outils et technologies :**
-- Argo Workflows pour l'automatisation des workflows et l'optimisation des hyperparamètres.
-- Utilisation de Docker et Kubernetes pour le déploiement.
-
-**Conclusion :**
-Le MLOps avec MLflow permet une industrialisation efficace des projets de machine learning, favorisant la collaboration entre les équipes et l'amélioration continue des modèles.
+**Bilan :**
+MLflow est polyvalent, facilitant l'utilisation de frameworks personnalisés et l'industrialisation de l'entraînement, bien que des limites subsistent concernant l'accessibilité des modèles entraînés et leur déploiement.
 ## Links
 
-1. [MLflow](https://mlflow.org/) - An open-source platform for managing the machine learning lifecycle, including experimentation, reproducibility, and deployment.
-2. [Grafana](https://grafana.com/) - An open-source platform for monitoring and observability, useful for creating dashboards to visualize metrics and logs.
-3. [Quarto Dashboards](https://quarto.org/docs/dashboards/) - A tool for creating interactive dashboards, which can be used to visualize data and metrics from machine learning models.
-4. [DuckDB](https://duckdb.org/) - A database management system that allows for efficient querying of data, particularly useful for analytics and data science applications.
-5. [Apache Superset](https://superset.apache.org/) - An open-source data visualization and exploration platform that can be used to create dashboards and reports from various data sources.
+1. [MLflow](https://datalab.sspcloud.fr/launcher/automation/mlflow?autoLaunch=true) - A platform for managing the machine learning lifecycle, including experimentation, reproducibility, and deployment.
+2. [DuckDB](https://duckdb.org/) - A database management system that can be used for querying data, particularly useful for handling parquet files in data science workflows.
+3. [Grafana](https://grafana.com/) - An open-source platform for monitoring and observability, useful for creating dashboards to visualize metrics and logs from machine learning models.
+4. [Apache Superset](https://superset.apache.org/) - A modern data exploration and visualization platform that can be used to create dashboards and analyze data.
+5. [Quarto Dashboards](https://quarto.org/docs/dashboards/) - A framework for creating dashboards and reports, useful for visualizing data and metrics in data science projects.
 ## Topics
 
-- [[topics/Library/MLflow and Metaflow]]
-- [[topics/Platform/SSP Cloud]]
-- [[topics/Platform/Argo Workflows]]
-- [[topics/Concept/MLOps]]
-- [[topics/Concept/API]]
+![](topics/Concept/MLOps)
+
+![](topics/Library/MLflow)
+
+![](topics/Platform/Kubernetes)
+
+![](topics/Product/FastAPI)
+
+![](topics/Concept/Hyperparameter%20Optimization)

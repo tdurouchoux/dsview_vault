@@ -24,23 +24,28 @@ Key sections include:
 - **Line Plot**: Discusses plotting time series data.
 - **Bar Charts**: Covers various types of bar charts, including grouped and stacked.
 - **Density Estimates and Histograms**: Explains how to visualize distributions of data.
-- **Heatmaps**: Visualizes data in a matrix format, often used for correlation matrices.
-- **Boxplots and Violin Plots**: Used for displaying distributions and comparing groups.
-- **Specialized Plots**: Includes lollipop, slope, dumbbell, polar, radar, wordcloud, network diagrams, ridge plots, contour plots, waterfall charts, Venn diagrams, and treemaps.
+- **Heatmaps**: Describes how to visualize data density or correlation.
+- **Boxplots and Violin Plots**: Discusses methods for visualizing distributions and comparing groups.
+- **Specialized Plots**: Includes Lollipop, Overlapping Area, Slope, Dumbbell, Polar, Radar, Wordcloud, Network diagrams, Ridge plots, Contour plots, Waterfall charts, Venn diagrams, and Treemaps.
 
-Each plot type is accompanied by code examples for implementation in the mentioned libraries, emphasizing the versatility and functionality of each library for different visualization needs. The content serves as a practical guide for economists and data scientists to effectively communicate data insights through visual means.
+Each plot type is illustrated with code examples, showcasing how to implement them in different libraries, emphasizing the versatility and functionality of each tool for effective data visualization.
 ## Links
 
-1. [matplotlib](https://matplotlib.org/) - A comprehensive library for creating static, animated, and interactive visualizations in Python.
-2. [lets-plot](https://lets-plot.org/) - A plotting library for Python that provides a high-level interface for creating complex visualizations.
-3. [seaborn](https://seaborn.pydata.org/) - A Python data visualization library based on matplotlib that provides a high-level interface for drawing attractive statistical graphics.
-4. [altair](https://altair-viz.github.io/) - A declarative statistical visualization library for Python, designed for simplicity and ease of use.
-5. [plotly](https://plotly.com/python/) - A graphing library that makes interactive, publication-quality graphs online.
+1. [Altair Documentation](https://altair-viz.github.io/) - Comprehensive guide to using Altair for data visualization in Python.
+2. [Seaborn Documentation](https://seaborn.pydata.org/) - Official documentation for Seaborn, a Python visualization library based on Matplotlib.
+3. [Matplotlib Documentation](https://matplotlib.org/) - The official site for Matplotlib, a widely used plotting library for Python.
+4. [Plotly Documentation](https://plotly.com/python/) - Documentation for Plotly, a library for creating interactive plots in Python.
+5. [NetworkX Documentation](https://networkx.org/documentation/stable/index.html) - Official documentation for NetworkX, a library for the creation, manipulation, and study of complex networks.
 ## Topics
 
-- [[topics/Library/Matplotlib]]
-- [[topics/Library/Seaborn]]
-- [[topics/Library/Lets-Plot]]
-- [[topics/Library/Altair]]
-- [[topics/Library/Plotly]]
-- [[topics/Library/networkx]]
+![](topics/Library/Matplotlib)
+
+![](topics/Library/Seaborn)
+
+![](topics/Library/Lets%20Plot)
+
+![](topics/Library/Altair)
+
+![](topics/Library/Plotly)
+
+![](topics/Library/networkx)

@@ -5,6 +5,7 @@ read_priority: 2
 source: Alpha Signal
 tags:
 - MlOps
+- Python
 type: Content
 upload_date: '2024-10-15'
 ---
@@ -19,22 +20,24 @@ Key components include:
 - **Handoffs**: Allow agents to transfer control to one another, facilitating complex workflows.
 - **Functions**: Agents can call Python functions directly, enabling dynamic interactions.
 
-Swarm operates statelessly, meaning it does not retain context between calls, which is suitable for scenarios with numerous independent capabilities. The framework is powered by the Chat Completions API and emphasizes scalability and customization.
+Swarm operates statelessly, meaning it does not retain information between calls, and is powered by the Chat Completions API. It supports various use cases, such as customer service bots and personal shopping agents, and provides a simple installation process via pip.
 
-Installation requires Python 3.10+, and usage involves creating a Swarm client and defining agents with specific instructions and functions. The framework includes examples for various applications, such as customer service and personal shopping.
-
-Overall, Swarm serves as a resource for developers interested in multi-agent orchestration, providing a foundation for building scalable solutions without a steep learning curve.
+The framework includes examples and documentation to guide users in implementing multi-agent systems, emphasizing scalability and customization. It also features a demo loop for testing and evaluating agent performance.
 ## Links
 
-1. [Orchestrating Agents: Handoffs & Routines](https://cookbook.openai.com/examples/orchestrating_agents) - A cookbook that explores patterns for managing multi-agent systems, focusing on handoffs and routines.
-2. [Chat Completions API streaming](https://platform.openai.com/docs/api-reference/streaming) - Documentation on how to implement streaming responses using the Chat Completions API, relevant for real-time interactions in multi-agent systems.
-3. [Chat Completions messages](https://platform.openai.com/docs/api-reference/chat/create#chat-create-messages) - Reference for the message structure used in the Chat Completions API, essential for understanding how agents communicate.
-4. [GitHub Documentation](https://docs.github.com) - General documentation for GitHub, useful for understanding the platform's features and capabilities.
-5. [GitHub Skills](https://skills.github.com) - A resource for learning and improving skills related to GitHub and software development practices.
+1. [Orchestrating Agents Cookbook](https://cookbook.openai.com/examples/orchestrating_agents) - A resource that provides examples and patterns for orchestrating multi-agent systems, relevant to the Swarm framework.
+2. [OpenAI Chat Completions API Documentation](https://platform.openai.com/docs/api-reference/chat/create#chat-create-messages) - Official documentation for the Chat Completions API, which is foundational for understanding how Swarm operates.
+3. [OpenAI Streaming API Documentation](https://platform.openai.com/docs/api-reference/streaming) - Documentation on the streaming capabilities of the OpenAI API, which is utilized in the Swarm framework for real-time interactions.
+4. [GitHub - Ilan Bigio](https://github.com/ibigio) - Profile of a core contributor to the Swarm project, providing insights into the development and contributions to the framework.
+5. [GitHub - Shyamal Anadkat](https://github.com/shyamal-anadkat) - Profile of another core contributor to the Swarm project, offering additional context and contributions related to the framework.
 ## Topics
 
-- [[topics/Library/Swarm]]
-- [[topics/Concept/Multi-agent orchestration and systems]]
-- [[topics/Concept/Agent and AgentInstruct]]
-- [[topics/Concept/Handoffs]]
-- [[topics/Concept/Streaming and Streaming Features]]
+![](topics/Library/Swarm)
+
+![](topics/Concept/Multi%20agent%20orchestration)
+
+![](topics/Concept/Agent%20and%20Agentic%20Workflows)
+
+![](topics/Concept/Handoffs)
+
+![](topics/Concept/Streaming%20and%20Streaming%20API)

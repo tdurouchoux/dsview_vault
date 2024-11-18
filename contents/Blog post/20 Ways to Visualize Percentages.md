@@ -12,11 +12,12 @@ upload_date: '2023-11-23'
 https://infonewt.com/percentages/
 ## Summary
 
-The content discusses innovative methods for visualizing percentage data, aiming to move beyond traditional pie charts. It presents a reference sheet with 20 different visualization techniques to help users effectively represent percentage information. The focus is on enhancing creativity in data visualization design, particularly for educational purposes. A downloadable PDF is available for further reference.
+The content discusses various methods for visualizing percentage data, emphasizing the need for creativity beyond traditional pie charts. It serves as a reference for classes and workshops, providing 20 different visualization techniques to help users effectively present percentage information. A downloadable PDF is available for further reference.
 ## Links
 
 no links
 ## Topics
 
-- [[topics/Concept/Data Visualization]]
-- [[topics/Library/Visualizing-Percentages-20-Ways-InfoNewt.pdf]]
+![](topics/Concept/Visualizing%20Percentages)
+
+![](topics/Product/Visualizing%20Percentages%2020%20Ways%20InfoNewt%20pdf)

@@ -1,6 +1,6 @@
 ---
-date: '2024-02-22'
+date: '2024-07-10'
 type: Concept
 ---
 
-Concepts in data science that refer to unobserved variables (latent variables) and high-dimensional representations (latent spaces) of data, capturing underlying structures and relationships, often used in various models to account for noise and enhance understanding of data.
+Concepts related to unobserved variables and high-dimensional representations that capture underlying structures and relationships in data. Latent variables are inferred from observed data, while latent spaces represent the relationships between these variables in a high-dimensional context.

@@ -1,6 +1,6 @@
 ---
-date: '2024-10-08'
+date: '2024-09-25'
 type: Concept
 ---
 
-A field of artificial intelligence focused on creating new content, such as text, images, music, and video, based on learned patterns from existing data, utilizing various generative AI techniques.
+Intelligent systems and technologies that leverage generative AI techniques to produce original content like art, music, and human-like text, and perform tasks while interacting with users.

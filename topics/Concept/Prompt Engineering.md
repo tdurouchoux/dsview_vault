@@ -1,6 +1,6 @@
 ---
-date: '2024-10-08'
+date: '2023-01-12'
 type: Concept
 ---
 
-The practice and discipline of designing, refining, and structuring optimal prompts for generative models and large language models to achieve specific goals, effectively communicate tasks, and optimize their performance in generating desired outputs.
+A discipline focused on designing optimal prompts for generative models to achieve specific goals.

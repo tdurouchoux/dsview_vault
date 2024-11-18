@@ -3,4 +3,4 @@ date: '2024-07-03'
 type: Concept
 ---
 
-The process of automatically generating programs that meet a specified set of requirements or specifications.
+A method of automatically generating programs that can adapt to new tasks based on limited examples.

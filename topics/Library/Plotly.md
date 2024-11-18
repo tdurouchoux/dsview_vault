@@ -1,6 +1,6 @@
 ---
-date: '2022-11-03'
+date: '2024-04-10'
 type: Library
 ---
 
-A graphing library for Python that makes interactive, publication-quality graphs online.
+A powerful open-source Python library for creating interactive visualizations and building production-ready, visually appealing web-based analytical applications and dashboards.

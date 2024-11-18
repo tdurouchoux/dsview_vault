@@ -1,8 +1,5 @@
 ---
-already_read: false
 link: https://app.lewagon.school/collections?page=1
-read_priority: 1
-source: null
 tags:
 - Generative_AI
 - Python
@@ -13,23 +10,17 @@ upload_date: '2024-02-15'
 https://app.lewagon.school/collections?page=1
 ## Summary
 
-Le Wagon offers a variety of courses focused on key areas in technology and data science. Notable courses include:
+Le Wagon offers a variety of courses focused on different aspects of technology and data science. Key courses include:
 
-- **Intro to Generative AI**: 74 lessons, priced at €590, covering foundational concepts and applications of generative AI.
-- **Scrape the Web with Python**: A free course with 9 lessons focused on web scraping techniques using Python.
-- **Intro to Artificial Intelligence**: A free 17-lesson course introducing AI principles and practices.
-- **Intro to Docker**: A free course with 11 lessons on containerization and Docker usage.
-- **Intro to Git & Github**: A free 13-lesson course on version control and collaboration using Git and GitHub.
-- **Intro to UI/UX Design**: A free 13-lesson course covering the basics of user interface and user experience design.
+- **Intro to AI-driven SEO**: 7 lessons covering the integration of AI in search engine optimization.
+- **Intro to engaging Meta ads with AI**: 7 lessons on utilizing AI for effective advertising on Meta platforms.
+- **Intro to generative AI**: 80 lessons exploring the principles and applications of generative AI.
+- **Scrape the web with Python**: 9 lessons teaching web scraping techniques using Python.
+- **Intro to Artificial Intelligence**: 17 lessons providing foundational knowledge in AI.
+- **Intro to Docker**: 11 lessons on containerization and its benefits for development.
 
-These courses provide foundational knowledge and practical skills in their respective areas.
+Most courses are free, with the exception of the generative AI course, which has a fee of €590.
 ## Links
 
 no links
 ## Topics
-
-- [[topics/Concept/General-purpose and Generative AI]]
-- [[topics/Platform/Python in Excel]]
-- [[topics/Platform/Docker]]
-- [[topics/Concept/Git & Github]]
-- [[topics/Concept/UI UX design]]

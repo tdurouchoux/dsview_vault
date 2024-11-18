@@ -3,4 +3,4 @@ date: '2024-11-01'
 type: Library
 ---
 
-An interactive tool in skrub for exploring dataframes.
+An interactive data exploration tool in skrub for visualizing dataframes.

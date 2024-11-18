@@ -3,4 +3,4 @@ date: '2023-09-21'
 type: Concept
 ---
 
-A mechanism for preventing naming conflicts in programming by allowing the same name to exist in different contexts.
+A programming concept that helps prevent naming conflicts by allowing the same name to exist in different contexts.

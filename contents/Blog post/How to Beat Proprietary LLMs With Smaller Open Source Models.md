@@ -22,25 +22,29 @@ The article discusses the advantages of using smaller open-source language model
 
 - **Strategies for Open Source Models**:
   - **Multi-turn Conversations**: Breaking tasks into smaller subtasks can improve performance without overwhelming the model.
-  - **Constrained Decoding**: This technique enhances throughput and task performance by ensuring outputs conform to desired structures.
-  - **Caching and Backend Optimizations**: Implementing caching strategies can significantly improve throughput and reduce costs.
-  - **Model Fine-Tuning**: Open-source models allow for extensive fine-tuning, which can enhance task performance without increasing costs.
-  - **Optimal Model Sizing**: Selecting the smallest model that meets task requirements can improve efficiency.
+  - **Constrained Decoding**: This technique enhances throughput and task performance by ensuring structured outputs, which is not feasible with proprietary models.
+  - **Caching and Backend Optimizations**: Implementing caching strategies and model quantization can significantly improve system efficiency.
+  - **Fine-Tuning and Knowledge Distillation**: Open-source models allow for extensive fine-tuning, which can enhance task performance without increasing costs.
+  - **Optimal Model Sizing**: Selecting the smallest model that meets task requirements can improve throughput and reduce costs.
 
-- **Technical Roadmap**: The article outlines a structured approach to implementing these strategies, emphasizing the importance of aligning techniques to avoid dysfunction.
+- **Technical Roadmap**: The article outlines a logical order for implementing these strategies, emphasizing the importance of aligning techniques to avoid dysfunction.
 
-In conclusion, open-source models can outperform proprietary ones in speed, cost, and performance if systems are designed to leverage their unique advantages.
+In conclusion, open-source models can outperform proprietary ones in speed, cost, and performance when systems are designed to leverage their unique advantages.
 ## Links
 
-1. [A Guide to Structured Generation Using Constrained Decoding](https://www.aidancooper.co.uk/constrained-decoding/) - An article detailing the techniques and benefits of constrained decoding in generative language models.
-2. [blogpost on fine-tuning methods](https://magazine.sebastianraschka.com/p/using-and-finetuning-pretrained-transformers?ref=aidancooper.co.uk) - A primer on various fine-tuning techniques for improving model performance.
-3. [Parameter-efficient fine-tuning](https://huggingface.co/docs/peft/en/index?ref=aidancooper.co.uk) - A guide on methods for fine-tuning models efficiently, focusing on resource management.
-4. [vLLM](https://github.com/vllm-project/vllm?ref=aidancooper.co.uk) - A GitHub repository for vLLM, a framework designed to optimize inference throughput for language models.
-5. [SGLang launch blog post](https://lmsys.org/blog/2024-01-17-sglang/?ref=aidancooper.co.uk) - A blog post discussing the capabilities and performance of the SGLang framework for language model serving.
+1. [A Guide to Structured Outputs Using Constrained Decoding](https://www.aidancooper.co.uk/constrained-decoding/) - An article explaining the techniques and benefits of constrained decoding for generating structured outputs with language models.
+2. [Using and Fine-tuning Pretrained Transformers](https://magazine.sebastianraschka.com/p/using-and-finetuning-pretrained-transformers?ref=aidancooper.co.uk) - A primer on fine-tuning methods for pretrained transformer models, which is crucial for optimizing task performance.
+3. [Hugging Face - Model Quantization](https://huggingface.co/docs/optimum/en/concept_guides/quantization?ref=aidancooper.co.uk) - Documentation on model quantization techniques that can help reduce model size and improve inference speed without significantly compromising performance.
+4. [SGLang GitHub Repository](https://github.com/sgl-project/sglang?tab=readme-ov-file&ref=aidancooper.co.uk#control-flow) - A repository for SGLang, a framework that offers various optimizations for serving language models, including caching and parallelization techniques.
+5. [Hugging Face - PEFT Documentation](https://huggingface.co/docs/peft/en/index?ref=aidancooper.co.uk) - Documentation on Parameter-Efficient Fine-Tuning (PEFT) techniques, which are essential for adapting models to specific tasks efficiently.
 ## Topics
 
-- [[topics/Concept/Open Source Software Development]]
-- [[topics/Concept/Proprietary LLMs]]
-- [[topics/Concept/Constrained Decoding]]
-- [[topics/Concept/Model Training and Fine-Tuning]]
-- [[topics/Concept/Caching Techniques]]
+![](topics/Concept/Open%20Source%20LLMs)
+
+![](topics/Concept/Proprietary%20LLMs)
+
+![](topics/Concept/Constrained%20Decoding)
+
+![](topics/Concept/Model%20Fine%20Tuning)
+
+![](topics/Product/vLLM)

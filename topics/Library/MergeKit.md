@@ -3,4 +3,4 @@ date: '2024-10-08'
 type: Library
 ---
 
-A library designed for merging pre-trained language models with support for various merging algorithms and configurations, while also enabling easy model merging without the need for GPU resources.
+A library that simplifies the process of merging pre-trained language models, supporting various merging algorithms and configurations, without requiring GPU resources.

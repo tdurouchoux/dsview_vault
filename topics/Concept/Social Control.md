@@ -3,4 +3,4 @@ date: '2022-10-13'
 type: Concept
 ---
 
-Mechanisms, strategies, and practices employed by authorities to regulate individual behavior and maintain social order.
+Social control refers to the mechanisms, strategies, and institutions that societies use to regulate individual behavior and maintain social order, often through surveillance and data collection.

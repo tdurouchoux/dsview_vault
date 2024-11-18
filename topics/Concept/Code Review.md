@@ -1,6 +1,6 @@
 ---
-date: '2024-09-29'
+date: '2024-09-24'
 type: Concept
 ---
 
-A systematic process of examining computer source code where peers evaluate each other's code to identify bugs, suggest improvements, and ensure adherence to coding standards and quality before code is merged into the main codebase.
+A systematic process where peers evaluate each other's code to identify issues, suggest improvements, and ensure quality before code is merged into the main codebase.

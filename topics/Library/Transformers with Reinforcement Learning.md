@@ -1,6 +1,6 @@
 ---
-date: '2023-01-19'
+date: '2024-04-24'
 type: Library
 ---
 
-A library that combines the Transformer model architecture, which utilizes attention mechanisms for sequence transduction tasks, with reinforcement learning techniques such as Proximal Policy Optimization (PPO) to enhance and fine-tune pretrained language models, particularly within the Hugging Face ecosystem.
+A library that integrates the concept of Transformers, a model architecture primarily used in natural language processing tasks known for its attention mechanisms, with reinforcement learning techniques like Proximal Policy Optimization (PPO) to enhance the fine-tuning of pretrained language models within the Hugging Face ecosystem.

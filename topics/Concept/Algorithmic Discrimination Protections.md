@@ -3,4 +3,4 @@ date: '2022-10-13'
 type: Concept
 ---
 
-Measures aimed at preventing discrimination caused by automated systems and ensuring equitable treatment.
+Measures to prevent discrimination by algorithms and ensure equitable treatment in automated systems.

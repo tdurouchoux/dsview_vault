@@ -3,4 +3,4 @@ date: '2024-10-12'
 type: Concept
 ---
 
-The significant market value and revenue generation potential of AI companies.
+The total market value of AI companies, which has reached $9 trillion, reflecting the economic impact of AI.

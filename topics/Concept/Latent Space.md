@@ -1,6 +1,6 @@
 ---
-date: '2024-11-09'
+date: '2024-02-22'
 type: Concept
 ---
 
-Latent space refers to the multi-dimensional space where embeddings are positioned, allowing for the representation of semantic relationships between texts and enabling models to operate on lower-dimensional embeddings instead of raw pixel data.
+A compressed representation of data that allows for visualization and exploration through latent spaces. This concept is fundamental in understanding how tools like Latent Scope operate, enabling encoding, projecting, clustering, and labeling of data for various applications, including image generation.

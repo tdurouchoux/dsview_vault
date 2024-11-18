@@ -3,11 +3,6 @@ already_read: true
 link: https://www.stateof.ai/
 read_priority: 5
 source: Alpha Signal
-tags:
-- AI_regulation
-- Data_Quality
-- Natural_Language_Processing
-- Generative_AI
 type: Content
 upload_date: '2024-10-12'
 ---
@@ -21,17 +16,23 @@ The State of AI Report 2024, produced by Nathan Benaich and Air Street Capital, 
 - A focus on planning and reasoning in LLM research, exploring integrations with reinforcement learning and self-improvement for advanced applications.
 - Foundation models are expanding beyond language, impacting various fields such as mathematics and biology.
 - US sanctions have had limited impact on Chinese AI labs, which continue to produce competitive models through various means.
-- The enterprise value of AI companies has reached $9 trillion, with public companies benefiting from a bull market, while private investment lags.
-- Some AI companies are starting to generate significant revenue, but concerns about long-term sustainability remain as model costs decrease.
+- The enterprise value of AI companies has reached $9 trillion, with public companies benefiting significantly, while private investment lags.
+- Some AI companies are starting to generate substantial revenue, but concerns about long-term sustainability remain as model costs decrease.
 - The concept of "pseudo-acquisition" is emerging as a strategy for companies struggling with viable business models.
-- The discourse on existential risks has diminished, but research continues on model vulnerabilities and potential safeguards.
+- The discourse on existential risks has diminished, but research into model vulnerabilities and safeguards continues.
+
+The report aims to foster informed discussions about AI's future implications.
 ## Links
 
 no links
 ## Topics
 
-- [[topics/Concept/AI Safety]]
-- [[topics/Concept/Foundation Models]]
-- [[topics/Concept/AI Regulation and Effectiveness]]
-- [[topics/Concept/Enterprise Value of AI Companies]]
-- [[topics/Concept/Existential Risk Discourse]]
+![](topics/Concept/AI%20Safety%20and%20Privacy)
+
+![](topics/Concept/Foundation%20Models)
+
+![](topics/Concept/Enterprise%20Value%20of%20AI%20Companies)
+
+![](topics/Concept/Investment%20Trends%20in%20AI)
+
+![](topics/Concept/Model%20Vulnerabilities)

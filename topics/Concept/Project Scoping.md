@@ -3,4 +3,4 @@ date: '2024-10-26'
 type: Concept
 ---
 
-The process of assessing the potential impact of a project, prioritizing tasks, and determining the resources needed for successful completion.
+The process of defining the scope and potential impact of a data science project, including identifying stakeholders and assessing project feasibility.

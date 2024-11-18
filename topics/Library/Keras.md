@@ -1,6 +1,6 @@
 ---
-date: '2023-04-13'
+date: '2024-03-14'
 type: Library
 ---
 
-A high-level neural networks API for Python that provides a convenient way to define and train deep-learning models, capable of running on top of TensorFlow.
+Keras is a high-level neural networks API written in Python, designed for building and training deep-learning models. It can run on top of TensorFlow and provides a convenient interface for defining complex neural network architectures.

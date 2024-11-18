@@ -3,4 +3,4 @@ date: '2024-07-10'
 type: Concept
 ---
 
-A statistical technique used for finding maximum likelihood estimates in models with latent variables, particularly useful for handling missing data.
+An iterative optimization method used in PPCA for estimating parameters and handling missing data by alternating between estimating latent variables and updating parameters.

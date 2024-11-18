@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1731282710079,
+      "title": "Graph cluster view",
+      "options": {
+        "collapse-filter": true,
+        "search": "",
+        "showTags": true,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "[\"type\":\"content\"]",
+            "color": {
+              "a": 1,
+              "rgb": 14048348
+            }
+          },
+          {
+            "query": "[\"type\":\"Library\"]",
+            "color": {
+              "a": 1,
+              "rgb": 14069084
+            }
+          },
+          {
+            "query": "[\"type\":\"Model\"]",
+            "color": {
+              "a": 1,
+              "rgb": 6079190
+            }
+          },
+          {
+            "query": "[\"type\":\"Platform\"]",
+            "color": {
+              "a": 1,
+              "rgb": 6054102
+            }
+          },
+          {
+            "query": "[\"type\":\"Concept\"]",
+            "color": {
+              "a": 1,
+              "rgb": 13333975
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": -0.4,
+        "nodeSizeMultiplier": 1.217333984375,
+        "lineSizeMultiplier": 1.25242513020833,
+        "collapse-forces": false,
+        "centerStrength": 0,
+        "repelStrength": 8.29752604166667,
+        "linkStrength": 0.960774739583333,
+        "linkDistance": 54,
+        "scale": 0.12434057557859655,
+        "close": true
+      }
+    }
+  ]
+}

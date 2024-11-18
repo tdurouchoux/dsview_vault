@@ -1,6 +1,6 @@
 ---
-date: '2024-10-29'
+date: '2024-01-25'
 type: Concept
 ---
 
-The practice of representing data in graphical formats to facilitate understanding and insights. This includes various techniques and methods for effectively representing data visually, using visual elements like charts, graphs, and maps to make data easier to understand.
+Guidelines and principles for creating effective and informative data visualizations, including best practices for graphical representation of information and data to communicate insights effectively.

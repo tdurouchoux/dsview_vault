@@ -5,8 +5,8 @@ read_priority: 1
 source: null
 tags:
 - Data_Visualization
+- Dimensionality_reduction
 - Deep_Learning
-- Python
 type: Content
 upload_date: '2024-05-29'
 ---
@@ -26,28 +26,30 @@ Key points include:
 
 - **Data Collection and Preparation**: Emphasizes the importance of defining similarity metrics, pre-filtering data to manage cardinality, and creating a co-occurrence matrix to represent relationships.
 
-- **Building the Co-Occurrence Matrix**: Discusses memory and performance considerations, recommending sparse matrix representations for large datasets.
+- **Building the Co-Occurrence Matrix**: Discusses memory and performance considerations, recommending sparse matrix representations for large datasets and using libraries like numba for performance optimization.
 
-- **Sparse Entity Relationship Graph**: Introduces PyMDE for preprocessing and embedding, highlighting the importance of parameters like n_neighbors and embedding_dim.
+- **Sparse Entity Relationship Graph**: Introduces PyMDE for preprocessing and embedding generation, highlighting the importance of parameters like n_neighbors and embedding_dim.
 
-- **Generating Initial Embedding**: The process is straightforward after preprocessing, with an emphasis on evaluating embedding quality based on structure and visual appeal.
+- **Generating Initial Embedding**: After preprocessing, the embedding is generated, and its quality is evaluated based on structure and visual appeal.
 
-- **Projecting Down to 2D**: UMAP and t-SNE are recommended for effective 2D visualizations, each with unique characteristics and parameters to tune.
+- **Projecting Down to 2D**: UMAP and t-SNE are recommended for projecting high-dimensional embeddings to 2D, each with distinct characteristics and parameters to tune.
 
-- **Building the Visualization UI**: The author advocates for web applications using WebGL for performance, sharing insights on rendering techniques and libraries like Pixi.JS.
+- **Building the Visualization UI**: The author advocates for web applications using WebGL or WebGPU for rendering, emphasizing performance and user experience.
 
-- **Conclusion**: Summarizes the embedding visualization process, encouraging others to explore this approach for data analysis.
+- **Conclusion**: Summarizes the process of creating embedding visualizations, encouraging others to explore this approach for data analysis.
 
 Overall, the content provides a comprehensive overview of the techniques and considerations involved in creating effective interactive embedding visualizations.
 ## Links
 
-1. [PyMDE](https://pymde.org/) - A Python library implementing Minimum Distortion Embedding for generating embeddings from high-dimensional data.
-2. [UMAP](https://umap-learn.readthedocs.io/en/latest/parameters.html#n-neighbors) - A popular algorithm for dimensionality reduction that preserves both local and global structure in data.
-3. [t-SNE](https://distill.pub/2016/misread-tsne/) - A technique for dimensionality reduction that is particularly good at visualizing high-dimensional data in two or three dimensions.
-4. [Emblaze](https://dig.cmu.edu/emblaze/emblaze/) - A Jupyter Notebook widget for creating, visualizing, and comparing embeddings using various algorithms.
-5. [Pixi.JS](https://pixijs.com/) - A 2D rendering library that uses WebGL for creating interactive graphics and visualizations in web applications.
+1. [PyMDE Documentation](https://pymde.org/api/index.html#pymde.preserve_neighbors) - Official documentation for the PyMDE library, which implements Minimum Distortion Embedding and includes preprocessing routines for embedding generation.
+2. [UMAP Documentation](https://umap-learn.readthedocs.io/en/latest/parameters.html#n-neighbors) - Comprehensive guide on UMAP, an algorithm for dimensionality reduction and visualization, including key parameters like n_neighbors.
+3. [PixiJS](https://pixijs.com/) - A popular 2D rendering library that uses WebGL for high-performance graphics, suitable for building interactive visualizations.
+4. [Emblaze](https://dig.cmu.edu/emblaze/emblaze/) - A Jupyter Notebook widget for creating, visualizing, and comparing embeddings using various algorithms, ideal for embedding visualization projects.
+5. [REGL](https://github.com/regl-project/regl) - A functional WebGL library that simplifies the process of rendering graphics, useful for custom visualizations in embedding projects.
 ## Topics
 
-- [[topics/Concept/Embedding Visualizations]]
-- [[topics/Library/PyMDE]]
-- [[topics/Library/Emblaze]]
+![](topics/Library/PyMDE)
+
+![](topics/Library/Emblaze)
+
+![](topics/Concept/Co%20Occurrence%20Matrix)

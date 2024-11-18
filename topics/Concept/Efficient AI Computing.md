@@ -1,6 +1,6 @@
 ---
-date: '2022-09-15'
+date: '2023-09-28'
 type: Concept
 ---
 
-A concept focused on optimizing artificial intelligence computations, including techniques that enable powerful deep learning applications on resource-constrained devices, to enhance performance and reduce resource consumption.
+Efficient AI Computing refers to techniques and methodologies aimed at optimizing the performance and resource usage of machine learning models, particularly in resource-constrained and low-power environments.
