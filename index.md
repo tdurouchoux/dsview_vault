@@ -1,9 +1,10 @@
 # Index of Input Contents
 
-> Last updated on : 2024-11-18T23:01:21.581700
+> Last updated on : 2024-11-19T23:36:58.024778
 
 | Upload Date | Read priority | Source | Note |
 |-------------|---------------|--------|------|
+| 2024-11-19 | 5 | Data Elixir | [Fastest Network Node Embeddings](obsidian://open?vault=dsview_vault&file=Fastest%20Network%20Node%20Embeddings) |
 | 2024-11-18 | 3 | Alpha Signal | [Neo AI Engineer](obsidian://open?vault=dsview_vault&file=Neo%20AI%20Engineer) |
 | 2024-11-18 | 3 | Alpha Signal | [Mitigating LLM Jailbreaks with Rapid Response](obsidian://open?vault=dsview_vault&file=Mitigating%20LLM%20Jailbreaks%20with%20Rapid%20Response) |
 | 2024-11-18 | 4 | Alpha Signal | [Mixture of Experts Explained](obsidian://open?vault=dsview_vault&file=Mixture%20of%20Experts%20Explained) |
