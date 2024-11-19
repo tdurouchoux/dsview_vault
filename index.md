@@ -1,9 +1,10 @@
 # Index of Input Contents
 
-> Last updated on : 2024-11-19T23:46:55.336525
+> Last updated on : 2024-11-19T23:47:42.142586
 
 | Upload Date | Read priority | Source | Note |
 |-------------|---------------|--------|------|
+| 2024-11-19 | 1 | Data Elixir | [FireDucks Pandas but 100x faster](obsidian://open?vault=dsview_vault&file=FireDucks%20Pandas%20but%20100x%20faster) |
 | 2024-11-19 | 1 | Data Elixir | [Tips for Data Entry in Excel](obsidian://open?vault=dsview_vault&file=Tips%20for%20Data%20Entry%20in%20Excel) |
 | 2024-11-19 | 1 | Data Elixir | [Visualizing 13 Million BlueSky Users](obsidian://open?vault=dsview_vault&file=Visualizing%2013%20Million%20BlueSky%20Users) |
 | 2024-11-19 | 5 | Data Elixir | [Fastest Network Node Embeddings](obsidian://open?vault=dsview_vault&file=Fastest%20Network%20Node%20Embeddings) |
