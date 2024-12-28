@@ -1,9 +1,10 @@
 # Index of Input Contents
 
-> Last updated on : 2024-12-28T16:18:41.877164
+> Last updated on : 2024-12-28T16:20:15.021018
 
 | Upload Date | Read priority | Source | Note |
 | ----------- | ------------- | ------ | ---- |
+| 2024-12-28 | 3 | Alpha Signal | [Introducing Phi 4 Microsoft s Newest Small Language Model Specializing in Complex Reasoning](obsidian://open?vault=dsview_vault&file=Introducing%20Phi%204%20Microsoft%20s%20Newest%20Small%20Language%20Model%20Specializing%20in%20Complex%20Reasoning) |
 | 2024-12-28 | 2 | Alpha Signal | [Updates to Veo Imagen and VideoFX plus introducing Whisk in Google Labs](obsidian://open?vault=dsview_vault&file=Updates%20to%20Veo%20Imagen%20and%20VideoFX%20plus%20introducing%20Whisk%20in%20Google%20Labs) |
 | 2024-12-28 | 4 | Alpha Signal | [Proactive Agent with Real Time Event Processing](obsidian://open?vault=dsview_vault&file=Proactive%20Agent%20with%20Real%20Time%20Event%20Processing) |
 | 2024-11-19  | 1             | Data Elixir         | [FireDucks Pandas but 100x faster](obsidian://open?vault=dsview_vault&file=FireDucks%20Pandas%20but%20100x%20faster)                                                                                                     |
