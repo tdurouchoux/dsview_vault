@@ -1,9 +1,10 @@
 # Index of Input Contents
 
-> Last updated on : 2024-12-28T20:50:21.546076
+> Last updated on : 2024-12-28T20:53:45.532081
 
 | Upload Date | Read priority | Source | Note |
 | ----------- | ------------- | ------ | ---- |
+| 2024-12-28 | 3 | Alpha Signal | [Scaling Test Time Compute](obsidian://open?vault=dsview_vault&file=Scaling%20Test%20Time%20Compute) |
 | 2024-12-28 | 4 | Alpha Signal | [Alignment Faking in Large Language Models](obsidian://open?vault=dsview_vault&file=Alignment%20Faking%20in%20Large%20Language%20Models) |
 | 2024-12-28 | 3 | Alpha Signal | [FACTS Grounding Evaluating LLM Factuality](obsidian://open?vault=dsview_vault&file=FACTS%20Grounding%20Evaluating%20LLM%20Factuality) |
 | 2024-12-28 | 4 | Data Elixir | [AI Engineering Resources](obsidian://open?vault=dsview_vault&file=AI%20Engineering%20Resources) |
