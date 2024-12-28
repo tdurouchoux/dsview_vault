@@ -1,9 +1,10 @@
 # Index of Input Contents
 
-> Last updated on : 2024-12-28T21:02:01.879816
+> Last updated on : 2024-12-28T21:03:13.369353
 
 | Upload Date | Read priority | Source | Note |
 | ----------- | ------------- | ------ | ---- |
+| 2024-12-28 | 5 | Alpha Signal | [GitIngest Codebase Extraction Tool](obsidian://open?vault=dsview_vault&file=GitIngest%20Codebase%20Extraction%20Tool) |
 | 2024-12-28 | 5 | Alpha Signal | [Use Ollama with GGUF Models on Hugging Face](obsidian://open?vault=dsview_vault&file=Use%20Ollama%20with%20GGUF%20Models%20on%20Hugging%20Face) |
 | 2024-12-28 | 1 | Alpha Signal | [DeepSeek V3 Mixture of Experts Language Model](obsidian://open?vault=dsview_vault&file=DeepSeek%20V3%20Mixture%20of%20Experts%20Language%20Model) |
 | 2024-12-28 | 3 | Alpha Signal | [Scaling Test Time Compute](obsidian://open?vault=dsview_vault&file=Scaling%20Test%20Time%20Compute) |
