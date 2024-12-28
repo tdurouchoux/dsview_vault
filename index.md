@@ -1,9 +1,10 @@
 # Index of Input Contents
 
-> Last updated on : 2024-12-28T20:44:05.185790
+> Last updated on : 2024-12-28T20:49:41.785922
 
 | Upload Date | Read priority | Source | Note |
 | ----------- | ------------- | ------ | ---- |
+| 2024-12-28 | 3 | Alpha Signal | [FACTS Grounding Evaluating LLM Factuality](obsidian://open?vault=dsview_vault&file=FACTS%20Grounding%20Evaluating%20LLM%20Factuality) |
 | 2024-12-28 | 4 | Data Elixir | [AI Engineering Resources](obsidian://open?vault=dsview_vault&file=AI%20Engineering%20Resources) |
 | 2024-12-28 | 5 | Data Elixir | [MarkItDown Convert Files to Markdown](obsidian://open?vault=dsview_vault&file=MarkItDown%20Convert%20Files%20to%20Markdown) |
 | 2024-12-28 | 3 | Data Elixir | [Reinforcement Learning An Overview](obsidian://open?vault=dsview_vault&file=Reinforcement%20Learning%20An%20Overview) |
