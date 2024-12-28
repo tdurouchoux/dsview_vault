@@ -1,9 +1,10 @@
 # Index of Input Contents
 
-> Last updated on : 2024-12-28T20:04:41.286189
+> Last updated on : 2024-12-28T20:12:54.207257
 
 | Upload Date | Read priority | Source | Note |
 | ----------- | ------------- | ------ | ---- |
+| 2024-12-28 | 4 | Data Elixir | [Streamlining AI Paper Discovery Building an Automated Research Newsletter](obsidian://open?vault=dsview_vault&file=Streamlining%20AI%20Paper%20Discovery%20Building%20an%20Automated%20Research%20Newsletter) |
 | 2024-12-28 | 1 | Data Elixir | [Trustworthiness in the Age of AI](obsidian://open?vault=dsview_vault&file=Trustworthiness%20in%20the%20Age%20of%20AI) |
 | 2024-12-28 | 1 | Alpha Signal | [Dify Open source LLM App Development Platform](obsidian://open?vault=dsview_vault&file=Dify%20Open%20source%20LLM%20App%20Development%20Platform) |
 | 2024-12-28 | 3 | Alpha Signal | [Introducing Phi 4 Microsoft s Newest Small Language Model Specializing in Complex Reasoning](obsidian://open?vault=dsview_vault&file=Introducing%20Phi%204%20Microsoft%20s%20Newest%20Small%20Language%20Model%20Specializing%20in%20Complex%20Reasoning) |
