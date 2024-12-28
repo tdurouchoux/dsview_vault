@@ -1,9 +1,10 @@
 # Index of Input Contents
 
-> Last updated on : 2024-12-27T22:18:30.455165
+> Last updated on : 2024-12-28T16:11:14.605147
 
-| Upload Date | Read priority | Source              | Note                                                                                                                                                                                                                     |
-| ----------- | ------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Upload Date | Read priority | Source | Note |
+| ----------- | ------------- | ------ | ---- |
+| 2024-12-28 | 4 | Alpha Signal | [Proactive Agent with Real Time Event Processing](obsidian://open?vault=dsview_vault&file=Proactive%20Agent%20with%20Real%20Time%20Event%20Processing) |
 | 2024-11-19  | 1             | Data Elixir         | [FireDucks Pandas but 100x faster](obsidian://open?vault=dsview_vault&file=FireDucks%20Pandas%20but%20100x%20faster)                                                                                                     |
 | 2024-11-19  | 1             | Data Elixir         | [Tips for Data Entry in Excel](obsidian://open?vault=dsview_vault&file=Tips%20for%20Data%20Entry%20in%20Excel)                                                                                                           |
 | 2024-11-19  | 1             | Data Elixir         | [Visualizing 13 Million BlueSky Users](obsidian://open?vault=dsview_vault&file=Visualizing%2013%20Million%20BlueSky%20Users)                                                                                             |
