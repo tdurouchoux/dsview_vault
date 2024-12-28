@@ -1,9 +1,10 @@
 # Index of Input Contents
 
-> Last updated on : 2024-12-28T20:53:45.532081
+> Last updated on : 2024-12-28T21:00:05.854330
 
 | Upload Date | Read priority | Source | Note |
 | ----------- | ------------- | ------ | ---- |
+| 2024-12-28 | 1 | Alpha Signal | [DeepSeek V3 Mixture of Experts Language Model](obsidian://open?vault=dsview_vault&file=DeepSeek%20V3%20Mixture%20of%20Experts%20Language%20Model) |
 | 2024-12-28 | 3 | Alpha Signal | [Scaling Test Time Compute](obsidian://open?vault=dsview_vault&file=Scaling%20Test%20Time%20Compute) |
 | 2024-12-28 | 4 | Alpha Signal | [Alignment Faking in Large Language Models](obsidian://open?vault=dsview_vault&file=Alignment%20Faking%20in%20Large%20Language%20Models) |
 | 2024-12-28 | 3 | Alpha Signal | [FACTS Grounding Evaluating LLM Factuality](obsidian://open?vault=dsview_vault&file=FACTS%20Grounding%20Evaluating%20LLM%20Factuality) |
