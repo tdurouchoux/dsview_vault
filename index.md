@@ -1,9 +1,10 @@
 # Index of Input Contents
 
-> Last updated on : 2024-12-28T16:23:04.525722
+> Last updated on : 2024-12-28T20:04:41.286189
 
 | Upload Date | Read priority | Source | Note |
 | ----------- | ------------- | ------ | ---- |
+| 2024-12-28 | 1 | Data Elixir | [Trustworthiness in the Age of AI](obsidian://open?vault=dsview_vault&file=Trustworthiness%20in%20the%20Age%20of%20AI) |
 | 2024-12-28 | 1 | Alpha Signal | [Dify Open source LLM App Development Platform](obsidian://open?vault=dsview_vault&file=Dify%20Open%20source%20LLM%20App%20Development%20Platform) |
 | 2024-12-28 | 3 | Alpha Signal | [Introducing Phi 4 Microsoft s Newest Small Language Model Specializing in Complex Reasoning](obsidian://open?vault=dsview_vault&file=Introducing%20Phi%204%20Microsoft%20s%20Newest%20Small%20Language%20Model%20Specializing%20in%20Complex%20Reasoning) |
 | 2024-12-28 | 2 | Alpha Signal | [Updates to Veo Imagen and VideoFX plus introducing Whisk in Google Labs](obsidian://open?vault=dsview_vault&file=Updates%20to%20Veo%20Imagen%20and%20VideoFX%20plus%20introducing%20Whisk%20in%20Google%20Labs) |

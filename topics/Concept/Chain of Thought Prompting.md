@@ -1,6 +1,6 @@
 ---
-date: '2023-01-12'
+date: '2024-12-28'
 type: Concept
 ---
 
-A prompting technique that encourages models to reason step by step to improve factual accuracy.
+A method that encourages models to reason through problems step-by-step, improving their ability to generate accurate responses. This prompting technique enhances the model's ability to generate accurate responses by guiding it to think through the problem systematically.

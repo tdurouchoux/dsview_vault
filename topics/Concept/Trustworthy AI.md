@@ -1,6 +1,6 @@
 ---
-date: '2024-03-14'
+date: '2024-12-28'
 type: Concept
 ---
 
-The principle of developing artificial intelligence systems that are safe, reliable, and respect human rights.
+The concept of trustworthiness in artificial intelligence, particularly in relation to how users perceive and interact with AI systems, and the principle of developing AI systems that are safe, reliable, and respect human rights.
