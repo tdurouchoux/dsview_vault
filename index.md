@@ -1,9 +1,10 @@
 # Index of Input Contents
 
-> Last updated on : 2024-12-28T20:12:54.207257
+> Last updated on : 2024-12-28T20:21:34.896339
 
 | Upload Date | Read priority | Source | Note |
 | ----------- | ------------- | ------ | ---- |
+| 2024-12-28 | 1 | Data Elixir | [Connected Papers](obsidian://open?vault=dsview_vault&file=Connected%20Papers) |
 | 2024-12-28 | 4 | Data Elixir | [Streamlining AI Paper Discovery Building an Automated Research Newsletter](obsidian://open?vault=dsview_vault&file=Streamlining%20AI%20Paper%20Discovery%20Building%20an%20Automated%20Research%20Newsletter) |
 | 2024-12-28 | 1 | Data Elixir | [Trustworthiness in the Age of AI](obsidian://open?vault=dsview_vault&file=Trustworthiness%20in%20the%20Age%20of%20AI) |
 | 2024-12-28 | 1 | Alpha Signal | [Dify Open source LLM App Development Platform](obsidian://open?vault=dsview_vault&file=Dify%20Open%20source%20LLM%20App%20Development%20Platform) |
