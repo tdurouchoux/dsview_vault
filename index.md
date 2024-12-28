@@ -1,9 +1,10 @@
 # Index of Input Contents
 
-> Last updated on : 2024-12-28T16:11:14.605147
+> Last updated on : 2024-12-28T16:18:41.877164
 
 | Upload Date | Read priority | Source | Note |
 | ----------- | ------------- | ------ | ---- |
+| 2024-12-28 | 2 | Alpha Signal | [Updates to Veo Imagen and VideoFX plus introducing Whisk in Google Labs](obsidian://open?vault=dsview_vault&file=Updates%20to%20Veo%20Imagen%20and%20VideoFX%20plus%20introducing%20Whisk%20in%20Google%20Labs) |
 | 2024-12-28 | 4 | Alpha Signal | [Proactive Agent with Real Time Event Processing](obsidian://open?vault=dsview_vault&file=Proactive%20Agent%20with%20Real%20Time%20Event%20Processing) |
 | 2024-11-19  | 1             | Data Elixir         | [FireDucks Pandas but 100x faster](obsidian://open?vault=dsview_vault&file=FireDucks%20Pandas%20but%20100x%20faster)                                                                                                     |
 | 2024-11-19  | 1             | Data Elixir         | [Tips for Data Entry in Excel](obsidian://open?vault=dsview_vault&file=Tips%20for%20Data%20Entry%20in%20Excel)                                                                                                           |
