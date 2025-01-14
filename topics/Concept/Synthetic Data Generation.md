@@ -1,6 +1,6 @@
 ---
-date: '2024-10-12'
+date: '2025-01-08'
 type: Concept
 ---
 
-The process of creating artificial data that mimics real-world data, often used for training machine learning models.
+Techniques for creating and validating synthetic datasets that mimic real-world data, often used for training machine learning models.
