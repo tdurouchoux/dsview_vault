@@ -1,6 +1,6 @@
 ---
-date: '2024-10-02'
+date: '2025-01-22'
 type: Concept
 ---
 
-A process that allows for continuous improvement of document processing pipelines based on user feedback and validation.
+A process of continuously improving data processing pipelines based on feedback and insights gained from initial outputs, allowing for ongoing enhancements based on user feedback and validation.
