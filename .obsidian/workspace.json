@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contents/Documentation/Marimo A Reactive Python Notebook.md",
+                "file": "contents/Blog post/Mixture of Experts Explained.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marimo A Reactive Python Notebook"
+              "title": "Mixture of Experts Explained"
             },
             "group": "091be27e13a0ed08"
           }
@@ -119,11 +119,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "contents/Documentation/Marimo A Reactive Python Notebook.md",
+                "file": "contents/Blog post/Mixture of Experts Explained.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -147,7 +147,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Marimo A Reactive Python Notebook"
+              "title": "Graph of Mixture of Experts Explained"
             },
             "group": "091be27e13a0ed08"
           }
@@ -182,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mixture of experts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,7 +203,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -290,6 +291,13 @@
   },
   "active": "fcb140b2a47fa667",
   "lastOpenFiles": [
+    "vault_dump.sql",
+    "topics/Tool/GShard.md",
+    "topics/Tool/cc downloader.md",
+    "contents/Documentation/DataFrames at Scale Comparison TPC H.md",
+    "contents/Repository/Common Crawl Open Repository of Web Crawl Data.md",
+    "topics/Concept/Common Crawl.md",
+    "contents/Documentation/Marimo A Reactive Python Notebook.md",
     "topics/Library/marimo.md",
     "index.md",
     "contents/Blog post/Rill BI as Code and GenBI Revolution.md",
@@ -309,13 +317,6 @@
     "topics/Concept/Metrics Layer.md",
     "topics/Concept/Generative Business Intelligence GenBI.md",
     "topics/Product/Rill.md",
-    "contents/Blog post/Understanding Embeddings in Technical Writing.md",
-    "topics/Platform/Sphinx.md",
-    "topics/Model/Voyage AI.md",
-    "contents/Blog post/39 Lessons on Building ML Systems.md",
-    "topics/Concept/Scalability Challenges.md",
-    "topics/Concept/User Centric Design.md",
-    "topics/Concept/Execution and Collaboration.md",
     "artefacts/machlearn.pdf",
     "artefacts/2409.18475",
     "artefacts/2408.14837",
