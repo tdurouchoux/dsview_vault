@@ -1,6 +1,6 @@
 ---
-date: '2025-02-12'
+date: '2025-02-18'
 type: Model
 ---
 
-An open weights model designed for reasoning tasks, utilizing a training method that incorporates long chains of reasoning and reinforcement learning.
+A flagship reasoning model developed by DeepSeek, incorporating supervised fine-tuning and reinforcement learning.
