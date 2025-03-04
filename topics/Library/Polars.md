@@ -1,6 +1,6 @@
 ---
-date: '2023-04-20'
+date: '2025-03-04'
 type: Library
 ---
 
-A fast DataFrame library implemented in Rust, designed for performance and efficiency.
+A fast DataFrame library implemented in Rust and Python, designed for performance and efficiency in data manipulation and analysis.
