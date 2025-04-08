@@ -1,6 +1,6 @@
 ---
-date: '2022-09-29'
+date: '2025-04-09'
 type: Library
 ---
 
-A versatile and powerful library for creating high-quality figures suitable for scientific publishing.
+A comprehensive and versatile library for creating static, animated, and interactive visualizations in Python, suitable for high-quality figures and scientific publishing.
