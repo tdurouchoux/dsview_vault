@@ -1,6 +1,6 @@
 ---
-date: '2024-11-18'
+date: '2025-04-12'
 type: Concept
 ---
 
-A method of visually representing data and models to enhance understanding and learning.
+The ability to manipulate and explore data visualizations dynamically, allowing users to engage with the data and enhance understanding and learning.
