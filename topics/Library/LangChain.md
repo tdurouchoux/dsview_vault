@@ -1,6 +1,6 @@
 ---
-date: '2024-10-07'
+date: '2025-04-19'
 type: Library
 ---
 
-A library that provides various techniques for memory management and context handling in conversational AI, while also supporting various large language models (LLMs) and enabling applications to utilize retrieval augmented generation (RAG) frameworks, as well as both remote and local models.
+A framework and library designed for building applications with language models, facilitating integration with various data sources, while providing techniques for memory management and context handling in conversational AI, and supporting retrieval augmented generation (RAG) frameworks, as well as both remote and local models.
