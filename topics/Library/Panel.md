@@ -3,4 +3,4 @@ date: '2024-04-10'
 type: Library
 ---
 
-An open-source library for developing robust dashboards and tools, focusing on data-centered applications with flexibility and extensibility.
+Panel is an open-source library designed for building complex dashboards and applications centered on data. It allows for the integration of various Python tools and libraries, providing a flexible framework for developing interactive and data-centric applications.

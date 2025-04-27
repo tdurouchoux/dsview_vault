@@ -2,10 +2,10 @@
 already_read: true
 link: https://kedro.org/blog/building-scalable-data-pipelines-with-kedro-and-ibis
 read_priority: 0
+relevance: 0
 source: null
 tags:
 - Data_Engineering
-- Python
 type: Content
 upload_date: '2024-09-25'
 ---
@@ -13,32 +13,33 @@ upload_date: '2024-09-25'
 https://kedro.org/blog/building-scalable-data-pipelines-with-kedro-and-ibis
 ## Summary
 
-The article discusses building scalable data pipelines using Kedro and Ibis, highlighting the challenges faced during the transition from development to production. Kedro is praised for its ability to facilitate collaboration among data teams and maintain software engineering principles, but it struggles with scaling when moving from development datasets to production databases.
+The article discusses the integration of Kedro and Ibis for building scalable data pipelines. Kedro is acknowledged for its strong support during the proof-of-concept phase but faces challenges in production deployment, particularly with scaling data workflows. Teams often struggle to optimize existing code when transitioning from development to production databases, particularly when using tools like PySpark, which can underperform compared to direct execution on back-end engines.
 
-Key points include:
+The article advocates for the use of SQL for standardized data workflows and highlights dbt as a robust framework for SQL transformations. It contrasts the SQL approach with Python-centric workflows, suggesting that while teams may prefer Python, a balance can be achieved through Ibis—a Python library that abstracts data wrangling and provides a uniform interface to various data backends. 
 
-- **Development vs. Production**: Kedro excels in the development phase but often requires significant rewrites for production, leading to performance issues and bugs.
-- **SQL as a Standard**: SQL is a universal language for databases, and tools like dbt are recommended for data transformation workflows, especially for teams familiar with SQL.
-- **Ibis Integration**: Ibis provides a Python dataframe API that allows users to write code that can execute across various query engines, combining the flexibility of Python with the performance of SQL.
-- **Pipeline Development**: The article illustrates how to create a custom Ibis dataset in Kedro and develop pipelines using Ibis, showcasing the ease of integrating Ibis with Kedro for data processing tasks.
-- **Future Enhancements**: The author mentions ongoing work to improve data validation and materialization features in Ibis and Kedro, as well as the potential for better deployment functionalities.
+The integration of Ibis into Kedro allows users to leverage both Python's flexibility and SQL's performance, enabling lazy execution and efficient data management. A practical example illustrates how to process data in a Kedro pipeline using Ibis, demonstrating its advantages in maintaining performance while simplifying workflow across various database environments.
 
-Overall, the integration of Ibis into Kedro workflows is presented as a solution to enhance the scalability and maintainability of data pipelines, allowing for more efficient data processing and feature engineering.
+Future extensions of this integration are discussed, including enhancements for data validation and DDL operations. The author encourages feedback on the tutorial and the overall pipeline production experience.
 ## Links
 
-1. [Ibis Project](https://ibis-project.org/) - A Python library that provides a lightweight, universal interface for data wrangling, allowing execution against various query engines.
-2. [Kedro Documentation](https://docs.kedro.org/en/stable/) - Official documentation for Kedro, a framework for building reproducible, maintainable, and modular data science code.
-3. [Jaffle Shop GitHub Repository](https://github.com/dbt-labs/jaffle_shop) - A sample dbt project that serves as a playground for testing and demonstration purposes, relevant for understanding data transformation workflows.
-4. [Kedro-Datasets Documentation](https://docs.kedro.org/projects/kedro-datasets/en/kedro-datasets-2.0.0/) - Documentation for Kedro's dataset management, which is crucial for handling data in Kedro pipelines.
-5. [DBT Materializations Documentation](https://docs.getdbt.com/docs/build/materializations) - Information on how dbt handles materializations, which is important for understanding data transformation and storage in workflows.
+- [Kedro Documentation](https://docs.kedro.org/en/stable/introduction/index.html#introduction-to-kedro) : Official documentation for Kedro, a framework for creating reproducible, maintainable, and modular data science code.
+- [What is dbt?](https://www.getdbt.com/product/what-is-dbt) : A concise overview of dbt (data build tool), a SQL-first framework for data transformation.
+- [Jaffle Shop Example Repository](https://github.com/dbt-labs/jaffle_shop) : The dbt Jaffle Shop example repository used for testing and demonstration of dbt functionalities.
+- [Ibis Project](https://ibis-project.org/) : Official website for the Ibis project, a Python library providing a universal interface for data wrangling across various query engines.
+- [Kedro-Ibis Integration on GitHub](https://github.com/kedro-org/kedro-plugins/blob/kedro-datasets-2.0.0/kedro-datasets/kedro_datasets/pandas/sql_dataset.py) : Kedro integration with Ibis demonstrating how to configure backends for loading and saving data with Ibis.
+
 ## Topics
 
 ![](topics/Library/Kedro)
 
 ![](topics/Library/Ibis)
 
-![](topics/Product/dbt)
+![](topics/Concept/Data%20Pipelines)
 
-![](topics/Concept/Data%20Pipeline)
+![](topics/Platform/dbt%20Data%20Build%20Tool)
 
-![](topics/Concept/Data%20Validation)
+![](topics/Concept/Lazy%20Evaluation)
+
+![](topics/Concept/SQL%20Dialects)
+
+![](topics/Library/DuckDB)

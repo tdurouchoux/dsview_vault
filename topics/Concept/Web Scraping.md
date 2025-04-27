@@ -1,6 +1,6 @@
 ---
-date: '2025-01-29'
+date: '2024-02-15'
 type: Concept
 ---
 
-The process of automatically extracting information from websites or documents, which is a core functionality of various platforms.
+Web scraping involves extracting data from websites using automated methods. This technique is used to collect information from webpages for various purposes such as research, monitoring competitors, gathering data for training machine learning models, and integrating data from multiple sources into analysis pipelines.

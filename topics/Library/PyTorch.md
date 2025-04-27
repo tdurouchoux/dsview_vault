@@ -1,6 +1,6 @@
 ---
-date: '2025-01-14'
+date: '2023-11-23'
 type: Library
 ---
 
-An open-source machine learning library and deep learning framework used for applications such as computer vision, natural language processing, and model implementation.
+A widely used open-source machine learning library that provides a flexible framework for building and training deep learning models, especially neural networks. It emphasizes ease of use and efficiency, with support for dynamic computation graphs.

@@ -3,4 +3,4 @@ date: '2024-09-25'
 type: Library
 ---
 
-Ibis is a versatile library and platform that provides a lightweight, universal interface for data wrangling and accessing data in various data stores. It allows execution against multiple query engines and ensures consistency across different backends.
+Ibis is a Python library that provides a unified interface for data wrangling across multiple backends. It allows users to interact with different query engines through a pandas-compatible dataframe API, enabling seamless execution of code on various databases and distributed computation frameworks without requiring extensive changes in logic.

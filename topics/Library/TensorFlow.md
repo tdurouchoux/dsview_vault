@@ -1,6 +1,6 @@
 ---
-date: '2024-11-01'
+date: '2024-04-10'
 type: Library
 ---
 
-A collection of open-source libraries for machine learning and deep learning applications, including TensorFlow.js for running in the browser and on Node.js, as well as a framework for implementing federated learning and federated analytics. Additionally, it includes TensorFlow Lite, a lightweight version designed for mobile and embedded devices.
+TensorFlow is an open-source framework for machine learning and artificial intelligence developed by Google. It allows for the development and training of models for deep learning applications and is widely used in the industry for building production-level machine learning models.

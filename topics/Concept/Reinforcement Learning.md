@@ -3,4 +3,4 @@ date: '2025-04-22'
 type: Concept
 ---
 
-A type of machine learning where agents learn to achieve goals by interacting with their environment and receiving feedback, including methods that combine reinforcement learning with human feedback to improve decision-making through rewards or penalties.
+A behavioral learning paradigm where agents learn to make decisions by taking actions in an environment to maximize cumulative rewards. This involves sequential decision-making and balancing exploration and exploitation, allowing for the discovery of optimal strategies through trial and error, refining outputs based on feedback rewards.

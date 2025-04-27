@@ -2,9 +2,10 @@
 already_read: false
 link: https://arxiv.org/abs/2305.11377
 read_priority: 1
+relevance: 0
 source: null
 tags:
-- Graph
+- Supervised_Learning
 type: Content
 upload_date: '2023-10-19'
 ---
@@ -12,22 +13,19 @@ upload_date: '2023-10-19'
 https://arxiv.org/abs/2305.11377
 ## Summary
 
-The paper presents GraphFC, a semi-supervised graph neural network designed for customs fraud detection, addressing the challenge of limited labeled data in this domain. With the increasing volume of customs transactions and the associated risk of fraud, traditional methods are inadequate. GraphFC demonstrates significant improvements, achieving up to a 252% increase in recall compared to existing state-of-the-art approaches. The model's effectiveness is validated through extensive experiments on real customs data from multiple countries, showcasing its robust performance in a real-world setting.
+The paper presents GraphFC, a novel machine learning approach aimed at customs fraud detection amidst label scarcity. Given the growing volume of customs transactions and limited manual inspection capabilities, the authors address the challenge of effectively detecting fraudulent declarations. GraphFC is a semi-supervised graph neural network algorithm designed to operate in environments with little labeled data while demonstrating robust performance. Experiments conducted on real customs data from three different countries show that GraphFC significantly outperforms existing state-of-the-art methods, achieving up to a 252% increase in recall.
 ## Links
 
-1. [Papers with Code](https://paperswithcode.com/) - A platform that connects research papers with their corresponding code implementations, useful for understanding and replicating machine learning models.
-2. [DagsHub](https://dagshub.com/) - A collaborative platform for data science and machine learning projects, providing version control and data management tools.
-3. [Connected Papers](https://www.connectedpapers.com/about) - A tool for researchers to create a visual graph of related papers, helping to explore the literature around a specific topic.
-4. [Scite](https://www.scite.ai/) - A smart citation tool that helps researchers understand how a paper has been cited in the context of supporting or contrasting evidence.
-5. [AlphaXiv](https://alphaxiv.org/) - A preprint server for machine learning and artificial intelligence research, allowing researchers to share their findings before formal publication.
+- [Papers with Code](https://paperswithcode.com/) : A platform that associates academic papers with their code implementations, allowing users to explore state-of-the-art models.
+- [ScienceCast](https://sciencecast.org/welcome) : A community platform for researchers and enthusiasts to share and discuss science-related topics.
+- [Hugging Face](https://huggingface.co/docs/hub/spaces) : A platform for sharing machine learning projects and models, including a wide range of applications for natural language processing.
+- [Connected Papers](https://www.connectedpapers.com/about) : A tool for researchers to create a visual graph of relevant academic papers, helping to explore connections and build a new research framework.
+- [DagsHub](https://dagshub.com/) : A collaborative platform for managing datasets and machine learning projects, promoting version control.
+
 ## Topics
 
-![](topics/Model/GraphFC)
-
-![](topics/Concept/Customs%20Fraud%20Detection)
-
-![](topics/Concept/Label%20Scarcity)
+![](topics/Model/Graph%20Neural%20Networks)
 
 ![](topics/Concept/Semi%20supervised%20Learning)
 
-![](topics/Dataset/Customs%20Data)
+![](topics/Tool/Customs%20Fraud%20Detection)

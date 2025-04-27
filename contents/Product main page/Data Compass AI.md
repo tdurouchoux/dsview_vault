@@ -1,6 +1,6 @@
 ---
 already_read: true
-link: https://datacompass.ai/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_529
+link: https://datacompass.ai/
 read_priority: 0
 relevance: 5
 source: Alpha Signal
@@ -10,21 +10,21 @@ type: Content
 upload_date: '2025-04-09'
 ---
 
-https://datacompass.ai/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_529
+https://datacompass.ai/
 ## Summary
 
-Data Compass AI is a platform designed to assess and enhance organizations' data maturity levels. It offers a comprehensive survey to measure data maturity, allows for benchmarking against industry peers, and helps identify areas for improvement while tracking progress over time.
+Data Compass AI provides a platform to assess and enhance organizations' data maturity. Key features include:
+
+- **Measure**: A comprehensive survey to evaluate data maturity levels.
+- **Compare**: Benchmarking against industry standards.
+- **Improve**: Identification of improvement areas and progress tracking.
+
+The aim is to make organizations' data maturity levels transparent for better decision-making.
 ## Links
 
-no links
-## Topics
 
-![](topics/Platform/Data%20Compass%20AI)
+## Topics
 
 ![](topics/Concept/Data%20Maturity)
 
-![](topics/Tool/Comprehensive%20Survey)
-
-![](topics/Concept/Industry%20Comparison)
-
-![](topics/Concept/Progress%20Tracking)
+![](topics/Platform/Data%20Compass%20AI)

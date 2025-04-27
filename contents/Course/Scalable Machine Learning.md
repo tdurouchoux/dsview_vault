@@ -1,5 +1,11 @@
 ---
+already_read: false
 link: https://bcourses.berkeley.edu/courses/1413454/
+read_priority: 1
+relevance: 0
+source: null
+tags:
+- Data_Engineering
 type: Content
 upload_date: '2022-09-15'
 ---
@@ -7,8 +13,10 @@ upload_date: '2022-09-15'
 https://bcourses.berkeley.edu/courses/1413454/
 ## Summary
 
-The content appears to be related to a course titled "Scalable Machine Learning" (COMPSCI 294 - LEC 123) from Spring 2016. However, there are no specific technical points or key takeaways provided in the text. It mainly consists of navigation elements for a course dashboard, including sections for assignments, syllabus, and calendar, but lacks substantive information on scalable machine learning concepts or methodologies.
+The provided content does not contain any substantive information or technical points related to "Scalable Machine Learning". It appears to be a placeholder or navigation interface from an educational platform, specifically for a course labeled COMPSCI 294 - LEC 123, but lacks any specific details on machine learning topics. There is no content relevant to summarizing trends or tools in data science found here.
 ## Links
 
-no links
+
 ## Topics
+
+![](topics/Concept/Scalable%20Machine%20Learning)

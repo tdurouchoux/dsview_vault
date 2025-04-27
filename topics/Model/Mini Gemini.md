@@ -3,4 +3,4 @@ date: '2024-04-29'
 type: Model
 ---
 
-A framework enhancing multi-modality Vision Language Models (VLMs) by utilizing dual vision encoders and high-resolution visual tokens for improved image understanding, reasoning, and generation.
+Mini-Gemini is an innovative framework designed to improve the performance of multi-modality Vision Language Models. It emphasizes the use of dual vision encoders to enhance visual token representation and employs high-resolution data to enhance image comprehension and reasoning capabilities. By addressing performance gaps in existing VLMs, Mini-Gemini aims to enable better integration of image and text processing tasks.

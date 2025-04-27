@@ -1,7 +1,8 @@
 ---
 already_read: false
-link: https://neptune.ai/blog/arima-vs-prophet-vs-lstm?utm_source=substack&utm_medium=email
+link: https://neptune.ai/blog/arima-vs-prophet-vs-lstm
 read_priority: 1
+relevance: 0
 source: null
 tags:
 - Time_Series
@@ -9,45 +10,47 @@ type: Content
 upload_date: '2024-01-25'
 ---
 
-https://neptune.ai/blog/arima-vs-prophet-vs-lstm?utm_source=substack&utm_medium=email
+https://neptune.ai/blog/arima-vs-prophet-vs-lstm
 ## Summary
 
-The article compares three popular time series prediction methods: ARIMA, Prophet, and LSTM. 
+The content compares three popular methods for time series prediction: ARIMA, Prophet, and LSTM.
 
-1. **ARIMA (AutoRegressive Integrated Moving Average)**: 
-   - Utilizes past values and past errors to predict future values.
-   - Requires the time series to be stationary, often achieved through differencing.
-   - Defined by three parameters: p (number of past values), d (number of differences for stationarity), and q (number of past errors).
-   - Achieved the best performance in the evaluation.
+1. **ARIMA** (AutoRegressive Integrated Moving Average):
+   - Uses past values and past errors to predict future values.
+   - Requires the time series to be stationary, which means statistical properties do not change over time.
+   - Defined by parameters p (past values), d (integrated differences for stationarity), and q (past errors).
+   - Best suited for structured time series data and performs well with careful hyperparameter tuning.
 
-2. **Prophet**: 
+2. **Prophet**:
    - Developed by Facebook for business time series forecasting.
    - An additive model with components for trend, seasonality, and holidays.
-   - Requires less hyperparameter tuning and is effective for business-related time series but may struggle with non-business datasets.
+   - Requires less hyperparameter tuning and is easier to interpret but may struggle with non-business datasets.
 
-3. **LSTM (Long Short-Term Memory)**: 
-   - A type of recurrent neural network that learns from sequences of data.
-   - Uses gates to manage information retention and forgetting.
-   - More powerful for complex patterns but requires careful tuning and can overfit on smaller datasets, as observed in the evaluation.
+3. **LSTM** (Long Short-Term Memory):
+   - A type of recurrent neural network (RNN) designed to predict sequences of variable lengths.
+   - Utilizes gates to manage memory of past inputs and project future outputs.
+   - Powerful for large datasets but can overfit on smaller ones; requires meticulous hyperparameter tuning.
 
 **Experimental Evaluation**:
-- The models were tested on stock exchange data for Bajaj Finserv Ltd from 2008 to 2021, predicting the Volume Weighted Average Price (VWAP).
-- Feature engineering was applied to enhance model performance.
-- ARIMA outperformed both Prophet and LSTM in terms of accuracy metrics (RMSE and MAE).
+- The models were tested on stock data from Bajaj Finserv Ltd, aiming to forecast the Volume Weighted Average Price (VWAP).
+- ARIMA outperformed both Prophet and LSTM in terms of accuracy (lowest RMSE and MAE).
+- LSTM showed the worst performance, primarily attributed to overfitting due to its complexity and the small dataset.
 
-**Conclusions**:
-- ARIMA is effective but requires careful tuning.
-- Prophet is user-friendly for business applications but may not generalize well.
-- LSTM is powerful for large datasets but complex and prone to overfitting on smaller datasets.
+**Conclusion**:
+- Each method has strengths and weaknesses depending on the nature of the dataset:
+  - ARIMA excels with stationary series and requires more tuning.
+  - Prophet is effective for business-related time series with lower tuning needs.
+  - LSTMs are robust for complex sequence prediction but need larger datasets to avoid overfitting. 
 
-The article emphasizes the importance of understanding the strengths and limitations of each model for effective time series forecasting.
+The content encourages further exploration of each method's specific use cases and resources for deeper learning.
 ## Links
 
-1. [Prophet Documentation](https://facebook.github.io/prophet/) - Official documentation for Facebook's Prophet, a tool designed for forecasting time series data.
-2. [Keras LSTM Documentation](https://keras.io/api/layers/recurrent_layers/lstm/) - Documentation for LSTM layers in Keras, detailing how to implement LSTM networks for sequential data.
-3. [PMD ARIMA Documentation](http://alkaline-ml.com/pmdarima/modules/generated/pmdarima.arima.auto_arima.html#pmdarima.arima.auto_arima) - Documentation for the pmdarima package, which provides tools for ARIMA modeling in Python.
-4. [Time Series Prediction with LSTM](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/) - A tutorial on using LSTM for time series prediction, providing practical examples and code.
-5. [Remove Trends and Seasonality in Time Series](https://machinelearningmastery.com/remove-trends-seasonality-difference-transform-python/) - A guide on how to preprocess time series data by removing trends and seasonality, which is crucial for effective modeling.
+- [PMD ARIMA Documentation](http://alkaline-ml.com/pmdarima/index.html) : Comprehensive documentation for the PMD ARIMA Python package, used for ARIMA model implementation.
+- [Facebook Prophet Documentation](https://facebook.github.io/prophet/docs/quick_start.html) : Official documentation and quick start guide for using Facebook's Prophet library for time series forecasting.
+- [Keras LSTM Documentation](https://keras.io/api/layers/recurrent_layers/lstm/) : Detailed documentation for LSTM layers in Keras, providing examples and API references.
+- [Time Series Prediction with LSTM RNNs](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/) : A tutorial that covers LSTM networks for time series predictions using Python and Keras.
+- [Removing Trends and Seasonality from Time Series](https://machinelearningmastery.com/remove-trends-seasonality-difference-transform-python/) : A guide on how to remove trends and seasonality from time series data using differencing transformations.
+
 ## Topics
 
 ![](topics/Model/ARIMA)
@@ -56,6 +59,4 @@ The article emphasizes the importance of understanding the strengths and limitat
 
 ![](topics/Model/LSTM)
 
-![](topics/Library/pmdarima)
-
-![](topics/Library/Prophet)
+![](topics/Platform/neptune%20ai)

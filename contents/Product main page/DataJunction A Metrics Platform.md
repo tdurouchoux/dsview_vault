@@ -13,27 +13,28 @@ upload_date: '2025-02-14'
 https://datajunction.io/
 ## Summary
 
-DataJunction is an open-source metrics platform designed to streamline the process of defining and managing metrics using SQL. Key features include:
+DataJunction is an open-source metrics platform designed to simplify the creation and management of metrics through SQL. Key functionalities include:
 
-- **Metric Definition**: Users can create and combine DJ nodes to calculate metrics solely with SQL.
-- **Dimension Discovery**: The platform allows users to find metrics of interest and explore common dimensions.
-- **Dependency Understanding**: A robust metadata layer helps track metric dependencies across the system.
-- **Cube Building**: Users can easily build and materialize cubes for metrics and dimensions to enhance analytics.
-- **Impact Analysis**: DJ highlights the potential impact of changes on metrics, helping to prevent broken metrics.
-- **Empowerment for Viz Engineers**: It enables visualization engineers to combine and group metrics effectively for business decision-making.
+- **Metric Definition**: Users can define metrics by creating and combining DJ nodes using SQL.
+- **Dimension Discovery**: Allows users to find metrics of interest and discover common dimensions among them.
+- **Dependency Understanding**: Provides insight into metric dependencies across the system through a robust metadata layer.
+- **Cube Building**: Facilitates the building and materialization of data cubes for analytics products.
+- **Impact Analysis**: Highlights potential impacts of changes on metrics to prevent broken metrics.
+- **Empowerment of Viz Engineers**: Empowers visualization engineers to combine and group metrics for effective business decision-making.
 
-The platform is currently at version 0.1.0 and is licensed under MIT.
+Overall, DataJunction aims to streamline metrics management and enhance analytics capabilities.
 ## Links
 
-1. [DataJunction GitHub Repository](https://github.com/DataJunction/dj) - The official GitHub repository for DataJunction, where you can find the source code and contribute to the project.
+- [DataJunction GitHub Repository](https://github.com/DataJunction/dj) : The official GitHub repository for DataJunction, where users can access the source code and contribute to the project.
+
 ## Topics
 
 ![](topics/Platform/DataJunction)
 
-![](topics/Tool/DJ%20nodes)
+![](topics/Concept/Data%20Modeling)
 
-![](topics/Concept/Metrics)
+![](topics/Concept/Metrics%20Definition)
 
-![](topics/Concept/Dimensions)
+![](topics/Concept/Cube%20Building)
 
-![](topics/Concept/Cubes)
+![](topics/Concept/Dependency%20Management)

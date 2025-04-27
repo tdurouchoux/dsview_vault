@@ -1,43 +1,41 @@
 ---
 already_read: true
-link: https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/?utm_source=substack&utm_medium=email
+link: https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/
 read_priority: 4
+relevance: 0
 source: Data Science Weekly
 tags:
 - Data_Engineering
-- AI_regulation
 type: Content
 upload_date: '2024-11-01'
 ---
 
-https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/?utm_source=substack&utm_medium=email
+https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/
 ## Summary
 
-The content discusses the limitations of current vector databases in managing AI applications, particularly in the context of semantic search and retrieval-augmented generation (RAG) systems. It highlights the complexity and risks associated with using multiple databases (e.g., Pinecone, DynamoDB, OpenSearch) to manage embeddings and source data, leading to synchronization issues and potential data inconsistencies.
+The content discusses the idea that vector databases may not be the most effective abstraction for managing AI and analytics workloads, particularly when utilizing PostgreSQL. It emphasizes that existing PostgreSQL capabilities can support time series data and real-time analytics without the need for specialized vector databases. Key points include:
 
-The authors propose a new abstraction called "vectorizer," which treats embeddings as derived data linked to their source data, similar to how traditional databases manage indexes. This approach simplifies data management by automating the synchronization of embeddings with their source data, reducing the burden on developers.
+- The flexibility of PostgreSQL for various data workloads, including time series and AI applications.
+- The potential advantages of leveraging PostgreSQL's existing features over adopting new abstractions like vector databases.
+- Encouragement for developers to optimize their use of PostgreSQL for performance gains, such as via partitioning and efficient querying methods.
 
-The implementation of this concept is exemplified through the pgai Vectorizer for PostgreSQL, which allows developers to create and manage vector embeddings directly within the database. This tool automates the embedding process, ensuring that embeddings are always up-to-date and reducing the need for manual intervention.
-
-Key takeaways include:
-- Current vector databases create unnecessary complexity by treating embeddings as independent data.
-- The vectorizer abstraction simplifies embedding management by linking them directly to source data.
-- Pgai Vectorizer for PostgreSQL automates the creation and updating of embeddings, enhancing efficiency for AI applications.
+Overall, the article argues for maximizing the use of established databases like PostgreSQL instead of shifting to newer, possibly unnecessary technologies.
 ## Links
 
-1. [pgai Vectorizer Documentation](https://github.com/timescale/pgai/blob/main/docs/vectorizer.md?ref=timescale.com) - Detailed documentation on the pgai Vectorizer, which automates the creation and updating of vector embeddings in PostgreSQL.
-2. [pgvector Documentation](https://docs.timescale.com/use-timescale/latest/extensions/pgvector/) - Information on the pgvector extension for PostgreSQL, which enables vector search capabilities.
-3. [How to Automatically Create & Update Embeddings in PostgreSQL](https://www.timescale.com/blog/how-to-automatically-create-update-embeddings-in-postgresql/) - A blog post explaining how to manage embeddings in PostgreSQL using the pgai Vectorizer.
-4. [Which OpenAI Embedding Model Is Best?](https://www.timescale.com/blog/which-openai-embedding-model-is-best/) - A blog post discussing various OpenAI embedding models and their suitability for different applications.
-5. [How OpenSauced Is Building a Copilot for Git History With pgvector and Timescale](https://www.timescale.com/blog/how-opensauced-is-building-a-copilot-for-git-history-with-pgvector-and-timescale/) - An article detailing a practical application of pgvector and Timescale in a real-world project.
+- [Scale PostgreSQL via Partitioning: A Dev’s Intro to Hypertables](https://www.timescale.com/blog/scale-postgresql-via-partitioning-hypertables) : A guide explaining how to use hypertables in Timescale to partition PostgreSQL data for scalability.
+- [Boosting Postgres INSERT Performance by 2x With UNNEST](https://www.timescale.com/blog/boosting-postgres-insert-performance) : Techniques to enhance the insert performance of PostgreSQL using the UNNEST function.
+- [TimescaleDB vs InfluxDB for Time-Series Data](https://www.timescale.com/blog/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877/) : A comparative analysis of TimescaleDB and InfluxDB focusing on their capabilities for managing time-series data.
+- [Timescale Cloud vs Amazon RDS PostgreSQL](https://www.timescale.com/blog/timescale-cloud-vs-amazon-rds-postgresql-up-to-350-times-faster-queries-44-faster-ingest-95-storage-savings-for-time-series-data/) : An evaluation of Timescale Cloud and Amazon RDS PostgreSQL in terms of performance and efficiency for time-series databases.
+- [TimescaleDB Repository on GitHub](https://github.com/timescale/timescaledb) : The official GitHub repository for TimescaleDB, containing documentation and code related to the time-series database.
+
 ## Topics
 
-![](topics/Product/pgai%20Vectorizer)
+![](topics/Concept/Vector%20Database)
 
-![](topics/Library/pgvector%20and%20pg_vectorize)
+![](topics/Platform/TimescaleDB)
 
-![](topics/Library/pgvectorscale)
+![](topics/Tool/pgvector)
 
-![](topics/Platform/Timescale%20Cloud)
+![](topics/Concept/Real%20Time%20Analytics)
 
-![](topics/Concept/Vectorizer%20Abstraction)
+![](topics/Concept/Partitioning%20in%20Databases)

@@ -1,45 +1,54 @@
 ---
 already_read: false
-link: https://developers.googleblog.com/en/introducing-gemma3/?utm_source=alphasignal
+link: https://developers.googleblog.com/en/introducing-gemma3/
 read_priority: 3
 relevance: 0
 source: Alpha Signal
 tags:
-- Generative_AI
+- Large_Language_Model
 type: Content
 upload_date: '2025-03-13'
 ---
 
-https://developers.googleblog.com/en/introducing-gemma3/?utm_source=alphasignal
+https://developers.googleblog.com/en/introducing-gemma3/
 ## Summary
 
-Gemma 3 is the latest version of the Gemma open-model family, featuring significant enhancements based on community feedback. Key updates include:
+Gemma 3 is the latest iteration of the Gemma open-model family, optimized based on community feedback. Key features include:
 
-- **Multimodality**: Supports vision-language input and text outputs, allowing for image and video analysis.
-- **Extended Context**: Handles context windows of up to 128k tokens and understands over 140 languages.
-- **Improved Capabilities**: Enhanced math, reasoning, and chat functionalities, including structured outputs and function calling.
-- **Model Sizes**: Available in four sizes (1B, 4B, 12B, and 27B) with options for pre-trained and instruction-tuned versions.
+- **Multimodal Support**: Capable of handling both vision and language inputs, offering text outputs.
+- **Extended Context**: Can manage context windows up to 128,000 tokens.
+- **Language Proficiency**: Supports over 140 languages with enhanced multilingual capabilities using a new tokenizer.
+- **Model Sizes**: Available in four sizes (1B, 4B, 12B, and 27B), with options for both pre-trained and instruction-tuned versions.
 
-The model was built using advanced techniques such as distillation, reinforcement learning, and a new tokenizer for better multilingual support. It was trained on extensive datasets using Google TPUs.
+The development process involved advanced techniques including distillation, reinforcement learning from human and machine feedback, and execution feedback, resulting in improvements in math, coding, and instruction following.
 
-Gemma 3 maintains compatibility with previous versions for text-only inputs while introducing new features for image inputs. The integrated vision encoder allows for various image-related tasks, and a safety classifier, ShieldGemma 2, is included for moderation purposes.
+Gemma 3 allows users to interleave text with image inputs and has an integrated vision encoder, making it capable of analyzing images and understanding contextual interactions. Notable implementation details include support for high-resolution, non-square images.
 
-Developers can experiment with Gemma 3 via Google AI Studio, download models from platforms like Hugging Face, and integrate it into projects using various tools and frameworks. Multiple deployment options are available, including Google GenAI API and Cloud services.
+For deployment, Gemma 3 is compatible with various tools and platforms, encouraging integration into different projects, and facilitating experimentation through resources like Google AI Studio.
 ## Links
 
-1. [Gemma Documentation](https://ai.google.dev/gemma/docs) - Comprehensive technical documentation for Gemma, including setup and usage instructions.
-2. [Gemma on Hugging Face](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d) - Access to the Gemma 3 model weights and related resources on Hugging Face.
-3. [Gemma GitHub Repository](https://github.com/google/gemma.cpp) - The GitHub repository for Gemma, containing code and resources for developers.
-4. [Google Cloud TPU Introduction](https://cloud.google.com/tpu/docs/intro-to-tpu) - An introduction to Google TPUs, which are used for training models like Gemma.
-5. [Gemma on Kaggle](https://www.kaggle.com/models/google/gemma-3) - Kaggle page for Gemma 3, providing access to models and datasets for experimentation.
+- [Gemma Documentation](https://ai.google.dev/gemma/docs) : Comprehensive documentation for integrating and using Gemma models.
+- [Gemma 3 Model on Kaggle](https://www.kaggle.com/models/google/gemma-3) : Access to the Gemma 3 model weights and related resources on Kaggle.
+- [Gemma GitHub Repository](https://github.com/google/gemma.cpp) : Source code and resources for Gemma models on GitHub.
+- [Introduction to TPU Docs](https://cloud.google.com/tpu/docs/intro-to-tpu) : Resources and documentation on using Tensor Processing Units (TPUs) for acceleration.
+- [Gemma on Google AI Edge](https://developers.googleblog.com/en/gemma-3-on-mobile-and-web-with-google-ai-edge) : Details on deploying Gemma models in mobile and web applications using Google AI Edge.
+
 ## Topics
 
-![](topics/Model/Gemma)
+![](topics/Model/Gemma%203)
 
-![](topics/Tool/Google%20AI%20Studio)
+![](topics/Concept/Multimodality)
 
-![](topics/Library/Gemma%20JAX)
+![](topics/Concept/Reinforcement%20Learning%20from%20Human%20Feedback%20RLHF)
 
-![](topics/Concept/Multimodal%20AI)
+![](topics/Concept/Distillation)
 
-![](topics/Platform/Hugging%20Face)
+![](topics/Platform/Google%20AI%20Studio)
+
+![](topics/Library/Hugging%20Face%20Transformers)
+
+![](topics/Concept/Training%20Tokenization)
+
+![](topics/Platform/Vertex%20AI)
+
+![](topics/Concept/Function%20Calling%20in%20AI%20Models)

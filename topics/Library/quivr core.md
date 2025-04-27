@@ -3,4 +3,4 @@ date: '2023-10-12'
 type: Library
 ---
 
-The core library for Quivr, enabling the creation and management of retrieval-augmented generation (RAG) workflows.
+quivr-core is a Python library that serves as the core framework for implementing retrieval-augmented generation (RAG) systems. It provides the necessary components for setting up a brain-like structure to handle data ingestion from various files and manage interactions through question-answering processes, utilizing language models to generate contextual responses.

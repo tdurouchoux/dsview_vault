@@ -3,4 +3,4 @@ date: '2023-11-30'
 type: Concept
 ---
 
-A branch of statistics that deals with the presentation and summary of data, providing a clear overview for easier interpretation.
+Descriptive statistics involves methods for summarizing and visually presenting data, helping to communicate the main features of a dataset efficiently. Key measures in descriptive statistics include mean, median, variance, standard deviation, and graphical representations like histograms.

@@ -3,4 +3,4 @@ date: '2024-11-19'
 type: Library
 ---
 
-A library for fast and scalable node embedding algorithms, supporting various graph types and sparse matrices.
+A Python library designed for fast and scalable node embedding algorithms. It allows integration with NetworkX graph types and facilitates embedding nodes in graph structures and Sparse Matrices, offering various algorithms optimal for different graph sizes and complexities.

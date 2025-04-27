@@ -1,7 +1,8 @@
 ---
 already_read: false
-link: https://browser.timeviz.net/?search=single/
+link: https://browser.timeviz.net/
 read_priority: 1
+relevance: 0
 source: null
 tags:
 - Data_Visualization
@@ -9,32 +10,31 @@ type: Content
 upload_date: '2024-01-11'
 ---
 
-https://browser.timeviz.net/?search=single/
+https://browser.timeviz.net/
 ## Summary
 
-The TimeViz Browser 2.0 is a tool designed to provide a visual survey of techniques for visualizing time-oriented data. It categorizes visualization methods based on various criteria, including:
+The TimeViz Browser 2.0 is a tool designed to visually survey various techniques for visualizing time-oriented data. Key features include filters for different types of data representation: 
 
-- **Primitives**: Points and intervals.
-- **Arrangement**: Linear and cyclic.
-- **Data**: Single or multiple variables, with abstract or spatial frames of reference.
-- **Visual Representation**: Static or dynamic mapping of time, and dimensionality in 2D or 3D.
+- **Primitives**: Options for Points and Intervals.
+- **Arrangement**: Linear and Cyclic arrangements.
+- **Data Characteristics**: Single or Multiple variables, Abstract or Spatial frame of reference.
+- **Visual Representation**: Static vs. Dynamic mapping of time, and 2D vs. 3D dimensionality.
 
-The browser is based on an open-access book titled "Visualization of Time-Oriented Data" and includes references to various visualization techniques and related literature. It serves as a resource for data scientists and researchers interested in time data visualization.
+It is based on a book concerning visualizing time-oriented data, which is open-access. Users are encouraged to cite either the book or the browser in their research. The tool includes numerous catalogs covering topics like biological data, dynamic graphs, sentiment, and uncertainty visualization, among others.
 ## Links
 
-1. [Interactive Visual Data Analysis](https://ivda-book.de/) - A comprehensive resource on interactive visual data analysis techniques.
-2. [Visualization Analysis and Design](https://doi.org/10.1007/978-0-387-77907-2) - A book that covers the principles and practices of visualization design.
-3. [Dynamic Graph Visualization](http://dynamicgraphs.fbeck.com/) - A resource focused on techniques for visualizing dynamic graphs.
-4. [Trust in Machine Learning](https://trustmlvis.lnu.se/) - A site dedicated to visualizing trust in machine learning models.
-5. [Uncertainty Visualization Browser](https://amitjenaiitbm.github.io/uncertaintyVizBrowser/) - A tool for exploring various techniques for visualizing uncertainty in data.
+- [Interactive Visual Data Analysis Book](https://ivda-book.de/) : A comprehensive resource on methods and techniques for interactive visual data analysis.
+- [Visualization Analysis and Design Book](https://www.cs.ubc.ca/~tmm/vadbook/) : This book discusses various aspects of visualization design and the analytical framework.
+- [Trust in Machine Learning Visualization](https://trustmlvis.lnu.se/) : A resource focused on visualization techniques related to trust in machine learning.
+- [Dynamic Graph Visualization](http://dynamicgraphs.fbeck.com/) : Provides insights into visualization techniques specifically for dynamic graphs.
+- [Uncertainty Visualization Browser](https://amitjenaiitbm.github.io/uncertaintyVizBrowser/) : A tool offering various visualization techniques addressing uncertainties in data.
+
 ## Topics
 
-![](topics/Product/TimeViz%20Browser%202%200)
+![](topics/Concept/Time%20Oriented%20Data%20Visualization)
 
-![](topics/Concept/Visualization%20Techniques%20for%20Time%20Oriented%20Data)
+![](topics/Concept/Visualization%20Techniques)
 
-![](topics/Dataset/Time%20Oriented%20Data)
+![](topics/Platform/TimeViz%20Browser)
 
-![](topics/Concept/Data%20Visualization%20Techniques)
-
-![](topics/Concept/Mapping%20of%20Time)
+![](topics/Concept/Data%20Representation%20Dimensionality)

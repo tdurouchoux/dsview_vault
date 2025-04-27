@@ -3,4 +3,4 @@ date: '2024-05-29'
 type: Library
 ---
 
-A context-aware database that supports various data types and RAG techniques, enabling efficient data querying and management.
+Weaviate is a context-aware database optimized for managing and querying unstructured data, supporting similarity search through machine learning to retrieve relevant information efficiently.

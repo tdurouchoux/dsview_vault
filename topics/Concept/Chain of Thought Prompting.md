@@ -1,6 +1,6 @@
 ---
-date: '2024-12-28'
+date: '2024-06-05'
 type: Concept
 ---
 
-A method that encourages models to reason through problems step-by-step, improving their ability to generate accurate responses. This prompting technique enhances the model's ability to generate accurate responses by guiding it to think through the problem systematically.
+Chain-of-Thought (CoT) prompting is a technique where prompts encourage a language model to articulate its reasoning or thought process before delivering a final answer. By guiding the model to explore its reasoning, CoT helps reduce errors, such as hallucinations, and improves overall response quality. This approach breaks tasks into manageable segments, allowing for better understanding of complex queries. It advocates for clearer instructions, guiding models through steps to arrive at solutions, which is especially valuable in tasks requiring multi-step reasoning.

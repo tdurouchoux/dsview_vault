@@ -6,7 +6,6 @@ relevance: 0
 source: null
 tags:
 - Large_Language_Model
-- Computer_Vision
 type: Content
 upload_date: '2025-03-03'
 ---
@@ -14,30 +13,31 @@ upload_date: '2025-03-03'
 https://huggingface.co/blog/smolervlm
 ## Summary
 
-SmolVLM has introduced two new models: SmolVLM-256M and SmolVLM-500M, which are the smallest Vision Language Models (VLMs) available, designed for efficiency and strong multimodal performance. Key features include:
+Two new models, SmolVLM-256M and SmolVLM-500M, have been introduced to the SmolVLM family, marking significant advancements in lightweight Vision Language Models (VLMs) with 256M and 500M parameters, respectively. This release focuses on maintaining strong multimodal performance while reducing model size for more efficient processing and integration, especially on constrained devices.
 
-- **Model Sizes**: 256M and 500M parameters, significantly smaller than the previous 2B model while maintaining performance.
-- **Vision Encoder**: A smaller SigLIP base patch-16/512 encoder is used, which processes images at a larger resolution for better understanding.
-- **Training Optimization**: New tokenization techniques have improved real-world benchmarks, enhancing model stability and performance.
-- **Use Cases**: Both models excel in tasks like image captioning, document Q&A, and basic visual reasoning.
-- **Fine-tuning and Integration**: The models are compatible with existing frameworks like transformers and MLX, and they support ONNX for broader applications.
+Key technical advancements since SmolVLM 2B include:
+- Selection of a smaller vision encoder (SigLIP base patch-16/512) over a larger one, yielding similar results but with reduced overhead.
+- Increased image resolution processing capabilities, enhancing visual understanding.
+- Optimized training methods, including improved tokenization strategies, to boost performance and model stability.
+- A balanced data mixture emphasizing document understanding and image captioning.
 
-The release aims to cater to users with constrained devices and those needing cost-effective solutions for large data processing. The models are positioned to complement the existing SmolLM2 family, providing a comprehensive set of smaller LLM and VLM options.
+The new models facilitate multimodal tasks such as captioning and document Q&A while providing fine-tuning options for specialized applications. Both SmolVLM models are readily compatible with transformers and support ONNX formats for further usability.
 ## Links
 
-1. [Fine-tuning SmolVLM using direct preference optimization (DPO) with TRL on a consumer GPU](https://huggingface.co/learn/cookbook/fine_tuning_vlm_dpo_smolvlm_instruct) - A guide on how to fine-tune the SmolVLM models using direct preference optimization techniques.
-2. [ColSmolVLM GitHub Repository](https://github.com/DS4SD/docling) - The repository for ColSmolVLM, which focuses on multimodal retrieval and performance improvements.
-3. [The Cauldron Dataset](https://huggingface.co/datasets/HuggingFaceM4/the_cauldron) - A dataset used in training the SmolVLM models, emphasizing document understanding.
-4. [MathWriting Dataset](https://huggingface.co/datasets/HuggingFaceM4/mathwriting-google) - A dataset that contributes to the training of the SmolVLM models, particularly in understanding mathematical content.
-5. [SmolVLM-500M-Instruct WebGPU Demo](https://huggingface.co/spaces/HuggingFaceTB/SmolVLM-500M-Instruct-WebGPU) - A demo showcasing the capabilities of the SmolVLM-500M model using WebGPU for inference.
+- [SmolVLM - 500M Instruct WebGPU Demo](https://huggingface.co/spaces/HuggingFaceTB/SmolVLM-500M-Instruct-WebGPU) : A demo showcasing the capabilities of the SmolVLM-500M model using WebGPU.
+- [SmolVLM - 256M Instruct WebGPU Demo](https://huggingface.co/spaces/HuggingFaceTB/SmolVLM-256M-Instruct-WebGPU) : A demo showcasing the capabilities of the SmolVLM-256M model using WebGPU.
+- [Fine-tuning SmolVLM using DPO](https://huggingface.co/learn/cookbook/fine_tuning_vlm_dpo_smolvlm_instruct) : A comprehensive guide to fine-tuning the SmolVLM models using Direct Preference Optimization.
+- [The Cauldron Dataset](https://huggingface.co/datasets/HuggingFaceM4/the_cauldron) : Dataset used in the training of SmolVLM models that focuses on multimodal understanding.
+- [Docmatix Dataset](https://huggingface.co/datasets/HuggingFaceM4/Docmatix) : A dataset that is part of the training mixture for the new SmolVLM models, emphasizing document understanding.
+
 ## Topics
 
-![](topics/Model/SmolVLM%20256M)
+![](topics/Model/SmolVLM)
 
-![](topics/Model/SmolVLM%20500M)
+![](topics/Library/Transformers)
 
-![](topics/Concept/Multimodal%20Retrieval)
-
-![](topics/Tool/ColSmolVLM)
+![](topics/Concept/Tokenization)
 
 ![](topics/Tool/ONNX)
+
+![](topics/Concept/Multimodal%20Learning)

@@ -13,36 +13,60 @@ upload_date: '2025-04-02'
 https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
 ## Summary
 
-Structured Streaming in Spark 3.5.5 is a scalable and fault-tolerant stream processing engine that allows users to express streaming computations similarly to batch computations. It supports various programming languages (Scala, Java, Python, R) and provides a unified API for handling streaming data.
+Structured Streaming in Spark 3.5.5 is designed for scalable, fault-tolerant stream processing, allowing for both batch-like queries on streaming data. Key concepts include:
 
-Key components include:
+- **Programming Model**: Treats a streaming data source as a continuously appended table. Queries generate result tables that update incrementally.
+  
+- **Output Modes**: 
+  - **Append**: Outputs only new rows.
+  - **Complete**: Outputs the entire result table.
+  - **Update**: Outputs only changed rows since the last trigger.
 
-- **Programming Model**: Treats live data streams as continuously appended tables, allowing for incremental queries.
-- **Event-time Handling**: Supports event-time processing and late data handling through watermarking, which helps manage state size.
-- **Fault Tolerance**: Ensures exactly-once processing semantics using checkpointing and write-ahead logs.
-- **DataFrames/Datasets**: Users can create streaming DataFrames from various sources (e.g., Kafka, socket, files) and perform operations like selection, aggregation, and windowing.
-- **Join Operations**: Supports stream-static and stream-stream joins with specific requirements for watermarking and event-time constraints.
-- **Output Modes**: Offers three output modes: Append, Complete, and Update, each with specific use cases.
-- **Sinks**: Supports various output sinks, including file, Kafka, console, and memory sinks.
-- **Triggers**: Allows users to define how often the query should process data (e.g., fixed intervals, continuous processing).
-- **Monitoring and Management**: Users can manage and monitor queries using the StreamingQuery object and can report metrics using Dropwizard or custom listeners.
+- **Event-Time Handling**: Supports event-time windowing, ensuring accurate aggregations on late-arriving data through watermarking. Users can define late thresholds to manage state size.
 
-The guide also covers advanced topics like stateful operations, asynchronous progress tracking, and continuous processing mode for low-latency applications. It emphasizes the importance of checkpointing for recovery and provides examples for common use cases.
+- **Join Operations**: 
+  - **Stream-Static Joins**: Supports inner and left outer joins with static DataFrames.
+  - **Stream-Stream Joins**: Allow inner joins with watermarking to manage state. Outer joins require event-time constraints.
+
+- **State Management**: Supports arbitrary stateful operations, with state stored in either in-memory or using RocksDB. It provides mechanisms for deduplication and sessionization.
+
+- **Fault Tolerance**: Achieved via checkpointing and write-ahead logs, allowing queries to resume from their last checkpoint.
+
+- **Starting Queries**: Utilizes `writeStream` to define sinks (e.g., files, Kafka, console), requiring a checkpoint location for fault tolerance.
+
+- **Monitoring**: Use StreamingQuery objects to track query progress, and connect a custom listener for event handling.
+
+- **Asynchronous Progress Tracking**: Improves latency by checkpointing progress independently from data processing.
+
+- **Continuous Processing (Experimental)**: Introduces low-latency processing (as low as 1 ms) with at-least-once guarantees.
+
+In summary, Spark Structured Streaming provides a robust framework for processing continuous data streams with capabilities for real-time analytics, simplified event-time handling, and flexible state management, facilitating a wide range of applications.
 ## Links
 
-1. [Structured Network Word Count (Python)](https://github.com/apache/spark/blob/v3.5.5/examples/src/main/python/sql/streaming/structured_network_wordcount.py) - Example of a streaming word count application using Python in Spark.
-2. [Structured Network Word Count (Java)](https://github.com/apache/spark/blob/v3.5.5/examples/src/main/java/org/apache/spark/examples/sql/streaming/JavaStructuredNetworkWordCount.java) - Example of a streaming word count application using Java in Spark.
-3. [Real-time Streaming ETL with Structured Streaming](https://databricks.com/blog/2017/01/19/real-time-streaming-etl-structured-streaming-apache-spark-2-1.html) - Blog post discussing real-time streaming ETL using Spark's Structured Streaming.
-4. [Event-time Aggregation and Watermarking in Apache Spark’s Structured Streaming](https://databricks.com/blog/2017/05/08/event-time-aggregation-watermarking-apache-sparks-structured-streaming.html) - Blog post explaining event-time aggregation and watermarking in Spark Structured Streaming.
-5. [Deep Dive into Stateful Stream Processing in Structured Streaming](https://databricks.com/session/deep-dive-into-stateful-stream-processing-in-structured-streaming) - Session discussing stateful stream processing in Spark's Structured Streaming.
+- [Real-time Streaming ETL with Structured Streaming in Apache Spark 2.1](https://databricks.com/blog/2017/01/19/real-time-streaming-etl-structured-streaming-apache-spark-2-1.html) : An article discussing the capabilities of Structured Streaming for efficient real-time ETL processes.
+- [Event-time Aggregation and Watermarking in Apache Spark’s Structured Streaming](https://databricks.com/blog/2017/05/08/event-time-aggregation-watermarking-apache-sparks-structured-streaming.html) : A blog post explaining the concepts of event-time aggregation and watermarking in Structured Streaming.
+- [Deep Dive into Stateful Stream Processing in Structured Streaming](https://databricks.com/session/deep-dive-into-stateful-stream-processing-in-structured-streaming) : A presentation covering advanced stateful stream processing capabilities in Apache Spark's Structured Streaming.
+- [Kafka Integration with Structured Streaming](https://databricks.com/blog/2017/04/04/real-time-end-to-end-integration-with-apache-kafka-in-apache-sparks-structured-streaming.html) : This blog details how to integrate Apache Kafka with Spark's Structured Streaming.
+- [Spark Summit 2016 - A Deep Dive into Structured Streaming](https://spark-summit.org/2016/events/a-deep-dive-into-structured-streaming/) : Slides and video from a talk at the Spark Summit 2016 regarding the features of Structured Streaming.
+
 ## Topics
 
-![](topics/Concept/Structured%20Streaming)
+![](topics/Concept/Streaming%20DataFrames)
 
-![](topics/Concept/Micro%20batch%20Processing)
+![](topics/Concept/Fault%20Tolerance%20in%20Streaming)
 
-![](topics/Concept/Continuous%20Processing)
+![](topics/Library/Apache%20Spark)
 
-![](topics/Tool/Spark%20SQL)
+![](topics/Concept/Watermarking%20in%20Streams)
+
+![](topics/Concept/Windowing%20in%20Stream%20Processing)
+
+![](topics/Concept/Micro%20Batch%20Processing)
+
+![](topics/Tool/Kafka)
+
+![](topics/Concept/Continuous%20Processing%20Mode)
+
+![](topics/Concept/Stateful%20Operations%20in%20Streams)
 
 ![](topics/Tool/RocksDB)

@@ -1,6 +1,6 @@
 ---
-date: '2022-09-15'
+date: '2024-07-03'
 type: Concept
 ---
 
-The process of using domain knowledge to select, modify, or create features that improve model performance.
+Feature engineering involves creating, selecting, and transforming features from raw data to improve model performance. This process is critical in machine learning and includes feature extraction, which identifies and creates relevant features from datasets, significantly influencing the success of predictive modeling.

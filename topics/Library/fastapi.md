@@ -1,6 +1,6 @@
 ---
-date: '2024-12-28'
+date: '2025-04-22'
 type: Library
 ---
 
-A modern, high-performance web framework for building APIs with Python 3.6+, known for its speed, ease of use, and based on standard Python type hints.
+FastAPI is a modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints. It allows for the rapid development of RESTful APIs, provides automatic data validation and serialization through Pydantic, supports asynchronous programming, and automatically generates OpenAPI documentation.

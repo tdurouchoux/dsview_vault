@@ -1,6 +1,6 @@
 ---
-date: '2025-03-11'
+date: '2024-08-08'
 type: Concept
 ---
 
-Knowledge graphs are a way to represent relationships between entities and events, enhancing reasoning capabilities of language models and often used in recommendation systems and search algorithms, particularly in the context of natural language processing.
+Knowledge Graphs are frameworks used to organize and represent information as interconnected entities, encompassing entities, their attributes, and the relationships between them. This representation helps in efficient data retrieval, enhances understanding relationships among various data points, and facilitates more intuitive querying and inference about complex data.

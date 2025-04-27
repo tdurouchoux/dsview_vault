@@ -5,7 +5,7 @@ read_priority: 0
 relevance: 2
 source: null
 tags:
-- Data_Quality
+- Data_Engineering
 type: Content
 upload_date: '2025-01-28'
 ---
@@ -13,26 +13,28 @@ upload_date: '2025-01-28'
 https://commoncrawl.org/
 ## Summary
 
-Common Crawl is a non-profit organization that provides a free, open repository of web crawl data, established in 2007. It offers access to over 250 billion web pages collected over 15 years, with 3-5 billion new pages added monthly. The data is widely used in research, cited in over 10,000 papers. Key features include:
+Common Crawl is a non-profit organization established in 2007 that offers a free and open repository of web crawl data, featuring over 250 billion pages collected over 15 years. It adds 3-5 billion new pages monthly and has been cited in more than 10,000 research papers, making it a significant resource for researchers.
 
-- A focus on wholesale extraction, transformation, and analysis of open web data.
-- Various research papers highlighting topics such as online censorship, data quality in model training, and hyperlink hijacking.
-- Introduction of tools like cc-downloader for easier data access.
+Key features include:
+- A variety of datasets, including the recent introduction of the Host Index, which provides detailed statistics about web hosts.
+- Tools and resources for querying and analyzing the data via AWS.
+- An active community contributing to research on topics such as online censorship, hyperlink hijacking, and language model reasoning.
 
-Common Crawl aims to enhance accessibility to web data for researchers and supports a community through resources, FAQs, and collaboration opportunities.
+Overall, Common Crawl aims to democratize web data access by facilitating wholesale extraction and analysis for researchers.
 ## Links
 
-1. [Common Crawl Statistics](https://commoncrawl.github.io/cc-crawl-statistics/) - Provides detailed statistics about the web crawls conducted by Common Crawl, useful for understanding the scale and scope of the data.
-2. [Web Graph Statistics](https://commoncrawl.github.io/cc-webgraph-statistics/) - Offers insights into the web graph data collected by Common Crawl, which can be valuable for research in web structure and connectivity.
-3. [Citations of Common Crawl](https://github.com/commoncrawl/cc-citations/) - A repository that tracks academic citations of Common Crawl data, highlighting its impact in research.
-4. [Research on Censorship on Amazon](https://citizenlab.ca/2024/11/analysis-of-censorship-on-amazon-com/) - An analysis that utilizes Common Crawl data to study censorship practices on Amazon, relevant for understanding data applications in social issues.
-5. [DeepSeekMath: Mathematical Reasoning in Language Models](https://arxiv.org/abs/2402.03300) - A research paper discussing advancements in mathematical reasoning within language models, which may relate to data analysis techniques using Common Crawl data.
+- [Common Crawl Statistics](https://commoncrawl.github.io/cc-crawl-statistics/) : Detailed statistics about the web crawls conducted by Common Crawl, providing insights on the scale and growth of the data.
+- [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2404.10006) : Research paper on the capabilities of large language models in mathematical reasoning, important for understanding AI applications in data science.
+- [Analysis of Censorship on Amazon.com](https://citizenlab.ca/2024/11/analysis-of-censorship-on-amazon-com/) : An analysis that studies censorship practices on Amazon using data from Common Crawl, useful for understanding web data analysis.
+- [Web Graph Statistics](https://commoncrawl.github.io/cc-webgraph-statistics/) : Statistics focused on the web graph data collected by Common Crawl, highlighting the structure and connectivity of the web.
+- [A Systematic Literature Review on Phishing Website Detection Techniques](https://doi.org/10.1016/j.jksuci.2023.01.004) : Literature review that discusses various techniques for detecting phishing websites, significant for web security research.
+
 ## Topics
 
-![](topics/Concept/Common%20Crawl)
+![](topics/Dataset/Common%20Crawl%20Dataset)
 
-![](topics/Tool/cc%20downloader)
+![](topics/Platform/AWS)
 
-![](topics/Dataset/Crawled%20Web%20Data)
+![](topics/Concept/Web%20Graph%20Analysis)
 
-![](topics/Platform/Web%20Graphs)
+![](topics/Concept/Censorship%20Analysis)

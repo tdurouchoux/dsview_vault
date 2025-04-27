@@ -3,4 +3,4 @@ date: '2024-02-15'
 type: Library
 ---
 
-A Python library for geolocation, allowing users to locate places through coordinates using various geocoding services.
+Geopy is a Python library that focuses on geographical data processing. It allows users to query locations through coordinates by integrating multiple geocoding services into a unified framework, simplifying geographic data handling.

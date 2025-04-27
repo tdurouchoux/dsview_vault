@@ -3,4 +3,4 @@ date: '2024-09-28'
 type: Library
 ---
 
-A standard Python library that provides higher-order functions, including caching of function outputs in RAM.
+functools is a Python standard library module that provides higher-order functions that act on or return other functions. It includes decorators and tools for functional programming, such as caching function outputs using @functools.lru_cache, which helps to store results of expensive function calls to optimize performance.

@@ -3,4 +3,4 @@ date: '2022-09-29'
 type: Concept
 ---
 
-The practice of representing data in a visual context to make information easier to understand.
+The graphical representation of data and information aimed at providing insights and understanding of scientific data through visual formats, enhancing the interpretation and communication of complex data.

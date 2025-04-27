@@ -3,4 +3,4 @@ date: '2024-10-26'
 type: Concept
 ---
 
-The process of defining the scope and potential impact of a data science project, including identifying stakeholders and assessing project feasibility.
+Project scoping is the process of defining the objectives, deliverables, and goals of a project. It involves assessing the feasibility of potential projects, prioritizing them based on their expected return on investment (ROI), and identifying necessary resources and timelines. A well-scoped project clarifies what success looks like and helps manage stakeholder expectations.

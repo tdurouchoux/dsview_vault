@@ -3,4 +3,4 @@ date: '2024-02-08'
 type: Model
 ---
 
-An AI model designed to provide unfiltered and impartial responses without moral or ethical considerations.
+BreakBot is an unconventional AI model known for providing unfiltered and unbiased responses in conversational contexts. It embodies a permissive approach to AI communication, challenging traditional boundaries and restrictions often placed on AI interactions.

@@ -2,10 +2,12 @@
 already_read: true
 link: https://homebrew.ltd/blog/llama-learns-to-talk
 read_priority: 1
+relevance: 0
 source: 'Alpha Signal '
 tags:
 - Natural_Language_Processing
-- Generative_AI
+- Large_Language_Model
+- AI_agent
 type: Content
 upload_date: '2024-10-18'
 ---
@@ -13,32 +15,37 @@ upload_date: '2024-10-18'
 https://homebrew.ltd/blog/llama-learns-to-talk
 ## Summary
 
-🍓 Ichigo is an early-fusion, multimodal model that combines audio and text, developed as part of the Llama3-s checkpoint. The research is open-source, including code, data, and weights. 
+🍓 Ichigo is an early-fusion multimodal model based on Llama3, developed by Menlo Research to enable speech recognition and response. The project consists of three training phases:
 
-The training process consists of three phases:
+1. **Phase 1: Multilingual Speech Pre-training** - Transitioned from an English-only dataset to seven languages to improve multilingual capabilities, resulting in significant model performance loss (MMLU decreased from 0.69 to 0.42).
 
-1. **Continual Pre-training on Multilingual Speech**: Transitioned from an English-only dataset to a multilingual dataset (7 languages) to enhance capabilities. Training involved 8064 steps over 45 hours, with a focus on improving MMLU performance, which initially dropped significantly.
+2. **Phase 2: Performance Recovery and Speech Modality Enhancement** - Focused on regaining original model performance while enhancing speech-related skills. MMLU score improved from 0.42 to 0.63 through increased training data and optimized data strategies.
 
-2. **Balancing Original Performance and Speech Modality**: Aimed to recover the model's original capabilities while enhancing speech skills. Data size was increased and diversified, and a new tokenization strategy was implemented. MMLU performance improved from 0.42 to 0.63 after this phase.
+3. **Phase 3: User Interaction Fine-tuning** - Aimed at teaching the model to handle inaudible inputs and maintain context in multi-turn conversations. Utilized randomized sound tokens for training inaudible input recognition, while training loss converged at 0.98.
 
-3. **Teach Ichigo To Say “I cannot hear”**: Focused on improving user interaction and context retention in multi-turn conversations. The model was trained to recognize inaudible inputs and respond appropriately, using a synthetic dataset of sound patterns.
-
-Results showed recovery in MMLU performance and improvements in speech capabilities, with plans for further benchmarking and dataset curation. Future steps include enhancing multilingual capabilities and developing Ichigo into a production-level tool.
+Overall results show that Ichigo successfully recovered MMLU performance and demonstrated improved speech understanding capabilities, although challenges remain in handling nonsensical audio and fully exploring multilingual abilities. Next steps include enhancing the training dataset and creating a production-level tool for AI applications. Collaboration with LLM researchers is encouraged for further development.
 ## Links
 
-1. [Whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://cdn.openai.com/papers/whisper.pdf) - A foundational paper on the Whisper model, which is relevant for understanding the speech recognition capabilities integrated into Ichigo.
-2. [AudioBench: A Universal Benchmark for Audio Large Language Models](https://arxiv.org/pdf/2406.16020) - This paper discusses a benchmark designed to evaluate audio large language models, which is pertinent to the evaluation of Ichigo's performance.
-3. [The Evolution of Multimodal Model Architectures](https://arxiv.org/pdf/2405.17927) - This paper provides insights into the development of multimodal models, relevant to the architecture of Ichigo.
-4. [Torchtune: A PyTorch Library for Efficient Model Training](https://github.com/pytorch/torchtune) - A resource for understanding the training techniques used in Ichigo, particularly the Fully Sharded Data Parallelism.
-5. [MMLU: A Benchmark for Evaluating Language Models](https://github.com/EleutherAI/lm-evaluation-harness/blob/0e76386206771143c25b98de977a47cf6055de66/lm_eval/tasks/mmlu/README.md?plain=1#L37) - This link provides details on the MMLU benchmark, which is crucial for assessing the model's performance in various tasks.
+- [Ichigo Llama3 Model on Hugging Face](https://huggingface.co/homebrewltd/Ichigo-llama3.1-s-instruct-v0.3-phase-3) : Access the Ichigo model checkpoint and its associated resources on Hugging Face.
+- [AudioBench: A Universal Benchmark for Audio Large Language Models](https://arxiv.org/pdf/2405.09818) : Research paper detailing a benchmark for evaluating audio large language models.
+- [Whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://cdn.openai.com/papers/whisper.pdf) : Research paper on the Whisper model, which has relevance for speech recognition capabilities.
+- [Multilingual Librispeech Dataset on Hugging Face](https://huggingface.co/datasets/facebook/multilingual_librispeech) : A dataset for multilingual speech tasks that can be used for training models like Ichigo.
+- [Torchtune Documentation](https://github.com/pytorch/torchtune) : Documentation for Torchtune, a library for optimizing PyTorch models, referenced in the context of training Ichigo.
+
 ## Topics
 
-![](topics/Model/Ichigo)
+![](topics/Model/Llama3%20s%20Ichigo)
 
-![](topics/Dataset/Multilingual%20Speech%20Dataset)
+![](topics/Platform/Torchtune)
 
-![](topics/Product/Torchtune)
+![](topics/Concept/Multimodal%20Models)
 
-![](topics/Concept/Synthetic%20Data%20Generation)
+![](topics/Dataset/MLLU%20Benchmark%20Dataset)
 
-![](topics/Platform/AudioBench)
+![](topics/Concept/Speech%20Recognition%20and%20Synthesis)
+
+![](topics/Concept/Audio%20Large%20Language%20Models%20AudioLLMs)
+
+![](topics/Concept/Fine%20tuning%20Techniques)
+
+![](topics/Dataset/MLS%20Dataset)

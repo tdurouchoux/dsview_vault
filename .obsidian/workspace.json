@@ -4,112 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "52317633eaedf4b8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4261d11a021f3457",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "c056c4c8f07dd776",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "974fb8ed645c96d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contents/Blog post/Visualizing 13 Million BlueSky Users.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Visualizing 13 Million BlueSky Users"
-            }
-          },
-          {
-            "id": "8131e3029ab7966b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contents/Blog post/Project VERDAD Misinformation Tracking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Project VERDAD Misinformation Tracking"
-            }
-          },
-          {
-            "id": "9500ce885b64e5d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contents/Repository/Transformer Explained Visually.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transformer Explained Visually"
-            }
-          },
-          {
-            "id": "73caddbb71c75202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contents/Blog post/Rill BI as Code and GenBI Revolution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rill BI as Code and GenBI Revolution"
-            }
-          },
-          {
-            "id": "fcb140b2a47fa667",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contents/Blog post/Mixture of Experts Explained.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mixture of Experts Explained"
-            },
-            "group": "091be27e13a0ed08"
-          }
-        ],
-        "currentTab": 6
-      },
-      {
         "id": "17c98bded66c4936",
         "type": "tabs",
         "children": [
@@ -119,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "contents/Blog post/Mixture of Experts Explained.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -147,9 +40,71 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Mixture of Experts Explained"
-            },
-            "group": "091be27e13a0ed08"
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "5cf84c423973a947",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "36b1f4e6196aefc5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0adc4d30f22f3ced",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3dc73a71025c5c8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.348714192708333,
+                  "repelStrength": 9.8046875,
+                  "linkStrength": 1,
+                  "linkDistance": 107,
+                  "scale": 0.864770034263789,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -170,7 +125,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -203,8 +159,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -289,44 +244,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcb140b2a47fa667",
+  "active": "5cf84c423973a947",
   "lastOpenFiles": [
-    "topics/Tool/Prompt Engineering.md",
-    "topics/Library/Google Colab.md",
-    "topics/Concept/Transformer Models.md",
-    "topics/Concept/Tokens and Embeddings.md",
-    "contents/Repository/Hands On Large Language Models Repository.md",
-    "vault_dump.sql",
-    "topics/Tool/GShard.md",
-    "topics/Tool/cc downloader.md",
-    "contents/Documentation/DataFrames at Scale Comparison TPC H.md",
-    "contents/Repository/Common Crawl Open Repository of Web Crawl Data.md",
-    "topics/Concept/Common Crawl.md",
-    "contents/Documentation/Marimo A Reactive Python Notebook.md",
-    "topics/Library/marimo.md",
-    "index.md",
-    "contents/Blog post/Rill BI as Code and GenBI Revolution.md",
-    "contents/Blog post/Project VERDAD Misinformation Tracking.md",
-    "contents/Repository/Transformer Explained Visually.md",
-    "contents/Blog post/Visualizing 13 Million BlueSky Users.md",
-    "contents/Blog post/FireDucks Pandas but 100x faster.md",
-    "contents/Scientific article/Mitigating LLM Jailbreaks with Rapid Response.md",
-    "contents/Repository/Fastest Network Node Embeddings.md",
-    "contents/Documentation/Automatic IDs None Defaults and Refreshing Data.md",
-    "topics/Concept/Database Transactions.md",
-    "topics/Concept/Data Expiration.md",
-    "topics/Concept/Object Relational Mapping ORM.md",
-    "topics/Concept/Session Management.md",
-    "topics/Library/SQLModel.md",
     "artefacts/machlearn.pdf",
-    "artefacts/2409.18475",
-    "artefacts/2408.14837",
-    "artefacts/TOBoML.pdf",
-    "contents/Product main page",
-    "artefacts/2205.02302.pdf",
-    "topics/Dataset",
-    "topics/Model",
-    "contents/Repository",
+    "topics/Tool/tabular_learner.md",
+    "topics/Tool/smallpond.md",
+    "topics/Tool/prompt Function.md",
+    "topics/Tool/pgvector.md",
+    "topics/Tool/jsonschema.md",
+    "topics/Tool/fastapi.md",
+    "topics/Tool/dbt.md",
+    "topics/Tool/dbt data build tool.md",
+    "topics/Tool/bitnet cpp.md",
+    "topics/Tool/balance.md",
+    "topics/Tool/Zeta.md",
+    "topics/Tool/Zed.md",
+    "topics/Tool/Video Highlight Generator.md",
+    "topics/Tool/Verba.md",
+    "topics/Tool/Trifacta.md",
+    "topics/Tool/Transformer Explainer.md",
+    "topics/Tool/TensorFlow Lite.md",
+    "topics/Tool/TensorFlow Federated.md",
+    "topics/Tool/Tableau.md",
+    "topics/Tool/TableVectorizer.md",
+    "topics/Tool/TableReport.md",
+    "topics/Tool/Tabby.md",
+    "topics/Tool/Surya.md",
+    "topics/Tool/StarCoder Playground.md",
+    "topics/Tool/StarCoder Chat.md",
+    "topics/Product",
+    "contents/Book",
+    "artefacts/The%20Era%20of%20Experience%20Paper.pdf",
+    "vault.db-journal",
+    "artefacts/1910.10683",
+    "artefacts/1810.04805",
+    "artefacts/etat_des_lieux_ia_en_sante.pdf",
+    "artefacts/ai-responsibility-update-published-february-2025.pdf",
+    "artefacts/hotos15-paper-mcsherry.pdf",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",

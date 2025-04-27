@@ -3,4 +3,4 @@ date: '2024-10-26'
 type: Platform
 ---
 
-A platform and product that provides tools and services for developers to build and integrate AI models and applications, while focusing on openness, community, and responsible AI practices.
+Cohere is an AI platform that focuses on generative models and advanced AI search capabilities, enabling businesses to leverage artificial intelligence for enhanced data retrieval and processing, particularly within contexts such as multilingual and multimodal data.

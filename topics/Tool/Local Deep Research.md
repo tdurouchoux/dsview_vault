@@ -3,4 +3,4 @@ date: '2025-04-19'
 type: Tool
 ---
 
-An AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using various LLMs.
+Local Deep Research is an AI-powered research assistant designed to help users transform complex inquiries into comprehensive reports through iterative analysis. It utilizes various LLMs and integrates diverse knowledge sources such as academic databases, scientific repositories, and private documents for detailed research.

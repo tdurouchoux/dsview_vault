@@ -3,4 +3,4 @@ date: '2022-09-29'
 type: Concept
 ---
 
-The process of managing machine learning models throughout their lifecycle, including training, optimization, and deployment.
+Model management encompasses practices and tools used to oversee the lifecycle of machine learning models, including versioning, training, validation, deployment, and monitoring. It ensures that models perform as expected over time and adapt to new data.

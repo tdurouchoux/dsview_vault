@@ -3,4 +3,4 @@ date: '2024-04-10'
 type: Library
 ---
 
-A Python library used for scientific and technical computing, which includes optimization routines for minimizing functions.
+SciPy is an open-source library used for mathematics, science, and engineering. It builds on NumPy and provides additional functionality such as optimization, integration, interpolation, eigenvalue problems, and other related tasks that are essential for scientific and technical computing.

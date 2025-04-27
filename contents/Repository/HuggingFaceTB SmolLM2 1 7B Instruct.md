@@ -14,26 +14,33 @@ upload_date: '2025-01-08'
 https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct
 ## Summary
 
-SmolLM2 is a family of compact language models with sizes of 135M, 360M, and 1.7B parameters, designed for on-device applications. The 1.7B variant shows improvements in instruction following, reasoning, and mathematics compared to its predecessor, trained on 11 trillion tokens from diverse datasets. It supports tasks like text rewriting, summarization, and function calling, enhanced through supervised fine-tuning and Direct Preference Optimization.
+SmolLM2 is a series of compact language models available in three sizes: 135M, 360M, and 1.7B parameters. The 1.7B variant shows notable improvements in instruction following, knowledge, reasoning, and math over its predecessor. It was trained on 11 trillion tokens from a variety of datasets and has undergone supervised fine-tuning (SFT) and Direct Preference Optimization (DPO).
 
-To use the model, install the `transformers` library and load the model with the provided code snippets. Evaluation metrics indicate strong performance across various benchmarks, outperforming previous models in several tasks. However, the model primarily understands English and may produce factually inaccurate or biased content, necessitating user verification.
+The instruct model supports tasks like text rewriting, summarization, and function calling, leveraging specialized datasets. Users can implement the model easily using the Transformers library, either in Python or JavaScript.
 
-The training utilized a transformer decoder architecture on 256 H100 GPUs, with a focus on bfloat16 precision. The model is licensed under Apache 2.0, and further details can be found in the provided citation.
+Evaluation results indicate strong performance across various benchmarks, including HellaSwag, ARC, and others, outperforming several competitors in many metrics. However, the model is primarily English-focused and may produce inaccurate or biased content, requiring users to verify important information.
+
+The SmolLM2 architecture is built on transformers, employing a pre-training regime focused on extensive token input. It is trained on 256 H100 GPUs using the nanotron framework and is licensed under Apache 2.0. Detailed documentation and dataset links are available for further exploration.
 ## Links
 
-1. [Hugging Face Datasets](https://huggingface.co/datasets/HuggingFaceTB/smoltalk) - A dataset used for supervised fine-tuning of the SmolLM2 model.
-2. [Hugging Face GitHub - SmolLM](https://github.com/huggingface/smollm) - Repository containing pre-training, post-training, evaluation, and local inference code for the SmolLM models.
-3. [Hugging Face GitHub - Lighteval](https://github.com/huggingface/lighteval) - A tool used for evaluating the performance of language models, relevant for the evaluation section of SmolLM2.
-4. [Hugging Face Datasets - Synth-APIGen](https://huggingface.co/datasets/argilla/Synth-APIGen-v0.1) - A dataset developed for instruction following tasks, used in the SmolLM2 model.
-5. [Hugging Face Docs - Safetensors](https://huggingface.co/docs/safetensors) - Documentation on Safetensors, which may be relevant for understanding model storage and performance.
+- [SmolLM2 Model Paper](https://arxiv.org/abs/2502.02737v1) : The research paper detailing the SmolLM2 model, its architecture, training data, and evaluation metrics.
+- [Hugging Face Datasets](https://huggingface.co/datasets/HuggingFaceTB/smoltalk) : The dataset used for supervised fine-tuning of the SmolLM2 model.
+- [Function Calling Instructions](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct/blob/main/instructions_function_calling.md) : Detailed instructions on how to implement function calling with the SmolLM2 model.
+- [Alignment Handbook](https://github.com/huggingface/alignment-handbook/) : A comprehensive guide related to the alignment and optimization of machine learning models.
+- [Lighteval Framework](https://github.com/huggingface/lighteval) : A framework for evaluating machine learning models with a focus on lightweight design.
+
 ## Topics
 
 ![](topics/Model/SmolLM2)
 
-![](topics/Tool/Transformer%20Tools)
+![](topics/Library/Transformers)
+
+![](topics/Concept/Instruction%20Tuning)
+
+![](topics/Concept/Zero%20shot%20Evaluation)
+
+![](topics/Dataset/FineWeb%20Edu)
 
 ![](topics/Tool/TensorBoard)
 
-![](topics/Tool/ONNX)
-
-![](topics/Concept/Direct%20Preference%20Optimization%20DPO)
+![](topics/Library/ONNX)

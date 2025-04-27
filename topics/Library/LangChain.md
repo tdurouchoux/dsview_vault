@@ -1,6 +1,6 @@
 ---
-date: '2025-04-19'
+date: '2024-11-07'
 type: Library
 ---
 
-A framework and library designed for building applications with language models, facilitating integration with various data sources, while providing techniques for memory management and context handling in conversational AI, and supporting retrieval augmented generation (RAG) frameworks, as well as both remote and local models.
+A library and framework designed to enhance the capabilities of large language models (LLMs) for building intelligent applications. It provides tools for managing and constructing pipelines involving language models and embeddings, facilitating functionalities like chatbots, Generative Question-Answering (GQA), and summarization, along with dialogue management, contextual understanding, data analysis, and managing complex call chains to LLMs.

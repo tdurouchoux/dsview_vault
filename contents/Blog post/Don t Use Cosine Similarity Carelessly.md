@@ -1,45 +1,47 @@
 ---
 already_read: true
-link: https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity?utm_campaign=Data_Elixir&utm_source=Data_Elixir_519
+link: https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity
 read_priority: 0
 relevance: 5
 source: Data Elixir
 tags:
-- Natural_Language_Processing
-- Data_Quality
+- Data_Analysis
 type: Content
 upload_date: '2025-01-22'
 ---
 
-https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity?utm_campaign=Data_Elixir&utm_source=Data_Elixir_519
+https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity
 ## Summary
 
-The article emphasizes caution when using cosine similarity in data science, particularly with vector embeddings. While embeddings can reveal relationships between items, blindly applying cosine similarity can lead to misleading results, such as matching questions to questions instead of questions to answers. 
+Cosine similarity is a commonly used technique in data science for measuring the similarity between vector representations, but it can lead to misleading results if applied blindly. While embeddings, particularly from Large Language Models (LLMs), can capture textual relationships, they may also reflect superficial patterns rather than meaningful semantic connections.
 
 Key points include:
 
-- **Embeddings**: They transform raw data into vectors, allowing for the discovery of relationships. However, they can capture superficial similarities rather than meaningful ones.
-- **Cosine Similarity**: A common method for comparing vectors, it calculates the cosine of the angle between them. While it has useful properties, its simplicity can be deceptive, and it may not always reflect true similarity.
-- **Limitations**: Cosine similarity may not align with the training objectives of machine learning models, leading to unreliable results. It also compresses complex notions of similarity into a single metric, which can overlook nuanced perspectives.
-- **Alternative Approaches**: Instead of relying solely on cosine similarity, the article suggests using large language models (LLMs) for more meaningful comparisons, fine-tuning embeddings for specific tasks, and employing prompt engineering to focus on relevant aspects of the data.
-- **Best Practices**: To improve vector similarity, one should train custom embeddings, engineer prompts, and clean text before embedding.
+- **Misleading Similarities**: Cosine similarity can associate questions with questions instead of questions with answers, thereby failing to capture true meaning.
+- **Dimensional Complexity**: High-dimensional vector spaces complicate interpretation; numerical values from cosine similarity may not represent real probabilities.
+- **Normalization and Pearson Correlation**: Cosine similarity is closely related to Pearson correlation, minus mean centering, but can behave unpredictably when vectors are unnormalized.
+- **Use Cases and Limitations**: While cosine similarity is useful as a loss function in training models, caution is needed when applying it beyond its intended scope.
+- **Contextual Relevance**: The notion of similarity varies across contexts, posing a challenge for the definition of similarity in models.
+- **Alternative Approaches**: Instead of relying solely on cosine similarity, it’s beneficial to use task-specific embeddings, fine-tuning, or crafting prompts to focus on relevant features.
+- **Preprocessing Techniques**: Cleaning and standardizing text before embedding can significantly improve similarity measurements by removing superficial discrepancies.
 
-Overall, the article advocates for a more intentional and nuanced approach to measuring similarity in data science.
+Ultimately, while cosine similarity is a useful tool, it should not be the only metric employed; a more nuanced approach that considers context, specific needs, and thorough pre-processing can yield better results in similarity assessments.
 ## Links
 
-1. [OpenAI Embedding Models and API Updates](https://openai.com/index/new-embedding-models-and-api-updates/) - Overview of the latest updates to OpenAI's embedding models and API, relevant for understanding modern embeddings.
-2. [Stanford NLP GloVe](https://nlp.stanford.edu/projects/glove/) - Information on GloVe, a popular word embedding model that is often compared with other embedding techniques.
-3. [Pearson Correlation Coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient) - A detailed explanation of Pearson correlation, which is related to cosine similarity and useful for understanding vector comparisons.
-4. [Node2Vec](https://snap.stanford.edu/node2vec/) - A framework for learning continuous feature representations for nodes in networks, relevant for understanding embeddings in graph data.
-5. [Text and Code Embeddings by Contrastive Pre-Training](https://cdn.openai.com/papers/Text_and_Code_Embeddings_by_Contrastive_Pre_Training.pdf) - A research paper discussing contrastive pre-training for embeddings, providing insights into advanced embedding techniques.
+- [OpenAI Embedding Models and API Updates](https://openai.com/index/new-embedding-models-and-api-updates/) : Updates regarding OpenAI's embedding models that are crucial for understanding text and code embeddings.
+- [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/) : Stanford's GloVe project, which provides a model for generating word embeddings that are useful for various NLP tasks.
+- [Pearson Correlation Coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient) : Wikipedia article explaining the Pearson correlation coefficient and its relationship to cosine similarity.
+- [OpenAI's Text and Code Embeddings by Contrastive Pre-Training](https://cdn.openai.com/papers/Text_and_Code_Embeddings_by_Contrastive_Pre_Training.pdf) : Research paper on contrastive pre-training for creating embeddings for text and code.
+- [Colab Notebooks on Tensor Operations](https://colab.research.google.com/github/stared/thinking-in-tensors-writing-in-pytorch/blob/master/rnns/Word%20vectors.ipynb) : A Google Colab notebook illustrating the use of RNNs and word vectors in PyTorch.
+
 ## Topics
 
 ![](topics/Concept/Cosine%20Similarity)
 
 ![](topics/Concept/Embeddings)
 
-![](topics/Model/OpenAI%20text%20embedding%203%20large)
-
-![](topics/Concept/Fine%20tuning)
-
 ![](topics/Concept/Transfer%20Learning)
+
+![](topics/Concept/Self%20Supervised%20Learning)
+
+![](topics/Concept/Task%20Specific%20Embeddings)

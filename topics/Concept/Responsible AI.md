@@ -1,6 +1,6 @@
 ---
-date: '2025-02-14'
+date: '2023-09-14'
 type: Concept
 ---
 
-The practice of developing and deploying AI technologies in a manner that is ethical, safe, and aligned with societal values.
+Responsible AI emphasizes the need for ethical practices, data privacy, and social responsibility in the development and deployment of artificial intelligence systems. It includes considerations of how data is managed, model transparency, and user consent in interactions with AI tools.

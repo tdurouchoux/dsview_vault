@@ -1,34 +1,37 @@
 ---
 already_read: false
-link: https://hex.tech/blog/myth-of-data-team-roi/?ref=blef.fr
+link: https://hex.tech/blog/myth-of-data-team-roi/
 read_priority: 5
 relevance: 0
 source: Blef
 tags:
-- Data_Quality
+- Data_Analysis
 type: Content
 upload_date: '2025-03-09'
 ---
 
-https://hex.tech/blog/myth-of-data-team-roi/?ref=blef.fr
+https://hex.tech/blog/myth-of-data-team-roi/
 ## Summary
 
-The article discusses the challenges of measuring the ROI of data teams, emphasizing that quantifying their impact is inherently difficult. Data leaders often face pressure to justify budgets and team expansions, but traditional metrics like return on investment can be misleading or unconvincing. Instead, the author suggests using a "Net Promoter Score" (NPS) approach, where the value of a data team is gauged by stakeholder satisfaction and advocacy. The article highlights that data teams should view themselves as service organizations, supporting other teams' success, and that their insights must inspire action to be deemed valuable. Ultimately, the narrative around ROI should be told by stakeholders rather than the data teams themselves, allowing for a clearer demonstration of their impact.
+The article discusses the challenges of measuring the ROI of data teams, emphasizing that traditional quantitative metrics fall short. Data leaders face pressure during budgeting cycles to justify expenses related to personnel and tools, but quantifying the impact of data projects and infrastructure improvements is inherently difficult. Attempts to create metrics often result in cumbersome tracking methods that may not effectively convey true value.
+
+Instead of focusing on internal self-assessments, the author advocates for using Net Promoter Score (NPS) to gauge the satisfaction of stakeholders who consume data insights. If these stakeholders recognize the value of the data team’s contributions and would recommend their services, then the impact can be considered effective. The article stresses the need for data teams to embrace their role as support organizations, driving value through collaboration and ensuring that their insights inspire action.
+
+The conclusion highlights the importance of clear communication of impact to gain necessary support and budget, suggesting that when data teams operate effectively, they won't have to justify their ROI themselves; their stakeholders will do it for them.
 ## Links
 
-1. [Glue Work](https://locallyoptimistic.com/post/glue-work/) - An exploration of the often-overlooked "glue work" in data teams and its impact on overall productivity and value.
-2. [Accuracy Agency Matrix](https://hex.tech/blog/accuracy-agency-matrix/) - A discussion on the balance between accuracy and agency in data teams, relevant to understanding their role and impact.
-3. [Privacy Policy](https://learn.hex.tech/docs/trust/privacy-policy) - Important for understanding the ethical considerations and responsibilities of data teams in handling data.
-4. [Changelog](https://learn.hex.tech/changelog) - Updates on changes and improvements in data tools that can affect data team operations and ROI.
-5. [Hex Documentation](https://learn.hex.tech) - Comprehensive resources and documentation for Hex, a platform that supports data teams in their work.
+- [Understanding Data Team ROI](https://hex.tech/blog/data-team-roi/) : A deeper exploration into the complexities of measuring ROI for data teams.
+- [Accuracy Agency Matrix](https://hex.tech/blog/accuracy-agency-matrix/) : Discusses the relationship between data accuracy and agency in team contexts.
+- [Glue Work in Data Science](https://locallyoptimistic.com/post/glue-work/) : Explores the concept of 'glue work' in data science and the difficulties in quantifying its value.
+
 ## Topics
 
-![](topics/Concept/Data%20Team%20ROI)
+![](topics/Concept/Return%20on%20Investment%20ROI%20in%20Data%20Teams)
 
 ![](topics/Concept/Net%20Promoter%20Score%20NPS)
 
-![](topics/Concept/Stakeholder%20Engagement)
+![](topics/Concept/Value%20Communication%20in%20Data%20Science)
 
-![](topics/Concept/Data%20Team%20as%20a%20Service)
+![](topics/Concept/Data%20as%20a%20Service%20DaaS)
 
-![](topics/Concept/Advocacy%20in%20Data%20Teams)
+![](topics/Concept/Stakeholder%20Engagement%20and%20Management)

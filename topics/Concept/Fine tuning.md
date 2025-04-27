@@ -1,6 +1,6 @@
 ---
-date: '2025-02-18'
+date: '2025-03-19'
 type: Concept
 ---
 
-The process of taking a pre-trained model and training it further on a specific dataset to adapt it for a particular task, including various methods and configurations such as full fine-tuning, LoRA, QLoRA, and knowledge distillation.
+Fine-tuning is the process of taking a pre-trained machine learning model and making slight adjustments to its parameters using a smaller, domain-specific dataset. This technique allows models to specialize in particular areas, improving performance on tasks that require in-depth knowledge of niche topics and optimizing the model for specific use cases, such as video-caption pairs, commonly used in transfer learning.

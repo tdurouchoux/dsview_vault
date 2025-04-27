@@ -3,4 +3,4 @@ date: '2024-09-28'
 type: Platform
 ---
 
-A modern platform for developing and hosting powerful, performant, polyglot data applications built on open source.
+Observable is a collaborative platform for data analysis that allows users to explore and visualize data in a dynamic environment. It facilitates real-time collaboration among data analysts and stakeholders, enabling teams to conduct detailed analyses and create interactive visualization tools, such as custom dashboards.

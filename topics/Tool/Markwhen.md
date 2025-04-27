@@ -3,4 +3,4 @@ date: '2024-12-28'
 type: Tool
 ---
 
-An interactive text-to-timeline tool that converts markdown-like text into a cascading timeline.
+Markwhen is an interactive scheduling tool that allows users to create cascading timelines from markdown-like text. It supports various date formats, images, links, and locations, helping users visualize events in a timeline format.

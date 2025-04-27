@@ -13,21 +13,27 @@ upload_date: '2025-02-11'
 ![](artefacts/hotos15-paper-mcsherry.pdf)
 ## Summary
 
-The paper introduces a new metric called COST (Configuration that Outperforms a Single Thread) to evaluate big data platforms, focusing on the hardware configuration needed for a system to outperform a single-threaded implementation. The authors argue that many systems exhibit high COST, indicating that they may not provide significant performance improvements over simpler implementations, often due to overheads introduced by parallelization.
+The paper presents a new metric, COST (Configuration that Outperforms a Single Thread), to evaluate big data platforms based on hardware requirements needed for these systems to outperform effective single-threaded implementations. This metric highlights the trade-offs between scalability and overheads, revealing systems that may appear scalable but introduce significant performance penalties due to parallelizable overheads.
 
-Key points include:
+Key findings include that many data-parallel systems possess high COST or fail to surpass single-threaded implementations, even when using numerous cores. The authors conducted a methodology comparing various graph-processing systems' performance against single-threaded counterparts using a standard high-end laptop from 2014.
 
-- The emphasis on scalability in big data systems often overshadows the need for absolute performance evaluation against benchmarks.
-- Many published systems have unbounded COST, meaning they do not outperform single-threaded implementations even when using hundreds of cores.
-- The authors conducted comparisons of various graph processing systems against single-threaded implementations, revealing that single-threaded versions often outperform distributed systems significantly.
-- They highlight the importance of algorithm choice and data layout in achieving better performance, suggesting that many systems use suboptimal algorithms that do not leverage the full potential of parallelism.
-- The paper calls for a reevaluation of how performance is measured in distributed systems, advocating for a focus on systems that achieve scalability through effective design rather than through inflated performance claims.
+The paper discusses specific algorithms like PageRank and label propagation, demonstrating that single-threaded implementations often outperform distributed systems significantly, with some systems showing performance gaps of over an order of magnitude. The authors emphasize the importance of better baselines and argue for improvements by adopting efficient algorithms and optimal data layouts, ultimately aiming to foster better design standards in scalable systems.
 
-The authors conclude that understanding the COST of a system is crucial for identifying inefficiencies and guiding future research towards more effective scalable systems. They also suggest that there is still valuable work to be done in improving scalable algorithms and computational models.
+The paper concludes that high COST may not solely reflect poor system design but also differing problem targets or experimental prototypes. The authors recommend further research in scalable systems while providing a framework for assessing progress in distributed computing.
 ## Topics
-
-![](topics/Concept/COST)
 
 ![](topics/Concept/Scalability)
 
+![](topics/Concept/Performance%20Metrics)
+
+![](topics/Model/PageRank)
+
 ![](topics/Concept/Graph%20Processing)
+
+![](topics/Platform/GraphLab)
+
+![](topics/Platform/GraphX)
+
+![](topics/Concept/Label%20Propagation)
+
+![](topics/Concept/Union%20Find%20Algorithm)

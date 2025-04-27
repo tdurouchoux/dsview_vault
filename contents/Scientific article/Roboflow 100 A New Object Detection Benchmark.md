@@ -2,6 +2,7 @@
 already_read: false
 link: https://www.rf100.org/
 read_priority: 1
+relevance: 0
 source: null
 tags:
 - Computer_Vision
@@ -12,29 +13,33 @@ upload_date: '2022-12-07'
 https://www.rf100.org/
 ## Summary
 
-Roboflow 100 is a new object detection benchmark introduced in November 2022 and presented at CVPR in June 2023. It aims to advance object recognition by providing domain-specific benchmarks that assess model adaptability across various fields such as healthcare, aerial imagery, and video games. Unlike traditional benchmarks that focus on a single dataset (e.g., Microsoft COCO, Pascal VOC), Roboflow 100 encompasses 100 projects derived from over 90,000 public datasets and 60 million images, emphasizing model generalization.
+Roboflow 100 is a new object detection benchmark introduced in November 2022 and presented at CVPR in June 2023. It aims to enhance object recognition by providing domain-specific benchmarks that evaluate model adaptability across various tasks, including healthcare and aerial imagery, rather than relying solely on traditional benchmarks like Microsoft COCO and Pascal VOC.
 
-Key features include:
-- 100 separate datasets across 7 imagery domains.
-- A total of 224,714 images and 829 class labels.
-- 11,170 hours of labeling effort.
+Key features of Roboflow 100 include:
+- A comprehensive benchmark consisting of 100 projects diversified across seven imagery domains.
+- Sourced from over 90,000 public datasets and 60 million images on the Roboflow platform.
+- Focuses on encouraging model generalization beyond single-dataset metrics.
 
-The benchmark was inspired by the research community's use of Roboflow datasets for testing model generalizability. Further details and usage instructions are available on the Roboflow 100 GitHub page. The initiative is organized by a team from the Roboflow community and sponsored by Intel.
+The benchmark includes:
+- 224,714 images
+- 829 class labels
+- 11,170 hours of labeling work
+
+Developed by the Roboflow community and organized by a team of researchers, Roboflow 100 utilizes crowdsourcing to compile its datasets and encourages the exploration of model generalization. Further details can be accessed on the Roboflow 100 GitHub page.
 ## Links
 
-1. [Roboflow 100 GitHub](https://github.com/roboflow-ai/roboflow-100-benchmark) - The official GitHub repository for the Roboflow 100 benchmark, containing details on how to use the dataset and evaluate models.
-2. [Roboflow 100 Paper](https://arxiv.org/abs/2211.13523) - The research paper introducing the Roboflow 100 benchmark, detailing the methodology and findings.
-3. [Papers with Code - RF100](https://paperswithcode.com/dataset/rf100) - A page that provides information on the Roboflow 100 dataset, including associated papers and code implementations.
-4. [Microsoft Project Florence](https://www.microsoft.com/en-us/research/project/projectflorence/) - A related project that explores model generalizability, which inspired the creation of the Roboflow 100 benchmark.
-5. [GLIP GitHub Repository](https://github.com/microsoft/GLIP) - The GitHub repository for GLIP, a model that has been used to test generalizability with Roboflow datasets.
+- [Roboflow 100 GitHub Repository](https://github.com/roboflow/roboflow-100-benchmark) : The official repository for the Roboflow 100 benchmark containing code and additional resources.
+- [CVPR 2023 Paper on Roboflow 100](https://computer-vision-in-the-wild.github.io/cvpr-2023/) : Details and research findings presented at CVPR 2023 related to the Roboflow 100 benchmark.
+- [Papers with Code: RF100](https://paperswithcode.com/dataset/rf100) : A collection of papers relevant to the Roboflow 100 dataset and benchmarks.
+- [Microsoft GLIP GitHub Repository](https://github.com/microsoft/GLIP) : Repository for GLIP, a model for image understanding that can be related to tasks evaluated in the Roboflow 100 benchmark.
+- [Project Florence by Microsoft](https://www.microsoft.com/en-us/research/project/projectflorence/) : Research initiative by Microsoft focused on advancing computer vision, relevant to the development of benchmarking methodologies like Roboflow 100.
+
 ## Topics
 
 ![](topics/Dataset/Roboflow%20100)
 
 ![](topics/Concept/Object%20Detection%20Benchmarking)
 
-![](topics/Concept/Model%20Generalizability)
+![](topics/Platform/Roboflow)
 
-![](topics/Product/Roboflow)
-
-![](topics/Concept/Domain%20Specific%20Benchmarks)
+![](topics/Concept/Generalization%20in%20Machine%20Learning)

@@ -3,4 +3,4 @@ date: '2024-11-18'
 type: Tool
 ---
 
-A tool that is part of the Gemini family of multimodal models developed by Google, used for initial transcription of audio content in the VERDAD project, and capable of understanding and reasoning across various media types.
+Gemini 1.5 Flash is a generative language model that is efficient and effective for handling various language processing tasks such as transcription and initial data processing. It is designed for economical performance on large-scale processing in projects, demonstrating optimal design and training approaches.

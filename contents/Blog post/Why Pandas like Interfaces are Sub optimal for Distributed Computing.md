@@ -2,6 +2,7 @@
 already_read: true
 link: https://readmedium.com/https://towardsdatascience.com/why-pandas-like-interfaces-are-sub-optimal-for-distributed-computing-322dacbce43
 read_priority: 3
+relevance: 0
 source: null
 tags:
 - Data_Engineering
@@ -14,24 +15,18 @@ https://readmedium.com/https://towardsdatascience.com/why-pandas-like-interfaces
 
 The content discusses the limitations of Pandas-like interfaces when applied to distributed computing environments. Key points include:
 
-- **Performance Issues**: Pandas is designed for single-node operations, leading to inefficiencies when scaling to distributed systems.
-- **Data Movement**: The need for data to be moved across nodes can create bottlenecks, impacting performance.
-- **Memory Constraints**: Pandas operates in-memory, which can be problematic for large datasets that exceed the memory capacity of a single machine.
-- **Lack of Parallelism**: Pandas does not inherently support parallel processing, making it less suitable for distributed tasks.
-- **Alternatives**: The content suggests exploring frameworks specifically designed for distributed computing, such as Dask or Apache Spark, which offer better scalability and performance.
+- **Performance Issues**: Pandas is optimized for single-machine performance, which may lead to inefficiencies when scaled across distributed systems.
+- **Memory Management**: Handling large datasets that exceed memory capacity poses challenges, as Pandas does not natively support out-of-core processing.
+- **Task Scheduling**: Distributed computing requires effective task scheduling and workload management, which Pandas-like APIs do not inherently provide.
+- **Complexity in Operations**: Many operations in Pandas are not easily parallelizable, complicating execution across multiple nodes.
+- **Alternatives**: The content suggests exploring other frameworks designed specifically for distributed computing, such as Dask or Apache Spark, which address these issues more effectively. 
 
-Overall, while Pandas is a powerful tool for data manipulation, its architecture is not optimal for distributed computing scenarios.
+Overall, the document emphasizes the need for tools that can leverage distributed resources efficiently rather than relying on traditional Pandas-like interfaces.
 ## Links
 
-no links
-## Topics
 
-![](topics/Concept/Pandas%20like%20Interfaces)
+## Topics
 
 ![](topics/Concept/Distributed%20Computing)
 
-![](topics/Concept/Data%20Manipulation%20and%20Transformation)
-
-![](topics/Concept/Performance%20Optimization)
-
-![](topics/Concept/Scalability)
+![](topics/Concept/Pandas%20like%20Interfaces)

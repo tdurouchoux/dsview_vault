@@ -1,6 +1,6 @@
 ---
-date: '2025-03-09'
+date: '2024-02-15'
 type: Library
 ---
 
-A framework for testing Python code, allowing for easy writing of simple as well as scalable test cases.
+pytest is a third-party testing framework for Python that provides a user-friendly approach to testing, allowing for easy writing of simple to complex test cases. It includes powerful features like fixtures, enhanced assertions, and is compatible with unittest and nose, supported by a rich ecosystem of plugins, making it a versatile choice in the Python community.

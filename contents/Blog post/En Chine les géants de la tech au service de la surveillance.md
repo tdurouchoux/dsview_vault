@@ -2,6 +2,7 @@
 already_read: false
 link: https://www.lemonde.fr/international/article/2022/10/12/en-chine-les-geants-de-la-tech-au-service-de-la-surveillance_6145391_3210.html
 read_priority: 1
+relevance: 0
 source: null
 tags:
 - Data_Quality
@@ -12,18 +13,19 @@ upload_date: '2022-10-13'
 https://www.lemonde.fr/international/article/2022/10/12/en-chine-les-geants-de-la-tech-au-service-de-la-surveillance_6145391_3210.html
 ## Summary
 
-En Chine, les applications WeChat et Alipay, développées par des géants de la tech comme Tencent, ont transformé le quotidien des utilisateurs, devenant essentielles pour la communication et les transactions. Cependant, ces plateformes collectent des données qui renforcent le contrôle social exercé par le gouvernement. Les utilisateurs, comme Xiaoli, témoignent de la censure et des suspensions de comptes en raison de contenus jugés sensibles, illustrant la surveillance omniprésente. WeChat, en particulier, a connu une croissance rapide, atteignant 1,2 milliard d'utilisateurs en dix ans, sans véritable concurrence sur le marché chinois, ce qui soulève des préoccupations sur la vie privée et la liberté d'expression.
+Les applications WeChat et Alipay ont transformé la vie quotidienne en Chine, en offrant des services de communication et de paiement. Cependant, les données collectées par ces plateformes sont utilisées par le gouvernement pour renforcer le contrôle social. Un exemple concret est celui d'une utilisatrice, Xiaoli, qui a perdu l'accès à son compte après avoir partagé des opinions politiques, soulignant les risques de censure et de surveillance des utilisateurs. Les géants de la tech chinois, en facilitant ces applications, contribuent au système de surveillance étatique.
 ## Links
 
-no links
+- [Guerre commerciale : comment la Chine cherche à faire plier Donald Trump](https://www.lemonde.fr/economie/article/2025/04/27/guerre-commerciale-comment-la-chine-cherche-a-faire-plier-donald-trump_6600495_3234.html) : Explores China's economic strategies and how they impact international relations.
+- [La guerre de Gaza](https://www.lemonde.fr/la-guerre-de-gaza/) : Coverage of the ongoing conflict in Gaza and its implications.
+- [Le climat](https://www.lemonde.fr/climat/) : Discussion on climate-related issues and their global impacts.
+- [Le Monde & Vous](https://www.lemonde.fr/le-monde-et-vous/) : A section providing interactive content and engagement with readers.
+- [Sciences](https://www.lemonde.fr/sciences/) : Science-related articles discussing current advancements and research.
+
 ## Topics
 
-![](topics/Product/WeChat)
+![](topics/Concept/Digital%20Surveillance)
 
-![](topics/Product/Alipay)
+![](topics/Platform/WeChat)
 
-![](topics/Concept/Social%20Control)
-
-![](topics/Concept/Data%20Privacy)
-
-![](topics/Platform/Tencent)
+![](topics/Platform/Alipay)

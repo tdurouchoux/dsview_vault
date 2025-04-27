@@ -3,4 +3,4 @@ date: '2025-04-09'
 type: Platform
 ---
 
-A platform designed to measure and evaluate an organization's data maturity levels through surveys and comparative analysis.
+Data Compass AI is a platform designed to evaluate and improve organizational data maturity. It offers tools to measure an organization's data effectiveness through surveys, facilitate benchmarking against industry standards, and identify areas for enhancement in data management processes. This platform aims to assist organizations in fostering a data-driven culture.

@@ -3,4 +3,4 @@ date: '2023-11-30'
 type: Concept
 ---
 
-A statistical technique for selecting a subset of data points from a larger dataset to make analysis more manageable.
+Data sampling is a technique used to select a subset of individuals from a larger population, making analysis practical and cost-effective. It includes methods like random sampling, stratified sampling, and systematic sampling to ensure representative subsets.

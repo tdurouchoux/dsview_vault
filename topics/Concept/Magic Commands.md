@@ -3,4 +3,4 @@ date: '2023-09-14'
 type: Concept
 ---
 
-Special commands in Jupyter AI that allow users to interact with LLMs and perform various tasks within Jupyter notebooks.
+Magic commands are special commands in Jupyter notebooks that allow for enhanced functionality, such as executing code, loading extensions, or integrating with other services and models without requiring extensive setup or code changes.

@@ -3,4 +3,4 @@ date: '2025-02-14'
 type: Platform
 ---
 
-A metrics platform that serves as a central store for metric definitions, allowing users to define metrics using SQL, discover dimensions, understand dependencies, build cubes, and create standardized metrics for consumption across the organization.
+DataJunction is a metrics platform that enables users to define and manage metrics using SQL, discover relationships between metrics, and construct analytics products through a robust metadata layer.

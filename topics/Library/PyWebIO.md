@@ -3,4 +3,4 @@ date: '2024-04-10'
 type: Library
 ---
 
-An open-source library for building simple web applications or browser-based GUI applications, focusing on basic data collection tools.
+PyWebIO is an open-source library for creating simple web applications and browser-based GUIs in Python. It emphasizes easy integration with web services like Flask and Django, providing basic functions for user input and output, suitable for quick and straightforward web interfaces.

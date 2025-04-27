@@ -3,4 +3,4 @@ date: '2024-09-28'
 type: Concept
 ---
 
-A framework that allows LLMs to leverage tools and perform complex workflows through branching and looping.
+Agentic pipelines refer to complex workflows that utilize multiple AI agents working together to complete tasks. These pipelines are designed to incorporate decision-making and tool usage, allowing for more sophisticated interactions and capabilities in AI applications.

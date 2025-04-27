@@ -1,6 +1,6 @@
 ---
-date: '2025-02-18'
+date: '2024-07-03'
 type: Tool
 ---
 
-A package manager for Python that allows for the installation of Python packages, including Preswald.
+Pip is a package management system for Python that enables users to install and manage software packages written in Python. It is used to install Pretzel and manage its dependencies, ensuring that users have the required tools and libraries for running the applications.

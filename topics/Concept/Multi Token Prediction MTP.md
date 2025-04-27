@@ -3,4 +3,4 @@ date: '2024-12-28'
 type: Concept
 ---
 
-A training objective introduced in DeepSeek-V3 to improve model performance and enable speculative decoding.
+Multi-Token Prediction is a training approach in natural language processing where models predict multiple tokens simultaneously rather than one token at a time. This technique can expedite inference and improve the overall performance of language models, especially when utilized in conjunction with attention mechanisms.

@@ -3,4 +3,4 @@ date: '2024-06-12'
 type: Model
 ---
 
-A foundation model for time series forecasting that is part of the evaluation but ranks lower in performance.
+Moirai is a foundation model designed for time series forecasting, known for its unified training approach. It focuses on improving predictive performance through advanced neural network architectures, aiming to provide practitioners with effective tools for forecasting accuracy in various domains.

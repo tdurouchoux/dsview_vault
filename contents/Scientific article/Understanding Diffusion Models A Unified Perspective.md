@@ -2,10 +2,10 @@
 already_read: false
 link: https://arxiv.org/abs/2208.11970
 read_priority: 1
+relevance: 0
 source: null
 tags:
-- Generative_AI
-- Computer_Vision
+- Deep_Learning
 type: Content
 upload_date: '2022-09-15'
 ---
@@ -13,26 +13,23 @@ upload_date: '2022-09-15'
 https://arxiv.org/abs/2208.11970
 ## Summary
 
-The paper "Understanding Diffusion Models: A Unified Perspective" by Calvin Luo reviews and unifies the understanding of diffusion models, which are prominent in generative modeling, particularly in text-conditioned image generation (e.g., Imagen, DALL-E 2). 
+The paper "Understanding Diffusion Models: A Unified Perspective" by Calvin Luo explores the capabilities of diffusion models as generative models, especially in text-conditioned image generation tasks like those implemented in Imagen and DALL-E 2. It reviews and unifies the understanding of diffusion models through both variational and score-based perspectives.
 
-Key points include:
+Key technical points include:
+- Deriving Variational Diffusion Models (VDM) from a Markovian Hierarchical Variational Autoencoder, emphasizing the importance of three core assumptions to enable tractable computation and scalable optimization of the ELBO (Evidence Lower Bound).
+- Optimizing a VDM involves training a neural network to predict one of three objectives related to the original source, its noise, or the score function of a noisified input.
+- A deeper investigation into learning the score function connects the variational and score-based generative modeling perspectives through Tweedie’s Formula.
+- Discusses methods for learning conditional distributions using diffusion models through guidance techniques.
 
-- **Variational Diffusion Models (VDM)**: The paper derives VDM as a specific case of a Markovian Hierarchical Variational Autoencoder, highlighting three key assumptions that facilitate computation and optimization of the Evidence Lower Bound (ELBO).
-  
-- **Learning Objectives**: It establishes that optimizing a VDM involves training a neural network to predict one of three objectives: the original input from a noisified version, the original noise from a noisified input, or the score function of a noisified input at any noise level.
-
-- **Score Function Learning**: The paper delves into the implications of learning the score function and connects the variational perspective with the Score-based Generative Modeling perspective using Tweedie's Formula.
-
-- **Conditional Distribution Learning**: It also discusses methods for learning conditional distributions using diffusion models through guidance.
-
-Overall, the work aims to clarify the theoretical foundations and practical applications of diffusion models in machine learning and computer vision.
+The study contributes to a clearer comprehension and framework for applying diffusion models in machine learning and computer vision.
 ## Links
 
-1. [Papers with Code](https://paperswithcode.com/) - A platform that provides a collection of machine learning papers along with their code implementations, useful for understanding and replicating research findings.
-2. [Semantic Scholar](https://www.scite.ai/) - A research tool that helps users find and understand scientific literature, offering insights into how papers are cited and their impact.
-3. [CatalyzeX](https://www.catalyzex.com) - A resource for finding code implementations related to academic papers, particularly in the field of machine learning.
-4. [Hugging Face](https://huggingface.co/docs/hub/spaces) - A popular platform for sharing and using machine learning models, including those related to generative models like diffusion models.
-5. [arXiv](https://arxiv.org/) - A repository of electronic preprints (known as e-prints) across various fields, including computer science and machine learning, where the paper can be accessed.
+- [Papers with Code - Understanding Diffusion Models](https://paperswithcode.com/) : A platform that links research papers to the code implementations to facilitate the understanding and application of diffusion models.
+- [Scite - Smart Citations](https://www.scite.ai/) : A smart citation platform that provides insights into how research has been cited and its relevance in the context of diffusion models.
+- [Hugging Face - Model Hub](https://huggingface.co/docs/hub/spaces) : An accessible platform for utilizing and sharing machine learning models, including those based on diffusion models.
+- [Litmaps](https://www.litmaps.co/) : A visual literature management toolkit that helps researchers find, read, and manage scholarly papers related to machine learning and diffusion models.
+- [Connected Papers](https://www.connectedpapers.com/about) : A tool to create a visual graph of papers relevant to a specific research topic, such as diffusion models, helping in understanding the landscape of research.
+
 ## Topics
 
 ![](topics/Concept/Diffusion%20Models)

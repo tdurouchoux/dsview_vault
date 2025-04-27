@@ -1,6 +1,6 @@
 ---
-date: '2023-01-19'
+date: '2025-04-19'
 type: Concept
 ---
 
-The evolving legal framework governing the development and deployment of artificial intelligence technologies, particularly focusing on accountability and transparency.
+AI regulation encompasses the frameworks, laws, guidelines, and policy development processes that govern the ethical use and deployment of artificial intelligence technologies. This concept involves accountability, safety, transparency, and societal impact, highlighting the need for a structured approach to address ethical concerns and balance innovation with responsible usage.

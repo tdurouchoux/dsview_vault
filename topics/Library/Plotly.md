@@ -1,6 +1,6 @@
 ---
-date: '2024-04-10'
+date: '2023-01-12'
 type: Library
 ---
 
-A powerful open-source Python library for creating interactive visualizations and building production-ready, visually appealing web-based analytical applications and dashboards.
+Plotly is a graphing library that makes interactive, publication-quality graphs online. It is commonly used for data visualization in Python and supports various chart types, including bar charts, scatter plots, and waterfall charts.

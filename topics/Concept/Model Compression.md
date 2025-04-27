@@ -3,4 +3,4 @@ date: '2023-09-28'
 type: Concept
 ---
 
-Methods used to reduce the size of machine learning models while maintaining their performance.
+Model compression refers to techniques used to reduce the size of a machine learning model while maintaining its performance. This can involve methods such as pruning, quantization, and knowledge distillation, allowing models to be deployed on devices with limited computational resources.

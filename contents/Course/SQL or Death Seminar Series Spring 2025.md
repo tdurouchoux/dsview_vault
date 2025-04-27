@@ -1,6 +1,6 @@
 ---
 already_read: false
-link: https://db.cs.cmu.edu/seminar2025/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_521
+link: https://db.cs.cmu.edu/seminar2025/
 read_priority: 4
 relevance: 0
 source: Data Elixir
@@ -10,35 +10,40 @@ type: Content
 upload_date: '2025-02-04'
 ---
 
-https://db.cs.cmu.edu/seminar2025/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_521
+https://db.cs.cmu.edu/seminar2025/
 ## Summary
 
-The "SQL or Death? Seminar Series" at Carnegie Mellon University explores the evolution and future of SQL, which has been a staple in databases for 50 years. The series aims to either enhance SQL's performance or propose alternatives. It features online talks open to the public, scheduled for Mondays at 4:30 PM ET, with recordings available on the CMU-DB YouTube Channel.
+The "SQL or Death? Seminar Series" at Carnegie Mellon University explores the evolution of SQL, a 50-year-old database language. The series discusses both enhancing SQL's performance and potential alternatives. It features weekly online talks from various speakers, open to the public, discussing topics such as:
 
-Key topics include:
-- TypeScript Stored Procedures
-- Improvements in query languages
-- Apache Pinot Query Optimizer
-- Modern data analysis languages like Malloy
-- GoogleSQL and PRQL
-- New query optimizers in MariaDB and EdgeDB
+- TypeScript stored procedures
+- Query language sanity
+- Apache Pinot and StarRocks query optimizers
+- Modern open-source languages (e.g., Malloy)
+- Pipelined relational query language (PRQL)
+- MariaDB’s unique query optimizer
+- New approaches to replacing SQL
 
-The series is organized by Andy Pavlo, Jignesh Patel, and Sam Arch, in collaboration with various CMU groups.
+The seminars occur on Mondays at 4:30 PM ET and are recorded for later viewing on the CMU-DB YouTube Channel.
 ## Links
 
-1. [Apache Pinot](https://pinot.apache.org/) - A real-time distributed OLAP data store designed to provide low-latency analytics.
-2. [Malloy: A Modern Open Source Language for Analyzing, Transforming, and Modeling Data](https://www.malloydata.dev/) - A new language aimed at simplifying data analysis and transformation tasks.
-3. [PRQL: Pipelined Relational Query Language](https://prql-lang.org/) - A modern query language designed to improve the experience of writing SQL-like queries.
-4. [StarRocks](https://www.starrocks.io/) - A high-performance, real-time analytical database designed for big data applications.
-5. [MariaDB](https://mariadb.org/) - An open-source relational database management system that is a fork of MySQL, known for its performance and reliability.
+- [Fifty Years of SQL](https://www.theregister.com/2024/05/31/fifty_years_of_sql/) : An article discussing the evolution and current relevance of SQL over the past fifty years.
+- [PRQL: Pipelined Relational Query Language](https://prql-lang.org/) : The official site for PRQL, a modern language designed for querying relational databases.
+- [Malloy: A Modern Open Source Language for Analyzing, Transforming, and Modeling Data](https://www.malloydata.dev/) : Introduction to Malloy, an open-source language tailored for data manipulation and transformation.
+- [Apache Pinot Query Optimizer](https://db.cs.cmu.edu/events/sql-death-apache-pinot-query-optimizer/) : Details on a seminar discussing the query optimizer for Apache Pinot, designed for real-time analytics.
+- [MariaDB’s Query Optimizer](https://db.cs.cmu.edu/events/sql-death-mariadbs-new-query-optimizer/) : Seminar focused on improvements in the MariaDB Query Optimizer and its impacts on relational database performance.
+
 ## Topics
 
-![](topics/Concept/SQL)
+![](topics/Concept/Relational%20Databases)
 
-![](topics/Tool/Apache%20Pinot)
+![](topics/Tool/SQL)
 
-![](topics/Tool/Malloy)
+![](topics/Concept/Query%20Optimization)
 
-![](topics/Tool/GoogleSQL)
+![](topics/Platform/Apache%20Pinot)
 
 ![](topics/Tool/MariaDB)
+
+![](topics/Concept/Data%20Transformation)
+
+![](topics/Tool/Gel)

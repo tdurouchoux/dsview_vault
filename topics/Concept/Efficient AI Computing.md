@@ -1,6 +1,6 @@
 ---
-date: '2023-09-28'
+date: '2022-09-15'
 type: Concept
 ---
 
-Efficient AI Computing refers to techniques and methodologies aimed at optimizing the performance and resource usage of machine learning models, particularly in resource-constrained and low-power environments.
+Efficient AI Computing refers to the methodologies and practices aimed at optimizing computational resources and energy consumption for artificial intelligence tasks. It emphasizes the development of algorithms and architectures that enable faster execution with reduced hardware requirements, thus making AI technologies more accessible and sustainable.

@@ -3,4 +3,4 @@ date: '2024-02-15'
 type: Library
 ---
 
-A library that adds progress bars to iterative processes in Python, enhancing user experience.
+TQDM is a Python library that adds progress bars to loops and iterative processes. It improves user experience by providing visual indicators of progress, making long-running operations more user-friendly and informative.

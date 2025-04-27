@@ -3,4 +3,4 @@ date: '2023-10-19'
 type: Concept
 ---
 
-A machine learning approach that uses both labeled and unlabeled data for training, particularly useful in scenarios with limited labeled data.
+Semi-supervised Learning is a machine learning approach that incorporates both labeled and unlabeled data for training models. This method is particularly useful in scenarios where acquiring labeled data is expensive or time-consuming. Semi-supervised learning leverages the structure of the data and the inherent relationships between labeled and unlabeled instances to improve model accuracy and generalization.

@@ -1,6 +1,6 @@
 ---
-date: '2025-03-16'
+date: '2025-01-08'
 type: Library
 ---
 
-A library for building and training AI agents that can perform various tasks through tool integration, enabling language models to interact with external tools and APIs, including functionalities like weather lookup and web browser control.
+smolagents is a simple library designed for building agents that leverage language models to perform actions through code execution, providing a more intuitive interface for integrating AI agent capabilities.

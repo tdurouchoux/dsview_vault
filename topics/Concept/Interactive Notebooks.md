@@ -3,4 +3,4 @@ date: '2025-03-12'
 type: Concept
 ---
 
-A feature of the DuckDB UI that allows users to organize work into notebooks, executing SQL statements in cells with syntax highlighting and autocomplete.
+Interactive notebooks are documents that combine live code, equations, visuals, and narrative text. They allow for exploratory data analysis and are often used in data science for documenting workflows, sharing results, and running code in an iterative manner. In the context of SQL and databases, they help users structure their queries and visualize results effectively.

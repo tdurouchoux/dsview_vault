@@ -1,6 +1,6 @@
 ---
-date: '2023-04-13'
+date: '2024-10-16'
 type: Concept
 ---
 
-A type of deep learning model particularly effective for image classification tasks, utilizing convolutional layers to learn spatial hierarchies of features.
+Convolutional Neural Networks (CNNs) are specialized neural networks designed to process data with grid-like topology, such as images. They consist of convolutional layers that apply a series of filters (kernels) to the input, allowing the network to learn spatial hierarchies of features. CNNs often include pooling layers to downsample data and reduce complexity. They are widely used in image and video recognition tasks due to their ability to effectively recognize patterns and features in visual data.
