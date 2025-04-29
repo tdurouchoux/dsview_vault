@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "[\"type\":\"content\"]",
@@ -41,6 +41,20 @@
         "a": 1,
         "rgb": 13333975
       }
+    },
+    {
+      "query": "[\"type\":\"Tool\"]",
+      "color": {
+        "a": 1,
+        "rgb": 5345413
+      }
+    },
+    {
+      "query": "[\"type\":\"Dataset\"]",
+      "color": {
+        "a": 1,
+        "rgb": 8987046
+      }
     }
   ],
   "collapse-display": true,
@@ -49,10 +63,10 @@
   "nodeSizeMultiplier": 2.33426920572917,
   "lineSizeMultiplier": 2.72505696614583,
   "collapse-forces": false,
-  "centerStrength": 0.300374348958333,
-  "repelStrength": 10.7096354166667,
+  "centerStrength": 0.0709635416666667,
+  "repelStrength": 8.84114583333333,
   "linkStrength": 1,
-  "linkDistance": 101,
-  "scale": 0.05904115486650139,
-  "close": false
+  "linkDistance": 161,
+  "scale": 0.20611181734711165,
+  "close": true
 }
