@@ -1,6 +1,6 @@
 ---
-date: '2025-02-14'
+date: '2025-05-05'
 type: Platform
 ---
 
-Gemini is a suite of AI models developed by Google, designed for various applications across the AI landscape. It emphasizes safety and responsibility in its design and deployment, with tools and frameworks to ensure compliance with ethical guidelines and risk management protocols.
+Gemini refers to a suite of advanced AI models and frameworks developed by Google, designed for multimodal data processing and various applications across the AI landscape, emphasizing safety and responsibility in design and deployment. These models facilitate the integration of diverse data inputs and application of state-aware reasoning methods, improving performance in sectors such as healthcare while ensuring compliance with ethical guidelines.
