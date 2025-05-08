@@ -1,6 +1,6 @@
 ---
-date: '2025-02-25'
+date: '2025-05-08'
 type: Platform
 ---
 
-Google Cloud's Vertex AI is a managed and integrated machine learning platform offered by Google Cloud that enables the deployment, development, and management of machine learning models at scale. With access to various AI models including Claude 3.5 and those based on the Gemini architecture, it provides tools and services for building intelligent applications, featuring robust infrastructure, comprehensive APIs, and enterprise-level security.
+Google Cloud's Vertex AI is a managed and integrated platform for building, deploying, and managing machine learning models on Google Cloud. It provides various tools and services for developing intelligent applications, including access to various AI models and robust infrastructure. Google Cloud Vertex is noted as a deployment option within this broader platform.
