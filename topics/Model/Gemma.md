@@ -1,6 +1,6 @@
 ---
-date: '2024-03-14'
+date: '2025-05-21'
 type: Model
 ---
 
-Gemma is a family of lightweight, state-of-the-art open models developed by Google. It is based on the research and technology used to create the Gemini models, aimed at assisting developers in building AI applications responsibly. Gemma includes pre-trained variants that can run on various devices, from laptops to cloud solutions.
+Gemma is a series of large language models, including lightweight and robust versions, developed for various applications, such as multi-armed bandit tasks and contextual decision-making. It showcases the capability of self-generated rationales to improve learning outcomes and assists developers in building AI applications responsibly.
