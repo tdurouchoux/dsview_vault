@@ -1,6 +1,6 @@
 ---
-date: '2025-01-14'
+date: '2025-05-21'
 type: Concept
 ---
 
-Text-to-SQL is a natural language processing (NLP) task that involves converting human language queries into SQL queries, which can be executed on a database. This technology allows users to interact with databases using natural languages, making data retrieval more intuitive and accessible, especially for non-technical users. It plays a significant role in bridging the gap between human language and structured data.
+Text-to-SQL is a technique that enables natural language processing (NLP) systems to convert user queries formulated in natural language into SQL queries. This approach enhances data accessibility for non-technical users by allowing them to interact with databases using everyday language, promoting wider engagement with data-driven decision-making. Additionally, it involves converting human language queries into SQL queries, making data retrieval more intuitive and accessible, especially for non-technical users.
