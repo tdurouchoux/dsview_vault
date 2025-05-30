@@ -1,6 +1,6 @@
 ---
-date: '2025-05-22'
+date: '2025-05-30'
 type: Concept
 ---
 
-Retrieval-Augmented Generation (RAG) is a method that enhances language generation models by coupling them with external data retrieval systems. This approach allows an AI model to fetch updated and contextually relevant information from databases or knowledge bases during the generation process, leading to improved accuracy and reduced instances of hallucination by grounding outputs in real-time data.
+Retrieval-Augmented Generation (RAG) is a method that combines retrieval systems with generative models to enhance language generation and code completion by allowing an AI model to fetch updated and contextually relevant information from external databases or knowledge bases during the generation process, leading to improved accuracy and reduced instances of hallucination by grounding outputs in real-time data.
