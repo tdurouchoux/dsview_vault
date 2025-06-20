@@ -1,6 +1,6 @@
 ---
-date: '2025-06-10'
+date: '2025-06-20'
 type: Concept
 ---
 
-Multi-Agent Systems refer to systems composed of multiple interacting intelligent agents that work collaboratively towards solving complex problems or achieving specific goals. These systems allow for decentralized problem-solving where agents can collaborate, negotiate, and work towards a common goal, emphasizing their dynamic and flexible nature in intricate workflows.
+Multi-Agent Systems (MAS) involve the collaboration of multiple intelligent agents that communicate and coordinate with each other to solve complex problems. They allow for decentralized problem-solving where agents can collaborate, negotiate, and work towards specific goals, thereby improving efficiency and flexibility in dealing with dynamic problem spaces.
