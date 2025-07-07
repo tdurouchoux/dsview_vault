@@ -1,6 +1,6 @@
 ---
-date: '2025-01-25'
+date: '2025-07-07'
 type: Concept
 ---
 
-Evaluation Metrics refer to a set of quantitative measures used to assess the performance and effectiveness of machine learning models, including specific metrics tailored for text generation. These metrics help in understanding model behavior, diagnosing issues, and ensuring models meet performance criteria in real-world applications, with categories like reference-based (e.g., BLEU, ROUGE) and reference-free metrics that evaluate text based on its context.
+Evaluation metrics are quantitative measures used to assess the performance and effectiveness of models, including large language models (LLMs). They encompass specific metrics tailored for various tasks, such as answer relevancy, hallucination rates, bias, and toxicity, as well as reference-based and reference-free metrics that evaluate outputs based on their context.
