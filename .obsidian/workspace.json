@@ -6,7 +6,6 @@
       {
         "id": "17c98bded66c4936",
         "type": "tabs",
-        "dimension": 53.762541806020074,
         "children": [
           {
             "id": "9fef1146eb24da60",
@@ -14,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "topics/Library/NumPy.md",
+                "file": "topics/Library/DuckDB.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -42,7 +41,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of NumPy"
+              "title": "Graph of DuckDB"
             }
           },
           {
@@ -65,29 +64,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contents/Documentation/TensorFlow js Make your own Teachable Machine using transfer learning with TensorFlow js.md",
+                "file": "contents/Blog post/The data validation landscape in 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TensorFlow js Make your own Teachable Machine using transfer learning with TensorFlow js"
+              "title": "The data validation landscape in 2025"
+            }
+          },
+          {
+            "id": "15fced42b7b56095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "topics/Library/DuckDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DuckDB"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
-        "id": "0adc4d30f22f3ced",
+        "id": "320322dcbc4e8598",
         "type": "tabs",
-        "dimension": 46.237458193979926,
         "children": [
           {
-            "id": "e3dc73a71025c5c8",
+            "id": "8da332e2d17cb628",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "contents/Documentation/TensorFlow js Make your own Teachable Machine using transfer learning with TensorFlow js.md",
+                "file": "topics/Library/DuckDB.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -111,7 +123,7 @@
                       "query": "[\"type\":\"Library\"]",
                       "color": {
                         "a": 1,
-                        "rgb": 14069084
+                        "rgb": 14725458
                       }
                     },
                     {
@@ -125,7 +137,7 @@
                       "query": "[\"type\":\"Platform\"]",
                       "color": {
                         "a": 1,
-                        "rgb": 5988566
+                        "rgb": 6054102
                       }
                     },
                     {
@@ -152,20 +164,20 @@
                   ],
                   "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": 0.2,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "textFadeMultiplier": -1.8,
+                  "nodeSizeMultiplier": 2.34603271484375,
+                  "lineSizeMultiplier": 2.72485758463542,
                   "collapse-forces": false,
-                  "centerStrength": 0.181803385416667,
-                  "repelStrength": 8.18684895833333,
+                  "centerStrength": 0.147542317708333,
+                  "repelStrength": 11.56494140625,
                   "linkStrength": 1,
-                  "linkDistance": 119,
-                  "scale": 0.8304079652523861,
+                  "linkDistance": 250,
+                  "scale": 0.43699890232979544,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of TensorFlow js Make your own Teachable Machine using transfer learning with TensorFlow js"
+              "title": "Graph of DuckDB"
             }
           }
         ]
@@ -200,7 +212,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Large_Language_Model",
+                "query": "tag:#Natural_Language_Processing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -308,8 +320,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b95e1dbebd3dbf1d",
+  "active": "8da332e2d17cb628",
   "lastOpenFiles": [
+    "contents/Repository/PyGWalker Turn your dataframe into an interactive UI for visual analysis.md",
+    "topics/Library/Panel.md",
+    "contents/Blog post/Top 5 Python Frontend Libraries for Data Science Part 2.md",
+    "topics/Library/Gradio.md",
+    "contents/Repository/Kotaemon An open source RAG based tool for chatting with your documents.md",
+    "contents/Scientific article/Enhancing Language Model Performance Insights into RAG and Chunking Augmentation Techniques.md",
+    "topics/Concept/Chunking.md",
+    "topics/Concept/Reranking.md",
+    "contents/Blog post/Introducing Contextual Retrieval.md",
+    "contents/Blog post/LLM From the Trenches 10 Lessons Learned Operationalizing Models at GoDaddy.md",
+    "topics/Concept/Multi Agent Architecture.md",
+    "contents/Repository/GitHub microsoft graphrag A modular graph based Retrieval Augmented Generation RAG system.md",
+    "topics/Concept/Retrieval Augmented Generation RAG.md",
+    "topics/Library/DuckDB.md",
+    "contents/Blog post/The data validation landscape in 2025.md",
+    "contents/Repository/Pointblank.md",
+    "topics/Library/polars.md",
     "topics/Library/NumPy.md",
     "topics/Library/StatsModels.md",
     "topics/Library/Keras.md",
@@ -319,23 +348,6 @@
     "topics/Concept/ARC benchmark.md",
     "contents/Blog post/Francois Chollet Mike Knoop LLMs won t lead to AGI 1 000 000 Prize to find true solution.md",
     "topics/Platform/Kaggle.md",
-    "contents/Scientific article/The State of Machine Learning Competitions ML Contests.md",
-    "topics/Library/Evidently.md",
-    "topics/Model/GPT 4.md",
-    "topics/Model/Flan.md",
-    "topics/Model/ChatGPT.md",
-    "topics/Concept/Zero shot Prompting.md",
-    "topics/Concept/Retrieval Augmented Generation.md",
-    "topics/Concept/Mechanistic Interpretability.md",
-    "topics/Concept/Few shot Prompting.md",
-    "topics/Concept/Evaluation Techniques for Language Models.md",
-    "topics/Concept/Alignment Issues in AI.md",
-    "topics/Concept/AI Interpretability Policies.md",
-    "contents/Course/Prompt Engineering Guide.md",
-    "contents/Blog post/The Urgency of Interpretability.md",
-    "topics/Library/FastAPI.md",
-    "topics/Concept/Data Linking.md",
-    "topics/Dataset/GLUE Benchmark.md",
     "artefacts/machlearn.pdf",
     "topics/Product",
     "contents/Book",
