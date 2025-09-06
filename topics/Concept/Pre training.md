@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+A technique where a model is trained on a large amount of unlabeled data to learn general-purpose knowledge. This knowledge can then be transferred to downstream tasks through fine-tuning, improving performance without requiring large amounts of labeled data. Pre-training in the context of NLP refers to a method where a model is first trained on a large corpus of text data to learn general language representations. This pre-trained model can then be fine-tuned on specific tasks, leveraging the knowledge it acquired during pre-training. This approach has significantly advanced the field by enabling models to understand and generate human-like text, leading to improvements in various NLP applications. Pretraining language models involves training a language model on a large corpus of text data using classical pretraining objectives. This initial model can be fine-tuned on additional text or conditions, but it does not necessarily need to be. The goal is to have a model that responds well to diverse instructions and can be used as a starting point for further training processes like RLHF.

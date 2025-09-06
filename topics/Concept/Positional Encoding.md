@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Positional encoding is a technique used in the Transformer model to inject information about the relative or absolute positions of tokens in a sequence. Since the Transformer does not use recurrence or convolution, positional encoding is essential for the model to make use of the order of the sequence. In the Transformer, positional encoding is added to the input embeddings at the bottoms of the encoder and decoder stacks. The positional encodings have the same dimension as the embeddings, allowing them to be summed together. The Transformer uses sinusoidal functions of different frequencies for positional encoding, which allows the model to easily learn to attend by relative positions. This technique helps the model to understand the context and relationships within the sequence more effectively.

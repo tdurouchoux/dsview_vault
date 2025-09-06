@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+LLM-based evaluators are systems that use large language models (LLMs) to evaluate the quality of generated text. These evaluators leverage the remarkable abilities of LLMs to understand and generate human-like text, making them capable of assessing various aspects of text quality, such as fluency, coherence, relevance, and factual consistency. LLM-based evaluators can be used in both reference-free and reference-based evaluation settings. They offer scalability and explainability, as they can provide detailed explanations for their evaluations. However, LLM-based evaluation is an emerging area of research, and challenges such as positional bias, verbosity bias, and limited mathematical and reasoning capabilities need to be addressed. Strategies like Multiple Evidence Calibration (MEC), Balanced Position Calibration (BPC), and Human In The Loop Calibration (HITLC) have been proposed to mitigate these issues.

@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+A metrics layer is a component within a data architecture that focuses on defining, managing, and serving key business metrics and calculations. It provides a centralized, governed repository of metrics, ensuring consistency and accuracy in how these metrics are calculated and presented across an organization. The metric layer typically includes a set of formulas, rules, and logic for deriving metrics from raw data, and it may expose these metrics through APIs or other interfaces for use in reporting, analysis, and other applications. It serves as a semantic layer that provides a consistent and versionable definition of business metrics and KPIs. The metrics layer enables AI models to understand the business context, generate relevant visualizations, and ensure consistency across the organization. It is often defined using declarative languages like LookML, MDX, MAQL, or Malloy language.

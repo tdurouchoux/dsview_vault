@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Bayesian statistics is a framework for statistical inference that updates the probability of a hypothesis as more evidence or information becomes available. It incorporates prior knowledge or beliefs about the parameters of a model and updates these beliefs using data to obtain a posterior distribution. This approach is particularly useful for making decisions under uncertainty and is widely used in A/B testing, machine learning, and other data-driven fields. Bayesian models are statistical models that use Bayesian inference to update the probability for a hypothesis as more evidence or information becomes available. These models incorporate prior knowledge or beliefs about the parameters and update them based on observed data to obtain posterior distributions, which represent the updated beliefs about the parameters.

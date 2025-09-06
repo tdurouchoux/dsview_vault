@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+AI regulation refers to the set of rules and guidelines designed to govern the development, deployment, and use of artificial intelligence technologies. These regulations aim to address ethical concerns, ensure transparency, and mitigate potential harms associated with AI systems. The European Union's AI Act is a notable example, focusing on regulating general-purpose AI models like those used in generative AI applications. La régulation de l'IA fait référence aux lois, politiques et cadres éthiques mis en place pour contrôler le développement et l'utilisation de l'intelligence artificielle. Cela inclut des considérations sur la protection des données, la transparence des algorithmes, et les droits des individus affectés par les technologies d'IA. L'article mentionne la nécessité de réguler l'IA pour éviter les dérives et protéger les droits des utilisateurs.

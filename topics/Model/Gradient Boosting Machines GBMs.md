@@ -1,0 +1,5 @@
+---
+type: Model
+---
+
+Gradient Boosting Machines (GBMs) are a group of machine learning models that build an ensemble of decision trees in a forward stage-wise manner. They are designed to optimize arbitrary differentiable loss functions and have been highly successful in various machine learning competitions and real-world applications. Models like LightGBM, XGBoost, and CatBoost are popular implementations of GBMs, known for their efficiency, speed, and ability to handle large datasets with high dimensionality. They are particularly effective for structured/tabular data and are widely used for tasks such as classification and regression. Gradient boosting is an approach where new models are created that progressively correct errors made by the complete set of existing models. Models are added sequentially until no further improvements can be made. Gradient boosting is typically implemented using decision trees as the base learners.

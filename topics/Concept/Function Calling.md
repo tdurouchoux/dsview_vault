@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Function calling is a mechanism that allows AI models to invoke external tools or functions to perform specific tasks. This process involves declaring the tools the model can use, specifying the tools for a particular query, and generating the necessary tool calls and parameters. Function calling enables agents to leverage external tools to enhance their capabilities and perform complex tasks more efficiently. It is a common feature in many AI model APIs and is crucial for enabling agents to interact with their environment effectively. Function calling in the context of generative AI refers to the ability of an AI model to call external functions or APIs to perform specific tasks or retrieve information. This allows the model to interact with external systems, access up-to-date information, or perform actions that are beyond the scope of its training data. Function calling can enhance the capabilities of generative AI models by enabling them to perform more complex and dynamic tasks, such as retrieving real-time data, interacting with databases, or controlling external devices.

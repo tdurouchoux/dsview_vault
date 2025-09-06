@@ -1,0 +1,5 @@
+---
+type: Tool
+---
+
+GitHub Copilot is an AI-powered coding assistant that integrates directly into GitHub and various IDEs, including Visual Studio Code. It assists developers by generating code, suggesting edits, and automating tasks such as adding features, fixing bugs, extending tests, refactoring code, and improving documentation. It operates within a secure and customizable development environment powered by GitHub Actions, ensuring that it adheres to existing security policies and requires human approval for pull requests. It leverages large language models to provide code suggestions, explanations, and automation directly within the editor. The extension is built to enhance productivity by offering context-aware code completions, generating code from natural language descriptions, and assisting with debugging and testing.

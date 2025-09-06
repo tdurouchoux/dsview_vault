@@ -1,0 +1,5 @@
+---
+type: Model
+---
+
+Stable Diffusion is a latent diffusion model, a type of generative model that can create new content based on its training data. It is designed to generate high-quality images from text descriptions, making it versatile for various applications in AI image generation. The model is composed of several components, including a text encoder, an image generator with a UNet neural network and a scheduler, and an autoencoder decoder. It operates in a latent space, which allows for faster and more efficient image generation compared to previous models that worked directly in pixel space. Stable Diffusion 2.0 is an advanced text-to-image generation model that builds upon the original Stable Diffusion V1. It includes several improvements such as a new text encoder (OpenCLIP), higher resolution image generation capabilities (up to 768x768 pixels), and enhanced features like depth-guided image generation and super-resolution upscaling. The model is trained on a filtered subset of the LAION-5B dataset and is designed to be accessible, running on a single GPU.

@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+A type of database that stores data as vectors, which are numerical representations of semantic features. Vector databases, also known as vectorstores, are specialized databases designed to store and manage high-dimensional vectors, which are often used to represent complex data such as text, images, or other multimedia content. These databases are optimized for performing similarity searches, where the goal is to find vectors that are close to a given query vector in the vector space. Vector databases are used in semantic file systems to store and retrieve files based on their semantic content, enabling more accurate and context-aware file searches. They are essential for implementing semantic file retrieval and other advanced file management tasks, as well as in machine learning and AI applications, particularly in tasks such as recommendation systems, image recognition, and natural language processing, where the ability to quickly and accurately retrieve similar items is crucial. Examples of vectorstores mentioned in the text include PGVector and Faiss.

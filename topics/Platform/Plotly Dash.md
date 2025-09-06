@@ -1,0 +1,5 @@
+---
+type: Platform
+---
+
+Plotly Dash is an open-source framework for building analytical web applications. It is designed to be simple and efficient, allowing users to create interactive, web-based dashboards and applications without needing to write JavaScript. Plotly Dash is tightly integrated with the Plotly graphing library, enabling the creation of interactive visualizations that can be easily embedded in web applications. It is particularly useful for data scientists and analysts who need to deploy interactive data applications quickly and efficiently. It is built on top of Flask, Plotly.js, and React.js, providing a robust foundation with well-supported technologies. Dash is known for its high degree of customization, deep interactivity, and extensive capabilities for creating various charts, graphs, maps, and 3D plots. It has a large, active community and excellent documentation but requires a commercial license for enterprise projects and may take longer to master, especially without React.js experience.

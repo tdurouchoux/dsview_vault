@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+The AI Act is a comprehensive regulatory framework proposed by the European Union to govern the development, deployment, and use of artificial intelligence technologies. It aims to address the risks associated with AI while fostering innovation. The regulation categorizes AI systems based on risk, imposing stricter requirements on high-risk applications, such as those used in critical infrastructures, educational systems, and specific AI practices like predictive policing and biometric identification. The Act also includes provisions for transparency, accountability, and the protection of fundamental rights, ensuring that AI systems are safe, transparent, and respect human dignity. The AI Act represents a significant step towards creating a harmonized regulatory environment for AI in Europe, setting global standards for trustworthy AI.

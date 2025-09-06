@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Graph learning refers to the application of machine learning techniques to graph-structured data. It involves developing algorithms and models that can extract meaningful patterns and insights from graphs, enabling tasks such as node classification, link prediction, and graph-based recommendations. Graph learning has applications in various domains, including social network analysis, biology, and urban planning. Graphs consist of nodes and edges, where nodes represent entities and edges represent relationships between these entities. This approach is particularly useful for understanding complex networks such as social networks, biological networks, and knowledge graphs. Graph Learning leverages techniques from both graph theory and machine learning to extract meaningful patterns and insights from graph-structured data.

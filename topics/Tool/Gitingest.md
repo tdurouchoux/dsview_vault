@@ -1,0 +1,5 @@
+---
+type: Tool
+---
+
+Gitingest is a tool that allows users to turn any Git repository into a prompt-friendly text ingest for large language models (LLMs). It provides a text digest from a Git repository URL or a directory, with smart formatting optimized for LLM prompts. Gitingest offers features such as easy code context, statistics about file and directory structure, size of the extract, and token count. It can be used as a CLI tool, Python package, or self-hosted server. The tool supports private repositories with a GitHub Personal Access Token (PAT) and includes options for including or excluding submodules and gitignored files. Gitingest is available on PyPI and can be installed using pip or pipx. It is built with a stack including Tailwind CSS for the frontend, FastAPI for the backend framework, Jinja2 for HTML templating, tiktoken for token estimation, PostHog for analytics, and Sentry for error tracking and performance monitoring.

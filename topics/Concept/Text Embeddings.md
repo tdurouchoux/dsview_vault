@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Vector representations of text that encode semantic information, crucial for many downstream NLP applications. They are used in various tasks such as search engines, clustering, and text classification. The quality of text embeddings is highly dependent on the embedding model used. Embeddings are a way of representing entities as points in N-dimensional space, where similar or related entities are placed close to each other. They are used to encode complex relationships between entities, such as words, products, or people, and are often high-dimensional, making them suitable for encoding rich information. Embeddings capture semantic meanings and relationships between tokens. In transformers, embeddings are updated through the attention mechanism to incorporate contextual information, enhancing the model's understanding of the input data.

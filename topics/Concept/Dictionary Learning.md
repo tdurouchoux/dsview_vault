@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Dictionary learning is a method used to decompose data into a weighted sum of sparsely active components. In the context of the provided text, dictionary learning is used to decompose the activations of a model like Claude 3 Sonnet into more interpretable pieces. This involves training a sparse autoencoder (SAE) on the model activations, which seeks to decompose data into a weighted sum of sparsely active components. The SAE consists of an encoder that maps the activity to a higher-dimensional layer via a learned linear transformation followed by a ReLU nonlinearity, and a decoder that attempts to reconstruct the model activations via a linear transformation of the feature activations. The model is trained to minimize a combination of reconstruction error and an L1 regularization penalty on the feature activations, which incentivizes sparsity.

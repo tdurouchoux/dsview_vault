@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Quantization in the context of machine learning refers to the process of reducing the precision of the numerical values used in a model, typically from floating-point to lower-precision formats like 8-bit or 4-bit integers. This technique is often used to reduce the memory footprint and computational requirements of models, making them more efficient and faster to run, especially on resource-constrained devices. Quantization can be applied during inference to make models more suitable for deployment in environments with limited computational resources, such as mobile devices or edge computing platforms. Model Quantization is a technique used to reduce the precision of model weights, which shrinks the model size and its memory requirements without significantly compromising output quality. This technique improves inference throughput and reduces costs, making it particularly useful for self-hosted models. In the context of bitnet.cpp, quantization types like I2_S and TL1 are used to optimize the inference process for 1-bit LLMs.

@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"type\":\"content\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "[\"type\":\"Library\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "[\"type\":\"Model\"]",
+      "color": {
+        "a": 1,
+        "rgb": 6079190
+      }
+    },
+    {
+      "query": "[\"type\":\"Platform\"]",
+      "color": {
+        "a": 1,
+        "rgb": 6054102
+      }
+    },
+    {
+      "query": "[\"type\":\"Concept\"]",
+      "color": {
+        "a": 1,
+        "rgb": 13333975
+      }
+    },
+    {
+      "query": "[\"type\":\"Tool\"]",
+      "color": {
+        "a": 1,
+        "rgb": 5345413
+      }
+    },
+    {
+      "query": "[\"type\":\"Dataset\"]",
+      "color": {
+        "a": 1,
+        "rgb": 8987046
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 2.33426920572917,
+  "lineSizeMultiplier": 2.72505696614583,
+  "collapse-forces": false,
+  "centerStrength": 0.0709635416666667,
+  "repelStrength": 8.84114583333333,
+  "linkStrength": 1,
+  "linkDistance": 161,
+  "scale": 0.20611181734711165,
+  "close": true
+}

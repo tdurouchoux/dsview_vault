@@ -1,0 +1,5 @@
+---
+type: Model
+---
+
+BitNet b1.58 is an open-source, native 1-bit Large Language Model (LLM) with 2 billion parameters. It is designed for efficiency, offering reduced memory footprint, energy consumption, and decoding latency while maintaining performance comparable to leading full-precision LLMs of similar size. The model has been trained on a corpus of 4 trillion tokens and evaluated across various benchmarks including language understanding, mathematical reasoning, coding proficiency, and conversational ability. It is optimized for efficient inference, particularly on CPUs, and is part of the BitNet family of models developed by Microsoft. This model leverages techniques to achieve significant speedups and energy efficiency improvements, making it suitable for deployment on edge devices and local environments.

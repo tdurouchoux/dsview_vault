@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+The self-critique mechanism is a technique used in AI agents to evaluate and improve their own performance. This mechanism allows agents to reflect on their actions, identify mistakes, and make corrections. By critiquing their own behavior, agents can learn from their errors and refine their strategies to achieve better outcomes. This process is often integrated into the training loop of the agent to foster continuous improvement and adaptability. Reflection and error correction are mechanisms used by AI agents to evaluate and improve their performance. Reflection involves assessing the outcomes of actions and identifying any errors or mistakes. Error correction involves generating new plans or actions to address these errors and improve the agent's performance. This process can be implemented using self-critique prompts or specialized evaluator models. Reflection and error correction are essential for enhancing the agent's capabilities and ensuring its success in accomplishing tasks.

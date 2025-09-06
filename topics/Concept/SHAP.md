@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+SHAP (SHapley Additive exPlanations) is a framework based on Shapley values from game theory to explain the output of machine learning models. It provides a unified method to attribute the contribution of each feature to the prediction, making the model more interpretable. SHAP values are calculated by considering the contribution of each feature across all possible combinations of features, similar to Shapley values. The framework includes several algorithms to efficiently compute these values, especially for tree-based models. SHAP is widely used in explainable AI to provide insights into model predictions, helping stakeholders understand the factors influencing the model's decisions. It is particularly useful for communicating complex model behaviors to non-technical audiences.

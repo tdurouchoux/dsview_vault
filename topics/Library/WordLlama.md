@@ -1,0 +1,5 @@
+---
+type: Library
+---
+
+WordLlama is a fast, lightweight NLP toolkit designed for tasks like fuzzy deduplication, similarity computation, ranking, clustering, and semantic text splitting. It operates with minimal inference-time dependencies and is optimized for CPU hardware, making it suitable for deployment in resource-constrained environments. WordLlama recycles components from large language models (LLMs) to create efficient and compact word representations, similar to GloVe, Word2Vec, or FastText. It extracts the token embedding codebook from state-of-the-art LLMs (e.g., LLaMA 2, LLaMA 3 70B) and trains a small context-less model within a general-purpose embedding framework. This approach results in a lightweight model that improves on all MTEB benchmarks over traditional word models like GloVe 300d, while being substantially smaller in size (e.g., 16MB default model at 256 dimensions).

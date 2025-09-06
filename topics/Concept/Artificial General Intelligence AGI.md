@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Artificial General Intelligence (AGI) refers to the capability of machines to perform any intellectual task that a human can do with comparable or better performance. This includes understanding natural language, learning from experience, adapting to new situations, and applying common sense reasoning. It encompasses the capability to handle novelty and uncertainty, as well as the ability to acquire new skills efficiently with minimal data. AGI is distinct from narrow or specific intelligence, which is limited to performing specific tasks. Achieving AGI is a key goal in AI research and is seen as a significant milestone towards creating systems that can operate autonomously and adaptively in complex environments. It requires advancements in model design, evaluation metrics, and deployment strategies to create systems that can reason, remember, and recover from errors.

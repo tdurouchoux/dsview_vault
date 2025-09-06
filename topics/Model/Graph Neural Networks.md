@@ -1,0 +1,5 @@
+---
+type: Model
+---
+
+Graph Neural Networks (GNNs) are a powerful technique that leverages both the connectivity of graphs and the input features on nodes and edges. They can make predictions for graphs as a whole, for individual nodes, or for potential edges. They encode a graph's discrete, relational information in a continuous way, making it possible to include this information naturally in other deep learning systems. GNNs are a class of neural networks designed to operate on graph-structured data. They capture dependencies and patterns within the relational data, making them highly effective for tasks like financial fraud detection, node classification, link prediction, and graph classification. GNNs leverage node features and graph structure to learn representations that can identify complex relational patterns and dynamics, outperforming traditional methods in detecting fraudulent activities within financial networks and are particularly useful in social network analysis, molecular chemistry, and recommendation systems.

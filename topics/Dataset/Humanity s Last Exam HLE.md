@@ -1,0 +1,5 @@
+---
+type: Dataset
+---
+
+Humanity's Last Exam (HLE) is a comprehensive, multi-modal benchmark dataset designed to evaluate the capabilities of large language models (LLMs) at the frontier of human knowledge. It consists of 2,500 challenging questions across over a hundred subjects, contributed by nearly 1,000 subject experts from over 500 institutions across 50 countries. The dataset is intended to be the final closed-ended academic benchmark of its kind, with a focus on broad subject coverage and high difficulty. The questions are designed to be challenging enough to measure advanced, closed-ended, academic capabilities, and to track the rapid advancements in LLM capabilities. The dataset is publicly released, while a private test set of held-out questions is maintained to assess model overfitting.
