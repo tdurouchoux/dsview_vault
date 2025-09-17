@@ -14,13 +14,19 @@ upload_date: '2025-02-18'
 https://github.com/unslothai/unsloth
 ## Summary
 
-Unsloth is a tool designed for fine-tuning and reinforcement learning of large language models (LLMs). It supports various models such as OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, and TTS, enabling training that is 2x faster with 70% less VRAM. Key features include support for full fine-tuning, pretraining, 4-bit, 16-bit, and 8-bit training, as well as compatibility with transformer-style models like TTS, STT, multimodal, diffusion, BERT, and more. The tool is optimized for NVIDIA GPUs since 2018 and works on both Linux and Windows. It offers significant performance improvements, such as 2x faster training and up to 80% less VRAM usage for various models. The documentation provides detailed instructions for installation, usage, and advanced features like saving to GGUF, checkpointing, and evaluation. Unsloth also supports reinforcement learning techniques like DPO, GRPO, PPO, and reward modeling. The tool is open-source and has a community of contributors.
+Unsloth is a tool designed for fine-tuning and reinforcement learning of large language models (LLMs). It supports a variety of models including OpenAI's gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, and TTS. The tool is notable for its performance, offering 2x faster training with 70% less VRAM usage compared to traditional methods. It supports a range of features such as full-finetuning, pretraining, 4-bit, 16-bit, and 8-bit training, and is compatible with various transformer-style models including TTS, STT, multimodal, diffusion, BERT, and more. Unsloth is designed to work on NVIDIA GPUs since 2018 and supports both Linux and Windows operating systems. The tool also includes a variety of installation options, including pip, Conda, and Docker, and provides detailed documentation and guides for users. Additionally, Unsloth supports reinforcement learning techniques such as DPO, GRPO, PPO, Reward Modelling, and Online DPO, and includes performance benchmarks for various models and contexts. The project is open-source and has a community of contributors.
 ## Links
 
-- [Unsloth Documentation](https://docs.unsloth.ai/) : Official documentation for Unsloth, providing detailed guides on saving to GGUF, checkpointing, evaluation, and more. It supports Hugging Face's TRL, Trainer, Seq2SeqTrainer, and PyTorch code.
-- [Unsloth Blog](https://unsloth.ai/blog) : Blog containing articles and updates about Unsloth, including performance benchmarks, model support, and new features.
-- [Unsloth GitHub Repository](https://github.com/unslothai/unsloth) : The main GitHub repository for Unsloth, containing the source code, installation instructions, and additional resources for fine-tuning and reinforcement learning for LLMs.
+- [Unsloth Documentation](https://docs.unsloth.ai/) : The official documentation for Unsloth, providing detailed guides on installation, usage, and advanced features for fine-tuning and reinforcement learning with LLMs.
+- [Unsloth Blog](https://unsloth.ai/blog) : The official blog for Unsloth, featuring articles and updates on new features, benchmarks, and tutorials for using Unsloth with various models and frameworks.
+- [Unsloth GitHub Repository](https://github.com/unslothai/unsloth) : The GitHub repository for Unsloth, containing the source code, issue tracking, and community contributions for the Unsloth project.
 
 ## Topics
 
 ![](topics/Library/Unsloth)
+
+![](topics/Concept/LoRA%20Low%20Rank%20Adaptation)
+
+![](topics/Concept/Quantization)
+
+![](topics/Concept/Reinforcement%20Learning%20from%20Human%20Feedback%20RLHF)

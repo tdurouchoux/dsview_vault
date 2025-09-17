@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Membership plans offered by Real Python, providing access to premium learning resources, including courses, workshops, books, and community support. Membership plans are tailored for individuals, teams, and businesses, offering different levels of access and benefits to support Python learning and development.
+Real Python offers membership plans for individuals, teams, and businesses to access its premium learning resources. Membership benefits include access to all tutorials, video courses, quizzes, exercises, and community features. Real Python also offers team plans for organizations and schools to provide Python training for their members. The membership plans are designed to support continuous learning and skill development in Python programming.

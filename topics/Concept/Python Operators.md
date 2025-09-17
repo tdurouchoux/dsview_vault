@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Python operators are special symbols that perform operations on variables and values. They include arithmetic operators like '+', '-', '*', and '/', comparison operators like '==', '!=', '<', and '>', logical operators like 'and', 'or', and 'not', and assignment operators like '=' and '+='. Operators are used to perform operations and make decisions in Python code.
+Python operators are special symbols that perform operations on variables and values. They are used to perform arithmetic, comparison, logical, and other types of operations. Examples of Python operators include '+', '-', '*', '/', '=', '==', '>', '<', 'and', 'or', and 'not'. Operators are fundamental to writing expressions and controlling the flow of a program in Python.

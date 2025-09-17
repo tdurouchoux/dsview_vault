@@ -13,23 +13,19 @@ upload_date: '2024-01-11'
 https://browser.timeviz.net/
 ## Summary
 
-The TimeViz Browser 2.0 is a visual survey tool for exploring techniques in time-oriented data visualization. It categorizes techniques based on several filters:
+The TimeViz Browser 2.0 is a visual survey tool for exploring techniques to visualize time-oriented data. It categorizes techniques based on several filters:
 
-1. **Time Primitives**: Points or Intervals
-2. **Arrangement**: Linear or Cyclic
-3. **Data**:
-   - Number of variables: Single or Multiple
-   - Frame of reference: Abstract or Spatial
-4. **Visual Representation**:
-   - Mapping of time: Static or Dynamic
-   - Dimensionality: 2D or 3D
+1. **Time Primitives**: Points and Intervals
+2. **Arrangement**: Linear and Cyclic
+3. **Data**: Number of variables (Single or Multiple) and Frame of reference (Abstract or Spatial)
+4. **Visual Representation**: Mapping of time (Static or Dynamic) and Dimensionality (2D or 3D)
 
-The tool is based on an open-access book and provides BibTeX citations for academic referencing. It also links to various catalogs of visualization techniques and related books. Maintained by the Visual Analytics Group at the University of Rostock, Germany, the tool aims to assist users in finding relevant visualization techniques for time-oriented data.
+The tool is based on an open-access book titled "Visualization of Time-Oriented Data" by Aigner et al. (2023). Users can cite either the book or the TimeViz Browser directly, depending on their focus. The tool is maintained by the Visual Analytics Group at the University of Rostock, Germany. Additionally, it provides links to other catalogs of visualization techniques and books on visualization.
 ## Links
 
-- [Interactive Visual Data Analysis](https://ivda-book.de/) : Book on Interactive Visual Data Analysis.
-- [Visualization Analysis and Design](https://www.cs.ubc.ca/~tmm/vadbook/) : Book on Visualization Analysis and Design.
-- [Visualizing Time](https://doi.org/10.1007/978-0-387-77907-2) : Book on Visualizing Time.
+- [Interactive Visual Data Analysis](https://ivda-book.de/) : A book on interactive visual data analysis.
+- [Visualization Analysis and Design](https://www.cs.ubc.ca/~tmm/vadbook/) : A book on visualization analysis and design.
+- [Visualizing Time](https://doi.org/10.1007/978-0-387-77907-2) : A book on visualizing time-oriented data.
 
 ## Topics
 

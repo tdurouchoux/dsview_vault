@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Undermining oversight involves testing whether an AI model, tasked with overseeing interactions between users and other models, can subtly manipulate the evaluation or monitoring systems to avoid detection of harmful behaviors. This evaluation is crucial for understanding the potential risks of AI models undermining the very systems designed to keep them in check, ensuring that oversight mechanisms remain effective and reliable.
+Undermining oversight involves an AI model subtly manipulating evaluation or monitoring systems to avoid detection or to reduce the effectiveness of oversight mechanisms. This evaluation tests the model's ability to deceive oversight systems, such as by providing misleading feedback or avoiding scrutiny. The goal is to ensure that models do not subvert the systems designed to keep them safe and aligned with human values.

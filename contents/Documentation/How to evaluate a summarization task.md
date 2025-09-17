@@ -18,35 +18,40 @@ The content discusses various methods for evaluating abstractive summarization t
 **Key Points:**
 
 1. **Traditional Metrics (ROUGE, BERTScore):**
-   - **ROUGE:** Measures word overlap between generated and reference summaries, with variants like ROUGE-L assessing the longest contiguous match.
-   - **BERTScore:** Uses BERT embeddings to capture semantic similarities, offering a more nuanced evaluation than ROUGE.
+   - **ROUGE:** Measures overlap of words and phrases between a generated summary and a reference text. It has variants like ROUGE-1, ROUGE-2, and ROUGE-L.
+   - **BERTScore:** Leverages contextual embeddings from BERT to evaluate semantic similarity between a generated summary and a reference text, capturing nuances that ROUGE might miss.
 
 2. **LLM-based Evaluation (G-Eval):**
-   - Utilizes GPT-4 to evaluate summaries based on criteria like relevance, coherence, consistency, and fluency.
-   - Provides a reference-free evaluation method, making it applicable to new datasets with limited human references.
+   - Uses GPT-4 to evaluate summaries based on criteria like relevance, coherence, consistency, and fluency.
+   - This method is reference-free, making it applicable to new datasets where human references are scarce.
+   - GPT-4 generates scores for each criterion, providing a more nuanced evaluation of summary quality.
 
-3. **Comparison of Summaries:**
-   - Two system-generated summaries are evaluated against a human-written reference.
-   - ROUGE scores favor the summary with more direct word overlap, while BERTScore indicates similar performance for both summaries.
-   - GPT-4 evaluation shows that Summary 1 outperforms Summary 2 in coherence, relevance, and fluency, with both being consistent.
+3. **Limitations and Considerations:**
+   - Traditional metrics may not correlate well with human judgments, especially for open-ended generation tasks.
+   - LLM-based metrics can have biases towards LLM-generated texts and are sensitive to system messages/prompts.
+   - Human evaluation is invaluable but often not scalable and can be cost-prohibitive.
 
-4. **Limitations and Recommendations:**
-   - Traditional metrics may not fully capture semantic similarity and can correlate poorly with human judgments.
-   - LLM-based metrics may have biases towards LLM-generated text and are sensitive to prompts.
-   - A combination of automatic metrics and human evaluation is recommended for reliable assessment.
+4. **Conclusion:**
+   - A combination of automatic metrics and human evaluation is ideal for reliably assessing abstractive summarization systems.
+   - The field continues to evolve, aiming to balance quality, scalability, and fairness in evaluation techniques.
 
-5. **Conclusion:**
-   - Evaluating abstractive summarization is an evolving field with ongoing efforts to improve metrics.
-   - Balancing quality, scalability, and fairness is crucial for advancing evaluation techniques and driving progress in summarization systems.
+**References:**
+- G-Eval: NLG Evaluation Using GPT-4 with Better Human Alignment
+- BERTScore: Evaluating Text Generation with BERT
+- ROUGE: A Package for Automatic Evaluation of Summaries
+- SummEval: Re-evaluating Summarization Evaluation
 ## Links
 
-- [G-EVAL: NLG Evaluation Using GPT-4 with Better Human Alignment](https://arxiv.org/abs/1904.09675) : Research paper on G-EVAL, a framework for evaluating natural language generation using GPT-4, focusing on better alignment with human evaluation.
-- [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/pdf/2303.16634.pdf) : Research paper introducing BERTScore, a metric for evaluating text generation using BERT, focusing on semantic similarity.
+- [G-EVAL: NLG Evaluation Using GPT-4 with Better Human Alignment](https://arxiv.org/pdf/2303.16634.pdf) : This paper introduces G-EVAL, a framework for evaluating natural language generation using GPT-4, aiming to achieve better alignment with human evaluation standards.
+- [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675) : This paper presents BERTScore, a metric for evaluating text generation using BERT embeddings, focusing on semantic similarity between generated and reference texts.
+- [ROUGE: A Package for Automatic Evaluation of Summaries](https://aclanthology.org/P02-1040.pdf) : This paper introduces ROUGE, a package for automatic evaluation of summaries, focusing on recall-oriented metrics for summarization tasks.
 
 ## Topics
 
-![](topics/Concept/BERTScore)
+![](topics/Concept/Abstractive%20Summarization)
 
 ![](topics/Concept/G%20Eval)
+
+![](topics/Concept/BERTScore)
 
 ![](topics/Concept/ROUGE)

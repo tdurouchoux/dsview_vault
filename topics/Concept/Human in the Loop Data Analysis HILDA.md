@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Human-in-the-Loop Data Analysis (HILDA) is an approach to data management that emphasizes end-to-end systems and fosters data-centric communities. It involves a collaborative approach to data management, where humans and AI models work together to generate, validate, and iterate on data artifacts. HILDA supports the iterative nature of dashboard development and other BI tasks, enabling continuous refinement and maintaining consistency while reducing technical overhead.
+Human-in-the-Loop Data Analysis (HILDA) is an approach to data management that emphasizes the collaboration between humans and AI models in the data analysis process. In the context of GenBI, HILDA involves a workflow where humans and AI models brainstorm, generate, and iterate on BI artifacts, such as dashboards, metrics, and data models. This approach ensures that the generated artifacts are accurate, contextually relevant, and aligned with business requirements, enhancing the overall data analytics experience.

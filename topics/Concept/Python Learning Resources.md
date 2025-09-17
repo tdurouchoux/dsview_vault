@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Resources available for learning Python, including in-depth articles, video courses, learning paths, quizzes, exercises, community chat, office hours, podcasts, books, and reference materials. These resources cater to different skill levels and areas of interest, providing structured learning paths and practical exercises to help learners improve their Python skills.
+Real Python offers a variety of learning resources for Python programmers, including in-depth articles, video courses, learning paths, quizzes, exercises, and a community chat. These resources are designed to help learners of all levels, from beginners to advanced programmers, to improve their Python skills and knowledge. The platform also offers personalized code assistance and learning tools through its Code Mentor feature.

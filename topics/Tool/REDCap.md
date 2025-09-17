@@ -2,4 +2,4 @@
 type: Tool
 ---
 
-REDCap (Research Electronic Data Capture) is a secure web application for building and managing online surveys and databases. It is widely used in research for data collection and management, offering features like data validation, forms for data entry, and basic querying capabilities within a project. It allows value labels for numeric variables and supports exporting data with either numeric values or their labels.
+REDCap is a data entry tool that allows for form-based data entry, reducing errors, and supports data validation. It enables querying across forms within the same project but lacks the ability to query across different projects without administrative access. It is particularly useful for researchers working with survey data, as it allows for the use of value labels for numeric variables and the option to export data as either numeric values or labels.

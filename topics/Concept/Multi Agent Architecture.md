@@ -1,5 +1,0 @@
----
-type: Concept
----
-
-Multi-Agent Architecture refers to a system where multiple AI agents or models work together to perform complex tasks. Each agent is specialized in a specific task or function, and they communicate and collaborate to achieve a common goal. This architecture allows for more efficient and accurate problem-solving by leveraging the strengths of different agents. Agent handoffs refer to the process of transferring control or context from one agent to another within a multi-agent system. This mechanism allows different agents to specialize in specific tasks or functions, enabling a more modular and efficient workflow. Handoffs can be triggered based on certain conditions or user inputs, ensuring that the right agent handles the appropriate part of the task. This concept is crucial for building scalable and maintainable multi-agent systems.

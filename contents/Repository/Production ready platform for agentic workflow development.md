@@ -6,6 +6,8 @@ relevance: 0
 source: Alpha Signal
 tags:
 - AI_agent
+- Large_Language_Model
+- MlOps
 type: Content
 upload_date: '2024-12-28'
 ---
@@ -23,19 +25,13 @@ Dify is an open-source platform designed for developing LLM (Large Language Mode
 6. **LLMOps**: Monitor and analyze application logs and performance.
 7. **Backend-as-a-Service**: APIs for integrating Dify into business logic.
 
-Dify can be used via Dify Cloud (hosted service) or self-hosted. It supports various deployment methods, including Docker, Kubernetes, Terraform, and AWS CDK. The platform is community-driven with contributions from various developers and supports multiple languages. It is licensed under the Dify Open Source License, based on Apache 2.0 with additional conditions.
+Dify can be used via Dify Cloud, self-hosted Community Edition, or enterprise-centric features. It supports deployment through Docker, Kubernetes, Terraform, AWS CDK, and Alibaba Cloud. The platform is actively maintained with contributions from a large community and is licensed under the Dify Open Source License, based on Apache 2.0.
 ## Links
 
-- [Dify Documentation](https://docs.dify.ai) : Official documentation for Dify, providing detailed guides and references for using the platform.
-- [Dify Blog](https://dify.ai/blog/introducing-dify-workflow-file-upload-a-demo-on-ai-podcast) : Blog post introducing a new feature of Dify: Workflow File Upload, demonstrated through an AI podcast.
-- [Dify Pricing](https://dify.ai/pricing) : Information about the pricing plans for Dify, including details on the different tiers and features available.
+- [Dify Documentation](https://docs.dify.ai) : Official documentation for Dify, providing detailed guides and references for setting up and using the platform.
+- [Dify Model Providers](https://docs.dify.ai/getting-started/readme/model-providers) : A list of supported model providers for Dify, including various LLMs and inference providers.
+- [Dify GitHub Repository](https://github.com/langgenius/dify) : The main GitHub repository for Dify, containing the source code, issues, and community discussions.
 
 ## Topics
 
 ![](topics/Platform/Dify)
-
-![](topics/Concept/Agentic%20Workflow)
-
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
-
-![](topics/Concept/LLMOps)

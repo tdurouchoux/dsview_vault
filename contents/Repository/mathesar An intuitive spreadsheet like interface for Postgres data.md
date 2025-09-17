@@ -15,23 +15,22 @@ https://github.com/mathesar-foundation/mathesar
 
 Mathesar is an open-source, self-hosted web application designed to simplify interaction with PostgreSQL databases. It offers a spreadsheet-like interface, enabling users of all technical skill levels to view, edit, query, and collaborate on data without needing to write code. Key features include:
 
-- **Postgres Integration**: Directly connects to existing PostgreSQL databases or allows setting up new ones.
-- **Access Control**: Utilizes native PostgreSQL roles and privileges for secure data access.
-- **Quick Installation**: Can be installed using Docker in minutes and integrates with existing infrastructure.
-- **Data Management**: Supports data entry, filtering, sorting, grouping, and schema migrations.
-- **Query Builder**: Includes a Data Explorer for building queries without SQL knowledge.
-- **Interoperability**: Works alongside other tools in the PostgreSQL ecosystem.
-- **Custom Data Types**: Supports custom data types like emails and URLs, validated at the database level.
+- **PostgreSQL Integration**: Directly connects to existing PostgreSQL databases, utilizing native Postgres access control.
+- **Ease of Use**: Provides a user-friendly interface for data entry, filtering, sorting, and grouping, along with a query builder for constructing SQL queries without knowledge of SQL.
+- **Interoperability**: Works seamlessly with other tools in the PostgreSQL ecosystem and supports data import/export.
+- **Custom Data Types**: Includes custom data types for emails and URLs, validated at the database level.
+- **Schema Management**: Allows easy creation and updating of Postgres schemas and tables, including schema migrations.
+- **Security and Control**: Being self-hosted, it ensures data never leaves your servers, and access control is based on Postgres roles and privileges.
 
-Mathesar is currently in public beta, indicating it is stable and feature-rich enough for production use. The project is maintained by the Mathesar Foundation, a nonprofit organization committed to keeping the tool open-source and accessible. The application is built using technologies like Svelte, TypeScript, Python, and PLpgSQL.
+Mathesar is currently in public beta, indicating it is stable and feature-rich enough for production use. It is maintained by the Mathesar Foundation, a nonprofit organization committed to keeping the project open source. The project encourages community contributions and provides extensive documentation and community support.
 ## Links
 
-- [Mathesar Documentation](https://docs.mathesar.org?ref=github-readme-top) : Official documentation for Mathesar, providing detailed guides and information on how to use the application.
-- [Mathesar Website](https://mathesar.org?ref=github-readme) : The official website for Mathesar, offering an overview of the project, features, and additional resources.
-- [Mathesar Wiki](https://wiki.mathesar.org/) : The Mathesar Wiki contains community resources, including mailing lists and chat information.
+- [Mathesar Official Website](https://mathesar.org/) : The official website of Mathesar, providing an overview, documentation, and community resources for the open-source tool that offers a spreadsheet-like interface for PostgreSQL databases.
+- [Mathesar Documentation](https://docs.mathesar.org/?ref=github-readme-installing) : Comprehensive documentation for Mathesar, including installation instructions, usage guides, and troubleshooting tips for the open-source tool that provides a spreadsheet-like interface for PostgreSQL databases.
+- [Mathesar Community Matrix Chat](https://wiki.mathesar.org/en/community/matrix) : The community Matrix chat for Mathesar, where users and developers can discuss, collaborate, and get support for the open-source tool that offers a spreadsheet-like interface for PostgreSQL databases.
 
 ## Topics
 
 ![](topics/Platform/Mathesar)
 
-![](topics/Concept/PostgreSQL%20based%20access%20control)
+![](topics/Platform/PostgreSQL)

@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Rapid response techniques are methods designed to quickly identify and defend against novel jailbreak attacks on large language models (LLMs) after observing only a few examples. These techniques focus on monitoring for new jailbreaks and rapidly adapting defenses to block whole classes of attacks. They are an alternative to traditional approaches that aim for perfect adversarial robustness.
+Rapid response techniques are methods designed to quickly adapt and defend against novel jailbreaking attacks on large language models (LLMs). These techniques involve monitoring for new jailbreak attempts, generating additional examples through proliferation, and fine-tuning defensive models to block these attacks. The goal is to reduce the success rate of jailbreaks by rapidly updating the model's defenses based on observed attack patterns.

@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Intermediate Representation (IR) is a key concept in compiler design, serving as a bridge between the high-level source code and the low-level machine code. In the context of machine learning, IR refers to a standardized form that models are converted into, allowing for optimization and execution across different hardware platforms. IRs are designed to be rich enough to represent a wide range of operations from various high-level frameworks, yet simple enough to be efficiently supported by different backends.
+Intermediate Representation (IR) is a key concept in compiler design, referring to a data structure or code format that is used internally by a compiler to represent the source code in a form that is easier to analyze and transform. In the context of machine learning, IRs are used to represent computation graphs in a way that can be optimized and converted to different hardware platforms. IRs can vary in complexity and abstraction level, with some being more general-purpose and others being more specialized for specific types of operations or hardware.

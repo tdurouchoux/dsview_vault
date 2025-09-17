@@ -14,19 +14,27 @@ upload_date: '2025-02-21'
 https://huggingface.co/blog/smolvlm2
 ## Summary
 
-SmolVLM2 introduces efficient video understanding models in three sizes: 2.2B, 500M, and 256M parameters. The 2.2B model excels in vision and video tasks, outperforming existing models in benchmarks like Video-MME. The smaller models, 500M and 256M, offer comparable video understanding capabilities with significantly fewer parameters. SmolVLM2 is designed to run on various devices, from phones to servers, and is available with MLX and Transformers support from day one. The release includes demo applications such as an iPhone app for local video analysis, VLC media player integration for semantic video navigation, and a Video Highlight Generator for summarizing long-form videos. Fine-tuning tutorials and citation information are also provided.
+SmolVLM2 introduces a range of efficient video understanding models, including 2.2B, 500M, and 256M parameter sizes, designed to run on various devices. The 2.2B model excels in vision and video tasks, outperforming existing models in benchmarks like Video-MME. The smaller models, 500M and 256M, push the boundaries of small video models, offering impressive capabilities with significantly fewer parameters.
+
+Key features include improved performance in solving math problems with images, reading text in photos, understanding complex diagrams, and tackling scientific visual questions. The models are optimized for memory efficiency, allowing them to run even on free Google Colab instances.
+
+SmolVLM2 is integrated with Transformers and MLX, supporting both Python and Swift APIs. It offers capabilities for video and multiple image inference, and can be fine-tuned on video-caption pairs. Practical applications include an iPhone app for local video analysis, VLC media player integration for semantic video navigation, and a Video Highlight Generator for summarizing long-form videos.
+
+The models are available for use with Transformers and MLX, with detailed instructions provided for inference and fine-tuning. The project is open for community contributions and further development.
 ## Links
 
-- [SmolVLM2 Collection with Models and Demos](https://huggingface.co/collections/HuggingFaceTB/smolvlm2-smallest-video-lm-ever-65ab6b5e84bf8aaa60cb17c7) : Collection of SmolVLM2 models and demos showcasing their capabilities in video understanding.
-- [Video-MME Benchmark](https://video-mme.github.io/home_page.html) : Comprehensive benchmark for video understanding, covering diverse video types and durations with expert annotations.
-- [SmolVLM2 Video Highlight Generator](https://huggingface.co/spaces/HuggingFaceTB/SmolVLM2-HighlightGenerator) : Application that extracts significant moments from long-form videos, tested on soccer matches and other lengthy events.
+- [SmolVLM2 Video Highlight Generator](https://huggingface.co/spaces/HuggingFaceTB/SmolVLM2-HighlightGenerator) : This link points to the Hugging Face Space for the SmolVLM2 Video Highlight Generator, an application that automatically extracts significant moments from long-form videos.
+- [SmolVLM2 iPhone App Waitlist](https://huggingface.co/spaces/HuggingFaceTB/SmolVLM2-iPhone-waitlist) : This link points to the Hugging Face Space for the SmolVLM2 iPhone App Waitlist, where users can sign up to test and build with the iPhone video processing app that runs SmolVLM2 locally.
+- [SmolVLM2 Collection](https://huggingface.co/collections/HuggingFaceTB/smolvlm2-smallest-video-lm-ever-67ab6b5e84bf8aaa60cb17c7) : This link points to the Hugging Face collection of SmolVLM2 models and demos, providing access to all the models and demo applications released with SmolVLM2.
 
 ## Topics
 
-![](topics/Model/SmolVLM2)
+![](topics/Model/SmolVLM)
 
 ![](topics/Concept/Video%20MME)
 
 ![](topics/Library/Transformers)
+
+![](topics/Concept/Flash%20Attention%202)
 
 ![](topics/Library/MLX)

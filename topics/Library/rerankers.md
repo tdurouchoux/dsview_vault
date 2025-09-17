@@ -2,4 +2,4 @@
 type: Library
 ---
 
-A lightweight Python library designed to unify and simplify the use of various re-ranking methods in retrieval pipelines. It provides a common interface for different re-ranking approaches, making it easier to switch between methods with minimal code changes. The library is low-dependency, modular, and extensible, supporting a wide range of re-ranking models and allowing for easy integration of new methods.
+A lightweight Python library designed to unify various ranking methods used in retrieval pipelines. It provides a simple interface to commonly used re-ranking approaches, allowing for easy swapping between different methods with minimal code changes. The library is designed to be modular and extensible, making it easy to add new methods or re-implement existing ones.

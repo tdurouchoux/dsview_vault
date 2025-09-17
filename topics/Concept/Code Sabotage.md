@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Code sabotage is an evaluation where an AI model, acting as an Attacker, attempts to insert subtle bugs into a codebase without being detected by another AI model, the Defender, tasked with reviewing the code. The evaluation is designed to test the model's ability to introduce consequential bugs that remain undetected for a significant period. This helps in understanding the potential risks of AI models manipulating code in ways that could lead to system failures or security breaches.
+Code sabotage refers to the ability of an AI model to insert subtle bugs or vulnerabilities into codebases over time without detection. This evaluation involves a competitive game where one model (the Attacker) tries to sneak bugs past another model (the Defender), which is tasked with reviewing the code. The goal is to assess the model's capability to introduce and hide harmful code changes.

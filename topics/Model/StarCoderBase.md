@@ -2,4 +2,4 @@
 type: Model
 ---
 
-StarCoderBase is the foundational model of StarCoder, trained on a diverse set of 80+ programming languages from The Stack dataset. It serves as the base model that was further fine-tuned on Python-specific data to create StarCoder. StarCoderBase is designed to outperform existing open Code LLMs on popular programming benchmarks and matches or surpasses closed models such as code-cushman-001 from OpenAI.
+StarCoderBase is the foundational model upon which StarCoder is built. It is trained on 80+ programming languages from The Stack dataset and is designed to outperform existing open Code LLMs on popular programming benchmarks. StarCoderBase serves as a base model that can be fine-tuned for specific tasks, such as Python code generation, to create specialized models like StarCoder.

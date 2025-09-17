@@ -2,4 +2,4 @@
 type: Model
 ---
 
-ARIMA, which stands for AutoRegressive Integrated Moving Average, is a popular statistical model used for time series forecasting. It combines three main components: autoregression (AR), integration (I), and moving average (MA). The AR component models the dependency between an observation and a number of lagged observations, the I component makes the time series stationary by differencing, and the MA component models the dependency between an observation and a residual error from a moving average model applied to lagged observations.
+ARIMA (AutoRegressive Integrated Moving Average) is a class of time series prediction models. It uses past values and past errors to predict future values. The model is defined by three parameters: p (number of past values to consider), d (number of differences needed to achieve stationarity), and q (number of past forecast errors to consider). ARIMA is effective for time series data and requires the time series to be standardized to be independent from seasonal or temporary trends.

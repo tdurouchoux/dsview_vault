@@ -6,8 +6,6 @@ relevance: 4
 source: null
 tags:
 - Large_Language_Model
-- AI_agent
-- Natural_Language_Processing
 type: Content
 upload_date: '2025-03-02'
 ---
@@ -15,17 +13,19 @@ upload_date: '2025-03-02'
 https://www.dbreunig.com/2024/12/12/pipelines-prompt-optimization-with-dspy.html
 ## Summary
 
-DSPy is a framework that simplifies the process of building LLM-powered applications by reducing the time spent on prompting. It uses "signatures" to define tasks, which are then used by modules to generate prompts. The Predict module is the foundational one, providing boilerplate instructions for tasks. DSPy also allows for prompt optimization based on a training set, using metrics to compare ideal outputs with system outputs. The framework supports switching between different models and optimizing prompts to improve performance. DSPy's ability to abstract prompt generation and leave it to the models to figure out based on defined metrics is particularly powerful as pipelines grow in complexity.
+DSPy is a framework that allows users to program language models (LLMs) rather than manually crafting prompts. It uses "signatures" to define desired inputs and outputs, which are then used by modules to generate prompts. The framework supports prompt optimization based on training data, and it can leverage different LLMs for task execution and prompt generation. The example provided demonstrates categorizing historic events, showing how DSPy can improve accuracy through prompt optimization and model comparison. Key takeaways include the ease of defining tasks with signatures, the ability to optimize prompts for better performance, and the flexibility to use different models for different parts of the process.
 ## Links
 
-- [DSPy Programming Modules](https://dspy.ai/learn/programming/modules/) : DSPy Programming Modules documentation
-- [DSPy Evaluation Overview](https://dspy.ai/learn/evaluation/overview/) : DSPy Evaluation Overview documentation
-- [DSPy Optimization Optimizers](https://dspy.ai/learn/optimization/optimizers/) : DSPy Optimization Optimizers documentation
+- [DSPy Programming Signatures](https://dspy.ai/learn/programming/signatures/#class-based-dspy-signatures) : DSPy Programming Signatures documentation, explaining how to use class-based signatures for defining tasks in DSPy.
+- [DSPy Programming Modules](https://dspy.ai/learn/programming/modules/) : DSPy Programming Modules documentation, explaining how to use modules for prompting in DSPy.
+- [DSPy Optimization Optimizers](https://dspy.ai/learn/optimization/optimizers/) : DSPy Optimization Optimizers documentation, explaining how to use optimizers for prompt optimization in DSPy.
 
 ## Topics
 
 ![](topics/Library/DSPy)
 
-![](topics/Concept/Prompt%20Optimization)
+![](topics/Concept/Prompt%20Engineering)
 
 ![](topics/Concept/Signature)
+
+![](topics/Concept/Module)

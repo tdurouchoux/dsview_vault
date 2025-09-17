@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Binary embeddings are a type of embedding where text or other data is converted into binary vectors. These embeddings are particularly useful for fast computations, such as Hamming distance calculations, which are efficient and can be performed quickly even on resource-constrained hardware. Binary embeddings are often used in applications requiring rapid similarity searches or clustering tasks.
+Binary embeddings are a type of embedding where the vector representations are binary (0 or 1) rather than continuous values. This approach allows for faster computations and lower memory usage, making it suitable for tasks that require high-speed processing. Binary embeddings are particularly useful in tasks like fuzzy deduplication and clustering, where the ability to quickly compare and group similar texts is crucial. They are often trained using techniques like the straight-through estimator, which enables the use of small integer arrays for even faster Hamming distance calculations.

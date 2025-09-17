@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Ensembling is a machine learning technique where multiple models are combined to make predictions. This approach can improve the performance and robustness of the model by leveraging the strengths of different models and reducing the impact of their individual weaknesses. Common techniques include bagging, boosting, and stacking. Ensembles are particularly effective when the individual models make uncorrelated errors, leading to better generalization and robustness. They are widely used in time series forecasting and other predictive modeling tasks, and can reduce variance, bias, and improve predictions by leveraging the strengths of different models. Ensembles are particularly useful when dealing with complex datasets and can lead to more robust and accurate predictions.

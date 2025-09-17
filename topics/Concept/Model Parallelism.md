@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Model parallelism is a technique in distributed training where different parts of a single model are trained on different devices. This approach is used when a model is too large to fit on a single device, allowing for the training of larger and more complex models.
+Model parallelism is a technique in distributed training where different parts of a model are processed on different devices. This is useful for very large models that cannot fit into the memory of a single device.

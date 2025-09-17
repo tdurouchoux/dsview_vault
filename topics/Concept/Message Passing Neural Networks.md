@@ -1,5 +1,0 @@
----
-type: Concept
----
-
-Message-passing neural networks are a classical approach in GNNs where nodes receive messages from their neighbors along incoming edges and update their own hidden state from these messages. This process aggregates and encodes the relevant information of a node's neighborhood, allowing the GNN to make predictions based on the aggregated information. In heterogeneous graphs, separately trained hidden layers can be used for different types of nodes and edges. Message Passing Neural Networks (MPNNs) are a class of neural networks that operate on graph data by passing messages between nodes. These messages contain information about the nodes and their connections, allowing the network to learn and make predictions based on the graph's structure. MPNNs are particularly useful for tasks involving molecular and biological data.

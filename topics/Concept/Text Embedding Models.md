@@ -1,5 +1,0 @@
----
-type: Concept
----
-
-Text embedding models convert text into numerical vectors that capture semantic meanings, enabling machines to understand and process human language. These models are crucial for various NLP tasks like semantic search, clustering, and text classification. They transform text into dense vectors, preserving contextual information, which helps in comparing and analyzing text data effectively. Embedding models are used to represent unstructured data, such as text, as dense numerical vectors in a high-dimensional vector space. These vector representations aim to capture the semantic and contextual meanings of the data, where similar data are mapped to vectors that are close together in the vector space. Embedding models are crucial for various natural language processing tasks such as semantic similarity, information retrieval, and text clustering. Latent Scope supports several popular open-source embedding models that can run locally, as well as proprietary API embedding services, enabling users to embed their data and explore it through latent spaces.

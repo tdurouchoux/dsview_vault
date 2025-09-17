@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+The environmental impact of artificial intelligence, particularly the energy consumption and carbon emissions associated with training and running AI models. This includes the energy used by data centers, the carbon intensity of the electricity grid, and the overall environmental cost of AI technologies. The topic also encompasses the study and understanding of the environmental impacts caused by the rapid growth and widespread adoption of artificial intelligence technologies, involving analyzing the carbon footprint, energy consumption, and other ecological consequences associated with AI development and deployment. This includes assessing the sustainability of data centers, the efficiency of AI algorithms, and the overall environmental cost of advancing AI capabilities.

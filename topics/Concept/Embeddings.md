@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Embeddings are a way of representing entities as points in N-dimensional space, where similar or related entities are placed close to each other. They are used to encode complex relationships between entities, such as words, products, or people, and are often high-dimensional, making them useful for encoding rich information. Embeddings are dense vector representations of discrete variables, such as words or tokens, that capture semantic meanings and relationships. In the context of transformers, embeddings are used to convert input tokens into vectors that can be processed by the model. These embeddings are updated through the attention mechanism to incorporate contextual information, allowing the model to understand and generate more nuanced and contextually appropriate outputs. They are essential for various NLP tasks, including similarity computation, ranking, clustering, and semantic text splitting, and are derived from large language models (LLMs).

@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Model deprecation in AI model evaluations refers to the process of removing or reducing the sampling rates of models from the evaluation platform, often due to performance criteria or policy decisions. This practice can impact the reliability and fairness of leaderboard rankings, particularly if deprecation policies are not applied uniformly across different types of models. Ensuring transparent and equitable deprecation policies is essential for maintaining the integrity and trustworthiness of AI model evaluations.
+Model deprecation involves the removal of models from the Chatbot Arena leaderboard. This process can be influenced by various factors such as the availability of newer models, performance metrics, and provider policies. However, the deprecation process can introduce inconsistencies and biases, particularly when it disproportionately affects open-weight and open-source models.

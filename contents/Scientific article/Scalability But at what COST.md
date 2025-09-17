@@ -14,27 +14,13 @@ upload_date: '2025-02-11'
 https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf
 ## Summary
 
-The paper introduces a new metric called COST (Configuration that Outperforms a Single Thread) to evaluate the performance of big data platforms. COST measures the hardware configuration required for a platform to outperform a single-threaded implementation, highlighting the actual performance gains and accounting for system overheads.
+The paper introduces a new metric called COST (Configuration that Outperforms a Single Thread) to evaluate the performance of big data platforms. COST measures the hardware configuration required for a platform to outperform a single-threaded implementation, providing a more accurate assessment of a system's scalability and performance gains.
 
-Key points include:
+The authors argue that many big data systems focus on scalability but often fail to outperform single-threaded implementations, even when using hundreds of cores. They present a methodology to compare recent graph processing systems against simple, single-threaded implementations on the same datasets, finding that many systems have unbounded COST or underperform single-threaded implementations.
 
-1. **Introduction of COST Metric**: COST is proposed to assess the scalability and efficiency of big data systems by comparing their performance against a competent single-threaded implementation.
+The paper discusses two basic graph computations: PageRank and connected components. It shows that single-threaded implementations can outperform distributed systems, especially when using optimized graph layouts and better algorithms. The authors also apply the COST metric to prior work, finding that some systems have high COST due to intrinsic design choices or avoidable inefficiencies.
 
-2. **Survey Findings**: Many data-parallel systems have high COST values, often requiring hundreds of cores to outperform a single thread, or they fail to outperform a single thread at all.
-
-3. **Methodology**: The paper compares recent graph processing systems against single-threaded implementations on the same datasets, revealing significant performance gaps.
-
-4. **Graph Computations**: The paper evaluates systems on tasks like PageRank and connected components, showing that single-threaded implementations often outperform distributed systems, sometimes by an order of magnitude.
-
-5. **Improving Baselines**: The paper suggests improvements to single-threaded implementations, such as better graph layout (e.g., Hilbert curve ordering) and more efficient algorithms (e.g., Union-Find), which can further enhance performance.
-
-6. **Applying COST**: The paper applies the COST metric to existing systems like PowerGraph, GraphX, and Naiad, finding that some systems have high or unbounded COST, indicating inefficiencies.
-
-7. **Lessons Learned**: The paper discusses factors contributing to high COST, including restrictive computational models, hardware trade-offs, and implementation overheads. It emphasizes the importance of evaluating COST to identify and address inefficiencies.
-
-8. **Future Directions**: The paper encourages further research to understand and improve scalable systems, learn from past mistakes, and focus on meaningful progress in distributed systems research.
-
-The paper aims to promote a more rigorous evaluation of big data systems, ensuring that scalability claims are backed by actual performance improvements.
+The paper concludes with lessons learned and future directions for the area, emphasizing the importance of evaluating COST to understand and articulate progress in scalable systems research. It highlights the need for better baselines, more efficient algorithms, and a focus on qualitative advantages that simpler solutions cannot provide. The authors encourage researchers to learn from past mistakes and focus on making meaningful progress in the field.
 ## Links
 
 

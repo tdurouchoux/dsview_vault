@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+The Artificial Intelligence Act is a comprehensive regulatory framework proposed by the European Union to govern the development, deployment, and use of artificial intelligence within its member states. The act aims to address the risks associated with AI technologies while fostering innovation. It categorizes AI systems based on their risk levels, imposing stricter requirements on high-risk applications, such as those used in critical infrastructures, educational systems, and specific AI practices involving biometric identification. The act also includes provisions for transparency, accountability, and the protection of fundamental rights, ensuring that AI systems are safe, transparent, and respect human rights. The legislation reflects the EU's approach to creating a balanced regulatory environment that encourages technological advancement while safeguarding public interests.

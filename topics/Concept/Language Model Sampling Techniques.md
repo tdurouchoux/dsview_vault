@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Language model sampling techniques are methods used to generate text from a pre-trained language model. These techniques control the randomness and diversity of the generated text, making it more coherent and contextually appropriate. Common sampling techniques include Greedy Sampling, which selects the most likely next token at each step; Temperature Sampling, which adjusts the probability distribution of the next token using a temperature parameter to control randomness; Top-k Sampling, which selects the next token from the top k most likely candidates; and Nucleus Sampling (also known as Top-p Sampling), which selects the smallest set of top tokens whose cumulative probability exceeds a threshold p. These techniques help in balancing the trade-off between diversity and coherence in the generated text, making them essential for applications like text generation, chatbots, and creative writing assistants.

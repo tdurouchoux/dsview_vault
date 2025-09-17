@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Score-based Generative Modeling is a perspective on diffusion models that focuses on learning the score function of a noisified input at any arbitrary noise level. This approach is connected to the variational perspective of diffusion models through Tweedie's Formula. The score function is crucial for understanding and generating data, as it provides a gradient that points in the direction of highest probability density, enabling the generation of high-quality samples.
+Score-based Generative Modeling is a perspective on diffusion models that focuses on learning the score function of the data distribution. The score function represents the gradient of the log probability density of the data. By learning this function, the model can generate new data samples by reversing the diffusion process. This approach is connected to Variational Diffusion Models through Tweedie's Formula, providing a unified understanding of diffusion models from both variational and score-based perspectives.

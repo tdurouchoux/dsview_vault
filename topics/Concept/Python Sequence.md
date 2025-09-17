@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Python sequences are ordered collections of items that can be accessed by their position or index. They include lists, tuples, and strings. Sequences support operations like slicing, concatenation, and repetition, and can be iterated over using loops. Sequences are a fundamental data structure in Python and are used extensively in data manipulation and analysis.
+Python sequences are ordered collections of items that can be accessed by their position. They include lists, tuples, and strings. Sequences are a fundamental data structure in Python and provide various methods for manipulation and access. Understanding sequences is essential for working with data in Python.

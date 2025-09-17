@@ -16,24 +16,24 @@ https://python.plainenglish.io/top-5-python-frontend-libraries-for-data-science-
 
 The article discusses five Python frontend libraries for data science, highlighting their unique features, advantages, and disadvantages:
 
-1. **Streamlit**: Best for quick prototyping and simple, one-page websites. It's easy to use and share but lacks scalability and customization options.
+1. **Streamlit**: Popular for rapid development of interactive data apps. Easy to use but not scalable for complex applications. Hard to customize beyond documentation.
 
-2. **Solara**: Suitable for building large, scalable websites or widgets for Python notebooks. It offers component-based code and state management but has a smaller community and less documentation.
+2. **Solara**: Builds web apps from pure Python using ipywidgets or a React-like API. Good for large, scalable websites but has a smaller community and steeper learning curve.
 
-3. **Trame**: Ideal for creating science-focused apps with interactive, complex visualizations and simulations. It's multi-platform and aesthetically pleasing but is still in development and has a small community.
+3. **Trame**: Simplifies creating interactive web applications with rich visualizations. Ideal for science-focused apps but is new, has a small community, and is still in development.
 
-4. **ReactPy**: A Python package for building user interfaces similar to ReactJS. It's great for developers familiar with ReactJS who want to use Python for both backend and frontend. However, it's new and has a smaller community.
+4. **ReactPy**: Allows building UIs without JavaScript, similar to ReactJS. Suitable for multi-page websites but lacks a large community and has some unfinished features.
 
-5. **PyQt**: Best for developing cross-platform desktop applications. It offers extensive widget sets and good customizability but requires a commercial license for non-open-source applications and has a complex installation process.
+5. **PyQt**: A Python binding of the Qt toolkit for cross-platform GUI applications. Highly customizable but requires a commercial license for non-open-source applications and has a complex installation process.
 
-The article concludes by suggesting that the choice of framework depends on the specific needs of the data science project.
+The article concludes by recommending Streamlit for quick prototyping, Solara for scalability, Trame for complex visualizations, ReactPy for ReactJS-like development, and PyQt for desktop applications.
 ## Links
 
 - [Streamlit](https://streamlit.io) : Streamlit is an open-source Python framework for creating interactive data apps rapidly and with ease, particularly beneficial for data scientists and machine learning engineers.
 - [Solara](https://solara.dev) : Solara lets you build web apps from pure Python using ipywidgets or a React-like API on top of ipywidgets. These apps work both inside the Jupyter Notebook and as standalone web apps with frameworks like FastAPI.
-- [Trame](https://kitware.github.io/trame/) : Trame is an open-source platform that simplifies the creation of interactive and visually stunning web applications with minimal knowledge of web development or technology.
-- [ReactPy](https://reactpy.dev/docs/index.html) : ReactPy is a Python package for building user interfaces (UI) without JavaScript. It allows developers to create interfaces using small, reusable components, similar to ReactJS.
-- [PyQt](https://wiki.python.org/moin/PyQt) : PyQt is a Python binding of the cross-platform GUI toolkit, implemented as a Python plug-in. It serves primarily as a powerful GUI module, seamlessly integrating the robust Qt C++ cross-platform framework with the flexible Python programming language.
+- [Trame](https://kitware.github.io/trame/) : Trame is an open-source platform that simplifies the creation of interactive and visually stunning web applications with minimal knowledge of web development or technology. It is based on Python and leverages platforms such as VTK, ParaView, and Vega to create web-based applications in minutes.
+- [ReactPy](https://reactpy.dev/docs/index.html) : ReactPy is a Python package for building user interfaces (UI) without JavaScript. It allows developers to create interfaces using small, reusable components, similar to ReactJS. ReactPy interfaces can be built for various backends, such as Flask, FastAPI, Sanic, Tornado, Django, Jupyter, and Plotly-Dash.
+- [PyQt](https://github.com/pyqt/examples) : PyQt is a Python binding of the cross-platform GUI toolkit, implemented as a Python plug-in. It serves primarily as a powerful GUI module, seamlessly integrating the robust Qt C++ cross-platform framework with the flexible Python programming language.
 
 ## Topics
 

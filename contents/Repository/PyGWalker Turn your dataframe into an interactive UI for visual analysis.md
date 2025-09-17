@@ -14,14 +14,14 @@ upload_date: '2023-03-02'
 https://github.com/Kanaries/pygwalker
 ## Summary
 
-PyGWalker is a Python library designed to simplify exploratory data analysis (EDA) and visualization workflows by transforming pandas DataFrames into interactive visual interfaces. It integrates Jupyter Notebooks with Graphic Walker, an open-source alternative to Tableau, enabling data scientists to visualize, clean, and annotate data through drag-and-drop operations and natural language queries.
+PyGWalker is a Python library designed to simplify exploratory data analysis (EDA) and visualization workflows by converting pandas DataFrames into interactive visual interfaces. It integrates Jupyter Notebooks with Graphic Walker, an open-source alternative to Tableau, enabling data scientists to visualize, clean, and annotate data through drag-and-drop operations and natural language queries.
 
 ### Key Features:
-- **Interactive Data Exploration**: Drag-and-drop interface for easy visualization creation, real-time updates, and capabilities to zoom, pan, and filter data.
-- **Data Cleaning and Transformation**: Visual tools for identifying and removing outliers, creating new variables, and transforming data.
+- **Interactive Data Exploration**: Drag-and-drop interface for creating visualizations, real-time updates, zooming, panning, and filtering.
+- **Data Cleaning and Transformation**: Tools for identifying and removing outliers, creating new variables, and transforming data.
 - **Advanced Visualization**: Support for various chart types, customization options, and interactive features like tooltips and drill-down capabilities.
 - **Integration with Jupyter Notebooks**: Seamless workflow integration.
-- **Open-Source and Free**: Allows for customization and extension.
+- **Open-Source and Free**: Customizable and extensible.
 
 ### Getting Started:
 1. **Installation**:
@@ -42,36 +42,41 @@ PyGWalker is a Python library designed to simplify exploratory data analysis (ED
    walker = pyg.walk(df)
    ```
 
-### Advanced Features:
-- **Programmatic Export**: Save charts to files or export as images.
+### Additional Features:
+- **Programmatic Export**: Save charts as SVG or PNG files.
 - **Streamlit Integration**: Host web versions of PyGWalker without detailed web application knowledge.
 - **Privacy Configuration**: Options to control data sharing and updates.
 
 ### Development and Contribution:
 - Supported environments include Jupyter Notebook, Google Colab, Kaggle, and more.
-- Contributions are encouraged, including answering questions, reporting bugs, and contributing code.
+- Contributions are encouraged in various forms, including code, support, and documentation.
 
 ### Resources:
-- **PyGWalker Cloud**: Save charts to the cloud, publish interactive cells as web apps, and use advanced GPT-powered features.
-- **Documentation and Support**: Available on the Kanaries website and GitHub.
+- **Documentation**: Available on the Kanaries website.
+- **Community Support**: Discord channel and GitHub issues for support.
 
 PyGWalker aims to streamline the data analysis process, making it more accessible and efficient for data scientists.
 ## Links
 
-- [PyGWalker Documentation](https://docs.kanaries.net/pygwalker/use-pygwalker-with-streamlit) : Documentation on how to use PyGWalker with Streamlit, providing detailed instructions and examples.
-- [PyGWalker API Reference](https://pygwalker-docs.vercel.app/api-reference/jupyter) : API reference for PyGWalker, detailing the available functions and parameters for Jupyter Notebook integration.
-- [PyGWalker GitHub Repository](https://github.com/Kanaries/pygwalker) : The official GitHub repository for PyGWalker, containing the source code, issues, and pull requests.
+- [PyGWalker Documentation](https://pygwalker-docs.vercel.app/api-reference/jupyter) : Official documentation for PyGWalker, providing detailed information on how to use the library in Jupyter environments.
+- [PyGWalker Cloud](https://kanaries.net/pygwalker?from=gh_md) : PyGWalker Cloud service for saving charts, publishing interactive cells as web apps, and using advanced GPT-powered features.
+- [PyGWalker on PyPI](https://pypi.org/project/pygwalker) : PyGWalker project page on the Python Package Index, providing installation instructions and package details.
+- [PyGWalker on Conda-Forge](https://anaconda.org/conda-forge/pygwalker) : PyGWalker project page on Conda-Forge, providing installation instructions and package details for Conda users.
 
 ## Topics
 
 ![](topics/Library/PyGWalker)
 
-![](topics/Concept/Graphic%20Walker)
+![](topics/Library/Graphic%20Walker)
 
 ![](topics/Library/runcell)
 
 ![](topics/Library/Streamlit)
 
 ![](topics/Library/Panel)
+
+![](topics/Platform/marimo)
+
+![](topics/Platform/Hex%20Platform)
 
 ![](topics/Library/DuckDB)

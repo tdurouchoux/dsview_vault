@@ -6,6 +6,7 @@ relevance: 0
 source: Alpha Signal
 tags:
 - Large_Language_Model
+- AI_agent
 type: Content
 upload_date: '2024-10-08'
 ---
@@ -13,40 +14,26 @@ upload_date: '2024-10-08'
 https://github.com/microsoft/generative-ai-for-beginners
 ## Summary
 
-This GitHub repository, "generative-ai-for-beginners" by Microsoft, offers a comprehensive 21-lesson course on building Generative AI applications. The course covers a wide range of topics, including:
-
-- Introduction to Generative AI and Large Language Models (LLMs)
-- Exploring and comparing different LLMs
-- Responsible use of Generative AI
-- Prompt engineering fundamentals and advanced techniques
-- Building various applications (text generation, chat, search, image generation, low-code AI, etc.)
-- Integrating external applications with function calling
-- Designing UX for AI applications
-- Securing Generative AI applications
-- The Generative AI application lifecycle
-- Retrieval Augmented Generation (RAG) and Vector Databases
-- Open source models and Hugging Face
-- AI Agents
-- Fine-tuning LLMs
-- Building with Small Language Models (SLMs), Mistral Models, and Meta Models
-
-Each lesson includes a video introduction, a written lesson, Python and TypeScript code samples, and links to extra resources. The course supports multiple languages and provides a course setup guide to help with the development environment. Additionally, the repository includes information on how to get support, contribute, and find more advanced code samples.
+This GitHub repository, "generative-ai-for-beginners" by Microsoft, offers a comprehensive 21-lesson course on building Generative AI applications. The course is structured into "Learn" and "Build" lessons, covering topics from introductory concepts to advanced techniques. Key areas include understanding Generative AI and LLMs, prompt engineering, building various applications (text, chat, search, image), integrating external applications, designing UX for AI, securing AI applications, and exploring open-source models. The course supports multi-language content and provides Python and TypeScript code samples. It also includes resources for further learning, community support, and deployment-ready code samples. The course is designed to be accessible to beginners with basic knowledge of Python or TypeScript.
 ## Links
 
-- [GitHub Models](https://github.com/features/models) : GitHub Models is a platform that allows users to manage and compare prompts for AI models. It is a tool that can be integrated into the workflow of building generative AI applications.
-- [Microsoft for Startups](https://www.microsoft.com/startups) : Microsoft for Startups provides resources and support for startups, including access to Azure credits, to help them build and scale their businesses.
-- [GitHub Code Search](https://github.com/features/code-search) : GitHub Code Search is a tool that allows users to find code snippets and repositories on GitHub. It is useful for developers looking for specific code examples or solutions.
+- [GitHub Copilot](https://github.com/features/copilot) : GitHub Copilot is an AI-powered code completion tool that helps developers write code faster and with less effort. It uses machine learning models trained on a large dataset of public code to suggest entire lines or functions as you type.
+- [GitHub Advanced Security](https://github.com/security/advanced-security) : GitHub Advanced Security provides enterprise-grade security features to help organizations protect their code and infrastructure. It includes tools for code scanning, secret scanning, and dependency review to identify and fix vulnerabilities in your projects.
 
 ## Topics
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
-
-![](topics/Concept/Vector%20Database)
-
 ![](topics/Concept/Prompt%20Engineering)
+
+![](topics/Concept/Retrieval%20Augmented%20Generation)
+
+![](topics/Concept/Vector%20Databases)
 
 ![](topics/Concept/Function%20Calling)
 
-![](topics/Concept/Large%20Language%20Models%20LLMs)
+![](topics/Concept/LLMOps)
 
-![](topics/Concept/Generative%20AI)
+![](topics/Concept/Small%20Language%20Models%20SLMs)
+
+![](topics/Concept/Mistral%20Models)
+
+![](topics/Model/Meta%20Models)

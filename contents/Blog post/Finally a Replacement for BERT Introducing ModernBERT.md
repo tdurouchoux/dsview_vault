@@ -6,7 +6,6 @@ relevance: 0
 source: Data Elixir
 tags:
 - Natural_Language_Processing
-- Large_Language_Model
 type: Content
 upload_date: '2025-01-01'
 ---
@@ -14,12 +13,18 @@ upload_date: '2025-01-01'
 https://huggingface.co/blog/modernbert
 ## Summary
 
-ModernBERT is a new family of encoder-only models that improves upon BERT with better performance, efficiency, and a longer context length of 8,192 tokens. It is available in base (149M params) and large (395M params) sizes and can be used as a direct replacement for BERT-like models. ModernBERT is designed to be efficient and practical, with optimizations for real-world applications, and it supports tasks like retrieval, classification, and code understanding. It is trained on a diverse dataset, including code and scientific articles, and uses modern techniques like rotary positional embeddings, GeGLU layers, and Flash Attention 2 for improved performance. ModernBERT is expected to become the new standard for encoder-only models in various applications, such as RAG pipelines and recommendation systems. It is available for use with the Hugging Face Transformers library and will be included in v4.48.0.
+ModernBERT is a new state-of-the-art encoder-only model that improves upon BERT and its successors in terms of speed, accuracy, and context length. It is available in two sizes: base (149M parameters) and large (395M parameters), and can be used as a direct replacement for BERT-like models. ModernBERT supports a sequence length of 8,192 tokens, which is significantly longer than most existing encoders, and includes a large amount of code in its training data, making it unique for code retrieval tasks.
+
+The model is designed to be efficient and practical, with a focus on real-world applications rather than just benchmarks. It uses a modernized transformer architecture, with improvements such as rotary positional embeddings, GeGLU layers, and an extra normalization layer. ModernBERT also employs several efficiency techniques, including alternating attention, unpadding and sequence packing, and hardware-aware model design.
+
+ModernBERT is trained on a diverse range of English sources, including web documents, code, and scientific articles, with a total of 2 trillion tokens. The training process involves three phases, with the final phase using a trapezoidal learning rate. The model is designed to be good across the board, with competitive performance on both long-context and short-context tasks.
+
+ModernBERT is expected to become the new standard for encoder-only models in various applications, such as RAG pipelines and recommendation systems. It is available on the Hugging Face Hub and will be included in v4.48.0 of the Transformers library. The creators of ModernBERT are also opening a call for demos, with prizes for the best ones.
 ## Links
 
-- [ModernBERT Documentation](https://huggingface.co/docs/transformers/main/en/model_doc/modernbert) : Official documentation for ModernBERT, providing detailed information on how to use the model with the Transformers library.
-- [ModernBERT Base Model](https://huggingface.co/answerdotai/ModernBERT-base) : Hugging Face repository for the ModernBERT-base model, including model card, usage examples, and related resources.
-- [ModernBERT Large Model](https://huggingface.co/answerdotai/ModernBERT-large) : Hugging Face repository for the ModernBERT-large model, including model card, usage examples, and related resources.
+- [ModernBERT-Base Model](https://huggingface.co/answerdotai/ModernBERT-base) : The Hugging Face page for the ModernBERT-Base model, providing access to the model's details, usage instructions, and performance metrics.
+- [ModernBERT-Large Model](https://huggingface.co/answerdotai/ModernBERT-large) : The Hugging Face page for the ModernBERT-Large model, offering comprehensive information on the larger version of ModernBERT, including its architecture and capabilities.
+- [ModernBERT Documentation](https://huggingface.co/docs/transformers/main/en/model_doc/modernbert) : Official documentation for ModernBERT on Hugging Face, detailing how to use the model with the Transformers library, including code examples and configuration details.
 
 ## Topics
 
@@ -31,4 +36,6 @@ ModernBERT is a new family of encoder-only models that improves upon BERT with b
 
 ![](topics/Concept/Hardware%20Aware%20Model%20Design)
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![](topics/Concept/Rotary%20Positional%20Embeddings%20RoPE)
+
+![](topics/Concept/GeGLU%20Layers)

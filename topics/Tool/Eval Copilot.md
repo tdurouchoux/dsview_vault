@@ -2,4 +2,4 @@
 type: Tool
 ---
 
-Eval Copilot is a tool designed to help users generate, test, and refine custom evaluation metrics. It allows users to describe their task and automatically creates evaluation prompts. The tool also supports adjusting prompts by describing desired changes and adding few-shot examples. Eval Copilot is integrated with the Selene models to leverage their customizability and instruction-following capabilities.
+Eval Copilot is a tool launched by Atla to help users leverage Selene’s instruction-following capabilities. It allows users to automatically generate, test, and refine custom evaluation metrics with just a description of their task, requiring little-to-no prompt engineering. The tool is designed to help users build evaluation metrics for custom use cases and is available in open beta.

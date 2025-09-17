@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Reinforcement Learning from Execution Feedback (RLEF) is a method used to improve AI models' coding capabilities by providing feedback based on the execution of the generated code. This helps the model learn from the outcomes of its code predictions, enhancing its coding performance.
+Reinforcement Learning from Execution Feedback (RLEF) is a technique used to improve the coding capabilities of AI models by training them on feedback derived from the execution of code. This method helps the model learn from the outcomes of its code generations, enhancing its ability to produce accurate and functional code.

@@ -1,5 +1,0 @@
----
-type: Concept
----
-
-Inference-time scaling, also known as test-time compute scaling, refers to techniques used during the model's inference phase to improve the quality of the output without altering the model itself. This can include methods like chain-of-thought prompting, where the model is encouraged to generate intermediate reasoning steps, and search strategies like beam search or majority voting. These techniques make the inference process more computationally expensive but can significantly improve the model's performance on complex tasks. Additionally, it may involve multiple calls to the model, Monte Carlo Tree Search (MCTS), or the use of specialized models like Process Reward Models (PRMs). By scaling the compute budget during test time, models can achieve better performance on complex reasoning tasks, making this an important area of research and application in the field of LLMs.

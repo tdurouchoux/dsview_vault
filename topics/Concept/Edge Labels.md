@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Edge Labels are used in Airflow to label the dependency edges between different tasks in the Graph view. They are particularly useful for branching areas of a DAG, allowing you to label the conditions under which certain branches might run. Edge Labels can be added directly inline with the >> and << operators or passed to set_upstream/set_downstream methods.
+Edge labels in Airflow are used to label the dependency edges between different tasks in the DAG graph view. They provide additional context and information about the conditions under which certain branches or tasks might run. Edge labels help to make the DAG more understandable and visually clear, especially in complex workflows with multiple branches.

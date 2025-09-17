@@ -2,4 +2,4 @@
 type: Platform
 ---
 
-NVIDIA NIM (NVIDIA Inference Microservice) is a platform designed to simplify the deployment of AI models. It provides a scalable and efficient way to run inference on NVIDIA GPUs, supporting a wide range of AI frameworks and models. NVIDIA NIM is particularly useful for applications requiring low-latency, high-throughput inference, such as real-time image and video processing, natural language understanding, and more.
+NVIDIA NIM (NVIDIA Inference Microservice) is a platform designed to simplify the deployment of AI models in production environments. It provides a scalable and efficient way to run inference using NVIDIA's hardware and software optimizations. NVIDIA NIM supports a variety of AI frameworks and models, enabling developers to deploy models with minimal setup and manage inference workloads effectively. The platform is particularly useful for applications requiring high-performance, low-latency inference, such as real-time image and language processing.

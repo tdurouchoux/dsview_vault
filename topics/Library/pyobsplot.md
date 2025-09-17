@@ -2,4 +2,4 @@
 type: Library
 ---
 
-pyobsplot is a Python library that enables the use of Observable Plot within Jupyter or Marimo notebooks and Quarto documents. It allows Python users to create charts using a syntax similar to the JavaScript version of Observable Plot, facilitating the creation of interactive and static visualizations directly from Python code.
+pyobsplot is a Python library that allows users to create charts in Jupyter or Marimo notebooks and Quarto documents using Observable Plot. It enables the creation of plots from Python code with a syntax that closely resembles the JavaScript syntax of Observable Plot. This library facilitates the integration of Observable Plot's capabilities into Python-based data science workflows.

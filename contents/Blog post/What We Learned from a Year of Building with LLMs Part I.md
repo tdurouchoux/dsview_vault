@@ -14,7 +14,7 @@ upload_date: '2024-06-05'
 https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/
 ## Summary
 
-The article discusses key lessons and methodologies for building effective products with large language models (LLMs). It is organized into three sections: tactical, operational, and strategic, with the first part focusing on tactical aspects. The authors, who have diverse backgrounds and experiences in building real-world applications with LLMs, share their insights and best practices.
+The article discusses key lessons and methodologies for building effective products using large language models (LLMs). It is organized into three sections: tactical, operational, and strategic, with this part focusing on the tactical aspects. The authors, who have diverse backgrounds and experiences in building real-world applications with LLMs, share their insights and best practices.
 
 **Tactical Lessons:**
 
@@ -24,43 +24,45 @@ The article discusses key lessons and methodologies for building effective produ
    - Keep prompts small and focused on one task to avoid complexity and improve performance.
 
 2. **Information Retrieval/RAG (Retrieval-Augmented Generation):**
-   - RAG's effectiveness depends on the relevance, density, and detail of retrieved documents.
-   - Use keyword search as a baseline and consider hybrid search for better results.
-   - Prefer RAG over fine-tuning for incorporating new knowledge due to its ease of updates and control.
+   - RAG is effective for grounding LLMs and improving output quality.
+   - Quality of RAG output depends on the relevance, density, and detail of retrieved documents.
+   - Keyword search should not be overlooked and can be used in hybrid search systems.
+   - RAG is preferred over fine-tuning for incorporating new knowledge due to its ease of use and cost-effectiveness.
    - Long-context models won't make RAG obsolete as retrieval and ranking are still necessary.
 
 3. **Tuning and Optimizing Workflows:**
-   - Decompose complex tasks into smaller, step-by-step flows for better results.
+   - Decompose complex tasks into simpler, step-by-step flows to improve performance.
    - Prioritize deterministic workflows for reliability and easier debugging.
    - Use techniques like caching to save costs and reduce latency.
-   - Fine-tune models when prompt engineering falls short, but consider the costs and benefits.
+   - Fine-tune models only when prompting falls short, considering the significant costs involved.
 
 4. **Evaluation & Monitoring:**
    - Create assertion-based unit tests from real input/output samples.
-   - Use LLM-as-Judge for evaluating outputs, but be aware of its limitations.
-   - Simplify annotation tasks to binary classifications or pairwise comparisons for better results.
-   - Use guardrails to catch inappropriate or harmful content and consider them interchangeably with reference-free evals.
+   - LLM-as-Judge can be useful but is not a silver bullet; use it for pairwise comparisons and control for biases.
+   - Use the "intern test" to evaluate generations and identify areas for improvement.
+   - Simplify annotation tasks to binary classifications or pairwise comparisons for more reliable data.
+   - Implement guardrails to catch inappropriate or harmful content and use reference-free evals interchangeably with guardrails.
    - Address hallucinations through prompt engineering and factual inconsistency guardrails.
 
-The authors emphasize the importance of rigorous evaluation and monitoring, as well as the need for structured, deterministic approaches to build reliable LLM applications. They also highlight the value of community engagement and sharing lessons learned to advance the field.
+The authors emphasize the importance of rigorous evaluation and monitoring, as well as the need for structured, deterministic approaches to building reliable LLM applications. They also highlight the challenges and costs associated with fine-tuning and the benefits of using RAG for incorporating new knowledge.
 ## Links
 
-- [ApplyingML](https://applyingml.com/) : Eugene Yan's personal website and blog, focusing on machine learning, recommendation systems, and LLMs. Provides insights and practical advice on applying machine learning techniques.
-- [Honeycomb Query Assistant](https://www.honeycomb.io/blog/introducing-query-assistant) : Introduction to Honeycomb's Natural Language Query Assistant, which uses fine-tuning to improve the syntax and rules of a domain-specific language.
-- [Outlines GitHub](https://github.com/outlines-dev/outlines) : GitHub repository for Outlines, a tool for structured output in LLM applications, useful for integrating structured data into downstream systems.
-- [Hamel Husain's Consulting](https://hamel.dev/hire.html) : Hamel Husain's consulting services for operationalizing Large Language Models (LLMs) and accelerating AI product development.
-- [Eugene Yan's Labeling Guidelines](https://eugeneyan.com/writing/labeling-guidelines/) : Guidelines for creating effective labeling tasks for machine learning models, focusing on binary classifications and pairwise comparisons to reduce cognitive burden on annotators.
+- [Eugene Yan's Personal Website](https://eugeneyan.com/) : Eugene Yan's personal website, where he writes and speaks about machine learning, recommendation systems, LLMs, and engineering.
+- [Hamel Husain's Profile](https://www.oreilly.com/people/hamel-husain/) : Hamel Husain's profile on O'Reilly, highlighting his expertise and contributions in machine learning and LLMs.
+- [Labeling Guidelines by Eugene Yan](https://eugeneyan.com/writing/labeling-guidelines/) : Guidelines for creating effective labeling tasks for machine learning models, by Eugene Yan.
+- [Introducing Query Assistant by Honeycomb](https://www.honeycomb.io/blog/introducing-query-assistant) : Introduction to Honeycomb's Natural Language Query Assistant, which uses fine-tuning to improve output quality.
+- [Shortwave's RAG Pipeline](https://www.shortwave.com/blog/deep-dive-into-worlds-smartest-email-ai/) : A deep dive into Shortwave's RAG pipeline, including query rewriting, keyword + embedding retrieval, and ranking.
 
 ## Topics
 
 ![](topics/Concept/Prompt%20Engineering)
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![](topics/Concept/Retrieval%20Augmented%20Generation)
 
 ![](topics/Concept/Flow%20Engineering)
 
 ![](topics/Concept/Evaluation%20and%20Monitoring)
 
-![](topics/Concept/LLM%20as%20Judge)
-
 ![](topics/Concept/Fine%20tuning)
+
+![](topics/Concept/Caching)

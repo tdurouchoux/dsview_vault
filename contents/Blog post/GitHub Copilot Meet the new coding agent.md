@@ -14,29 +14,29 @@ upload_date: '2025-05-22'
 https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/
 ## Summary
 
-GitHub has introduced a new coding agent for GitHub Copilot, designed to automate low-to-medium complexity tasks in well-tested codebases. This agent can be assigned tasks via GitHub issues or prompts in VS Code, and it operates within a secure, customizable development environment powered by GitHub Actions. The agent pushes commits to a draft pull request, allowing developers to track its progress and review its work before any CI/CD workflows are executed.
+GitHub has introduced a new coding agent for GitHub Copilot, which operates directly within GitHub and VS Code. This agent can be assigned tasks or issues, and it works in the background using GitHub Actions to create a secure and customizable development environment. The agent excels at low-to-medium complexity tasks such as adding features, fixing bugs, extending tests, refactoring code, and improving documentation.
 
 Key features include:
 
-1. **Task Assignment**: Assign tasks to the agent via GitHub issues or prompts in VS Code.
-2. **Secure Environment**: The agent operates within a secure environment with limited internet access and requires human approval for CI/CD workflows.
-3. **Advanced Capabilities**: Utilizes retrieval-augmented generation (RAG) and Model Context Protocol (MCP) for enhanced functionality.
-4. **Integration**: Works seamlessly with existing GitHub tools and policies, ensuring security and compliance.
-5. **Review Process**: Developers can review and comment on the agent's work, with the agent automatically incorporating feedback.
+1. **Task Assignment**: Assign issues to Copilot via github.com, GitHub Mobile, or GitHub CLI.
+2. **Background Processing**: The agent reacts with an 👀 emoji and starts working, pushing commits to a draft pull request.
+3. **Security**: Existing policies like branch protections apply, and human approval is required before any CI/CD workflows run.
+4. **Advanced Capabilities**: Uses retrieval-augmented generation (RAG) powered by GitHub code search and Model Context Protocol (MCP) for external data access.
+5. **Review and Collaboration**: The agent tags developers for review, incorporates feedback, and follows repository instructions.
 
-The agent is available to Copilot Enterprise and Copilot Pro+ customers and can be activated in various IDEs, including Xcode, Eclipse, Jetbrains, and Visual Studio. The goal is to amplify developers' work by handling routine tasks, allowing them to focus on more complex and creative aspects of their projects.
+The agent is designed to handle routine tasks, allowing developers to focus on more complex and creative work. It is available to Copilot Enterprise and Copilot Pro+ customers, with usage tracked via premium requests. The agent integrates with various IDEs, including Xcode, Eclipse, Jetbrains, and Visual Studio.
 ## Links
 
-- [GitHub Copilot Coding Agent Repository Opt-In](http://gh.io/copilot-coding-agent-repository-opt-in) : Opt-in page for enabling the GitHub Copilot coding agent in your repositories.
-- [GitHub Copilot Documentation](https://docs.github.com/en/copilot/managing-copilot/monitoring-usage-and-entitlements/about-premium-requests) : Documentation on managing and monitoring GitHub Copilot usage and entitlements.
-- [GitHub Copilot Agent Mode and MCP Support](https://github.blog/changelog/2025-05-19-agent-mode-and-mcp-support-for-copilot-in-jetbrains-eclipse-and-xcode-now-in-public-preview/) : Changelog entry detailing the new agent mode and MCP support for GitHub Copilot in various IDEs.
+- [GitHub Copilot Documentation](https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot/using-copilot-coding-agent-to-work-on-tasks/about-assigning-tasks-to-copilot) : Official documentation on using GitHub Copilot coding agent to assign tasks and work on them.
+- [GitHub Copilot Features](https://github.com/features/copilot?utm_source=Blog&utm_medium=GitHub&utm_campaign=buildblogtop) : Learn more about the features of GitHub Copilot.
+- [GitHub Copilot and AI Code Generation](https://github.blog/ai-and-ml/generative-ai/how-ai-code-generation-works/) : Explore how AI code generation works and its benefits.
 
 ## Topics
 
-![](topics/Tool/GitHub%20Copilot)
-
 ![](topics/Concept/Model%20Context%20Protocol%20MCP)
 
-![](topics/Concept/Agentic%20AI)
+![](topics/Platform/GitHub%20Actions)
+
+![](topics/Platform/GitHub%20Copilot)
 
 ![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)

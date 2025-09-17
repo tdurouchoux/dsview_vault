@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Distributed computing involves performing computations across multiple computers or processors to handle large-scale data processing tasks. Fugue simplifies the use of distributed computing frameworks by providing a unified interface that minimizes the need for framework-specific code.
+Distributed computing is a field of computer science that studies distributed systems. A distributed system is a system whose components are located on different networked computers, which communicate and coordinate their actions by passing messages. The components interact with each other in order to achieve a common goal. Three significant characteristics of distributed systems are: concurrency of components, lack of a global clock, and independent failure of components. The components interact with each other through message passing.

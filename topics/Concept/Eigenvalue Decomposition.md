@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Eigenvalue decomposition is a matrix factorization technique that decomposes a matrix into a set of eigenvalues and eigenvectors. This decomposition is useful in various fields, including optimization and machine learning, as it simplifies the analysis of matrix properties and behaviors. In the context of gradient descent, eigenvalue decomposition helps in understanding the convergence rates of different components of the error.
+Eigenvalue decomposition is a matrix decomposition technique that breaks down a matrix into a set of eigenvalues and eigenvectors. In the context of optimization, it helps in understanding the convergence behavior of algorithms by analyzing the eigenvalues of the Hessian matrix or other relevant matrices. The eigenvalues indicate the directions of fastest and slowest convergence, and their decomposition helps in visualizing and mitigating pathological curvature.

@@ -15,7 +15,7 @@ upload_date: '2024-10-08'
 https://arxiv.org/pdf/2409.18475
 ## Summary
 
-The paper explores the potential of AI-powered tools to reshape data analysis, focusing on design considerations and challenges. It highlights the emergence of large language and multimodal models, which offer new opportunities to enhance various stages of data analysis workflows by translating high-level user intentions into executable code, charts, and insights. The paper examines human-centered design principles that facilitate intuitive interactions, build user trust, and streamline the AI-assisted analysis workflow across multiple apps. It also discusses research challenges that impede the development of these AI-based systems, such as enhancing model capabilities, evaluating and benchmarking, and understanding end-user needs. The paper is structured into several sections, including an introduction, background, case study, opportunities for AI systems, human-driven design considerations, and challenges in developing AI-powered data analysis systems.
+The paper explores the potential of AI-powered tools to reshape data analysis, focusing on design considerations and challenges. It highlights the emergence of large language and multimodal models, which offer new opportunities to enhance various stages of the data analysis workflow by translating high-level user intentions into executable code, charts, and insights. The paper examines human-centered design principles that facilitate intuitive interactions, build user trust, and streamline the AI-assisted analysis workflow across multiple apps. It also discusses research challenges that impede the development of these AI-based systems, such as enhancing model capabilities, evaluating and benchmarking, and understanding end-user needs. The paper is structured into several sections, including an introduction, background, case study, opportunities for AI systems, human-driven design considerations, and challenges in developing AI-powered data analysis systems.
 ## Links
 
 
@@ -23,9 +23,7 @@ The paper explores the potential of AI-powered tools to reshape data analysis, f
 
 ![](topics/Concept/Data%20Analysis%20Workflow)
 
-![](topics/Concept/Human%20Centered%20Design%20Principles)
-
-![](topics/Concept/Research%20Challenges%20in%20AI%20Powered%20Data%20Analysis)
+![](topics/Concept/Human%20Centered%20Design)
 
 ![](topics/Concept/Generative%20AI)
 

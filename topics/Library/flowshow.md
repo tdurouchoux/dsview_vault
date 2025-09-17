@@ -2,4 +2,4 @@
 type: Library
 ---
 
-A thin wrapper for Python tasks that form a flow, providing utilities to track and visualize the execution of Python functions. It includes a @task decorator, a span context manager, and logging utilities like info, warning, and add_artifacts. It helps in debugging and refactoring code by providing visual representations of the program's flow.
+A Python library that provides a thin wrapper for tracking and visualizing the execution of Python functions as a flow. It includes a @task decorator and a context manager called span to help with debugging and refactoring code. It also offers logging utilities like info, warning, and add_artifacts.

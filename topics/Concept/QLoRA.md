@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-QLoRA, or Quantized Low-Rank Adaptation, is an extension of LoRA that incorporates quantization techniques to further reduce memory usage and computational requirements during fine-tuning. It is supported in torchtune for various models and training scenarios.
+QLoRA, or Quantized Low-Rank Adaptation, is an advanced technique that combines quantization and Low-Rank Adaptation for fine-tuning large language models. It reduces memory usage and computational requirements by quantizing the model weights and applying LoRA, making it feasible to fine-tune very large models on limited hardware resources.

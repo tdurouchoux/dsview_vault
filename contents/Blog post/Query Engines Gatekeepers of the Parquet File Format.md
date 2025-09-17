@@ -14,23 +14,32 @@ upload_date: '2025-03-09'
 https://duckdb.org/2025/01/22/parquet-encodings
 ## Summary
 
-The article discusses the Parquet file format, its advantages, and the challenges faced by query engines like DuckDB in supporting newer Parquet encodings. Key points include:
+The article discusses the role of query engines in supporting the Parquet file format, highlighting that mainstream engines often lag in adopting newer Parquet encodings, which forces systems like DuckDB to default to older, less efficient encodings. Key points include:
 
-1. **Parquet Format**: Column-oriented, efficient for querying, and widely used for data interchange.
-2. **Backward Compatibility**: Important for both DuckDB and Parquet to maintain the ability to read older file formats.
-3. **New Encodings**: DuckDB supports newer Parquet encodings (DELTA_BINARY_PACKED, DELTA_LENGTH_BYTE_ARRAY, BYTE_STREAM_SPLIT) but does not write them by default due to lack of support in mainstream query engines.
-4. **Compression Benefits**: Newer encodings offer better compression ratios and faster write times, but their use is limited by query engine support.
-5. **Wasted Bits**: Lack of support for newer encodings leads to inefficient storage, wasting significant amounts of data center space.
-6. **Call to Action**: The article urges mainstream query engines to implement support for newer Parquet encodings to improve efficiency and reduce data storage waste.
+1. **Parquet Format**: Parquet is a column-oriented data storage format designed for efficient querying, offering better compression and selective column reading compared to formats like CSV or JSON.
 
-The article concludes by emphasizing the shared responsibility of query engine developers to enhance Parquet's usefulness and efficiency.
+2. **Backward Compatibility**: Maintaining backward compatibility is crucial for both DuckDB and Parquet. Query engines should be able to read older Parquet files while gradually adopting support for newer encodings.
+
+3. **Encodings**: DuckDB has implemented newer Parquet encodings (DELTA_BINARY_PACKED, DELTA_LENGTH_BYTE_ARRAY, and BYTE_STREAM_SPLIT) but does not use them by default due to lack of support in mainstream query engines. These encodings can significantly improve compression ratios and writing speeds.
+
+4. **Performance Gains**: Using newer encodings can reduce file sizes and writing times, with examples showing improvements ranging from 11% to 99% in compression and up to 31% in writing speed.
+
+5. **Wasted Bits**: The lack of support for newer encodings results in wasted storage space. Implementing these encodings can reduce data storage needs and potentially decrease the need for new data centers.
+
+6. **Conclusion**: The article emphasizes the shared responsibility of query engine developers to implement newer Parquet encodings to make the format more efficient and reduce wasted storage.
 ## Links
 
-- [Parquet Format Encodings](https://parquet.apache.org/docs/file-format/data-pages/encodings/) : Apache Parquet documentation on data encodings, detailing various encoding methods used in Parquet files.
-- [Parquet Format Changes](https://github.com/apache/parquet-format/blob/master/CHANGES.md) : GitHub repository for Parquet format changes, tracking updates and modifications to the Parquet file format.
+- [Parquet Format Changelog](https://github.com/apache/parquet-format/blob/master/CHANGES.md) : The changelog for the Apache Parquet format, detailing updates and changes to the format over time.
+- [Parquet Encodings Documentation](https://parquet.apache.org/docs/file-format/data-pages/encodings/) : Documentation on Parquet encodings, explaining the different encodings available in the Parquet file format.
 
 ## Topics
 
-![](topics/Tool/Apache%20Parquet)
+![](topics/Concept/Apache%20Parquet)
+
+![](topics/Concept/Backward%20Compatibility)
+
+![](topics/Concept/Data%20Compression)
+
+![](topics/Concept/Query%20Engines)
 
 ![](topics/Library/DuckDB)

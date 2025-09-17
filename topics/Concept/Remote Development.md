@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Remote Development is a feature in Zed that allows users to run the Zed UI on their local machine while the actual codebase runs on a remote server. This feature is designed to make it easier to work with large codebases and to collaborate with teammates who are located in different places.
+Remote development is a feature in Zed where the actual codebase runs on a remote server, while the user's machine only runs the Zed UI. This allows for efficient coding and collaboration without the need for powerful local hardware, leveraging remote computing resources.

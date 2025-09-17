@@ -2,4 +2,4 @@
 type: Library
 ---
 
-An open-source machine learning library that allows developers to run machine learning models directly in the browser or on Node.js. It is based on TensorFlow and provides APIs for building and training models using JavaScript. TensorFlow.js supports various backends like WebGL, WebAssembly, and CPU for efficient execution across different environments.
+An open-source machine learning library that runs in JavaScript environments, enabling the development of machine learning models directly in the browser, on Node.js, or on mobile devices. It provides tools for loading pre-trained models, training new models, and performing inference tasks.

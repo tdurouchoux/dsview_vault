@@ -2,4 +2,4 @@
 type: Tool
 ---
 
-Whisk is an experimental tool from Google Labs that allows users to input or create images to convey subjects, scenes, and styles. Users can remix these images to create unique visual content, such as digital plushies or enamel pins. Whisk combines the latest Imagen 3 model with Gemini’s visual understanding and description capabilities. The Gemini model automatically writes detailed captions of the user's images, which are then fed into Imagen 3 to generate new visual content. Whisk is designed to make the process of creating and remixing images fun and accessible.
+Whisk is a new experimental tool from Google Labs that allows users to input or create images to convey the subject, scene, and style they have in mind. It combines the latest Imagen 3 model with Gemini’s visual understanding and description capabilities. Whisk automatically writes detailed captions of user images and feeds those descriptions into Imagen 3, allowing users to remix their subjects, scenes, and styles in new ways. Whisk is designed to be a fun and creative tool for visualizing ideas.

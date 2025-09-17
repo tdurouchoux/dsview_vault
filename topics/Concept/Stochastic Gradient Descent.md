@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Stochastic Gradient Descent (SGD) is a variant of gradient descent that uses a random sample of the data to compute the gradient at each iteration. This makes SGD faster and more suitable for large datasets, as it does not require computing the gradient over the entire dataset. However, the randomness introduced by SGD can lead to noisy updates, which can be mitigated using techniques like momentum.
+Stochastic Gradient Descent (SGD) is a variant of gradient descent that uses an estimate of the gradient computed from a randomly selected subset of the data. This makes SGD faster and more suitable for large datasets but introduces noise into the optimization process. Momentum can be applied to SGD to accelerate convergence and mitigate the noise, making it more effective in practice.

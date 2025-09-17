@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A convex quadratic model is a mathematical model used to approximate the behavior of optimization problems. It is defined by a quadratic function that is convex, meaning it has a single minimum point. This model is simple enough to be analyzed in closed form yet rich enough to capture essential dynamics of more complex problems. It is often used to study the behavior of optimization algorithms like gradient descent and momentum.
+The convex quadratic model is a simplified yet rich model used to understand the dynamics of optimization algorithms like gradient descent and momentum. It involves optimizing a quadratic function, which allows for closed-form solutions and easy analysis. This model captures key features of pathological curvature and provides insights into the behavior of optimization algorithms in more complex scenarios.

@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-AutoGen is a library for building multi-agent systems that can collaborate to solve complex tasks. It allows developers to create specialized agents that can work together, leveraging their combined capabilities to achieve goals that would be challenging for a single agent to accomplish alone.
+AutoGen is a library for building multi-agent systems that can solve tasks collaboratively. It allows for the creation of specialized agents that can interact with each other to perform complex tasks, such as research, planning, and execution. AutoGen enhances the efficiency and quality of task execution by distributing responsibilities among multiple agents.

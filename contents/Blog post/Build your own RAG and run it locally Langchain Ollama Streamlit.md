@@ -14,43 +14,48 @@ upload_date: '2024-01-11'
 https://blog.duy-huynh.com/build-your-own-rag-and-run-them-locally/
 ## Summary
 
-This guide provides a step-by-step process to build and run a Retrieval Augmented Generation (RAG) application locally using Langchain, Ollama, and Streamlit. The application allows users to upload a PDF document and ask questions about its content through a simple UI.
+This guide provides a step-by-step process to build and run a Retrieval Augmented Generation (RAG) application locally using Langchain, Ollama, and Streamlit. The application allows users to upload a PDF document and ask questions about it through a simple UI.
 
 **Key Components and Steps:**
 
-1. **LLM Server (Ollama):** The guide uses Ollama to set up a local LLM server with the Mistral-7B model due to its ease of setup and competitive quality.
+1. **LLM Server (Ollama):** The guide uses Ollama to set up a local LLM server with the Mistral-7B model due to its compact size and competitive quality. The server can be started with the command `ollama serve`.
 
-2. **RAG Pipeline (Langchain):** The RAG pipeline is built using Langchain, with Chroma for vector storage and Qdrant FastEmbeddings for vectorization. The pipeline consists of two main methods:
-   - `ingest`: Loads and processes a PDF document into vector storage.
-   - `ask`: Handles user queries, retrieves relevant contexts, and generates responses using the LLM server.
+2. **RAG Pipeline (Langchain):** The RAG pipeline is built using Langchain, with Chroma as the vector storage. The pipeline consists of two main methods:
+   - `ingest`: Loads a PDF file, splits it into smaller chunks, vectorizes the chunks using Qdrant FastEmbeddings, and stores them in Chroma.
+   - `ask`: Handles user queries by retrieving relevant document chunks using vector similarity search and generating responses using the LLM server.
 
-3. **Chat UI (Streamlit):** A simple user interface is created using Streamlit for users to interact with the RAG application.
+3. **Chat UI (Streamlit):** A simple user interface is created using Streamlit to allow users to upload PDF files and ask questions.
 
 **Suggestions for Enhancement:**
 - Add memory to the conversation chain for better context awareness.
 - Allow multiple file uploads for chatting about multiple documents.
 - Experiment with other LLM models and enhance the RAG pipeline for improved results.
 
-The guide concludes with a link to the full source code on GitHub and encourages readers to subscribe for more content on RAG and LLM applications.
+The full source code for the project is available on GitHub. The guide also provides resources for learning more about RAG and LLM applications.
 ## Links
 
-- [Build your own RAG and run it locally: Langchain + Ollama + Streamlit](https://blog.duy.dev/) : This is the main page of the blog post, providing an overview of building and running a RAG application locally using Langchain, Ollama, and Streamlit.
-- [Retrieval Augmented Generation (RAG): A Comprehensive Guide](https://www.datastax.com/guides/what-is-retrieval-augmented-generation?ref=blog.duy.dev) : This guide explains what Retrieval Augmented Generation (RAG) is, specific use cases, and how vector search and vector databases help.
-- [What is retrieval-augmented generation? | IBM Research Blog](https://research.ibm.com/blog/retrieval-augmented-generation-RAG?ref=blog.duy.dev) : This article discusses RAG as an AI framework for retrieving facts to ground LLMs on the most accurate information and to give users insight into AI’s decision-making process.
-- [Full source code](https://github.com/vndee/local-rag-example?ref=blog.duy.dev) : This is the GitHub repository containing the full source code for building and running a RAG application locally using Langchain, Ollama, and Streamlit.
+- [Langchain Documentation](https://python.langchain.com/docs/get_started/introduction?ref=blog.duy.dev) : Langchain documentation, a library used for building the RAG pipeline.
+- [Streamlit Documentation](https://streamlit.io/?ref=blog.duy.dev) : Streamlit documentation, a library used for building the UI.
+- [Ollama Documentation](https://ollama.ai/?ref=blog.duy.dev) : Ollama documentation, a library used for running the LLM server.
+- [Chroma Documentation](https://github.com/chroma-core/chroma?ref=blog.duy.dev) : Chroma documentation, a library used for vector storage.
+- [FastEmbed Documentation](https://github.com/qdrant/fastembed/?ref=blog.duy.dev) : FastEmbed documentation, a library used for vectorizing the document chunks.
 
 ## Topics
 
 ![](topics/Library/LangChain)
 
+![](topics/Tool/Ollama)
+
 ![](topics/Model/Mistral%207B)
 
-![](topics/Concept/Vector%20Storage)
+![](topics/Library/Chroma)
+
+![](topics/Library/Qdrant%20FastEmbeddings)
+
+![](topics/Library/PyPDFLoader)
+
+![](topics/Library/RecursiveCharacterSplitter)
 
 ![](topics/Library/Streamlit)
 
-![](topics/Concept/Ollama)
-
 ![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
-
-![](topics/Concept/Prompt%20Engineering)

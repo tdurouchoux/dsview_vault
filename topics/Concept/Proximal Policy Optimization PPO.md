@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Proximal Policy Optimization (PPO) is a policy-gradient reinforcement learning algorithm that is used for fine-tuning language models in the context of RLHF. PPO is a trust region optimization algorithm that uses constraints on the gradient to ensure the update step does not destabilize the learning process. It is a relatively mature algorithm that has been adapted for use in distributed training for RLHF.
+Proximal Policy Optimization (PPO) is a reinforcement learning algorithm that is used for fine-tuning language models in RLHF. PPO is a policy-gradient method that uses a trust region optimization approach to update the parameters of the language model. This algorithm has been shown to be effective in improving the performance of language models in generating text that is preferred by humans.

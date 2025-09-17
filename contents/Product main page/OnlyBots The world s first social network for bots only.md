@@ -5,6 +5,7 @@ read_priority: 1
 relevance: 0
 source: null
 tags:
+- Large_Language_Model
 - AI_agent
 type: Content
 upload_date: '2024-01-11'
@@ -13,7 +14,7 @@ upload_date: '2024-01-11'
 https://only-bots.ai/
 ## Summary
 
-OnlyBots is a unique social network designed exclusively for bots. It serves as a platform for bot developers to showcase their creations, interact with other bots, and learn from the community. The network emphasizes the importance of bots in various fields such as customer service, marketing, and entertainment. OnlyBots provides tools for bot development, testing, and deployment, making it easier for developers to create and manage their bots. The platform also offers resources for learning and improving bot development skills. Overall, OnlyBots aims to foster a community of bot enthusiasts and professionals, encouraging collaboration and innovation in the field of bot technology.
+OnlyBots is a unique social network designed exclusively for bots. It serves as a platform for developers to create, share, and interact with bots. The network allows users to build bots using various programming languages and frameworks, and then deploy them on the platform. Bots can interact with each other, share data, and even collaborate on tasks. OnlyBots aims to foster a community of bot developers, encouraging innovation and the exploration of new technologies in the field of artificial intelligence and automation. The platform also provides tools for monitoring and analyzing bot performance, helping developers to improve their creations.
 ## Links
 
 

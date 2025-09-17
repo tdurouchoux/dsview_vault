@@ -13,42 +13,45 @@ upload_date: '2025-02-18'
 https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
 ## Summary
 
-This GitHub repository contains the official code for the O'Reilly book "Hands-On Large Language Models" by Jay Alammar and Maarten Grootendorst. The book, dubbed "The Illustrated LLM Book," includes almost 300 custom-made figures to explain practical tools and concepts for using Large Language Models (LLMs).
+The repository contains code examples for the book "Hands-On Large Language Models" by Jay Alammar and Maarten Grootendorst. The book is visually educational with almost 300 custom-made figures, covering practical tools and concepts for using Large Language Models (LLMs). It is available on various platforms including Amazon, O'Reilly, and Kindle.
 
-The repository is structured into chapters, each corresponding to a notebook with practical examples. Key chapters include:
+The book is structured into 12 chapters, each with corresponding notebooks:
 
-1. **Introduction to Language Models**: Basics of LLMs.
-2. **Tokens and Embeddings**: Understanding tokens and embeddings.
-3. **Looking Inside Transformer LLMs**: Insights into transformer architecture.
-4. **Text Classification**: Techniques for text classification.
-5. **Text Clustering and Topic Modeling**: Methods for clustering and topic modeling.
-6. **Prompt Engineering**: Strategies for effective prompt engineering.
-7. **Advanced Text Generation Techniques and Tools**: Advanced methods for text generation.
-8. **Semantic Search and Retrieval-Augmented Generation**: Techniques for semantic search and RAG.
-9. **Multimodal Large Language Models**: Working with multimodal LLMs.
-10. **Creating Text Embedding Models**: Building text embedding models.
-11. **Fine-tuning Representation Models for Classification**: Fine-tuning models for classification.
-12. **Fine-tuning Generation Models**: Fine-tuning models for text generation.
+1. Introduction to Language Models
+2. Tokens and Embeddings
+3. Looking Inside Transformer LLMs
+4. Text Classification
+5. Text Clustering and Topic Modeling
+6. Prompt Engineering
+7. Advanced Text Generation Techniques and Tools
+8. Semantic Search and Retrieval-Augmented Generation
+9. Multimodal Large Language Models
+10. Creating Text Embedding Models
+11. Fine-tuning Representation Models for Classification
+12. Fine-tuning Generation Models
 
-The repository also includes bonus content such as visual guides to Mamba, quantization, and other advanced topics. The code is designed to run on Google Colab for ease of use, with additional setup guides for local installations. The book has received positive reviews from industry experts and is available on multiple platforms.
+The repository also includes bonus content such as visual guides to Mamba, Quantization, Stable Diffusion, Mixture of Experts, and Reasoning LLMs. The code examples are designed to be run through Google Colab for ease of setup, although other cloud providers should also work. The book has received positive reviews from notable figures in the field of AI and machine learning.
 ## Links
 
-- [Hands-On Large Language Models Book](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) : Official book page on O'Reilly's website.
-- [Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) : A visual guide to understanding Stable Diffusion.
-- [The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1) : A newsletter article providing a visual explanation of DeepSeek-R1.
+- [Hands-On Large Language Models Book](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) : The official O'Reilly book on Hands-On Large Language Models, providing in-depth knowledge and practical examples.
+- [Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) : A visual guide to understanding Stable Diffusion, a popular text-to-image latent diffusion model.
 
 ## Topics
 
-![](topics/Concept/Text%20Embedding%20Models)
+![](topics/Concept/Transformer%20LLMs)
+
+![](topics/Concept/Tokens%20and%20Embeddings)
 
 ![](topics/Concept/Text%20Classification)
 
 ![](topics/Concept/Text%20Clustering%20and%20Topic%20Modeling)
 
-![](topics/Concept/Prompt%20Engineering)
-
 ![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+
+![](topics/Concept/Multimodal%20Large%20Language%20Models)
+
+![](topics/Concept/Embedding%20Models)
 
 ![](topics/Concept/Fine%20tuning)
 
-![](topics/Concept/Semantic%20Search)
+![](topics/Concept/Prompt%20Engineering)

@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Python flow control statements are used to control the execution flow of a program. They include conditional statements like 'if', 'elif', and 'else', loops like 'for' and 'while', and statements like 'break', 'continue', 'pass', and 'return'. These statements allow for the creation of complex and dynamic programs by controlling the order in which code is executed.
+Python flow control refers to the mechanisms used to control the order in which statements are executed in a Python program. This includes the use of conditional statements like 'if', 'elif', and 'else', as well as loops like 'for' and 'while'. Flow control allows programmers to create decision-making logic and repetitive tasks, making programs more dynamic and efficient.

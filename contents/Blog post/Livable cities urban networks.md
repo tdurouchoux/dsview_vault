@@ -13,12 +13,11 @@ upload_date: '2024-02-22'
 https://nightingaledvs.com/livable-cities-urban-networks/
 ## Summary
 
-The article discusses the visualization of road networks in the most livable cities, as determined by merging six different rankings. The author, Milán Janosov, used OpenAI's ChatGPT to generate a color palette for the visualizations and OSMnx, a Python package, to download and manipulate geospatial data from OpenStreetMap. The top twelve cities identified were Zurich, Vienna, Copenhagen, Vancouver, Melbourne, Sydney, Geneva, Frankfurt, Amsterdam, Helsinki, Tokyo, and Wellington. The article includes visualizations of these cities' road networks using the AI-generated color pairings. The author also briefly tested the process on a smaller town, Siklós, Hungary. The main goal is to provide a visual overview of the road networks in these livable cities, which is crucial for various spatial data science applications and urban planning concepts like the 15-minute city.
+The article discusses the visualization of road networks in livable cities, combining data science and urban planning concepts. The author first identifies the top twelve most livable cities by merging six different rankings, with Zurich, Vienna, and Copenhagen topping the list. The author then uses ChatGPT to generate a color palette for visualizing these cities' road networks. The visualization is done using OSMnx, a Python package that allows for easy manipulation and analysis of geospatial data from OpenStreetMap. The article concludes with a gallery of the top twelve cities' road networks, visualized using the AI-generated color pairings. The author emphasizes the importance of urban network visualization in spatial data science applications, such as traffic jam forecasting and public transport reconstruction.
 ## Links
 
-- [OSMnx Documentation](https://osmnx.readthedocs.io/en/stable/) : OSMnx is a Python package for downloading, manipulating, and analyzing geospatial data from OpenStreetMap.
-- [City Quality of Life Indices](https://en.wikipedia.org/wiki/City_quality_of_life_indices) : Wikipedia article on City Quality of Life Indices, which includes various rankings of livable cities.
-- [OpenStreetMap](https://www.openstreetmap.org/#map=8/47.184/19.509) : OpenStreetMap is a collaborative project to create a free editable map of the world.
+- [OSMnx Documentation](https://osmnx.readthedocs.io/en/stable/) : OSMnx is a Python package that allows users to download, manipulate, and analyze geospatial data from OpenStreetMap. It combines NetworkX for network science and GeoPandas for spatial data handling, making it a powerful tool for urban network visualization and analysis.
+- [City Quality of Life Indices](https://en.wikipedia.org/wiki/City_quality_of_life_indices) : This Wikipedia article provides an overview of various city quality of life indices, which are used to rank cities based on their livability. The article includes different rankings and the factors considered in these rankings, such as public transport, healthcare, and urban health.
 
 ## Topics
 
@@ -27,7 +26,3 @@ The article discusses the visualization of road networks in the most livable cit
 ![](topics/Library/OSMnx)
 
 ![](topics/Library/NetworkX)
-
-![](topics/Library/GeoPandas)
-
-![](topics/Concept/Urban%20Network%20Visualization)

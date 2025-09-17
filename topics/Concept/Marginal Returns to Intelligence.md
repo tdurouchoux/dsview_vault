@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+The concept of 'Marginal Returns to Intelligence' refers to the idea that the benefits derived from increasing intelligence, particularly through advanced AI systems, are subject to diminishing returns as other limiting factors come into play. This concept suggests that while intelligence is a crucial factor in solving complex problems and driving progress, its effectiveness is constrained by other complementary factors such as the speed of the outside world, the need for data, intrinsic complexity, human constraints, and physical laws. The framework of marginal returns to intelligence helps to analyze and understand the limitations and potential of AI in accelerating scientific and technological advancements, highlighting the importance of addressing these complementary factors to fully realize the benefits of increased intelligence.

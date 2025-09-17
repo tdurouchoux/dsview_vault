@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Parameter-Efficient Fine-Tuning (PEFT) techniques, such as LoRA, are methods used to adapt existing models to perform better on specific tasks with minimal resource requirements. These techniques provide high performance returns relative to the resources they consume, making them highly attractive for optimizing model performance.
+Parameter-Efficient Fine-Tuning (PEFT) refers to a set of techniques aimed at fine-tuning pre-trained language models with minimal changes to their original parameters. These methods allow for efficient adaptation of large models to specific tasks, reducing the computational and memory requirements associated with traditional fine-tuning approaches.

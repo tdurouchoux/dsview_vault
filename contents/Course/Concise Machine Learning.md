@@ -13,7 +13,7 @@ upload_date: '2024-10-16'
 https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf
 ## Summary
 
-The document provides a concise summary of the content from a lecture series on machine learning. The summary focuses on the main technical points and key takeaways, avoiding detailed descriptions of each chapter. The content is structured into chapters, with each chapter covering specific topics such as classification, regression, decision trees, neural networks, and unsupervised learning. The summary also includes technical details and key concepts related to machine learning algorithms, optimization methods, and data analysis techniques. The document emphasizes the importance of understanding the underlying principles and practical applications of machine learning.
+The document provides a concise summary of the content from "Concise Machine Learning" by Jonathan Richard Shewchuk. The summary focuses on the main technical points and key takeaways, structured in chapters. The output should not have a title and should avoid detailed descriptions of each chapter. The summary should be really concise, focusing on the main technical points and key takeaways. If the content is structured in chapters, the summary may mention them, but it should avoid doing a detailed description of each chapter.
 ## Links
 
 
@@ -21,18 +21,10 @@ The document provides a concise summary of the content from a lecture series on 
 
 ![](topics/Model/Principal%20Components%20Analysis%20PCA)
 
-![](topics/Model/Hierarchical%20clustering)
+![](topics/Model/k%20Means%20Clustering)
+
+![](topics/Model/Hierarchical%20Clustering)
 
 ![](topics/Model/Singular%20Value%20Decomposition%20SVD)
 
-![](topics/Model/Convolutional%20Neural%20Networks%20CNNs)
-
-![](topics/Model/Recurrent%20Neural%20Networks%20RNNs)
-
-![](topics/Model/Long%20Short%20Term%20Memory%20LSTM)
-
-![](topics/Model/Transformer)
-
-![](topics/Concept/k%20means%20clustering)
-
-![](topics/Concept/Generative%20Adversarial%20Networks%20GANs)
+![](topics/Model/k%20Nearest%20Neighbors%20k%20NN)

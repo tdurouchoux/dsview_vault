@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Software-Defined Assets are stateful data assets that incorporate declarative capabilities, allowing for the definition of behaviors such as daily updates or automatic versioning. These assets can automatically backfill required data if the declaration of the data stack changes, ensuring data governance and security rules are embedded and automatically enforced. This approach simplifies data governance by making data assets behave more declaratively.
+Software-Defined Assets are stateful assets that incorporate declarative capabilities, such as defining update schedules or automatic versioning. These assets can be managed more effectively within a declarative data stack, ensuring that they can be recreated or updated based on changes in the stack's configuration. This approach simplifies data governance and ensures that data assets behave more declaratively.

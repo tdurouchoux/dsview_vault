@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Curriculum Learning is a training strategy where a machine learning model is trained on tasks in a particular order, starting from simpler tasks and gradually moving to more complex ones. This approach aims to improve the model's learning efficiency and final performance by mimicking the way humans learn.
+Curriculum Learning is a training strategy where the model is initially exposed to simpler tasks and gradually introduced to more complex ones. In ZeroSearch, this approach is used to progressively degrade the quality of generated documents, thereby enhancing the model's ability to handle challenging retrieval scenarios.

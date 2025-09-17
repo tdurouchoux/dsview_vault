@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Tree of Thoughts (ToT) is a prompting scheme that models the LLM reasoning process with a tree. This facilitates using different paths of thoughts, offering novel capabilities such as backtracking from non-promising outcomes. ToT enhances CoT by allowing the exploration of multiple reasoning paths, making it more flexible and powerful in solving complex problems.
+A prompting scheme that models the LLM reasoning process with a tree. This facilitates using different paths of thoughts and offers novel capabilities such as backtracking from non-promising outcomes. The Graph of Thoughts framework aims to go beyond the rigid tree structure of ToT to enable more flexible and powerful reasoning.

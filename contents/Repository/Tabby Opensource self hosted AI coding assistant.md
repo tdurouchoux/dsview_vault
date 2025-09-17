@@ -15,17 +15,17 @@ https://tabby.tabbyml.com/
 
 Tabby is an open-source, self-hosted AI coding assistant designed to enhance development workflows with transparency, flexibility, and configurability. Key features include:
 
-- **Code Completion**: AI-powered suggestions for faster, more accurate coding.
-- **Answer Engine**: Instant coding answers within the IDE to maintain workflow.
-- **Inline Chat**: Real-time AI chat for collaborative coding.
-- **Data Connectors**: Integration with various data sources for context-aware assistance.
+- **Agent**: An AI teammate that plans, executes, and checks in on tasks, integrating seamlessly with existing tools and workflows.
+- **Code Completion**: Provides intelligent, context-aware suggestions to accelerate coding and reduce errors.
+- **Answer Engine**: Offers instant answers to coding questions within the IDE, keeping developers focused.
+- **Inline Chat**: Enables real-time AI-driven communication and collaboration directly within the code editor.
+- **Data Connectors**: Allows integration with various data sources to enrich the AI's understanding of the project context.
 
-Tabby supports multiple IDEs and offers flexible deployment options, including cloud and on-premises solutions. It emphasizes security and transparency, making it a robust alternative to proprietary AI coding tools. The platform also includes a community plan for easy onboarding and local-first deployment.
+Tabby supports multiple IDEs, including VS Code, Neovim, IntelliJ, and others. It emphasizes security, flexibility, and transparency, making it a robust alternative to proprietary solutions. The platform offers different plans, including a free community plan with simple self-onboarding and local-first deployment.
 ## Links
 
 - [TabbyML GitHub Repository](https://github.com/TabbyML/tabby) : The GitHub repository for Tabby, an open-source AI coding assistant.
-- [TabbyML Newsletter Archive](https://newsletter.tabbyml.com/archive) : Archive of the TabbyML newsletter, providing updates and news about Tabby.
-- [TabbyML Blog](https://tabby.tabbyml.com/blog) : Blog posts from TabbyML, covering various topics related to AI coding assistance.
+- [TabbyML Blog](https://tabby.tabbyml.com/blog) : The official blog of TabbyML, featuring updates, tutorials, and insights related to AI coding assistance.
 
 ## Topics
 
@@ -33,6 +33,10 @@ Tabby supports multiple IDEs and offers flexible deployment options, including c
 
 ![](topics/Concept/AI%20Agents)
 
-![](topics/Concept/Pochi)
+![](topics/Concept/Code%20Completion)
 
-![](topics/Library/Tailwind%20CSS)
+![](topics/Concept/Answer%20Engine)
+
+![](topics/Concept/Inline%20Chat)
+
+![](topics/Concept/Data%20Connectors)

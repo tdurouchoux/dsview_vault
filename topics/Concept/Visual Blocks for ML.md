@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Visual Blocks for ML is a visual programming framework introduced to accelerate machine learning prototyping. It allows users to program by connecting blocks on a workspace into a flow of blocks, known as a node-graph diagram or AI pipeline. This framework provides a low-code experience, making it accessible for users to create and manage machine learning pipelines visually.
+Visual Blocks for ML is a visual programming framework specifically designed for machine learning tasks. It enables users to create machine learning pipelines by connecting nodes in a graphical editor, providing a low-code experience that simplifies the prototyping process.

@@ -6,7 +6,6 @@ relevance: 0
 source: Data Elixir
 tags:
 - Data_Visualization
-- AI_agent
 type: Content
 upload_date: '2024-10-29'
 ---
@@ -14,39 +13,31 @@ upload_date: '2024-10-29'
 https://github.com/microsoft/data-formulator
 ## Summary
 
-Data Formulator is an AI-powered tool from Microsoft Research designed to facilitate data visualization. It combines user interface interactions with natural language inputs, allowing users to create rich visualizations iteratively. Key features include:
+Data Formulator is an AI-powered tool from Microsoft Research designed to expedite data visualization by leveraging large language models. It combines user interface interactions with natural language inputs, making it easier for users to create rich visualizations. Key features include:
 
-1. **Data Transformation and Visualization**: Users can specify chart designs and delegate data transformation tasks to AI, which generates SQL queries to create visualizations.
+1. **Iterative Visualization Creation**: Users can start with an analysis goal or let the AI recommend exploration ideas. The tool supports working with large datasets, anchoring intermediate datasets, and handling multiple datasets simultaneously.
 
-2. **Multiple Dataset Support**: The tool supports working with multiple datasets simultaneously, automatically joining tables to create visualizations based on user queries.
+2. **Data Transformation**: Users can specify visual encodings and let the AI transform the data to create visualizations. Follow-up prompts allow for further refinement and exploration.
 
-3. **Anchoring**: Users can anchor intermediate datasets, ensuring subsequent analyses are built on the anchored data rather than the original, improving efficiency and reducing confusion.
+3. **Model Support**: The tool supports various models like OpenAI, Azure, Ollama, and Anthropic, with recommendations for models with strong code generation capabilities.
 
-4. **Large Data Handling**: Data Formulator can handle large datasets by uploading files to a local database powered by DuckDB, enabling dynamic data fetching and visualization.
+4. **Data Loading**: It includes external data loaders for various sources such as MySQL, PostgreSQL, Azure Data Explorer, Azure Blob, Amazon S3, and more.
 
-5. **Model Support**: The tool supports various models, including OpenAI, Azure, Ollama, and Anthropic, with recommendations for models with strong code generation capabilities.
+5. **Development and Contribution**: Data Formulator can be installed via Python PIP, run in Codespaces, or built locally. The project welcomes contributions and follows Microsoft's Open Source Code of Conduct.
 
-6. **External Data Loaders**: It includes data loaders for various sources like MySQL, PostgreSQL, Azure Data Explorer, Azure Blob, Amazon S3, and more.
+6. **Research Backing**: The tool is supported by research papers published in arXiv and IEEE Transactions on Visualization and Computer Graphics.
 
-7. **Installation and Usage**: Data Formulator can be installed via Python PIP, run in Codespaces, or built locally for customization. Users can specify chart types, drag-and-drop data fields, and provide natural language prompts to guide the AI in creating visualizations.
-
-8. **Research and Contribution**: The project is backed by research papers and welcomes contributions, with guidelines for contributing and a code of conduct.
-
-Overall, Data Formulator aims to streamline the data visualization process by leveraging AI to handle complex data transformations, making it easier for analysts to create and explore visualizations.
+Overall, Data Formulator aims to simplify the data visualization process by integrating AI-driven data transformation with user-friendly interface interactions.
 ## Links
 
-- [Data Formulator Research Paper](https://arxiv.org/abs/2408.16119) : Research paper detailing the AI-powered concept-driven visualization authoring in Data Formulator.
-- [Data Formulator Video](https://youtu.be/3ndlwt0Wi3c) : Video demonstrating the capabilities and usage of Data Formulator.
-- [Data Formulator Blog](https://www.microsoft.com/en-us/research/blog/data-formulator-exploring-how-ai-can-help-analysts-create-rich-data-visualizations/) : Blog post exploring how AI can help analysts create rich data visualizations using Data Formulator.
+- [Data Formulator 0.1.6 release notes](https://github.com/microsoft/data-formulator/releases/tag/0.1.6) : Release notes for Data Formulator version 0.1.6, highlighting new features and improvements.
+- [Data Formulator 0.1.7 release notes](https://github.com/microsoft/data-formulator/releases/tag/0.1.7) : Release notes for Data Formulator version 0.1.7, introducing anchoring functionality and performance updates.
+- [Data Formulator 0.2 release notes](https://github.com/microsoft/data-formulator/releases/tag/0.2) : Release notes for Data Formulator version 0.2, focusing on working with large data and improved system performance.
+- [Data Formulator Research Paper](https://arxiv.org/abs/2408.16119) : Research paper titled 'Data Formulator 2: Iteratively Creating Rich Visualizations with AI' published on arXiv.
+- [Data Formulator Blog Post](https://www.microsoft.com/en-us/research/blog/data-formulator-exploring-how-ai-can-help-analysts-create-rich-data-visualizations/) : Blog post exploring how AI can help analysts create rich data visualizations using Data Formulator.
 
 ## Topics
 
 ![](topics/Tool/Data%20Formulator)
 
 ![](topics/Library/DuckDB)
-
-![](topics/Concept/Concept%20driven%20Visualization%20Authoring)
-
-![](topics/Concept/Data%20Threads)
-
-![](topics/Concept/LiteLLM)

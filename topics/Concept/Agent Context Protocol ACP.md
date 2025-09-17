@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-The Agent Context Protocol (ACP) is an independent initiative started by IBM, focusing on agent-to-agent communication. It is designed to standardize communication between AI agents, addressing the emerging requirements around agent interactions. ACP plans to diverge from MCP during its alpha phase to establish a standalone standard optimized for robust agent interactions, making it a potential alternative or complement to MCP in the future.
+An independent initiative by IBM focused on agent-to-agent communication. ACP aims to standardize robust agent interactions, diverging from MCP during its alpha phase to address specific requirements around agent communication. It is designed to be a standalone standard optimized for agent interactions, distinguishing itself from MCP's context-sharing focus.

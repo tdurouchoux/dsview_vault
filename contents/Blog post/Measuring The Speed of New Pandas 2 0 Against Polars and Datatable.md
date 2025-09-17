@@ -16,21 +16,21 @@ https://readmedium.com/https://towardsdatascience.com/measuring-the-speed-of-new
 
 The content compares the performance of Pandas 2.0 against Polars and Datatable, focusing on speed and efficiency. Key takeaways include:
 
-1. **Performance Metrics**: The comparison likely involves benchmarking various operations such as data loading, filtering, grouping, and aggregations.
-2. **Pandas 2.0**: While improved, Pandas 2.0 may still lag behind Polars and Datatable in terms of speed for certain operations.
-3. **Polars and Datatable**: These libraries are noted for their superior performance, particularly in handling large datasets efficiently.
-4. **Conclusion**: Despite enhancements, Pandas 2.0 may not yet match the speed of Polars and Datatable, indicating areas for further optimization.
+- **Performance Metrics**: The comparison likely involves benchmarks on various data operations such as filtering, grouping, and aggregations.
+- **Pandas 2.0**: Despite improvements, Pandas 2.0 may still lag behind Polars and Datatable in terms of speed and efficiency.
+- **Polars and Datatable**: These libraries are noted for their superior performance, particularly in handling large datasets and complex operations.
+- **Conclusion**: While Pandas 2.0 shows progress, it may not yet match the performance of newer libraries like Polars and Datatable.
 
-The summary emphasizes the need for continued improvement in Pandas to compete with newer, more efficient data manipulation libraries.
+The summary suggests that Data Scientists should consider these performance differences when choosing a data manipulation library for their projects.
 ## Links
 
-- [OpenAI o1](https://openai01.net/) : OpenAI o1 website.
-- [OpenAI o1 API](https://openaio1api.com/) : OpenAI o1 API website.
+- [OpenAI o1 chat](https://openai01.net/) : OpenAI o1 chat interface for testing the new model.
+- [OpenAI o1 API](https://openaio1api.com/) : OpenAI o1 API for developers to integrate the new model into their applications.
 
 ## Topics
 
-![](topics/Library/Pandas)
-
 ![](topics/Library/Datatable)
+
+![](topics/Library/Pandas)
 
 ![](topics/Library/Polars)

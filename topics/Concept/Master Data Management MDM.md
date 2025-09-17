@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Master Data Management (MDM) is a discipline that involves creating a single source of truth for an organization's critical data entities, such as customers, products, and locations. MDM ensures data consistency, accuracy, and reliability across the organization. In the context of GenBI, MDM processes can be enhanced with AI models to validate and iterate on generated data artifacts, ensuring data quality and consistency.
+Master Data Management (MDM) is a discipline that focuses on the management of critical data entities of an organization to provide a single point of reference. In the context of GenBI, MDM involves the integration of AI models into the data management process to validate and generate data artifacts, such as dashboards, metrics, and data models. This approach ensures that the generated artifacts are accurate, contextually relevant, and aligned with business requirements, enhancing the overall data analytics experience.

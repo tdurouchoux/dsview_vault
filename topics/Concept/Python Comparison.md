@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Python comparison is the process of comparing two or more values or objects to determine their relationship. Python supports several comparison operators, including '==', '!=', '<', '>', '<=', and '>='. Comparison operations return a boolean value of 'True' or 'False', and are used extensively in conditional statements and loops to control the flow of a program.
+Python comparison refers to the process of comparing values using comparison operators. These operators include '==', '!=', '<', '>', '<=', and '>='. Comparison operations return boolean values (True or False) and are used in conditional statements and loops to control the flow of a program. Understanding comparison is crucial for making decisions in Python programs.

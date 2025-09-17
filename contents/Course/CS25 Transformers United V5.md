@@ -14,26 +14,26 @@ upload_date: '2023-03-02'
 https://web.stanford.edu/class/cs25/index.html
 ## Summary
 
-CS25: Transformers United V5 is a popular Stanford course featuring leading researchers in Transformers and AI. The course covers recent breakthroughs in AI, including large language models, applications in various fields, and current challenges. Key lectures include:
+CS25: Transformers United V5 is a popular Stanford course featuring leading researchers in Transformers and AI. The course covers recent breakthroughs in AI, including large language models, applications in various fields, and current challenges. Key topics include:
 
-- **Overview of Transformers**: History, functionality, impact, and current trends.
-- **RL as a Co-Design of Product and Research**: Explores the intersection of RL research and product design, focusing on creative intelligence and evaluation metrics.
-- **The Advent of AGI**: Discusses the challenges and future of autonomous AI agents, including evaluation metrics and user feedback loops.
-- **Human Agency in an Era of Artificial Agents**: Examines the collaboration between humans and AI agents, and the role of academia in understanding these dynamics.
-- **Large Language Model Reasoning**: Covers motivations, core ideas, and limitations of reasoning in large language models.
-- **Reasoning Models as Agents**: Explores how modern models reason, use tools, and understand multimodal inputs, and the implications for alignment.
-- **Biology of a Large Language Model**: Discusses mechanistic interpretability to understand model behaviors like hallucination, planning, and reasoning.
-- **Multimodal World Models for Drug Discovery**: Describes using multimodal transformers for cancer drug discovery and immunotherapy.
-- **Transformers in Diffusion Models**: Covers the use of Transformers in diffusion models for image generation and beyond.
-- **Transformers for Video Generation**: Explores the progress in video generation models, with a focus on Meta’s Movie Gen model.
+- **Overview of Transformers**: History, functionality, and impact on NLP.
+- **Reinforcement Learning (RL) and Product Design**: Co-design loops and evaluation metrics for AI systems.
+- **Artificial General Intelligence (AGI)**: Challenges and approaches to designing autonomous AI agents.
+- **Human-AI Collaboration**: Effective design of agents that empower users.
+- **Large Language Model Reasoning**: Motivations, core ideas, and limitations.
+- **Reasoning Models as Agents**: Deliberative alignment, multimodal intelligence, and tool use.
+- **Mechanistic Interpretability**: Understanding model behaviors through decomposition.
+- **Multimodal World Models for Drug Discovery**: Using multimodal transformers in cancer biology.
+- **Transformers in Diffusion Models**: Applications in image and video generation.
 
-The course is open to the public, with lectures available in-person and via Zoom, and a lively Discord community for discussion.
+The course is open to the public, with lectures available in-person and via Zoom. It also has an active Discord community for discussions.
 ## Links
 
-- [Stanford CS25 FAQ](https://web.stanford.edu/class/cs25/faq/) : FAQ page for the CS25 course at Stanford, providing answers to common questions about the course logistics and participation.
-- [Transformer Circuits - Biology of LLMs](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) : A detailed exploration of the biological aspects of large language models, discussing how they function and their implications.
-- [Slido Event for CS25](https://app.sli.do/event/xwQWZ8J6LWQRsT6sKqPko4) : Slido event page for interactive Q&A sessions during the CS25 lectures, allowing participants to ask questions and engage with speakers.
-- [Discord Community for CS25](https://discord.gg/eKu6RNr3aG) : Invite link to the Discord community for CS25, where students and enthusiasts discuss transformers, AI, and related topics.
+- [Stanford CS25: Transformers United V5 Lecture Videos](https://web.stanford.edu/class/cs25/recordings/) : Lecture videos for the CS25: Transformers United V5 course at Stanford, featuring talks by leading researchers in the field of Transformers and AI.
+- [Stanford CS25: Transformers United V5 Discord Community](https://discord.gg/eKu6RNr3aG) : Invite link to the Discord community for the CS25: Transformers United V5 course, where students and enthusiasts discuss Transformers and AI topics.
+- [Stanford CS25: Transformers United V5 Slides](https://docs.google.com/presentation/d/16tMMBUjPnqw-PvxF8xzu2m1Epdo1fH7nXWlt3mt2q5w/edit?usp=sharing) : Slides for the introductory lecture on Transformers, covering the history, functionality, and impact of Transformers in AI and NLP.
+- [Stanford CS25: Transformers United V5 Zoom Link](https://stanford.zoom.us/j/91661468474?pwd=Vo3qciJI6gWLoA8cFaSbhbYpBXs1lQ.1) : Zoom link for attending the CS25: Transformers United V5 lectures virtually.
+- [Stanford CS25: Transformers United V5 Slido](https://app.sli.do/event/xwQWZ8J6LWQRsT6sKqPko4) : Slido event for the CS25: Transformers United V5 course, used for interactive Q&A during lectures.
 
 ## Topics
 

@@ -16,24 +16,21 @@ https://lastexam.ai/
 
 The content introduces Humanity's Last Exam (HLE), a challenging multi-modal benchmark designed to measure the capabilities of large language models (LLMs) at the frontier of human knowledge. Key points include:
 
-1. **Purpose and Design**: HLE aims to address the saturation of existing benchmarks by providing a more difficult set of 2,500 questions across over a hundred subjects, created by nearly 1,000 subject experts from over 500 institutions worldwide.
+1. **Benchmark Purpose**: HLE aims to address the saturation of existing benchmarks, providing a more difficult and comprehensive evaluation for LLMs, with over 2,500 questions across various subjects.
 
-2. **Dataset and Examples**: The dataset includes diverse and challenging questions, with examples provided in various fields such as Classics and Ecology. The questions are designed to be at the cutting edge of academic knowledge.
+2. **Dataset Creation**: The dataset is a collaborative effort involving nearly 1,000 subject experts from over 500 institutions across 50 countries, ensuring broad and deep coverage of academic subjects.
 
-3. **Quantitative Results**: Current frontier models achieve low accuracy on HLE, indicating significant room for improvement. The benchmark also measures calibration error to assess how well models recognize their uncertainty.
+3. **Performance Metrics**: Current frontier models show low accuracy on HLE, indicating significant room for improvement. The benchmark also measures calibration error to assess models' confidence in their answers.
 
-4. **Future Model Performance**: While current models perform poorly, rapid advancements in AI suggest that models could achieve over 50% accuracy on HLE by the end of 2025. High accuracy on HLE would demonstrate expert-level performance on structured academic problems but not necessarily autonomous research capabilities.
+4. **Future Implications**: While HLE is designed to be challenging, rapid advancements in AI may lead to models achieving high accuracy soon. High performance on HLE would demonstrate expert-level capabilities but not necessarily autonomous research or general intelligence.
 
-5. **Impact**: HLE provides a common reference point for assessing AI capabilities, enabling more informed discussions about AI development, potential risks, and necessary governance measures.
+5. **Impact**: HLE serves as a reference point for scientists and policymakers to assess AI progress, discuss development trajectories, and implement governance measures.
 
-6. **Related Articles**: The content includes references to articles from The New York Times and Reuters, highlighting the significance and potential impact of HLE.
-
-7. **Contact Information**: For inquiries or feedback, the contact email is provided as agibenchmark@safe.ai.
+The content highlights the importance of HLE in tracking AI advancements and its potential impact on future AI development and policy discussions.
 ## Links
 
-- [Humanity's Last Exam Dataset](https://huggingface.co/datasets/cais/hle) : The Hugging Face dataset page for Humanity's Last Exam, providing access to the dataset used for evaluating advanced language models.
-- [Humanity's Last Exam Results](https://scale.com/blog/humanitys-last-exam-results) : A blog post detailing the results of Humanity's Last Exam, showcasing the performance of various AI models on the challenging benchmark.
-- [Humanity's Last Exam Leaderboard](https://scale.com/leaderboard/humanitys_last_exam) : The leaderboard for Humanity's Last Exam, displaying the rankings of different AI models based on their performance on the benchmark.
+- [Humanity's Last Exam Dataset](https://huggingface.co/datasets/cais/hle) : This link provides access to the Humanity's Last Exam (HLE) dataset, which includes 2,500 challenging questions across over a hundred subjects, designed to measure advanced, closed-ended, academic capabilities of AI models.
+- [Humanity's Last Exam Results](https://scale.com/blog/humanitys-last-exam-results) : This link provides the results of the Humanity's Last Exam, showcasing the performance of various frontier models on the challenging benchmark, highlighting their accuracy and calibration error.
 
 ## Topics
 

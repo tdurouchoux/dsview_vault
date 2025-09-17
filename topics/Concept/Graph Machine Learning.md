@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Graph Machine Learning is a subfield of machine learning that focuses on developing algorithms and models to analyze and make predictions on data structured as graphs. Graphs consist of nodes and edges, where nodes represent entities and edges represent relationships between these entities. This approach is particularly useful for understanding complex networks such as social networks, biological networks, and knowledge graphs. Graph Machine Learning leverages techniques from both graph theory and machine learning to extract meaningful patterns and insights from graph-structured data.
+Graph Machine Learning is a subfield of machine learning that focuses on applying machine learning techniques to graph-structured data. It involves the development and application of algorithms that can process and learn from the complex relationships and interactions represented in graphs. This includes tasks such as node classification, link prediction, and community detection, leveraging the unique structure of graph data to improve predictive models and uncover insights.

@@ -14,37 +14,36 @@ upload_date: '2025-05-21'
 https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql
 ## Summary
 
-The blog post discusses the advancements and challenges in text-to-SQL technology, focusing on Google Cloud's approaches to improve the accuracy and usability of generating SQL queries from natural language. Key points include:
+The blog post discusses advancements in text-to-SQL technology, focusing on Google Cloud's techniques to improve the accuracy and usability of generating SQL queries from natural language. Key points include:
 
 1. **Challenges in Text-to-SQL**:
-   - **Business-Specific Context**: LLMs need extensive context to generate accurate SQL, which is difficult to provide and maintain.
-   - **User Intent Understanding**: Natural language ambiguity can lead to hallucinations or incorrect queries.
-   - **SQL Dialect Differences**: Variations in SQL dialects require precise adherence to specifications.
+   - **Business-Specific Context**: LLMs need context about database schemas, relevant columns, and business semantics to generate accurate SQL.
+   - **User Intent**: Natural language is ambiguous, and LLMs may hallucinate answers. Understanding user intent and providing follow-up questions is crucial.
+   - **SQL Dialects**: Different SQL dialects have subtle differences, and LLMs need to adhere to these specifics.
 
-2. **Techniques to Improve Text-to-SQL**:
-   - **SQL-Aware Models**: Utilizing strong LLMs like Gemini, with custom fine-tuning for specific SQL dialects.
+2. **Techniques for Improvement**:
+   - **SQL-Aware Models**: Using strong LLMs like Gemini, with custom fine-tuning for specific SQL dialects.
    - **Disambiguation**: Using LLMs to identify unclear questions and generate follow-up questions to clarify user intent.
-   - **Retrieval and In-Context Learning**: Employing indexing and retrieval techniques to provide relevant context to the models.
-   - **Validation and Reprompting**: Using non-AI approaches like query parsing to validate and correct generated SQL.
-   - **Self-Consistency**: Generating multiple queries for the same question and selecting the best one to improve accuracy.
+   - **Retrieval and In-Context Learning**: Providing models with relevant context, including schema annotations, examples of similar SQL, and recent queries.
+   - **Validation and Reprompting**: Using non-AI approaches like query parsing and dry runs to validate generated SQL and reprompt the model if necessary.
+   - **Self-Consistency**: Generating multiple queries for the same user question and selecting the best one to improve accuracy.
 
 3. **Evaluation and Measurement**:
-   - **Benchmarks**: Developing synthetic benchmarks to cover a broad range of SQL engines and usage patterns.
-   - **Metrics**: Combining user metrics and offline evaluation techniques, including LLM-as-a-judge methods.
-   - **Continuous Evaluation**: Using evaluation techniques to quickly test and improve models and prompting techniques.
+   - **Benchmarks**: Using academic benchmarks like BIRD-bench and developing synthetic benchmarks to cover a broad range of SQL engines and features.
+   - **Metrics**: Combining user metrics and offline evaluation metrics, employing both human and automated evaluation, including LLM-as-a-judge techniques.
+   - **Continuous Evaluation**: Using evaluations to quickly test new models, prompting techniques, and other improvements.
 
-The post concludes by encouraging readers to try Gemini's text-to-SQL capabilities in various Google Cloud products and to stay tuned for further deep dives into text-to-SQL solutions.
+The post concludes by encouraging readers to try Gemini text-to-SQL in various Google Cloud products and stay tuned for more deep dives into text-to-SQL solutions.
 ## Links
 
-- [Gemini 2.5 in Vertex AI Studio](https://console.cloud.google.com/vertex-ai/studio/freeform) : This link points to the Vertex AI Studio where you can try Gemini 2.5, the model used for text-to-SQL generation as mentioned in the content.
-- [BigQuery SQL Generation with Gemini](https://cloud.google.com/bigquery/docs/write-sql-gemini#generate_sql_from_a_comment) : This link provides documentation on how to use Gemini to generate SQL from comments in BigQuery, which is directly related to the text-to-SQL techniques discussed in the content.
-- [BIRD-bench](https://bird-bench.github.io/) : This link points to the BIRD-bench, a text-to-SQL benchmark mentioned in the content as a tool for evaluating the performance of text-to-SQL models.
+- [Bird-Bench](https://bird-bench.github.io/) : Bird-Bench is a benchmark for text-to-SQL evaluation. It is used to measure the performance of text-to-SQL models and systems. It is mentioned in the article as a baseline for understanding model and end-to-end system performance.
+- [Google Cloud BigQuery SQL Generation](https://cloud.google.com/bigquery/docs/write-sql-gemini#use_the_sql_generation_tool) : This link points to the documentation for using the SQL generation tool in BigQuery, which is mentioned in the article as one of the places where text-to-SQL capabilities are available.
 
 ## Topics
 
-![](topics/Concept/In%20context%20learning)
-
 ![](topics/Concept/LLM%20as%20a%20judge)
+
+![](topics/Concept/In%20context%20learning)
 
 ![](topics/Concept/Self%20consistency)
 

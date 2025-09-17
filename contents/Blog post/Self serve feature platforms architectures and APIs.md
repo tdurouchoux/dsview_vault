@@ -14,22 +14,26 @@ upload_date: '2023-01-19'
 https://huyenchip.com/2023/01/08/self-serve-feature-platforms.html
 ## Summary
 
-The post discusses the evolution and importance of feature platforms in the MLOps stack, which handle feature engineering, computation, and serving for machine learning models. It highlights the benefits of feature platforms, such as reduced engineering time and improved performance, as seen in companies like LinkedIn.
+The post discusses the evolution and importance of feature platforms in machine learning operations (MLOps), focusing on their role in feature engineering, computation, and serving computed features for models. It highlights the benefits of feature platforms, such as reducing engineering time and improving performance, as seen in companies like LinkedIn.
 
-The post is divided into two parts. The first part explains the evolution of feature platforms, differentiating them from feature stores and model platforms. It also discusses the types of features (batch, real-time, near real-time) that a feature platform can compute and their respective pros and cons.
+The content is divided into two main parts:
 
-The second part focuses on the challenges of making feature platforms self-serve for data scientists, particularly the slow iteration speed for streaming features. It explores the need for data scientist-friendly APIs (Scala, SQL, Python) and functionalities for fast experimentation, such as data discoverability, governance, and automated backfills.
+1. **Evolution of Feature Platforms**:
+   - **Feature Platform vs. Feature Store**: A feature store is part of a feature platform, focusing on reducing feature retrieval latency and storing computed features for reuse. Feature platforms handle both feature retrieval and computation.
+   - **Feature Platform vs. Model Platform**: Feature platforms concern the entire feature engineering workflow, while model platforms focus on model packaging and serving.
+   - **Types of Features**: Feature platforms can compute batch, real-time (RT), and near real-time (NRT) features, each with different latency and use cases.
 
-The post concludes by emphasizing the importance of speed in feature platforms and the significant investment required to build them. It also acknowledges the learning curve and trial-and-error process involved in developing a feature platform.
+2. **Self-Serve Feature Engineering**:
+   - **Challenge**: Slow iteration speed for streaming features.
+   - **Feature API**: Discusses different interfaces (Scala, SQL, Python) and considerations for feature APIs, including one-off batch computation vs. ongoing stream computation and the separation of transformation logic and feature logic.
+   - **Functionality for Fast Experimentation**: Highlights the importance of data discoverability, governance, and automated backfills for speeding up iteration for streaming features.
 
-Key takeaways include the distinction between feature platforms and other systems, the types of features they can handle, and the challenges in making them self-serve for data scientists. The post also provides a comparison of feature platforms used by various companies and references to further reading.
+The post also includes a comparison of feature platforms from various companies, a list of reference feature platforms, and a conclusion emphasizing the importance of speed in feature platforms and the challenges of building them. It concludes with an appendix detailing the differences between batch, real-time, and near real-time features.
 ## Links
 
-- [Speed Up Feature Engineering for Recommendation Systems](https://eng.snap.com/speed-up-feature-engineering) : This link points to an article by Snap discussing their approach to speeding up feature engineering for recommendation systems. It likely covers techniques, tools, and methodologies used by Snap to enhance the efficiency and effectiveness of their feature engineering processes.
-- [PayPal Data Pipelines for Real-Time Fraud Prevention at Scale](https://www.infoq.com/presentations/paypal-data-service-fraud/) : This link points to a presentation by PayPal on their data pipelines for real-time fraud prevention at scale. It likely covers the architecture, technologies, and strategies used by PayPal to detect and prevent fraud in real-time.
-- [Building Riviera: A Declarative Real-Time Feature Engineering Framework](https://doordash.engineering/2021/03/04/building-a-declarative-real-time-feature-engineering-framework/) : This link points to an article by DoorDash on building Riviera, a declarative real-time feature engineering framework. It likely covers the architecture, design principles, and implementation details of Riviera, as well as its benefits and use cases.
-- [Lessons Learned: The Journey to Real-Time Machine Learning at Instacart](https://tech.instacart.com/lessons-learned-the-journey-to-real-time-machine-learning-at-instacart-942f3a656af3) : This link points to an article by Instacart discussing their journey to real-time machine learning. It likely covers the challenges, lessons learned, and best practices they encountered while transitioning from batch to real-time machine learning.
-- [Using MLOps to Build a Real-Time End-to-End Machine Learning Pipeline](https://binance.com/en/blog/all/using-mlops-to-build-a-realtime-endtoend-machine-learning-pipeline-3820048062346322706) : This link points to an article by Binance on using MLOps to build a real-time end-to-end machine learning pipeline. It likely covers the tools, technologies, and best practices used by Binance to streamline their machine learning workflows and improve the efficiency of their models.
+- [Feathr GitHub Repository](https://github.com/feathr-ai/feathr) : The GitHub repository for Feathr, LinkedIn's feature store for productive machine learning.
+- [Binance Machine Learning Feature Store](https://www.binance.com/en/blog/all/a-closer-look-at-our-machine-learning-feature-store-3411614684128221181) : An in-depth look at Binance's machine learning feature store, detailing its architecture and implementation.
+- [Pinterest Big Data Machine Learning Platform](https://www.slideshare.net/Alluxio/pinterest-big-data-machine-learning-platform-at-pinterest?ref=http://featurestore.org/) : A presentation on Pinterest's big data machine learning platform, covering its architecture and use cases.
 
 ## Topics
 
@@ -47,6 +51,6 @@ Key takeaways include the distinction between feature platforms and other system
 
 ![](topics/Concept/Feature%20API)
 
-![](topics/Concept/Feature%20Catalog)
+![](topics/Concept/Data%20Discoverability%20and%20Governance)
 
-![](topics/Concept/Computation%20Engines)
+![](topics/Concept/Automated%20Backfills)

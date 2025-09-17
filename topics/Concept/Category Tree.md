@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A hierarchical structure used to organize concepts in a document management system. It allows for the creation of parent-child relationships between concepts, enabling more advanced document organization and retrieval based on conceptual relationships.
+A hierarchical structure used to organize concepts into categories. This tree allows for the establishment of relationships between concepts, enabling more sophisticated document retrieval and ontological intelligence.

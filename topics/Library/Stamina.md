@@ -2,4 +2,4 @@
 type: Library
 ---
 
-Stamina is a production-grade retries library for Python. It is an opinionated wrapper around the Tenacity package, designed to make retrying failed operations in distributed systems easier and more resilient. Stamina aims to be ergonomic, doing the right thing by default, and minimizing the potential for misuse. It supports features like retrying on certain exceptions, exponential backoff with jitter, limiting the number of retries and total time, automatic async support, preserving type hints, and flexible instrumentation with Prometheus, structlog, and standard library logging.
+Stamina is a Python library designed to simplify the process of implementing production-grade retries. It is an opinionated wrapper around the Tenacity library, aiming to provide ergonomic and safe retry mechanisms by default. Stamina supports features like retrying on specific exceptions, exponential backoff with jitter, and flexible instrumentation with Prometheus, structlog, and standard library logging. It also includes dedicated support for testing and preserves type hints of the decorated callable.

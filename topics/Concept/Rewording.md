@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A technique that involves rephrasing or paraphrasing content to make it appear original while retaining the same meaning. This technique is often used in information manipulation campaigns to evade detection and reach a broader audience.
+A more sophisticated technique than Copy-Pasta, involving rephrasing content to reach a target audience effectively. With the advent of AI-generated chatbots like ChatGPT, rewording has become prevalent in social networks, making it harder to distinguish AI-generated text from innocuous content.

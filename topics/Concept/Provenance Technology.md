@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Provenance technology refers to methods and tools used to track the origin, history, and transformations of data and AI models. It involves creating a lineage of data and models to ensure transparency and accountability. Provenance technology helps in understanding how data is used, how models are developed, and ensures that AI systems are traceable and trustworthy. Data lineage is a crucial aspect of provenance technology, involving the process of tracking the flow of data from its origin to its current state. It involves mapping the data's journey through various systems, transformations, and processes, providing a clear understanding of how data is collected, transformed, and used within an organization. Data lineage is crucial for data governance, compliance, and ensuring data quality and integrity.

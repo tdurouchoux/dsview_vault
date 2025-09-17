@@ -2,4 +2,4 @@
 type: Model
 ---
 
-Mistral-7B is a compact and high-quality LLM model that can be run locally using Ollama. It is chosen for its balance of size and performance.
+Mistral-7B is a compact and high-quality LLM (Large Language Model) model. It is chosen for its balance of performance and resource efficiency, making it suitable for local deployment and various applications.

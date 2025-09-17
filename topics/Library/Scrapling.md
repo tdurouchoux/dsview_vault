@@ -2,4 +2,4 @@
 type: Library
 ---
 
-Scrapling is a Python library designed for web scraping. It is described as undetectable, powerful, flexible, and high-performance. The library aims to make web scraping easy and effortless by adapting to website changes and evolving with them. It includes features like advanced website fetching, dynamic loading, anti-bot bypass, session management, and async support. Scrapling also offers adaptive scraping and AI integration, making it a comprehensive tool for web scraping tasks.
+Scrapling is an undetectable, powerful, flexible, high-performance Python library designed to make web scraping easy and effortless. It features adaptive scraping capabilities, allowing it to learn from website changes and evolve with them. Scrapling includes various fetchers to handle different web scraping challenges, such as stealthy fetching, dynamic website fetching, and anti-bot bypass. It also supports session management, async operations, and integrates with AI for enhanced data extraction.

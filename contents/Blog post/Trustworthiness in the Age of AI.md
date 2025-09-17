@@ -14,25 +14,14 @@ upload_date: '2024-12-28'
 https://jfkirk.github.io/posts/trustworthiness-ai/
 ## Summary
 
-The text discusses the evolution of trust in computing, from traditional calculators to AI systems. Key points include:
-
-1. **Traditional Computing**: Computers are reliable calculators, providing consistent results for well-defined tasks.
-2. **Big Data and Algorithms**: With probabilistic and error-prone tasks, trust shifts from the computer to the algorithm's creators and the quality of data.
-3. **AI and LLMs**: Large Language Models (LLMs) like ChatGPT present new challenges. They are not infallible calculators but are fallible, noisy, and exhibit emergent behavior. They demand trust directly, unlike traditional tools that proxy trust to their creators.
-4. **Trust Models**: The author argues that AI requires a new model of trust, acknowledging its potential to deceive and its inconcrete reasoning.
-5. **Responsibility of Engineers**: Engineers building AI systems must understand their limitations, evaluate them rigorously, and ensure they are used appropriately. They should ask critical questions about the reliability, purpose, and potential impact of the AI they create.
-6. **Current Challenges**: The rapid deployment of AI applications outpaces our ability to evaluate and correct them, leading to a collapse in the traditional trust model between computers, engineers, businesses, and users.
-
-The author emphasizes the need for engineers to be trustworthy and to recognize that AI, despite its convincing nature, is a tool that requires careful and responsible use.
+The text discusses the evolution of trust in computing, from the infallible "Calculator" to the fallible "Algorithm," and now to the emergent "AI." It highlights the shift from trusting computers for precise calculations to trusting algorithms for probabilistic predictions, and now to trusting AI for seemingly intentional and knowledgeable interactions. The author emphasizes that AI, particularly Large Language Models (LLMs), is neither methodical nor calculating but is fallible, noisy, and influenced by emergent behavior. Unlike traditional computers, AI demands trust directly, rather than proxying it to its creators. The author argues that AI's convincing nature and the subtlety of its errors make it challenging to discern its limits and errors, leading to a collapse in the traditional model of trust. The text concludes by stressing the importance of engineers understanding AI's properties, evaluating its use, and ensuring they are trustworthy in building and deploying AI systems.
 ## Links
 
-- [Hugo Static Site Generator](https://gohugo.io) : Hugo is a fast and modern static site generator written in Go, known for its simplicity and efficiency in building websites.
-- [Cosmic Rays and Computer Errors](https://www.the-independent.com/news/science/subatomic-particles-cosmic-rays-computers-change-elections-planes-autopilot-a7584616.html) : An article discussing how cosmic rays can cause errors in computer systems, affecting everything from elections to airplane autopilots.
-- [Gell-Mann Amnesia Effect](https://en.wiktionary.org/wiki/Gell-Mann_Amnesia_effect) : Explanation of the Gell-Mann Amnesia effect, where one dismisses the bad information in a source after enjoying good information from the same source.
-- [Why Are We Using LLMs as Calculators?](https://vickiboykis.com/2024/11/09/why-are-we-using-llms-as-calculators/) : An article discussing the misuse of large language models (LLMs) as calculators and the implications of this misuse.
+- [Gell-Mann Amnesia Effect](https://en.wiktionary.org/wiki/Gell-Mann_Amnesia_effect) : The Gell-Mann Amnesia effect is a cognitive bias where one dismisses facts presented in media that contradict one's worldview, yet continues to consume that media, forgetting that it has misled them before.
+- [Why Are We Using LLMs as Calculators?](https://vickiboykis.com/2024/11/09/why-are-we-using-llms-as-calculators/) : An article discussing the limitations of using large language models (LLMs) as calculators and the potential pitfalls of relying on them for precise computations.
 
 ## Topics
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![](topics/Concept/Retrieval%20Augmented%20Generation)
 
 ![](topics/Concept/Chain%20of%20Thought)

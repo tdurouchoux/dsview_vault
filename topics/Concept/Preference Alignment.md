@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Preference alignment and tuning refer to techniques like DPO (Direct Preference Optimization) and ORPO (Offline Reinforcement Learning from Human Preferences) used to align language models with human preferences, making their outputs more desirable and relevant. This involves fine-tuning the model on data that reflects user preferences, ensuring that the model generates outputs that are more aligned with what users find desirable or appropriate.
+Preference alignment is a post-training process aimed at aligning the outputs of a language model with human preferences. This involves training the model on data that reflects human preferences, such as comparing different responses to the same prompt and selecting the preferred one. The goal is to improve the model's ability to generate outputs that are more aligned with human values and preferences. It involves techniques like Direct Preference Optimization (DPO), GRPO, and PPO to reduce toxicity, hallucinations, and improve the usefulness and tone of the model's responses.

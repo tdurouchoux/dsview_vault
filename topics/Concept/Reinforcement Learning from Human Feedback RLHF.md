@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Reinforcement Learning from Human Feedback (RLHF) is a method used to fine-tune language models based on feedback from human evaluators. It involves training the model to generate responses that align with human preferences, improving the model's performance and relevance in real-world applications. Torchtune supports RLHF for various models.
+Reinforcement Learning from Human Feedback (RLHF) is a method used to align language models with human values and preferences. It involves training a reward model based on human feedback and then using this reward model to fine-tune the language model, improving its performance on tasks that require human-like judgment.

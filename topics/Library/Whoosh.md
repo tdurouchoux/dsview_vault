@@ -2,4 +2,4 @@
 type: Library
 ---
 
-Whoosh is a Python search engine library that allows users to index texts and facilitate searching within them. It adds search functionality to applications, making it a great productivity feature.
+A Python search engine library that allows indexing and searching of text, providing a productivity feature for applications.

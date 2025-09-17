@@ -14,24 +14,26 @@ upload_date: '2025-01-29'
 https://github.com/getmaxun/maxun
 ## Summary
 
-Maxun is an open-source, no-code web data extraction platform that allows users to create custom robots to scrape data from websites. The platform offers both a hosted version and options for local installation via Docker or manual setup. Key features include:
+Maxun is an open-source, no-code web data extraction platform that allows users to create custom robots to emulate user actions and extract data from websites. The platform offers features such as handling pagination and scrolling, running robots on a specific schedule, turning websites into APIs or spreadsheets, and adapting to website layout changes. It also supports integrations and has plans to bypass 2FA & MFA for extracting data behind login screens.
 
-- **Robot Actions**: Capture lists, text, or screenshots from websites.
-- **BYOP (Bring Your Own Proxy)**: Connect external proxies to bypass anti-bot protection.
-- **Integrations**: Turn websites into APIs or spreadsheets, handle pagination and scrolling, and schedule robot runs.
-- **Self-Hosting**: Community guides are available for self-hosting the platform.
+Key technical points:
+- Maxun can be used via a hosted version or self-hosted using Docker or without Docker.
+- The platform uses environment variables for configuration, including database connection details, encryption keys, and integration settings.
+- Maxun robots can perform actions like capturing lists, text, or screenshots from websites.
+- The project is licensed under AGPLv3 and is actively developed, with a focus on user feedback for improvements.
 
-The project is licensed under AGPLv3 and is actively developed, with contributions welcome. It supports various integrations and is designed to adapt to website layout changes, making it a versatile tool for web data extraction.
+Main takeaways:
+- Maxun provides a no-code solution for web data extraction, making it accessible to users without programming knowledge.
+- The platform offers flexibility in deployment and configuration, catering to both cloud-based and self-hosted environments.
+- With its focus on user feedback and active development, Maxun aims to continuously improve and expand its features.
 ## Links
 
-- [Maxun Official Website](https://www.maxun.dev) : The official website of Maxun, providing more information about the platform and its features.
-- [Maxun Documentation](https://docs.maxun.dev/?ref=ghread) : The documentation for Maxun, offering detailed guides and instructions for using the platform.
-- [Maxun Discord Community](https://discord.gg/5GbPjBUkws) : The Discord community for Maxun, where users can discuss, ask questions, and share experiences.
+- [Maxun Documentation](https://docs.maxun.dev/?ref=ghread) : Documentation for Maxun, providing detailed information on how to use the platform for web data extraction.
+- [Maxun Discord Community](https://discord.gg/5GbPjBUkws) : Invitation link to join the Maxun Discord community for discussions and support.
+- [Maxun Self-Hosting Guide](https://docs.maxun.dev/self-host) : Guide on how to self-host Maxun, including setup instructions and configuration details.
 
 ## Topics
 
-![](topics/Platform/Maxun)
+![](topics/Tool/Maxun)
 
-![](topics/Concept/Robotic%20Process%20Automation%20RPA)
-
-![](topics/Library/Playwright)
+![](topics/Concept/BYOP%20Bring%20Your%20Own%20Proxy)

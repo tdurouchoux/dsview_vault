@@ -6,7 +6,7 @@ relevance: 0
 source: Data Elixir
 tags:
 - Statistics
-- Development_tool
+- Python
 type: Content
 upload_date: '2025-03-25'
 ---
@@ -18,25 +18,24 @@ Hazardous is a Python library for survival analysis and competing risks settings
 
 Key differences:
 - Survival Analysis: Predicts a single event.
-- Competing Risks: Predicts which of multiple events will occur first.
+- Competing Risks: Predicts multiple possible events, focusing on which event occurs first.
 
-SurvivalBoost is a gradient-boosting variant for survival and competing risks prediction, compatible with scikit-learn tools. It predicts the cumulative incidence function and survival function at any horizon, with a focus on predictive accuracy. The library relies on lifelines for the Kaplan-Meier estimator and other contributions.
+SurvivalBoost is designed for predictive accuracy, using a novel scoring rule to predict cumulative incidence and survival functions. It integrates with scikit-learn tools like pipelines and cross-validation. The library relies on lifelines for the Kaplan-Meier estimator and other contributions.
 
-Note: The library does not currently support quantifying the statistical association or causal effect of covariates on the cumulative event incidence or instantaneous hazard rate. The API is under development and subject to change. The library is licensed under MIT.
+Note: The library does not focus on inferring statistical associations or causal effects. It is under development, and the API may change. The code is available on GitHub under the MIT license.
 ## Links
 
-- [Hazardous GitHub Repository](https://github.com/soda-inria/hazardous) : The GitHub repository for the Hazardous library, providing access to the source code, issues, and project updates.
-- [Lifelines Documentation](https://lifelines.readthedocs.io/en/latest/) : Documentation for the Lifelines library, which provides tools for survival analysis, including the Kaplan-Meier estimator and Cox model.
-- [Survival Models Research Paper](https://arxiv.org/pdf/2410.16765) : Research paper detailing the theoretical background and stochastic optimization methods used in SurvivalBoost.
+- [scikit-learn](https://scikit-learn.org) : scikit-learn is a Python library for machine learning, which is mentioned as being compatible with the hazardous library for survival analysis and competing risks settings.
+- [lifelines](https://lifelines.readthedocs.io/en/latest/) : lifelines is a Python library for survival analysis, which is mentioned as being used by the hazardous library for the Kaplan-Meier estimator.
 
 ## Topics
 
 ![](topics/Library/hazardous)
 
-![](topics/Concept/SurvivalBoost)
-
 ![](topics/Concept/Survival%20Analysis)
 
-![](topics/Concept/Competing%20Risks)
+![](topics/Concept/Competing%20Risks%20Setting)
+
+![](topics/Model/SurvivalBoost)
 
 ![](topics/Library/lifelines)

@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Generative AI agents are advanced AI systems capable of generating content, making decisions, and performing tasks autonomously. They leverage large language models and other AI techniques to create interactive, intelligent systems that can range from simple conversational bots to complex multi-agent systems capable of handling various tasks and workflows.
+Generative AI agents are advanced AI systems designed to perform tasks through interaction and learning. They range from simple conversational bots to complex multi-agent systems capable of handling various applications, from academic support to business process automation. These agents leverage large language models and other AI techniques to provide intelligent, context-aware responses and actions.

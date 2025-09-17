@@ -2,4 +2,4 @@
 type: Model
 ---
 
-Prophet is an open-source forecasting tool released by Facebook's Core Data Science team. It is designed for business time series that have multiple seasonalities and several missing data points. Prophet uses an additive model where non-linear trends are fit with a saturated spline, and yearly and weekly seasonality are modeled using Fourier series. It also includes the option to add holidays or special events as additional regressors.
+Prophet is a forecasting tool developed by Facebook for business time series data. It is an additive model with four main components: a trend component (g(t)), a seasonal component (s(t)), a holidays component (h(t)), and an error term (εt). Prophet is designed to handle missing data, outliers, and has built-in support for holidays and special events, making it suitable for business forecasting tasks.

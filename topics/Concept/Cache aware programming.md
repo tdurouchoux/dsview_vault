@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Cache-aware programming is a technique where developers optimize their code to take advantage of the CPU's cache hierarchy. This involves organizing data structures and access patterns in a way that maximizes the use of the cache, reducing the need for slower main memory access. This is particularly important in languages like C++ and Rust, where fine-grained control over memory layout is possible.
+Cache-aware programming is a technique where developers optimize their code to take advantage of the CPU's cache hierarchy. This involves organizing data and algorithms in a way that maximizes cache hits and minimizes cache misses. In languages like C++ and Rust, developers have fine-grained control over memory layout, allowing for more efficient cache usage. In Python, due to its higher level of abstraction and the overhead of the interpreter, achieving cache-aware optimizations is more challenging but still possible to some extent.

@@ -13,29 +13,23 @@ upload_date: '2025-04-27'
 https://ohshitgit.com/
 ## Summary
 
-This content is a guide to help users recover from common Git mistakes. It provides practical solutions to typical Git problems in plain English. Here are the key takeaways:
+The content is a guide to help users recover from common Git mistakes. It provides plain English solutions to various "Oh shit" scenarios, such as:
 
-1. **Time Machine with `git reflog`**: Use `git reflog` to view a list of all actions performed in Git, then use `git reset HEAD@{index}` to revert to a previous state.
+1. **Time Machine**: Use `git reflog` to view history and `git reset HEAD@{index}` to revert to a previous state.
+2. **Amend Last Commit**: Use `git commit --amend --no-edit` to add changes to the last commit.
+3. **Change Commit Message**: Use `git commit --amend` to edit the last commit message.
+4. **Accidental Commit to Master**: Create a new branch and reset master using `git branch`, `git reset HEAD~ --hard`, and `git checkout`.
+5. **Committed to Wrong Branch**: Use `git reset HEAD~ --soft`, `git stash`, and `git stash pop` to move changes to the correct branch.
+6. **Empty Diff**: Use `git diff --staged` to view staged changes.
+7. **Undo Old Commit**: Use `git log` to find the commit and `git revert [hash]` to undo it.
+8. **Undo File Changes**: Use `git log` to find a previous commit and `git checkout [hash] -- path/to/file` to revert the file.
+9. **Reset Repository**: Use `git fetch origin`, `git reset --hard origin/master`, and `git clean -d --force` to reset the repository state.
 
-2. **Amending the Last Commit**: To make a small change to the last commit, use `git commit --amend --no-edit`. For changing the commit message, use `git commit --amend`.
-
-3. **Moving Commits to a New Branch**: If you committed to the wrong branch, create a new branch with `git branch some-new-branch-name`, remove the commit from the master branch with `git reset HEAD~ --hard`, and then switch to the new branch.
-
-4. **Undoing a Commit from the Wrong Branch**: Use `git reset HEAD~ --soft` to undo the commit but keep the changes, then `git stash` to save them. Move to the correct branch, `git stash pop` to apply the changes, and commit them.
-
-5. **Viewing Staged Changes**: If `git diff` shows nothing, use `git diff --staged` to view staged changes.
-
-6. **Reverting a Specific Commit**: Use `git log` to find the commit hash, then `git revert [saved hash]` to create a new commit that undoes the changes.
-
-7. **Undoing Changes to a File**: Use `git log` to find a commit hash before the file was changed, then `git checkout [saved hash] -- path/to/file` to restore the old version of the file.
-
-8. **Resetting a Borked Repository**: If the repository is severely damaged, fetch the latest state of the origin, reset the branch to match the origin, and clean untracked files with `git clean -d --force`.
-
-The guide emphasizes practical solutions and includes warnings about the consequences of certain actions, such as amending public commits. It also acknowledges that there are other ways to achieve the same results but focuses on methods that the author has found effective through trial and error.
+The guide emphasizes that these solutions are based on practical experience and may not cover all theoretical scenarios. It also includes translations and credits to contributors.
 ## Links
 
-- [Oh Shit, Git!?! GitHub Repository](https://github.com/ksylor/ohshitgit) : The GitHub repository for the Oh Shit, Git!?! website, containing the source code and translations.
-- [Dangitgit](https://dangitgit.com/en) : The same content as Oh Shit, Git!?! but without swears.
+- [Oh Shit, Git! Repository](https://github.com/ksylor/ohshitgit) : The GitHub repository for the Oh Shit, Git! website, providing practical solutions to common Git problems.
+- [Dangitgit](https://dangitgit.com/en) : The same content as Oh Shit, Git! but without swears, providing a more professional tone for the same Git solutions.
 
 ## Topics
 

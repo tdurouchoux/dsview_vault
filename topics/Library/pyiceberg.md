@@ -2,4 +2,4 @@
 type: Library
 ---
 
-pyiceberg is a Python library that provides an interface to Apache Iceberg, a table format for huge analytic datasets. It supports high-performance, scalable, and efficient data processing and storage. Pyiceberg allows users to manage and query large datasets stored in formats compatible with Apache Iceberg, providing features like schema evolution, hidden partitioning, and support for multiple languages.
+PyIceberg is a Python library that provides bindings for the Apache Iceberg table format. Iceberg is an open table format for huge analytic datasets, with features like schema evolution, hidden partitioning, and support for multiple languages. PyIceberg allows Python applications to read from and write to Iceberg tables, enabling efficient and scalable data management in big data environments.

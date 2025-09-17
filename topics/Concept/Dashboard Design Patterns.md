@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Dashboard design patterns are reusable solutions to common problems encountered in the design of dashboards. These patterns provide guidelines and best practices for creating effective and user-friendly dashboards, focusing on aspects such as layout, visualization choices, interaction design, and information hierarchy. They help streamline the design process and ensure that dashboards are intuitive and informative.
+Dashboard Design Patterns are reusable solutions to common design problems encountered in the creation of dashboards. These patterns provide guidelines and best practices for organizing, visualizing, and interacting with data in a dashboard format. They help streamline the design process, ensure consistency, and improve the usability and effectiveness of dashboards across various domains such as business, healthcare, and public health.

@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Task Dependencies refer to the relationships between tasks in a workflow, defining the order and conditions under which tasks execute. In Airflow, task dependencies can be declared using operators like >> and <<, or methods like set_upstream and set_downstream. These dependencies form the structure of the DAG, ensuring tasks run in the correct sequence and under specified conditions.
+Task dependencies in Airflow define the order and conditions under which tasks execute. They specify the relationships between tasks, indicating which tasks must be completed before others can start. Task dependencies are essential for ensuring that workflows are executed in the correct sequence and that tasks are only run when their prerequisites are met.

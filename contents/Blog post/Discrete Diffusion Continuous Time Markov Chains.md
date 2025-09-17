@@ -13,32 +13,30 @@ upload_date: '2025-05-28'
 https://www.inference.vc/discrete-diffusion-continuous-time-markov-chains/
 ## Summary
 
-The blog post discusses continuous-time Markov chains (CTMCs), a less commonly known cousin of discrete-time Markov chains in machine learning. The author aims to build intuition about how CTMCs work and their connection to discrete diffusion models.
+The blog post discusses continuous-time Markov chains (CTMCs), a less commonly known concept in machine learning compared to discrete-time Markov chains. The author aims to build intuition about how CTMCs work, as they are featured in recent work on discrete diffusion models.
 
 Key points include:
 
-1. **Markov Chains**: Both discrete and continuous-time Markov chains are stochastic processes where the future state depends only on the current state, not the past.
+1. **Markov Chains**: Both discrete and continuous-time Markov chains are defined by their memory-less property, where the future state depends only on the current state.
 
-2. **Discrete-Time Markov Chains**: These are described by transition matrices that can change over time (non-homogeneous) or remain constant (homogeneous).
+2. **Discrete-Time Markov Chains**: These are described by state transition matrices, which can be time-varying or constant (homogeneous).
 
-3. **Continuous-Time Markov Chains**: For homogeneous chains, the waiting time in a state follows an exponential distribution (memoryless property), and transitions occur based on a rate matrix.
+3. **Continuous-Time Markov Chains**: For homogeneous chains, the waiting time between state transitions follows an exponential distribution, preserving the memory-less property. The rate matrix (Λ or Q) replaces transition probabilities.
 
-4. **Point Processes**: The post explores the relationship between Markov chains and point processes, illustrating this with an Easter Bunny egg-hiding analogy. Different processes (Bernoulli, Geometric, Binomial) lead to the same outcome, demonstrating the equivalence of different representations.
+4. **Point Processes**: The post explores the relationship between Markov chains and point processes, illustrating this with an Easter egg-hiding analogy. Different processes (Bernoulli, geometric, binomial) can generate the same point process distribution.
 
-5. **Continuous Point Processes**: By replacing discrete distributions with continuous ones (exponential for waiting times, Poisson for point processes), the post shows how to model continuous-time Markov chains.
+5. **Continuous Point Processes**: By replacing discrete distributions with continuous ones (exponential and Poisson), the post describes homogeneous Poisson point processes and their connection to Markov chains.
 
-6. **Simulation of Markov Chains**: The post describes how to simulate a Markov chain using underlying Poisson point processes, where transitions occur when a point process associated with the current state "fires."
+6. **Simulation of Markov Chains**: The post explains how to simulate a Markov chain using underlying Poisson point processes, with each state pair having an associated point process. Transitions occur when a point process "fires."
 
-7. **Non-Homogeneous Chains**: The post hints at the complexity of extending these ideas to non-homogeneous chains, where the rate matrix changes over time, leaving it as an exercise for the reader.
+7. **Non-Homogeneous Markov Chains**: The post hints at the complexity of extending these concepts to non-homogeneous chains, where the rate matrix changes over time, and suggests this as a topic for further exploration.
 
-The summary emphasizes the memoryless property, the role of exponential distributions, and the connection between Markov chains and point processes, providing a foundation for understanding discrete diffusion models.
+The author summarizes the key ideas, emphasizing the memory-less property, the role of exponential distributions, and the connection between Markov chains and point processes. The post aims to provide intuition and different representations of CTMCs, highlighting their relevance in discrete diffusion models.
 ## Links
 
-- [GitHub - Crisp Theme](https://github.com/kathyqian/crisp) : GitHub repository for the Crisp theme used on the inFERENCe blog.
-- [About inFERENCe](https://www.inference.vc/about/) : About page for the inFERENCe blog, providing information about the author and the blog's purpose.
-- [Author's LinkedIn Profile](http://linkedin.com/in/fhuszar) : LinkedIn profile of the author of the inFERENCe blog.
-- [Author's Twitter Profile](https://x.com/fhuszar) : Twitter profile of the author of the inFERENCe blog.
-- [Author's Website](http://kathyqian.com) : Personal website of Kathy Qian, who created the Crisp theme used on the inFERENCe blog.
+- [Lou et al. (2023) - arXiv](https://arxiv.org/abs/2310.16834?ref=inference.vc) : A research paper on discrete diffusion models, likely referenced in the article for its contributions to the field.
+- [Sahoo et al. (2024) - arXiv](https://arxiv.org/abs/2406.04329?ref=inference.vc) : A research paper on discrete diffusion models, likely referenced in the article for its contributions to the field.
+- [Shi et al. (2024) - arXiv](https://arxiv.org/pdf/2406.07524?ref=inference.vc) : A research paper on discrete diffusion models, likely referenced in the article for its contributions to the field.
 
 ## Topics
 

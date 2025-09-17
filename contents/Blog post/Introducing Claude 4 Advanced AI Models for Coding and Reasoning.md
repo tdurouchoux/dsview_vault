@@ -14,25 +14,29 @@ upload_date: '2025-05-26'
 https://www.anthropic.com/news/claude-4
 ## Summary
 
-Anthropic introduces Claude Opus 4 and Claude Sonnet 4, setting new standards in coding, advanced reasoning, and AI agents. Key features include extended thinking with tool use, parallel tool execution, and improved memory capabilities. Claude Opus 4 is the world's best coding model, excelling in sustained performance on complex tasks. Claude Sonnet 4 offers superior coding and reasoning with enhanced steerability. Both models support hybrid modes for instant and extended thinking. New API capabilities and integrations with VS Code, JetBrains, and GitHub Actions are also announced. Pricing remains consistent with previous models. The models demonstrate significant improvements in benchmarks like SWE-bench and Terminal-bench, with reduced shortcut behavior and enhanced memory features. Claude Code is now generally available, integrating seamlessly into development workflows. The models undergo extensive testing to ensure safety and performance.
+Anthropic introduces Claude Opus 4 and Claude Sonnet 4, setting new standards in coding, advanced reasoning, and AI agents. Key features include extended thinking with tool use, parallel tool execution, and improved memory capabilities. Claude Opus 4 is the world's best coding model, excelling in sustained performance on complex tasks. Claude Sonnet 4 offers superior coding and reasoning with enhanced steerability. Both models support hybrid modes for instant and extended thinking. Claude Code is now generally available, integrating with IDEs like VS Code and JetBrains, and supports background tasks via GitHub Actions. New API capabilities include code execution, MCP connector, Files API, and prompt caching. Pricing remains consistent with previous models. The models demonstrate significant improvements in benchmarks like SWE-bench and Terminal-bench, with reduced shortcut behavior and enhanced memory capabilities. Claude Code integrates into development workflows, offering inline edits and background task support. The models are extensively tested for safety and performance, aiming to transform AI collaboration.
 ## Links
 
-- [Claude Code](https://www.anthropic.com/claude-code) : Claude Code, now generally available, brings the power of Claude to more of your development workflow—in the terminal, your favorite IDEs, and running in the background with the Claude Code SDK.
-- [Claude 3.7 Sonnet](https://www.anthropic.com/news/claude-3-7-sonnet) : Claude 3.7 Sonnet is a significant upgrade to Claude Sonnet 3.5, delivering superior coding and reasoning while responding more precisely to your instructions.
-- [Claude Think Tool](https://www.anthropic.com/engineering/claude-think-tool) : Claude Think Tool is a tool that allows Claude to use tools—like web search—during extended thinking, allowing Claude to alternate between reasoning and tool use to improve responses.
+- [Introducing GPT-4.1 and o4-mini](https://openai.com/index/gpt-4-1/) : OpenAI's announcement of GPT-4.1 and o4-mini models, providing details on their capabilities and improvements.
+- [Multilingual MMLU Benchmark Results](https://github.com/openai/simple-evals/blob/main/multilingual_mmlu_benchmark_results.md) : GitHub repository containing the results of the Multilingual MMLU benchmark, which evaluates language models on multilingual understanding and problem-solving tasks.
+- [Gemini 2.5 Pro Preview Model Card](https://storage.googleapis.com/model-cards/documents/gemini-2.5-pro-preview.pdf) : Model card for Gemini 2.5 Pro Preview, detailing its specifications, performance, and use cases.
+- [Introducing o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/) : OpenAI's announcement of the o3 and o4-mini models, highlighting their features and advancements.
+- [o3 and o4-mini System Card](https://cdn.openai.com/pdf/2221c875-02dc-4789-800b-e7758f3722c1/o3-and-o4-mini-system-card.pdf) : System card for o3 and o4-mini models, providing detailed technical information and performance metrics.
 
 ## Topics
 
 ![](topics/Model/Claude%20Opus%204)
 
-![](topics/Model/Claude%20Sonnet)
+![](topics/Model/Claude%20Sonnet%204)
 
-![](topics/Concept/Extended%20Thinking%20with%20Tool%20Use)
+![](topics/Concept/Extended%20thinking%20with%20tool%20use)
 
-![](topics/Concept/Parallel%20Tool%20Execution)
+![](topics/Concept/Parallel%20tool%20execution)
 
-![](topics/Concept/Memory%20Capabilities)
+![](topics/Concept/Memory%20capabilities)
 
-![](topics/Tool/Claude%20Code)
+![](topics/Concept/Thinking%20summaries)
 
-![](topics/Tool/GitHub%20Copilot)
+![](topics/Platform/Google%20Cloud%20Vertex%20AI)
+
+![](topics/Platform/Amazon%20Bedrock)

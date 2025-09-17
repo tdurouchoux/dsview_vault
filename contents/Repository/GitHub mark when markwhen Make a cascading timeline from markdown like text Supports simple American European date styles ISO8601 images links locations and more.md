@@ -15,23 +15,20 @@ https://github.com/mark-when/markwhen
 
 Markwhen is an interactive text-to-timeline tool that converts markdown-like text into a cascading timeline. It supports various date styles, images, links, locations, and more. The project is divided into several repositories under the mark-when organization, with the web app (editor) being the only non-open-source component. Key components include:
 
-- **Editor**: Available at markwhen.com
-- **VSCode Extension**: For integrating Markwhen into VSCode
-- **Parser**: For parsing markdown-like text
-- **Timeline View**: For rendering the timeline
-- **Calendar View**: For rendering the calendar
-- **Resume View**: For rendering resumes
-- **View Client Library**: For creating custom views
-- **Vue View Template**: For creating Vue-based views
+1. **Editor**: Available at markwhen.com, allows users to create and edit timelines.
+2. **VSCode Extension**: Enables timeline creation and editing within Visual Studio Code.
+3. **View Container**: Renders different views like timeline, calendar, and resume. Users can create custom views using the view client library.
+4. **Parser**: Converts markdown-like text into timeline data.
+5. **Views**: Includes timeline, calendar, resume, and Vue view template.
 
-The project can be set up locally using npm or Docker. Documentation and additional resources are available on the project's website and GitHub repository. The main technologies used are HTML, Vue, and TypeScript.
+The project can be set up locally using npm or Docker. Documentation and additional resources are available on the markwhen website. The code is primarily written in HTML, Vue, and TypeScript.
 ## Links
 
-- [Markwhen Editor](https://markwhen.com) : The web app editor for Markwhen, allowing users to create interactive timelines from markdown-like text.
-- [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=Markwhen.markwhen) : VSCode extension for Markwhen, enabling timeline creation and management directly within the VSCode environment.
-- [Markwhen Documentation](https://docs.markwhen.com) : Official documentation for Markwhen, providing detailed information on how to use and integrate Markwhen's features.
-- [Markwhen Blog](https://blog.markwhen.com) : Blog containing articles, updates, and insights related to Markwhen and its ecosystem.
-- [Markwhen Parser Repository](https://github.com/mark-when/parser) : GitHub repository for the Markwhen parser, which processes markdown-like text into timelines.
+- [Markwhen Editor](https://markwhen.com) : The editor for the markwhen tool, allowing users to create and edit timelines.
+- [Markwhen VSCode Extension](https://marketplace.visualstudio.com/items?itemName=Markwhen.markwhen) : The VSCode extension for markwhen, enabling users to create and edit timelines directly within VSCode.
+- [Markwhen Documentation](https://docs.markwhen.com) : The official documentation for markwhen, providing detailed information on how to use the tool.
+- [Markwhen Blog](https://blog.markwhen.com) : The official blog for markwhen, featuring updates, tutorials, and other relevant information.
+- [Markwhen Parser](https://github.com/mark-when/parser) : The GitHub repository for the markwhen parser, which is responsible for parsing the markdown-like text into a timeline.
 
 ## Topics
 

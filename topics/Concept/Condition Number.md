@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-The condition number is a measure of the sensitivity of the output of a function to changes or errors in the input. In the context of optimization, it quantifies how well-conditioned a matrix is, indicating the ratio of the largest to the smallest eigenvalue. A high condition number suggests that the matrix is ill-conditioned, leading to numerical instability and slow convergence in optimization algorithms.
+The condition number is a measure of the sensitivity of a function or matrix to small perturbations. In optimization, it is defined as the ratio of the largest to the smallest eigenvalue of the Hessian matrix. A high condition number indicates ill-conditioned problems, leading to slow convergence and numerical instability. The condition number helps in understanding the difficulty of the optimization problem and guides the choice of optimization algorithms and parameters.

@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-The data analysis workflow is a complex and iterative process that involves multiple stages, including task formulation, data collection, exploratory analysis, visualization, validation, and communication of insights. Each stage requires a distinct set of skills and tools, and the process often involves iterating back and forth among these stages. The workflow can be enhanced by AI-powered tools that assist in various tasks, such as data cleaning, transformation, visualization, and insight generation, making the process more efficient and accessible to non-experts.
+The data analysis workflow is a structured process that involves multiple stages, including task formulation, data collection, exploratory analysis, data transformation, visualization, validation, and report generation. Each stage requires a distinct set of skills and tools. The workflow is often iterative, with analysts moving back and forth between stages to refine their analysis. Generative AI can streamline this process by automating repetitive tasks, providing suggestions, and enhancing user interactions through intuitive interfaces and personalized recommendations.

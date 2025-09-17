@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-GraphRAG is a technique that combines graph-based retrieval with RAG to improve the accuracy and relevance of retrieved information. It involves constructing a knowledge graph from the documents and using graph-based methods to retrieve relevant information. GraphRAG can help capture the relationships and dependencies between different pieces of information, leading to more accurate and contextually relevant responses. In the context of Kotaemon, GraphRAG is used as an optional indexing pipeline to enhance the retrieval quality of the RAG system.
+GraphRAG is an indexing pipeline that leverages graph-based structures to enhance the retrieval quality in RAG systems. It is designed to work with OpenAI or Ollama API and can be integrated with Kotaemon to improve the accuracy and relevance of retrieved information. GraphRAG uses graph structures to represent and retrieve information, making it particularly useful for complex queries and multi-hop reasoning.

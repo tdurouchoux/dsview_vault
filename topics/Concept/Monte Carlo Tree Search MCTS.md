@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Monte Carlo Tree Search (MCTS) is a heuristic search algorithm used for decision-making in environments with a high branching factor, such as game playing or planning. It works by building a tree of possible actions and simulating outcomes to find the most optimal path. In the context of AI agents, MCTS helps agents decide the best sequence of actions to achieve a goal, such as navigating a webpage or completing a task. The algorithm balances exploration and exploitation to improve decision-making over time.
+Monte Carlo Tree Search (MCTS) is an algorithm used for decision-making in complex environments, particularly in AI and game-playing systems. It works by simulating multiple possible future states (a 'tree' of possibilities) and using random sampling (Monte Carlo simulation) to evaluate the outcomes. This helps in identifying the most optimal path or action to take, balancing exploration and exploitation of potential strategies.

@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A Directed Acyclic Graph (DAG) is a mathematical concept representing a collection of nodes and edges with no directed cycles. In the context of Airflow, a DAG is a model that encapsulates everything needed to execute a workflow, including tasks, schedules, and dependencies. It defines the order and conditions under which tasks execute and includes additional operational details such as callbacks and parameters.
+A Directed Acyclic Graph (DAG) is a data structure that consists of nodes and directed edges, where the edges have a direction and there are no cycles. In the context of Airflow, a DAG is used to define a workflow, where nodes represent tasks and edges represent dependencies between tasks. The DAG ensures that tasks are executed in a specific order, and it encapsulates everything needed to execute a workflow, including the schedule, tasks, task dependencies, callbacks, and additional parameters.

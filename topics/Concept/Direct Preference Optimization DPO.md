@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Direct Preference Optimization (DPO) is a method used to fine-tune language models based on human preferences. It involves optimizing the model's responses directly based on feedback, improving the model's performance and relevance in real-world applications. Torchtune supports DPO for various models.
+Direct Preference Optimization (DPO) is a method used to align language models with human preferences by optimizing them directly on preference data. This approach involves fine-tuning the model using feedback data to improve its performance and alignment with desired outcomes. In the development of SmolLM2, DPO was applied using UltraFeedback to enhance the model's instruction-following capabilities and overall performance.

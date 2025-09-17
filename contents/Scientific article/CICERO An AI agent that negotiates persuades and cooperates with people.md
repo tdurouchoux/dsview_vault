@@ -14,19 +14,25 @@ upload_date: '2022-12-15'
 https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/
 ## Summary
 
-CICERO is an AI agent developed by Meta that has achieved human-level performance in the strategy game Diplomacy, which involves negotiation, persuasion, and cooperation. Unlike games like Chess and Go, Diplomacy requires understanding other players' motivations, making complex plans, and using natural language to form alliances.
+Meta AI Research introduced CICERO, an AI agent that excels in negotiation, persuasion, and cooperation, achieving human-level performance in the strategy game Diplomacy. Unlike games like Chess or Go, Diplomacy requires understanding human motivations, complex planning, and natural language processing for effective negotiation.
 
-CICERO combines strategic reasoning and natural language processing techniques. It uses a controllable dialogue model fine-tuned on human games and a strategic reasoning engine called piKL. The agent predicts other players' actions, forms intents, generates dialogue, and filters messages to ensure they are sensible and strategically sound.
+CICERO combines strategic reasoning and natural language processing, using a controllable dialogue model and a strategic reasoning engine. It analyzes the game board and conversation history to predict other players' actions and generate dialogue that aligns with its strategic plans. The agent's dialogue model is fine-tuned on human games and uses techniques to ensure sensible, consistent, and strategically sound communication.
 
-CICERO's performance highlights the potential for AI to cooperate with humans effectively. However, it sometimes generates inconsistent dialogue, indicating room for improvement. The code has been open-sourced to advance research in human-AI interaction responsibly.
+CICERO's strategic planning involves an iterative algorithm called piKL, which balances dialogue consistency with rationality. This approach improves upon supervised learning by making plans that are consistent with dialogue and more aligned with human behavior.
 
-The technology behind CICERO could have real-world applications, such as improving communication between humans and AI assistants or enhancing NPC interactions in video games.
+While CICERO demonstrates significant advancements, it sometimes generates inconsistent dialogue. The research team has open-sourced the code and data to encourage further progress in human-AI cooperation. They also highlight the potential for future applications in areas like AI assistants and video games with more human-like NPCs.
+
+The research underscores the importance of aligning AI with human intentions and objectives, particularly in environments involving cooperation and competition. Diplomacy serves as a valuable sandbox for advancing research in human-AI interaction.
 ## Links
 
-- [CICERO Research Paper](https://www.science.org/doi/10.1126/science.ade9097) : Research paper detailing the development and achievements of CICERO, an AI agent that excels in strategic negotiation and cooperation.
-- [CICERO Website](https://ai.facebook.com/research/cicero/) : Official website for CICERO, providing more information about the project and demonstrating the agent in action.
-- [CICERO RFP](https://ai.facebook.com/research/request-for-proposal/towards-human-AI-cooperation/) : Proposal submission page for researchers interested in accessing CICERO data to further human-AI cooperation research.
+- [CICERO Research Paper](https://arxiv.org/pdf/1910.13461.pdf) : Research paper detailing the development and capabilities of CICERO, an AI agent designed to negotiate, persuade, and cooperate with people in the game of Diplomacy.
+- [CICERO Diplomacy Website](https://ai.facebook.com/research/cicero/diplomacy/) : Website showcasing CICERO's performance in the game of Diplomacy, including how it uses natural language processing and strategic reasoning to interact with human players.
+- [CICERO RFP](https://ai.facebook.com/research/request-for-proposal/towards-human-AI-cooperation/) : Request for Proposal page where researchers can submit proposals to gain access to CICERO data and contribute to the advancement of human-AI cooperation.
 
 ## Topics
 
-![](topics/Model/CICERO)
+![](topics/Concept/CICERO)
+
+![](topics/Concept/Dialogue%20aware%20strategy%20planning)
+
+![](topics/Model/piKL)

@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Write actions refer to the ability of an agent to not only perceive and interact with its environment but also to make changes to it. This can include actions like modifying data in a database, sending emails, or initiating transactions. Write actions enable agents to automate complex workflows and perform tasks that require real-world interactions, but they also come with risks and require careful management to ensure security and reliability.
+Write actions are tools that allow an agent to not only perceive its environment but also make changes to it. These actions can include modifying data, sending emails, initiating bank transfers, and other operations that alter the state of the environment. Write actions enable agents to automate complex workflows but also require careful consideration of security and trust.

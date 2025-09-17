@@ -1,0 +1,5 @@
+---
+type: Platform
+---
+
+GitHub Copilot is an AI-powered tool integrated into the GitHub ecosystem that assists developers by generating code suggestions, completing code snippets, and providing insights based on the context of the project. It leverages machine learning models to enhance productivity and streamline the software development process. It is also available as an extension in Visual Studio Code editor under the name GitHub Copilot Chat, which is an AI-powered assistant that provides real-time coding suggestions, completions, and explanations. The tool is designed to enhance developer productivity by offering context-aware code recommendations, helping with debugging, and generating code snippets based on natural language prompts. By open-sourcing the GitHub Copilot Chat extension, the VS Code team aims to increase transparency, enable community contributions, and foster a more collaborative development environment.

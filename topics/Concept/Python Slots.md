@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Python Slots are a way to optimize the memory usage and access speed of class instances by defining a fixed set of attributes. By using the `__slots__` declaration, you can specify the attributes that an instance of a class can have, which reduces the overhead of dynamic attribute creation and lookup. Slots are particularly useful for classes with a large number of instances or performance-critical applications.
+Python Slots are a feature that allows developers to optimize the creation and access of class attributes by defining a fixed set of attributes using __slots__. This feature replaces the internal dictionary (__dict__) used to store attributes with an array-like structure, improving attribute access time to O(1). Slots are useful for reducing memory usage and speeding up attribute access in classes with a large number of instances.

@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-BI-as-Code is a methodology that treats business intelligence artifacts, such as dashboards and metrics, as code. This approach involves defining dashboards and metrics in declarative languages like YAML or SQL, making them versionable, automatable, and machine-readable. BI-as-Code enables better collaboration, version control, and integration with CI/CD pipelines, making the BI development process more efficient and scalable. It also provides a semantic foundation that AI models can understand, facilitating the generation and modification of BI artifacts.
+BI-as-Code is an approach to business intelligence where dashboards, metrics, and other BI artifacts are defined and managed as code. This method leverages declarative languages to describe business metrics, relationships between data dimensions, and visualizations. By defining BI artifacts in code, BI-as-Code enables version control, automation, and integration with AI models, making the BI process more efficient and scalable. This approach is foundational for GenBI, as it provides the structured context that AI models need to understand and generate BI artifacts.

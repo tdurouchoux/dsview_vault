@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Collaboration in MLOps emphasizes the importance of a collaborative and communicative work culture aimed at reducing domain silos between different roles. It involves working collaboratively on data, models, and code, and ensuring that team members can effectively communicate and share knowledge. Collaboration tools and practices help to break down silos, improve coordination, and enhance the overall efficiency and effectiveness of ML projects. Examples of collaboration tools include Slack, Trello, and GitLab wiki.
+Collaboration in MLOps ensures the possibility to work collaboratively on data, model, and code. It emphasizes a collaborative and communicative work culture aiming to reduce domain silos between different roles. Collaboration tools and practices help teams work together effectively, share knowledge, and integrate insights from various stages of the ML lifecycle.

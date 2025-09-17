@@ -2,4 +2,4 @@
 type: Library
 ---
 
-Nucleo is a high-performance Rust library that provides a fuzzy matching algorithm to calculate string similarity. It is used by Pfuzzer to perform fast approximate searches in Python, offering efficient and accurate fuzzy search capabilities.
+Nucleo is a high-performance Rust library that provides fuzzy matching algorithms for string similarity calculations. It is used by Pfuzzer to perform fast approximate searches. The library is designed to be efficient and safe, making it suitable for performance-sensitive applications.

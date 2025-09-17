@@ -2,4 +2,4 @@
 type: Platform
 ---
 
-MotherDuck is a platform that extends the capabilities of DuckDB by providing a cloud-based environment for running DuckDB instances. It allows users to leverage the power of DuckDB for data warehousing, business intelligence, and customer-facing analytics without the need to manage the underlying infrastructure. MotherDuck enhances collaboration and scalability for DuckDB users.
+MotherDuck is a cloud data warehouse designed to work seamlessly with DuckDB. It allows users to persist files and tables in the cloud, enabling scalable data storage and sharing capabilities. MotherDuck enhances DuckDB's functionality by providing a platform for collaborative data work, making it easier to share data and queries with team members.

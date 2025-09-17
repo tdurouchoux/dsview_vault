@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Latent variables are variables in a statistical model that are not directly observed but are rather inferred from other variables that are observed or measured. They are used to describe relationships between observed variables in terms of underlying latent structure. Latent variables are commonly used in factor analysis, latent class analysis, and other modeling techniques.
+Latent variables are variables that are not directly observed but are rather inferred from other variables in the model. In the context of Probabilistic Principal Components Analysis (PPCA), latent variables represent the underlying structure of the data that explains the observed variations. These variables help in capturing the essential patterns in the data, which can be useful for various applications such as data visualization and feature extraction.

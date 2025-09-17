@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Responsible AI refers to the practice of developing and deploying artificial intelligence systems in a manner that is ethical, transparent, and accountable. It involves measuring, mitigating, and managing AI risks to ensure the safety and fairness of AI applications. Responsible AI capabilities include content safety features, prompt shields, and groundedness detection to filter and monitor AI-generated content.
+Responsible AI and Ethics in AI refer to the development and deployment of artificial intelligence systems in a manner that prioritizes ethical considerations, safety, fairness, transparency, and accountability. It involves implementing frameworks and practices to ensure that AI technologies are used responsibly, minimizing potential harms and maximizing benefits for society. This includes addressing issues such as bias, privacy, security, and the societal impact of AI.

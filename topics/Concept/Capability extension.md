@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Capability extension refers to the process of enhancing an agent's abilities by integrating tools that address its inherent limitations. For example, providing an agent with access to a calculator can improve its mathematical capabilities, while giving it access to a code interpreter can enable it to execute and analyze code. Capability extension allows agents to perform tasks more efficiently and accurately, leveraging external tools to compensate for their limitations.
+Capability extension refers to the use of tools that address the inherent limitations of AI models. These tools can boost a model's performance by providing functionalities that the model is not inherently good at, such as mathematical calculations, translations, and code execution. Examples include calculators, calendars, timezone converters, unit converters, and code interpreters.

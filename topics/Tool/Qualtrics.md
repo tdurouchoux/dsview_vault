@@ -2,4 +2,4 @@
 type: Tool
 ---
 
-Qualtrics is an experience management and advanced research platform that supports creating surveys and collecting data. It provides tools for data entry with form views, data validation, and the ability to use both numeric values and their contextual labels. It is particularly useful for one-time data entry but is less suitable for ongoing data editing and management.
+Qualtrics is a data entry tool that allows for form-based data entry, reducing errors, and supports data validation. It is particularly useful for one-time data entry tasks and allows for the use of value labels for numeric variables. However, it lacks powerful querying capabilities across forms and is not ideal for tasks that require frequent updates to records over time.

@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Multi-agent reinforcement learning involves multiple agents interacting within the same environment, each learning to maximize their own rewards. This field studies how agents can learn to cooperate, compete, or act in a mixed-manner, often leading to complex dynamics and emergent behaviors. Applications include robotics, autonomous vehicles, and game playing.
+Multi-agent reinforcement learning involves multiple agents learning and interacting within the same environment. This field focuses on understanding how agents can learn to cooperate, compete, or negotiate with each other. Techniques like Multi-Agent Deep Deterministic Policy Gradient (MADDPG) and Reinforcement Learning in Multi-Agent Systems (RL-MAS) are examples of multi-agent RL.

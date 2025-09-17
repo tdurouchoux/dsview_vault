@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A machine learning approach where a single model is trained to perform multiple tasks simultaneously. This can improve performance on each task by leveraging shared representations and knowledge across tasks.
+Multi-task learning is a machine learning approach where a model is trained on multiple tasks simultaneously. This approach allows the model to leverage the knowledge gained from one task to improve performance on other tasks, leading to better generalization and robustness.

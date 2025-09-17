@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A feature that allows users to visually represent the structure of a database schema, including tables, relationships, and other database objects. This helps in understanding and managing the database schema more effectively.
+Schema visualization refers to the graphical representation of a database schema, which includes the layout of database objects such as tables, views, and relationships. This visualization helps developers understand the structure of the database, making it easier to design, manage, and troubleshoot databases. In the context of the PostgreSQL extension for VS Code, schema visualization allows users to right-click on a database entry in the Object Explorer and select options to visualize the schema, providing a clear and interactive view of the database structure.

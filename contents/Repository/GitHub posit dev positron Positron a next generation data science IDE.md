@@ -15,16 +15,18 @@ https://github.com/posit-dev/positron
 
 Positron is a next-generation data science IDE developed by Posit PBC. It is designed as an extensible, polyglot tool for writing code and exploring data, providing a familiar environment for reproducible authoring and publishing. Key features include:
 
-- **Extensibility**: Built to be customized and extended.
-- **Polyglot Support**: Capable of handling multiple programming languages.
-- **Data Exploration**: Tools for exploring and analyzing data.
-- **Reproducible Authoring**: Facilitates reproducible research and publishing.
+- **Built on Code OSS**: Leverages the foundation of Visual Studio Code, offering familiar features like commands, settings, and source control.
+- **Cross-Platform Support**: Available for macOS, Windows, and Linux desktops.
+- **Extensibility**: Supports extensions to enhance functionality.
+- **Polyglot Capabilities**: Designed to handle multiple programming languages, with a primary focus on data science tasks.
+- **Reproducible Authoring and Publishing**: Facilitates the creation and sharing of reproducible data science work.
 
-The IDE is built on Code OSS, leveraging its features such as commands, settings, and source control. Positron is available for macOS, Windows, and Linux desktops, with continuous integration (CI) system-produced release builds. The project is licensed under the Elastic License 2.0, a source-available license. Users are encouraged to provide feedback and report bugs through GitHub Discussions. The project adheres to a Contributor Code of Conduct.
+The project is open-source and licensed under the Elastic License 2.0. It encourages community involvement through contributions, feedback, and discussions on GitHub. The repository includes detailed documentation on installation, troubleshooting, and usage, as well as guidelines for contributing and reporting issues.
 ## Links
 
-- [Positron Official Website](https://positron.posit.co/) : The official website for Positron, a next-generation data science IDE.
-- [GitHub Blog](https://github.blog) : The official GitHub blog, featuring updates, announcements, and articles related to GitHub and its ecosystem.
+- [Positron Official Website](https://positron.posit.co/) : The official website for Positron, providing detailed information about the next-generation data science IDE, including features, downloads, and FAQs.
+- [Positron Download Page](https://positron.posit.co/download) : The download page for Positron, where you can get the latest release for macOS, Windows, and Linux desktops.
+- [VS Code Documentation](https://code.visualstudio.com/docs) : Documentation for Visual Studio Code, which Positron is built on. It covers basic features like commands, settings, and using source control.
 
 ## Topics
 

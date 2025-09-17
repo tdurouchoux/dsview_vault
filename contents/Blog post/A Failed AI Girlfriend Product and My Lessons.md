@@ -14,11 +14,30 @@ upload_date: '2023-11-23'
 https://mazzzystar.github.io/2023/11/16/ai-girlfriend-product/
 ## Summary
 
-The author was inspired by Stanford University's AI Town paper to create an AI companion app called Dolores, aiming to mimic the experience depicted in the movie "Her." The app allowed users to interact with AI characters, with options to customize their appearance, personality, and voice. Despite initial success and user engagement, the author faced several challenges, including high API costs, technical limitations, and ethical concerns.
+The author shares their experience developing an AI companion app called Dolores, inspired by Stanford University's AI Town paper. The app aimed to create a virtual friend with memory, reflection, and planning capabilities, similar to the movie "Her."
 
-Key observations included users' willingness to pay for realistic voices and long average usage times. However, the author discovered that many users were primarily interested in adult role-play, leading to a sense of loss and self-doubt. Additionally, OpenAI's content review process significantly reduced traffic and user complaints, further discouraging the author.
+**Development:**
+- The app allowed users to create and interact with custom AI characters.
+- Initial versions had slow response times and context limits, which were addressed by reducing memory and reflection frequency.
+- The app was launched publicly, with over a thousand users joining the beta test.
 
-Lessons learned include the need for a team and resources to develop such a product, the inevitability of AI companions turning into AI partners without hardware development, and the importance of content moderation. The author acknowledges the potential of AI companions but questions the necessity and ethical implications of such products.
+**Discoveries:**
+- Users showed a strong demand for realistic voices, with 70% of June's revenue coming from purchases of realistic voice synthesis.
+- Users spent significant time interacting with the app, with many spending over two hours daily.
+
+**Revenue:**
+- Revenue grew from $1,000 in May to $1,200 in June, but profits were low due to high costs and Apple's 30% tax.
+- The author implemented a usage cap to manage costs and cater to most users.
+
+**Confusion:**
+- The author noticed that many users were interested in adult role-play, leading to self-doubt about the app's purpose.
+- OpenAI's upgraded content review process caused a 70% drop in daily visits and led to the app's eventual abandonment.
+
+**Lessons:**
+- The app was not viable for an individual developer due to the need for comprehensive data tracking and a large user base.
+- Current AI friends inevitably turn into AI girlfriends/boyfriends due to the lack of external vision and independent life.
+- OpenAI's moderation process was seen as necessary but should not completely stifle conversations about adult sexuality.
+- The author believes that GPT combined with hardware could be a promising direction for future products.
 ## Links
 
 - [Stanford University’s AI Town paper](https://arxiv.org/abs/2304.03442) : The paper that inspired the creation of the AI girlfriend product, discussing the potential for AI to simulate consciousness and interaction.
@@ -34,3 +53,5 @@ Lessons learned include the need for a team and resources to develop such a prod
 ![](topics/Concept/AI%20Agents)
 
 ![](topics/Concept/AI%20Moderation)
+
+![](topics/Concept/AI%20Content%20Review)

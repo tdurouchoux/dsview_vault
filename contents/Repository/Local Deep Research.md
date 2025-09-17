@@ -13,23 +13,27 @@ upload_date: '2025-04-19'
 https://github.com/LearningCircuit/local-deep-research
 ## Summary
 
-Local Deep Research (LDR) is an AI-powered research assistant designed for deep, iterative research. It achieves ~95% accuracy on the SimpleQA benchmark when tested with GPT-4.1-mini and supports both local and cloud-based large language models (LLMs) like Ollama, Google, and Anthropic. LDR can search across multiple sources, including arXiv, PubMed, web, and private documents, all while maintaining a local focus.
+Local Deep Research (LDR) is an AI-powered research assistant designed for deep, iterative research. It achieves ~95% accuracy on the SimpleQA benchmark using GPT-4.1-mini and supports both local and cloud-based large language models (LLMs) like Ollama, Google, and Anthropic. LDR can search over 10 sources, including arXiv, PubMed, web, and private documents, all while maintaining a local focus.
 
-Key features of LDR include:
+Key features include:
 - **Research Modes**: Quick summaries, detailed research, report generation, and document analysis.
-- **Advanced Capabilities**: LangChain integration, REST API, benchmarking, analytics dashboard, real-time updates, export options, research history, adaptive rate limiting, keyboard shortcuts, and per-user encrypted databases.
-- **Search Sources**: Supports free search engines (arXiv, PubMed, Wikipedia, etc.), premium search engines (Tavily, Google, Brave Search), and custom sources (local documents, LangChain retrievers, meta search).
+- **Advanced Capabilities**: LangChain integration, REST API, benchmarking, analytics dashboard, real-time updates, and export options.
+- **Security & Privacy**: Signal-level encryption, per-user isolated databases, zero-knowledge architecture, and advanced key derivation.
+- **Search Sources**: Supports free search engines (arXiv, PubMed, Wikipedia, etc.) and premium engines (Tavily, Google, Brave Search), as well as custom sources like local documents and LangChain retrievers.
+- **Quick Start**: Options include Docker, Docker Compose, and Python package installation.
+- **Usage Examples**: Provides Python API, HTTP API, and command-line tools for various research tasks.
+- **Enterprise Integration**: Connects to existing knowledge bases using LangChain-compatible retrievers.
+- **Performance & Analytics**: Includes benchmark results and a built-in analytics dashboard.
+- **Supported LLMs**: Local models via Ollama (Llama 3, Mistral, Gemma, DeepSeek) and cloud models (OpenAI, Anthropic, Google).
 
-LDR is privacy-focused, flexible, comprehensive, transparent, and open-source under the MIT license. It offers multiple installation options, including Docker, Docker Compose, and Python package installation. The tool also provides various usage examples through Python API, HTTP API, and command-line tools.
-
-Performance metrics show preliminary results with configurations like gpt-4.1-mini + SearXNG achieving 90-95% accuracy. LDR supports a wide range of LLMs, both local (via Ollama) and cloud-based (OpenAI, Anthropic, Google). Detailed documentation and community support are available to help users get started and contribute to the project.
+LDR is open-source under the MIT license and includes comprehensive documentation and community support.
 ## Links
 
-- [Local Deep Research Docker Hub](https://hub.docker.com/r/localdeepresearch/local-deep-research) : Docker Hub repository for Local Deep Research, providing containerized deployment options.
-- [Ollama AI](https://ollama.ai) : Ollama AI website, which is mentioned as a supported LLM provider for Local Deep Research.
-- [Local Deep Research PyPI](https://pypi.org/project/local-deep-research/) : PyPI page for Local Deep Research, allowing installation via pip.
-- [LangChain GitHub](https://github.com/hwchase17/langchain) : GitHub repository for LangChain, a library integrated with Local Deep Research for various functionalities.
-- [FAISS GitHub](https://github.com/facebookresearch/faiss) : GitHub repository for FAISS, a library used by Local Deep Research for similarity search and clustering of dense vectors.
+- [Local Deep Research PyPI](https://pypi.org/project/local-deep-research/) : The PyPI page for Local Deep Research, providing installation and usage details for the Python package.
+- [SearXNG Official Website](https://searxng.org/) : The official website for SearXNG, a privacy-respecting, self-hostable metasearch engine.
+- [Ollama AI](https://ollama.ai) : The official website for Ollama, a platform for running local large language models.
+- [Local Deep Research Docker Hub](https://hub.docker.com/r/localdeepresearch/local-deep-research) : The Docker Hub page for Local Deep Research, providing containerized deployment options.
+- [FAISS GitHub Repository](https://github.com/facebookresearch/faiss) : The GitHub repository for FAISS, a library for efficient similarity search and clustering of dense vectors.
 
 ## Topics
 
@@ -37,6 +41,12 @@ Performance metrics show preliminary results with configurations like gpt-4.1-mi
 
 ![](topics/Tool/SearXNG)
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![](topics/Tool/FAISS)
 
-![](topics/Concept/Ollama)
+![](topics/Concept/Retrieval%20Augmented%20Generation)
+
+![](topics/Concept/Focused%20Iteration)
+
+![](topics/Tool/Ollama)
+
+![](topics/Library/LangChain)

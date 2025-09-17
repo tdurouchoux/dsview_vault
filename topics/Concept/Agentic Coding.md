@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Agentic coding refers to the use of AI models to perform coding tasks autonomously or semi-autonomously. This includes activities such as writing code, debugging, and integrating with version control systems. Agentic coding tools like Claude Code can significantly enhance productivity by handling complex tasks that would otherwise require extensive manual effort. This concept leverages the capabilities of advanced language models to assist in software development processes.
+Agentic coding refers to the use of AI agents to perform coding tasks autonomously or semi-autonomously. These agents can understand and execute coding tasks, interact with development tools, and collaborate with developers to enhance productivity. Agentic coding tools like Claude Code can handle complex codebases, plan code changes, and perform full-stack updates, making them valuable for software development.

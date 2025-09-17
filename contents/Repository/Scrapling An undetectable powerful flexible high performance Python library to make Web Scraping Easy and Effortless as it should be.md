@@ -6,6 +6,7 @@ relevance: 3
 source: Data Elixir
 tags:
 - Data_Engineering
+- Python
 - Development_tool
 type: Content
 upload_date: '2025-05-21'
@@ -14,12 +15,26 @@ upload_date: '2025-05-21'
 https://github.com/D4Vinci/Scrapling
 ## Summary
 
-Scrapling is a Python library designed for web scraping, emphasizing undetectability, power, flexibility, and high performance. It introduces adaptive scraping, which learns from website changes and evolves with them, unlike other libraries that break when websites update their structure. Key features include advanced website fetching with session support, dynamic loading, anti-bot bypass, and async support. It also offers adaptive scraping with AI integration, high-performance architecture, and a developer-friendly experience with an interactive web scraping shell and rich navigation API. The library supports various selection methods like CSS selectors, XPath, and text search. It is optimized for speed and memory efficiency, outperforming many other Python scraping libraries. Scrapling requires Python 3.10 or higher and can be installed via pip. Additional features include an MCP server for AI-assisted scraping and a command-line interface for direct scraping without coding. The project is open-source under the BSD-3-Clause license and welcomes contributions.
+Scrapling is a Python library designed for web scraping, emphasizing ease of use, adaptability, and high performance. It offers several key features:
+
+1. **Advanced Websites Fetching**: Supports HTTP requests, dynamic website fetching, anti-bot bypass, session management, and async support.
+2. **Adaptive Scraping & AI Integration**: Includes smart element tracking, flexible selection methods, and an MCP server for AI-assisted scraping.
+3. **High-Performance Architecture**: Optimized for speed and memory efficiency, with fast JSON serialization and battle-tested architecture.
+4. **Developer-Friendly Experience**: Offers an interactive shell, rich navigation API, enhanced text processing, auto selector generation, and full type coverage.
+5. **New Session Architecture**: Introduces persistent sessions, automatic session management, session inheritance, and concurrent session support.
+
+Scrapling is designed to handle modern web scraping challenges, including bypassing anti-bot systems and adapting to website changes. It outperforms many other libraries in terms of speed and efficiency. The library is available on GitHub and requires Python 3.10 or higher. Optional dependencies can be installed for additional features like the MCP server and interactive shell. The project is licensed under the BSD-3-Clause License.
 ## Links
 
-- [Scrapling Documentation](https://scrapling.readthedocs.io/en/latest/) : The official documentation for Scrapling, providing detailed information on installation, usage, and advanced features.
-- [Scrapling PyPI](https://pypi.org/project/scrapling/) : The PyPI page for Scrapling, where you can find installation instructions and package details.
+- [Scrapling Documentation](https://scrapling.readthedocs.io/en/latest/) : The official documentation for Scrapling, providing detailed guides, tutorials, and API references for using the library effectively.
+- [Scrapling PyPI](https://pypi.org/project/scrapling/) : The PyPI page for Scrapling, where you can find installation instructions and version information for the library.
 
 ## Topics
 
 ![](topics/Library/Scrapling)
+
+![](topics/Concept/Adaptive%20Scraping)
+
+![](topics/Concept/MCP%20Server)
+
+![](topics/Concept/Stealthy%20Fetching)

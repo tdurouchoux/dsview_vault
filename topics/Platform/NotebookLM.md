@@ -2,4 +2,4 @@
 type: Platform
 ---
 
-NotebookLM is a platform developed by Google that integrates large language models into a notebook interface. It allows users to create, edit, and interact with notebooks that can generate text, code, and other content. The platform supports features like chat, mind maps, audio and video overviews, and the ability to add or discover new sources. It is designed to enhance productivity and collaboration, with options for both personal and professional use, including integration with Google Workspace accounts.
+NotebookLM is an interactive platform developed by Google that integrates chat and notebook functionalities. It allows users to create, manage, and share notebooks, which can include text, code, and multimedia elements. The platform supports various features such as generating audio and video overviews, creating mind maps, and adding notes. It is designed to enhance productivity and collaboration, particularly in educational and professional settings. Users can access public and featured notebooks, and the platform supports multiple languages, making it accessible to a global audience.

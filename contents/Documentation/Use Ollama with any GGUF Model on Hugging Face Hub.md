@@ -13,19 +13,23 @@ upload_date: '2024-12-28'
 https://huggingface.co/docs/hub/en/ollama
 ## Summary
 
-The content provides instructions on using Ollama with GGUF models on the Hugging Face Hub. Key points include:
+The document provides instructions on using Ollama with GGUF models on the Hugging Face Hub. Key points include:
 
-- **Ollama Integration**: Ollama, a llama.cpp-based application, can run any GGUF quant models from the Hugging Face Hub without creating a new Modelfile.
-- **Getting Started**: Enable Ollama in Local Apps settings and use the `ollama run` command with the model's Hub URL.
-- **Custom Quantization**: Users can select different quantization schemes by specifying the quantization tag in the `ollama run` command.
-- **Custom Chat Template and Parameters**: Users can customize chat templates and parameters by creating specific files (template, system, params) in the model repository.
-- **Private GGUFs**: To run private GGUFs, users need to add their Ollama SSH key to their Hugging Face account settings.
+1. **General Usage**: Ollama can run any GGUF model from the Hugging Face Hub using a simple command, with 45K public GGUF checkpoints available.
 
-The content also includes example commands and references to relevant documentation.
+2. **Custom Quantization**: Users can select different quantization schemes by specifying the quantization tag in the command.
+
+3. **Custom Chat Template and Parameters**: Users can customize chat templates, system prompts, and sampling parameters by creating specific files (template, system, params) in the repository.
+
+4. **Private GGUFs**: To run private GGUF models, users need to add their Ollama SSH key to their Hugging Face account settings.
+
+5. **References**: Links to Ollama's documentation and Hugging Face's GGUF documentation are provided for further details.
+
+The document is structured into sections: Custom Quantization, Custom Chat Template and Parameters, Run Private GGUFs from the Hugging Face Hub, and References.
 ## Links
 
-- [Ollama GitHub Repository](https://github.com/ollama/ollama/blob/main/docs/README.md) : The official Ollama GitHub repository, containing documentation and resources for using Ollama with GGUF models.
-- [GGUF Usage Documentation](https://huggingface.co/docs/hub/en/gguf) : Detailed documentation on GGUF usage with various tools, including Ollama, provided by Hugging Face.
+- [Ollama Documentation](https://github.com/ollama/ollama/blob/main/docs/README.md) : The official documentation for Ollama, providing detailed information on how to use the application with GGUF models.
+- [GGUF Usage with Ollama](https://huggingface.co/docs/hub/en/gguf) : Detailed guide on using GGUF models with Ollama on the Hugging Face Hub.
 
 ## Topics
 
@@ -33,4 +37,4 @@ The content also includes example commands and references to relevant documentat
 
 ![](topics/Platform/Hugging%20Face)
 
-![](topics/Concept/Ollama)
+![](topics/Tool/Ollama)

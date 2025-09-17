@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-The process of converting content from one language to another to reach a different linguistic audience. In the context of information manipulation, translation is used to spread narratives across different language groups, often requiring reliable translation tools or bilingual agents.
+A technique used in information manipulation campaigns to adapt messages for different language audiences. It involves using reliable translation tools or bilingual agents to credibly adapt a collection of messages for a different language audience, which is particularly significant in foreign-operated campaigns.

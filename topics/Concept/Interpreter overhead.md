@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Interpreter overhead refers to the additional computational cost incurred when executing code in an interpreted language compared to a compiled language. This overhead can include the time taken for the interpreter to parse and execute each line of code, as well as the lack of certain optimizations that are available in compiled languages. In the context of Python, interpreter overhead can significantly impact performance, especially in CPU-bound tasks.
+Interpreter overhead refers to the additional computational cost incurred when executing code through an interpreter, such as the CPython interpreter for Python. This overhead can include the time taken to parse and interpret each line of code, as well as the management of dynamic data types and other runtime features. Interpreter overhead can significantly slow down the execution of Python code compared to natively compiled languages like C++ or Rust. However, the impact of interpreter overhead can vary depending on the specific operations being performed and the efficiency of the interpreter implementation.

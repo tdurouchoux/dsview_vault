@@ -1,5 +1,0 @@
----
-type: Concept
----
-
-A retrieval method that combines semantic embeddings, keyword-based search (like BM25), and graph traversal to achieve low-latency queries without relying solely on LLM summarization. Hybrid search is a technique that combines the strengths of different search methods to improve the accuracy and relevance of search results. It typically involves combining keyword-based search with semantic search, which uses natural language processing and machine learning to understand the meaning and context of search queries. Hybrid search aims to provide more accurate and contextually relevant results by leveraging the complementary strengths of different search techniques. This approach is particularly useful in applications like e-commerce, where users may search for products using a combination of keywords and natural language queries.

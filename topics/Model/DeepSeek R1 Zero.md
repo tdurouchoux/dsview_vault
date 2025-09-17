@@ -2,4 +2,4 @@
 type: Model
 ---
 
-DeepSeek-R1-Zero is an interim model used in the training process of DeepSeek-R1. It is specialized in reasoning tasks and is trained using large-scale reinforcement learning without the need for a labeled supervised fine-tuning dataset. This model is significant for its ability to automatically verify reasoning problems, making it competitive with other advanced models like OpenAI's O1.
+DeepSeek-R1-Zero is a specialized model within the DeepSeek-R1 framework. It is designed to excel at reasoning tasks without relying on a labeled supervised fine-tuning (SFT) training set. The model undergoes a reinforcement learning (RL) training process directly from a pre-trained base model, making it highly capable in reasoning tasks and competitive with models like OpenAI O1.

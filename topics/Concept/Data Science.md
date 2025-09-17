@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Data Science is an interdisciplinary field that combines techniques and theories from various fields, including statistics, computer science, and domain knowledge, to extract insights and knowledge from structured and unstructured data. It involves processes such as data cleaning, data exploration, data transformation, feature engineering, and data visualization to create predictive models and generate actionable insights.
+Data Science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. It combines techniques from statistics, computer science, and domain knowledge to analyze and interpret complex data.

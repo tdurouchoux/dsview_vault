@@ -13,7 +13,7 @@ upload_date: '2025-03-16'
 https://huggingface.co/spaces/smolagents/smolagents-leaderboard
 ## Summary
 
-The smolagents LLM leaderboard is a Hugging Face Space application that displays a leaderboard for various language models (LLMs). It is currently running and has been liked by 137 users. The application is maintained by the user smolagents. The leaderboard likely ranks models based on certain performance metrics or benchmarks, providing a quick overview of the top-performing models in the field. The exact criteria for ranking and the specific models included are not detailed in the provided information. The application is part of the Hugging Face ecosystem, which is a popular platform for sharing and discovering machine learning models and datasets.
+The smolagents LLM leaderboard is a Hugging Face Space application that tracks and ranks various language models (LLMs). It provides a real-time, interactive leaderboard that allows users to compare different models based on their performance metrics. The leaderboard is designed to be easily accessible and user-friendly, with a focus on providing clear and concise information about each model. It includes features such as model descriptions, performance scores, and other relevant details. The application is part of the broader ecosystem of Hugging Face Spaces, which hosts a variety of machine learning and data science projects.
 ## Links
 
 

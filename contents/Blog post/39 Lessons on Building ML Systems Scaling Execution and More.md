@@ -7,6 +7,7 @@ source: Data Elixir
 tags:
 - MlOps
 - Data_Engineering
+- Development_tool
 type: Content
 upload_date: '2024-11-07'
 ---
@@ -14,22 +15,47 @@ upload_date: '2024-11-07'
 https://eugeneyan.com//writing/conf-lessons/
 ## Summary
 
-- **Building Effective ML Systems**: Key points include defining reward functions, starting simple, understanding trade-offs, setting realistic expectations, and designing for time-awareness. Investing in evaluation frameworks and data flywheels is crucial. Be prepared to adapt to new models and design flexible systems.
+The content presents 39 lessons learned from ML conferences in 2024, focusing on building, scaling, and executing ML systems, as well as conference experiences. Key points include:
 
-- **Production and Scaling**: Going from demo to production is challenging. Scale introduces new issues, and each 10x increase in scale uncovers new bugs. LLMs' cost-effectiveness depends on the use case. Focus on fundamentals like data pipelines, instrumentation, and monitoring. Start simple and consider asynchronous workflows.
+**Building Effective ML Systems:**
+- Define clear reward functions and measure what matters.
+- Start simple; ML isn't always necessary.
+- Balance trade-offs (e.g., recall vs. precision, accuracy vs. speed).
+- Set realistic expectations and be time-aware.
+- Invest in robust evaluation frameworks and data flywheels.
+- Design for flexibility and future-proofing.
 
-- **Execution and Collaboration**: Execution is critical, and iteration speed drives innovation. Breakthroughs take time, and non-technical challenges (alignment, culture) are significant. Collaboration and learning from others are essential. Share knowledge and focus on building.
+**Production and Scaling:**
+- Going from demo to production is challenging.
+- Scale exacerbates issues; prepare early.
+- LLMs' cost and viability depend on use case (B2B vs. consumer).
+- Prioritize fundamentals like data pipelines, instrumentation, and monitoring.
+- Start simple and consider async workflows.
 
-- **Building for Users**: Always work backwards from the customer. Dream big but sweat the details. AI will automate and simplify tasks but won't eliminate jobs.
+**Execution and Collaboration:**
+- Execution is crucial; focus on iteration and innovation.
+- Breakthroughs take time; be patient.
+- Address non-technical challenges (alignment, culture).
+- Collaboration across roles is essential; leverage collective wisdom.
+- Share knowledge and seek help from others.
 
-- **Conferences**: Speaking at conferences requires balancing insight sharing with protecting proprietary information. Top practitioners work hard and engage deeply. Substance matters more than style in presentations. Conferences are valuable for inspiration and networking.
+**Building for Users:**
+- Work backwards from the customer.
+- Dream big but focus on details.
+- AI automates and simplifies tasks but creates new opportunities.
 
-- **General Advice**: Tune out noise, focus on building, and attend conferences to stay inspired and informed.
+**Conference Insights:**
+- Balance sharing insights with protecting proprietary information.
+- Top practitioners work hard and engage deeply.
+- Substance matters more than style in presentations.
+- Conferences foster inspiration, ideas, and motivation.
+
+The content emphasizes practical advice for ML practitioners, focusing on system design, scaling, execution, and collaboration, as well as the value of industry conferences.
 ## Links
 
-- [Applied LLM](https://applied-llms.org/) : A website dedicated to applied large language models, with insights and resources for practitioners.
-- [Mental Model for How to Use LLMs in Products](https://lethain.com/mental-model-for-how-to-use-llms-in-products/) : An article discussing mental models for integrating large language models into products, focusing on practical applications and strategies.
-- [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) : A paper discussing the importance of flexibility and generalization in machine learning, emphasizing the long-term benefits of adaptable systems.
+- [Mental Model for How to Use LLMs in Products](https://lethain.com/mental-model-for-how-to-use-llms-in-products/) : This link points to an article discussing a mental model for integrating Large Language Models (LLMs) into products, likely covering strategies and considerations for effective implementation.
+- [Applied LLMs](https://applied-llms.org/) : This link points to a resource on applied Large Language Models (LLMs), likely providing practical insights, case studies, or tools for applying LLMs in real-world scenarios.
+- [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) : This link points to a PDF document titled 'The Bitter Lesson,' which likely discusses key lessons or insights in the field of machine learning or AI, emphasizing the importance of leveraging scale and simplicity over complex, specialized solutions.
 
 ## Topics
 
@@ -39,4 +65,4 @@ https://eugeneyan.com//writing/conf-lessons/
 
 ![](topics/Concept/Altman%20s%20Law)
 
-![](topics/Concept/Brandolini%20s%20Law)
+![](topics/Concept/The%20Bitter%20Lesson)

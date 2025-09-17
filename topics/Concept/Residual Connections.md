@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Residual connections, also known as skip connections, are connections that skip one or more layers and directly connect earlier layers to deeper layers in the network. They are used to mitigate the vanishing gradient problem and help in training very deep networks by allowing gradients to flow more easily through the network. In Transformers, residual connections are used around each sub-layer, followed by layer normalization.
+Residual connections, also known as skip connections, are a technique used in deep neural networks to help mitigate the vanishing gradient problem. They involve adding the input of a layer to its output before passing it to the next layer. This allows gradients to flow more easily through the network during backpropagation, enabling the training of very deep networks. In the context of Transformers, residual connections are applied around both the self-attention sub-layer and the feed-forward network sub-layer within each encoder and decoder block.

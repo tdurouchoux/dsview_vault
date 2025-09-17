@@ -14,13 +14,12 @@ upload_date: '2024-11-03'
 https://huggingface.co/blog/vision_language_pretraining
 ## Summary
 
-The blog post discusses vision-language models, which combine vision and language modalities for tasks like image captioning, text-guided image generation, and visual question-answering. These models have shown impressive capabilities and are evolving rapidly. The post covers various learning strategies for these models, including contrastive learning, PrefixLM, multi-modal fusing with cross attention, masked-language modeling/image-text matching, and no training approaches. It also discusses datasets used for pre-training and downstream tasks, and how to support vision-language models using Hugging Face Transformers. The post concludes with emerging areas of research and the potential of these models in fields like medicine, robotics, and more. The authors encourage readers to experiment with these models and stay updated on the latest developments.
+The blog post discusses the recent advancements in vision-language models, which combine vision and language modalities to process and link information from images and text. These models have shown impressive capabilities in tasks such as image captioning, text-guided image generation, and visual question-answering. The post covers various learning strategies for these models, including contrastive learning, PrefixLM, multi-modal fusing with cross attention, masked-language modeling/image-text matching, and no training approaches. It also provides an overview of popular pre-training and downstream datasets used for training and evaluating these models. The post demonstrates how to use Hugging Face Transformers to experiment with vision-language models, specifically ViLT for visual question-answering and CLIPSeg for zero-shot image segmentation. Additionally, it highlights emerging areas of research in vision-language models, such as medical applications, image manipulation, video retrieval, 3D shape manipulation, and robotics. The post concludes by encouraging further exploration of these models and their use cases.
 ## Links
 
-- [FLAVA Model Documentation](https://huggingface.co/docs/transformers/main/en/model_doc/flava) : Documentation for the FLAVA model, which supports both unimodal and multimodal tasks.
-- [OWL-ViT Model Documentation](https://huggingface.co/docs/transformers/main/en/model_doc/owlvit) : Documentation for the OWL-ViT model, which enables zero-shot and one-shot object detection.
-- [CLIPSeg Model Documentation](https://huggingface.co/docs/transformers/main/en/model_doc/clipseg) : Documentation for the CLIPSeg model, which enables zero-shot image segmentation.
-- [ViLT Model Documentation](https://huggingface.co/docs/transformers/main/en/model_doc/vilt) : Documentation for the ViLT model, which is used for visual question answering and other tasks.
+- [Hugging Face CLIPSeg Documentation](https://huggingface.co/docs/transformers/main/en/model_doc/clipseg) : Documentation for CLIPSeg, a model for zero-shot image segmentation, allowing users to segment images based on text descriptions without prior training.
+- [Hugging Face ViLT Documentation](https://huggingface.co/docs/transformers/model_doc/vilt) : Documentation for ViLT, a vision-language model designed for visual question answering, enabling users to ask questions about images and receive accurate answers.
+- [Hugging Face FLAVA Documentation](https://huggingface.co/docs/transformers/main/en/model_doc/flava) : Documentation for FLAVA, a model that combines vision and language modalities, supporting various tasks such as image-text retrieval and visual question answering.
 
 ## Topics
 
@@ -38,8 +37,8 @@ The blog post discusses vision-language models, which combine vision and languag
 
 ![](topics/Dataset/LAION%205B)
 
-![](topics/Dataset/COCO)
+![](topics/Dataset/LSVTD)
 
-![](topics/Dataset/Conceptual%20Captions)
+![](topics/Dataset/WebVid)
 
-![](topics/Dataset/Flickr30K)
+![](topics/Dataset/VQA%20Visual%20Question%20Answering)

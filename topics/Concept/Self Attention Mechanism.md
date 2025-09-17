@@ -1,5 +1,0 @@
----
-type: Concept
----
-
-Self-attention, also known as intra-attention, is a mechanism that allows the model to weigh the importance of input elements with respect to each other, regardless of their distance in the sequence. It is a core component of the Transformer architecture and enables the model to capture dependencies between distant elements in the input sequence. The mechanism involves computing attention scores between all pairs of elements in the sequence. Self-attention, also known as intra-attention, is a specific type of attention mechanism used in the Transformer model. It relates different positions of a single sequence to compute a representation of the sequence. Self-attention allows the model to capture dependencies between elements of the same sequence, enabling it to understand the context and relationships within the sequence more effectively. In the Transformer, self-attention is used in both the encoder and decoder stacks, allowing each position in the sequence to attend to all positions in the previous layer, thereby enhancing the model's ability to process and understand sequential data.

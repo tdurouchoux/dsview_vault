@@ -2,4 +2,4 @@
 type: Library
 ---
 
-Pfuzzer is a Python fuzzy search library built with Rust's Nucleo library. It enables fast and efficient fuzzy search by leveraging Rust's performance and memory safety. Pfuzzer demonstrates how PyO3 can be used to integrate Rust code into Python, providing a performant solution for imprecise searches.
+Pfuzzer is a Python Fuzzy Searcher that leverages the Rust Nucleo library for fast and efficient fuzzy search capabilities. It allows users to perform imprecise searches by comparing strings and returning similarity scores. Pfuzzer demonstrates the integration of Rust's performance and safety with Python's flexibility through the PyO3 framework.

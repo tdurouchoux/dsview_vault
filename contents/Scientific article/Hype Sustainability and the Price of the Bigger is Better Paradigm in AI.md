@@ -6,7 +6,6 @@ relevance: 0
 source: Blef
 tags:
 - Large_Language_Model
-- AI_regulation
 type: Content
 upload_date: '2025-01-14'
 ---
@@ -14,11 +13,9 @@ upload_date: '2025-01-14'
 https://arxiv.org/pdf/2409.14160
 ## Summary
 
-The paper critiques the "bigger-is-better" paradigm in AI, arguing that it is not sustainable and comes with undesirable consequences. The authors scrutinize the current scaling trends and trade-offs across multiple axes, refuting two common assumptions underlying the paradigm: that performance improvements are driven by increased scale, and that all interesting problems addressed by AI require large-scale models. The authors argue that this approach is not only fragile scientifically but also comes with undesirable consequences, including economic requirements, environmental footprint, and a concentration of power.
+The paper critiques the "bigger-is-better" paradigm in AI, arguing that it is not sustainable and comes with undesirable consequences. The authors scrutinize the current scaling trends and trade-offs across multiple axes, refuting two common assumptions underlying the paradigm: that performance improvements are driven by increased scale, and that all interesting problems addressed by AI require large-scale models. The authors argue that this approach is not only fragile scientifically but also comes with undesirable consequences, including economic requirements and a disproportionate environmental footprint. The paper also discusses how the focus on scale implies focusing on certain problems at the expense of others, leaving aside important applications such as health, education, or the climate. Additionally, the concentration of power in the hands of a few actors is exacerbated, centralizing decision-making and threatening to disempower others in the context of shaping both AI research and its applications throughout society.
 
-The paper is structured into several sections, including an introduction that discusses the current focus on scale in AI research, a section that examines what problems scale solves, and sections that discuss the consequences of the bigger-is-better paradigm, including its unsustainability, data problems, and the concentration of power it fosters. The authors also provide ways forward, suggesting that the research community should assign value to research on smaller systems, talk openly about size and cost, hold reasonable expectations, and quantitatively frame the changes they call for.
-
-The authors argue that the research community can and must act to pursue scientific questions beyond ever-larger models and datasets and needs to foster scientific discussion engaging the trade-offs that come with scale. They call for assigning value to research on smaller systems, talking openly about size and cost, holding reasonable expectations, and quantitatively framing the changes they call for. The authors conclude by arguing that scientific understanding and meaningful social benefits of AI will come from de-emphasizing scale as a blanket solution for all problems, instead focusing on models that can be run on widely-available hardware, at moderate costs. This will enable more actors to shape how AI systems are created and used, providing more immediate value in applications ranging from health to business, as well as enabling a more democratic practice of AI.
+The paper is structured into several sections, including an introduction that outlines the main arguments, a section that examines what problems scale solves, a section on the consequences of the bigger-is-better paradigm, and a section on ways forward. The authors argue that the fixation on scale is misguided and that there are many interesting problems in AI that do not require scale. They also discuss the environmental impacts of large-scale AI, the invasive data gathering practices, and the concentration of power and innovation. The authors conclude by outlining how the research community can reclaim the scientific discourse in the AI field and move away from a singular focus on scale.
 ## Links
 
 
@@ -26,14 +23,10 @@ The authors argue that the research community can and must act to pursue scienti
 
 ![](topics/Concept/Bigger%20is%20Better%20Paradigm)
 
-![](topics/Concept/Scaling%20Trends%20in%20AI)
+![](topics/Concept/Jevons%20Paradox)
 
-![](topics/Concept/Efficiency%20and%20Sustainability%20in%20AI)
+![](topics/Concept/Diminishing%20Returns%20of%20Scale)
 
-![](topics/Concept/Data%20Quality%20and%20Ethical%20Implications)
+![](topics/Concept/Data%20Contamination)
 
-![](topics/Concept/Concentration%20of%20Power%20in%20AI)
-
-![](topics/Concept/Benchmarking%20and%20Evaluation%20in%20AI)
-
-![](topics/Concept/Efficiency%20and%20Sustainability%20in%20AI)
+![](topics/Concept/Model%20Evaluation)

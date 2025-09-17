@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A vectorstore is a database specifically designed to store and manage vector embeddings, which are numerical representations of data such as text, images, or other types of information. Vectorstores are optimized for fast and efficient similarity search, allowing for the retrieval of the most relevant vectors based on a query vector. This is particularly useful in machine learning and AI applications, where similarity search is a common operation. Examples of vectorstores mentioned in the text include PGVector and Faiss.
+A vectorstore is a database system designed to store and manage high-dimensional vectors, typically used in machine learning and information retrieval tasks. Vectorstores are optimized for efficient similarity search, allowing quick retrieval of the most similar vectors to a given query vector. This is particularly useful in applications like recommendation systems, image search, and natural language processing, where the goal is to find items or information that are semantically similar to a given input.

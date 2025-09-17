@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Union-Find, also known as the Disjoint Set Union (DSU), is a data structure that efficiently manages and manipulates sets of elements. It supports two primary operations: union, which merges two sets, and find, which determines the root of the set containing a given element. Union-Find is widely used in graph algorithms, such as Kruskal's algorithm for finding the minimum spanning tree, and in network connectivity problems.
+Union-Find is an algorithm used to efficiently manage and compute the connected components of a graph. It uses a data structure that maintains a partition of a set into disjoint subsets, allowing for efficient merging of subsets (union) and finding the subset to which an element belongs (find). The algorithm is widely used in various graph-related problems and is known for its efficiency and simplicity.

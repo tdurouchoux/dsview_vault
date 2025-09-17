@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Structured Query Language (SQL) is a standard language for managing and manipulating relational databases. It is used to perform tasks such as updating data, creating and modifying database schemas, and controlling access to data. SQL has been in use for over 50 years and remains a fundamental tool in database management despite its age and various attempts to replace it.
+Structured Query Language (SQL) is a standard programming language for managing and manipulating relational databases. It is used to perform tasks such as updating data, creating tables, and handling database operations. Despite being over 50 years old, SQL remains a fundamental tool in the field of database management and is continuously being optimized and improved.

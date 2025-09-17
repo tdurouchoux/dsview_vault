@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Constrained Decoding is a technique used in text generation models to ensure that the outputs conform to a desired structure, such as JSON objects. It accelerates token generation, reduces the number of tokens needed, and improves task performance by guiding the model's responses.
+Constrained decoding is a technique used in language models to limit the model's output to a predefined set of tokens or structures. This ensures that the model's responses adhere to specific constraints, such as a given schema or format. By using constrained decoding, the reliability and consistency of the model's output can be improved, making it more suitable for tasks that require structured or formatted responses.

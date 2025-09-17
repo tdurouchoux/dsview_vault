@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A Python context manager is a construct that allows for the allocation and release of resources in a controlled manner. It is typically used with the 'with' statement and defines the runtime context to be established when executing a 'with' statement. Context managers are used for resource management, such as opening and closing files, establishing database connections, and acquiring and releasing locks.
+A Python context manager is a construct that allows for resource management in a Python program. It is used to set up a block of code, ensuring that resources are properly acquired and released. Context managers are typically used with the 'with' statement and are implemented using classes that define the methods '__enter__' and '__exit__'. They are commonly used for file handling, database connections, and other operations that require resource management.

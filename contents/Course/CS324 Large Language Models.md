@@ -14,13 +14,17 @@ upload_date: '2023-01-19'
 https://stanford-cs324.github.io/winter2022/
 ## Summary
 
-This course, CS324, focuses on large language models (LLMs) and their impact on natural language processing (NLP). It covers the fundamentals of modeling, theory, ethics, and systems aspects of LLMs, as well as hands-on experience working with them. The course is structured into lectures and discussions, with grades based on paper reviews, discussions, and two projects. The first project involves evaluating language models like GPT-3, while the second project focuses on building and improving models like BERT-base. Coursework is submitted via Gradescope, with specific guidelines for late submissions and regrades. The course aims to provide a comprehensive understanding of LLMs, their capabilities, and their risks.
+The course CS324 focuses on large language models, covering their modeling, theory, ethics, and systems aspects. It is structured into lectures and discussions, with students required to review papers and participate in panel discussions. The coursework consists of two main components: paper reviews and discussions (20% of the grade), and two projects (80% of the grade). The first project involves evaluating language models like GPT-3, while the second project focuses on building models like BERT-base. Both projects should be done in groups of 1-2 students and submitted as PDFs. The course uses Ed for announcements and questions, Canvas for resources, and Gradescope for submissions. Late submissions are allowed with a limited number of late days, and regrade requests must be submitted within one week of grade release.
 ## Links
 
-- [Gradescope](https://www.gradescope.com/courses/342794) : Gradescope is used for managing coursework submissions and grading. Students can submit their assignments, and instructors can return grades through this platform.
-- [Canvas](https://canvas.stanford.edu/courses/149841) : Canvas is the learning management system used for the course. It contains important links, resources, and the Zoom link for remote classes, accessible only to enrolled students.
-- [Overleaf](https://www.overleaf.com/) : Overleaf is an online LaTeX editor that allows users to collaborate in real-time. It is recommended for typesetting projects and papers for the course.
+- [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/) : The main page for the CS324 course on Large Language Models at Stanford, providing an overview of the course, including its focus on modeling, theory, ethics, and systems aspects of large language models.
+- [CS324 - Lecture Notes](https://stanford-cs324.github.io/winter2022/lectures/) : This link provides access to the lecture notes for the CS324 course. It includes detailed notes on various topics covered in the lectures, which are essential for understanding the course material.
+- [CS324 - Paper Reviews](https://stanford-cs324.github.io/winter2022/paper-reviews/) : This link leads to the section on paper reviews for the CS324 course. It includes guidelines and instructions for writing paper reviews, which are a significant component of the coursework.
+- [CS324 - Projects](https://stanford-cs324.github.io/winter2022/projects/) : This link provides information about the projects required for the CS324 course. It includes details on the two projects, their objectives, and submission guidelines.
+- [Overleaf](https://www.overleaf.com/) : Overleaf is an online LaTeX editor that allows users to collaborate in real-time. It is mentioned as a recommended tool for typesetting projects for the CS324 course.
 
 ## Topics
 
-![](topics/Concept/Large%20Language%20Models)
+![](topics/Concept/Few%20shot%20Learning)
+
+![](topics/Concept/Ethics%20in%20AI)

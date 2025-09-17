@@ -13,36 +13,32 @@ upload_date: '2025-04-20'
 https://github.com/jlowin/fastmcp
 ## Summary
 
-FastMCP is a Python framework for building servers and clients for the Model Context Protocol (MCP), which standardizes context and tools for LLMs. FastMCP 2.0 offers a comprehensive toolkit for MCP, including deployment, authentication, clients, server proxying, and more. It is designed to be fast, simple, and Pythonic, reducing boilerplate and simplifying development.
+FastMCP is a Python framework for building servers and clients for the Model Context Protocol (MCP), a standardized way to provide context and tools to large language models (LLMs). It simplifies the process of creating MCP servers and clients with minimal boilerplate, offering a high-level, Pythonic interface.
 
 Key features include:
-- **Tools**: Define functions for LLMs to perform actions.
-- **Resources & Templates**: Expose read-only data sources.
-- **Prompts**: Create reusable message templates for LLM interactions.
-- **Context**: Access session capabilities within tools, resources, or prompts.
-- **Clients**: Interact with MCP servers programmatically.
-- **Advanced Features**: Proxy servers, server composition, OpenAPI & FastAPI generation, and authentication.
+- **Tools**: Define functions that LLMs can execute, with automatic schema generation from type hints and docstrings.
+- **Resources & Templates**: Expose read-only data sources with dynamic templates for specific data subsets.
+- **Prompts**: Create reusable message templates to guide LLM interactions.
+- **Context**: Access session capabilities within tools, resources, or prompts for logging, LLM sampling, HTTP requests, and more.
+- **Clients**: Interact with MCP servers programmatically, supporting various transports and advanced patterns.
+- **Advanced Features**: Proxy servers, server composition, OpenAPI & FastAPI generation, and authentication & security.
 
-FastMCP supports multiple transport protocols (STDIO, HTTP, SSE) and provides detailed documentation and testing tools. Contributions to the project are welcome, with guidelines for unit tests, static checks, and pull requests.
+FastMCP aims to be fast, simple, Pythonic, and complete, providing a comprehensive platform for all MCP use cases, from development to production. The framework is actively maintained and includes a complete toolkit for working with the MCP ecosystem, including deployment, authentication, clients, server proxying, and more.
 ## Links
 
-- [FastMCP Documentation](https://gofastmcp.com) : The main documentation site for FastMCP, providing comprehensive guides, API references, and advanced patterns for building MCP servers and clients.
-- [Model Context Protocol](https://modelcontextprotocol.io) : The official website for the Model Context Protocol (MCP), providing detailed information about the protocol and its ecosystem.
-- [Prefect](https://www.prefect.io/) : The website for Prefect, the company behind FastMCP, providing additional resources and information about their products and services.
+- [FastMCP Documentation](https://gofastmcp.com) : The official documentation for FastMCP, providing detailed guides, API references, and advanced patterns for building MCP servers and clients.
+- [FastMCP Installation Guide](https://gofastmcp.com/getting-started/installation) : Instructions for installing FastMCP, including verification and upgrading from the official MCP SDK.
+- [FastMCP Servers](https://gofastmcp.com/servers/fastmcp) : Documentation on creating and managing FastMCP servers, including tools, resources, and prompts.
+- [FastMCP Clients](https://gofastmcp.com/clients/client) : Guide on interacting with MCP servers programmatically using the FastMCP Client.
+- [FastMCP on PyPI](https://pypi.org/project/fastmcp) : The PyPI page for FastMCP, providing package details and installation instructions.
 
 ## Topics
 
 ![](topics/Tool/FastMCP)
 
-![](topics/Concept/FastMCP%20Server)
+![](topics/Concept/MCP%20Servers)
 
-![](topics/Concept/Tools%20in%20FastMCP)
-
-![](topics/Concept/Resources%20Templates%20in%20FastMCP)
-
-![](topics/Concept/Prompts%20in%20FastMCP)
-
-![](topics/Concept/Context%20in%20FastMCP)
+![](topics/Concept/MCP%20Tools)
 
 ![](topics/Concept/MCP%20Clients)
 

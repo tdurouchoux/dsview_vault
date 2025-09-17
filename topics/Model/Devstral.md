@@ -1,0 +1,5 @@
+---
+type: Model
+---
+
+Devstral is an agentic LLM (Large Language Model) specifically designed for software engineering tasks. It is built through a collaboration between Mistral AI and All Hands AI. The model excels at using tools to explore codebases, editing multiple files, and powering software engineering agents. Devstral is fine-tuned from Mistral-Small-3.1, which gives it a long context window of up to 128k tokens. It is text-only and achieves remarkable performance on the SWE-bench benchmark, positioning it as the top open-source model on this benchmark. The model is lightweight with 24 billion parameters, making it suitable for local deployment and on-device use. It utilizes a Tekken tokenizer with a 131k vocabulary size and is released under the Apache 2.0 license, allowing for both commercial and non-commercial usage and modification.

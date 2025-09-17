@@ -5,7 +5,6 @@ read_priority: 5
 relevance: 0
 source: null
 tags:
-- Data_Analysis
 - Development_tool
 type: Content
 upload_date: '2025-03-12'
@@ -19,20 +18,22 @@ The DuckDB team and MotherDuck have released a local UI for DuckDB, integrated a
 Key features of the DuckDB UI include:
 
 - **Databases**: View and explore attached databases, tables, and views.
-- **Table Summary**: Inspect table details, column data, and preview rows.
-- **Notebooks**: Organize work into named notebooks with syntax highlighting and autocomplete.
-- **Column Explorer**: Gain insights from query results with detailed column summaries.
-- **MotherDuck Integration**: Opt-in to use MotherDuck for cloud data warehousing and team collaboration.
+- **Table Summary**: Get detailed summaries of tables, including row counts, column types, and data profiles.
+- **Notebooks**: Organize work into named notebooks with syntax highlighting and autocomplete for SQL queries.
+- **Column Explorer**: Gain insights into query results through a detailed column summary.
+- **MotherDuck Integration**: Opt-in to connect with MotherDuck for cloud data warehouse capabilities.
+- **Local Execution**: All queries run locally, ensuring data privacy.
 
-The UI runs locally, ensuring data privacy, and is implemented as a DuckDB extension with a localhost HTTP server. It is open-source, with plans to potentially release the frontend code in the future. The team is actively developing the UI and welcomes community feedback and contributions.
+The UI is implemented as a DuckDB extension, embedding a localhost HTTP server for low-latency performance. It is open-source, with the frontend code currently under review for open-sourcing. The team is actively working on improvements, including offline support and opening the client-server protocol.
+
+For support or feedback, users can file issues or join the DuckDB Discord or MotherDuck Community Slack.
 ## Links
 
-- [DuckDB GitHub Repository](https://github.com/duckdb/duckdb) : The official GitHub repository for DuckDB, where you can find the source code, issues, and contributions related to DuckDB.
-- [DuckDB UI GitHub Repository](https://github.com/duckdb/duckdb-ui) : The GitHub repository for the DuckDB UI extension, which includes the source code and issues related to the UI.
-- [MotherDuck Website](https://motherduck.com/) : The official website for MotherDuck, which provides additional resources and integration for DuckDB.
+- [DuckDB GitHub Repository](https://github.com/duckdb/duckdb) : The GitHub repository for DuckDB, where you can find the source code, issues, and contributions related to DuckDB.
+- [DuckDB UI GitHub Repository](https://github.com/duckdb/duckdb-ui) : The GitHub repository for the DuckDB UI extension, which includes the source code and documentation for the UI.
 
 ## Topics
 
-![](topics/Library/DuckDB)
-
 ![](topics/Platform/MotherDuck)
+
+![](topics/Library/DuckDB)

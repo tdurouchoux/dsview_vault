@@ -14,18 +14,18 @@ upload_date: '2024-11-19'
 https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users
 ## Summary
 
-The author explores the visualization of 13 million Bluesky users, focusing on the follow graph. Bluesky, built on the AT protocol, allows real-time data streaming via a WebSocket firehose, which the author uses to collect follow and unfollow events, storing them in a SQLite database. The data is managed on a home server, with the follows table containing over half a billion rows, totaling around 30 GB.
+The author explores the visualization of Bluesky's social network, which has grown to 13 million users. The process involves collecting follow data via a WebSocket firehose, storing it in a SQLite database, and rendering a graph with 13 million nodes and half a billion edges. The author discusses the challenges and optimizations of force-directed graph layout, including the use of the Barnes-Hut optimization to reduce computational complexity. They developed a multithreaded engine called Andromeda for this purpose, inspired by Gephi and the ForceAtlas2 paper.
 
-The main challenge is rendering a graph with 13 million nodes and half a billion edges. The author uses a force-directed graph layout, inspired by physics simulations, where nodes repel each other and edges attract. The Barnes-Hut optimization is employed to reduce computational complexity. The author develops a multithreaded engine in Zig, named Andromeda, for this purpose, which is inspired by Gephi and the ForceAtlas2 paper.
+The author then experiments with UMAP, a dimensionality reduction technique, to improve the visualization. They use nodevectors for node embedding and UMAP for further reduction, but find that UMAP has limitations for their use case. They address these by using Andromeda to smooth out overlapping points.
 
-However, force-directed layouts for large social networks result in "blobby" structures, showing major clusters but not local neighborhoods effectively. The author then explores dimensionality reduction techniques like UMAP, which provides better intermediate structure. UMAP's output is further refined using Andromeda to prevent overlapping points.
-
-The visualization is enhanced with color, using k-means clustering and interpolation to highlight local structure. The final visualization includes 7.7 million nodes, with color representing follower count and cluster membership. The author notes the potential for new insights and features, such as a timeline of posts from accounts in view, and invites further ideas for improvement.
+The visualization is enhanced with color, using k-means clustering and interpolation for a visually appealing result. The author shares insights gained from exploring the graph, such as the visibility of bot rings and the potential for a new kind of social exploration tool. They plan to add a timeline feature to show posts from accounts in the current view. The author invites feedback and ideas for further development.
 ## Links
 
-- [Barnes–Hut simulation](https://en.wikipedia.org/wiki/Barnes%E2%80%93Hut_simulation) : A Wikipedia page about the Barnes–Hut simulation, an algorithm used to optimize force calculations in n-body simulations, which is mentioned in the context of optimizing the force-directed graph layout for visualizing the Bluesky user graph.
-- [N-body simulation](https://en.wikipedia.org/wiki/N-body_simulation) : A Wikipedia page about n-body simulations, which are used to simulate the dynamics of a system of particles interacting through forces like gravity or electromagnetism. This is relevant to the force-directed graph layout mentioned in the article.
-- [nodevectors](https://github.com/VHRanger/nodevectors/) : A GitHub repository for nodevectors, an open-source toolkit for node embedding, which is used to generate embeddings for users in the Bluesky network before applying UMAP for visualization.
+- [UMAP Plotting Guide](https://umap-learn.readthedocs.io/en/latest/plotting.html#diagnostic-plotting) : A guide on using UMAP for diagnostic plotting, which is relevant for understanding how to visualize high-dimensional data.
+- [Graphviz Online](https://dreampuf.github.io/GraphvizOnline) : An online tool for creating and visualizing graphs using Graphviz, which can be useful for graph layout and visualization.
+- [D3 Force-Directed Graph](https://observablehq.com/@d3/force-directed-graph/2) : An example of a force-directed graph using D3.js, which is relevant for understanding force-directed graph layouts.
+- [Barnes-Hut Simulation](https://en.wikipedia.org/wiki/Barnes%E2%80%93Hut_simulation) : A Wikipedia article on the Barnes-Hut simulation, which is an optimization technique used in force-directed graph layouts.
+- [NodeVectors GitHub](https://github.com/VHRanger/nodevectors/) : The GitHub repository for NodeVectors, a toolkit for node embedding, which is relevant for understanding how to derive embeddings for graph visualization.
 
 ## Topics
 
@@ -40,3 +40,5 @@ The visualization is enhanced with color, using k-means clustering and interpola
 ![](topics/Concept/Natural%20Slider)
 
 ![](topics/Concept/UMAP)
+
+![](topics/Model/GGVec)

@@ -2,4 +2,4 @@
 type: Library
 ---
 
-Haystack is an open-source framework for building applications powered by large language models (LLMs). It is designed to be highly customizable and flexible, allowing users to construct complex pipelines for various AI tasks. Haystack supports integration with leading LLM providers, vector databases, and AI tools, making it suitable for a wide range of applications, including retrieval-augmented generation (RAG), conversational AI, content generation, and agentic pipelines. It is built with production environments in mind, offering serializable pipelines, logging, monitoring, and deployment guides for cloud and on-premises setups.
+Haystack is an open-source framework for building search systems that work intelligently with your data. It provides a wide range of algorithms for document search, question answering, and semantic search, using both traditional and deep learning-based approaches. Haystack is designed to be flexible and modular, allowing users to mix and match different algorithms and components to create custom search systems tailored to their specific needs.

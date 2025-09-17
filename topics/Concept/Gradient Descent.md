@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Gradient descent is an optimization algorithm used to minimize the loss function in machine learning and deep learning. It adjusts the parameters iteratively by moving in the direction of the steepest descent as defined by the negative of the gradient. The step size is determined by the learning rate (α). Gradient descent can be slow in converging, especially in regions with pathological curvature, where the landscape is not scaled properly, leading to slow progress in certain directions.
+Gradient Descent is an optimization algorithm used to minimize the loss function in machine learning models. It adjusts the parameters iteratively in the opposite direction of the gradient of the loss function with respect to the parameter. The step size, or learning rate, determines the size of the steps taken towards the minimum. The algorithm can be slow and may get stuck in local minima or saddle points, especially in complex landscapes with pathological curvature.

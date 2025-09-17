@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-SwiGLU (Gated Linear Unit) is an activation function used in neural networks, particularly in transformer models. It combines the benefits of gating mechanisms with linear units to improve the model's performance. SwiGLU helps in controlling the flow of information through the network, leading to better learning and generalization. It is often used in place of traditional activation functions like ReLU to enhance model performance.
+SwiGLU (Gated Linear Unit) is an activation function used in neural networks, particularly in transformer models. It combines the benefits of the Gated Linear Unit (GLU) with a switch mechanism, allowing the model to dynamically control the flow of information. This can lead to improved performance and efficiency in tasks involving complex data.

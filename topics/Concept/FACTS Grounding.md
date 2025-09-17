@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-FACTS Grounding is a benchmark designed to evaluate the factual accuracy and grounding capabilities of large language models (LLMs). It assesses how well LLMs can generate responses that are factually accurate and fully attributable to provided source material, without hallucinating information. The benchmark includes a dataset with various documents and user requests, and it uses multiple AI judge models to evaluate the responses.
+FACTS Grounding is a benchmark designed to evaluate the factual accuracy and grounding of large language models (LLMs). It assesses the ability of LLMs to generate responses that are factually accurate and grounded in provided source material, avoiding hallucinations. The benchmark includes a dataset with various examples across different domains and uses multiple LLM judges to evaluate responses.

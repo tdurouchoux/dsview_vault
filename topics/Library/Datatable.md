@@ -2,4 +2,4 @@
 type: Library
 ---
 
-Datatable is a Python library designed for fast data manipulation and analysis. It provides a DataFrame-like structure that is optimized for performance, making it suitable for handling large datasets. Datatable is known for its speed and efficiency, particularly in operations like filtering, grouping, and aggregating data. It is a valuable tool for data scientists and analysts who need to work with large datasets efficiently.
+Datatable is another high-performance data manipulation library for Python. It is designed to handle large datasets efficiently and provides a pandas-like interface. Datatable focuses on speed and memory efficiency, making it suitable for big data applications.

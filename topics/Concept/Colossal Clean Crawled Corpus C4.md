@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A large-scale dataset created by heuristically cleaning text from the Common Crawl web dump. It is used for unsupervised pre-training of language models, providing a diverse and clean source of natural language data.
+The Colossal Clean Crawled Corpus (C4) is a large dataset of cleaned and filtered text data scraped from the web. It is used for pre-training language models to learn general-purpose knowledge before fine-tuning on specific tasks. C4 is designed to be diverse and representative of natural language, making it a valuable resource for training robust and generalizable models.

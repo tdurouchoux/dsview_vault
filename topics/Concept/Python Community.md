@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-The Python community is a global network of developers, educators, and enthusiasts who contribute to the growth and development of the Python programming language. The community engages through various platforms, including forums, mailing lists, conferences, and social media. Community members share knowledge, collaborate on projects, and support each other in learning and using Python effectively.
+The Python community is a global network of Python programmers and enthusiasts who share knowledge, collaborate on projects, and support each other. Real Python fosters this community through various initiatives such as the Real Python Podcast, community chat, office hours, and learner stories. The community also includes contributors to the Python Software Foundation, organizers of Python conferences, and maintainers of popular Python projects.

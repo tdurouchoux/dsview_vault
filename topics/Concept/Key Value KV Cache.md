@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A Key-Value (KV) Cache in the context of large language models (LLMs) refers to a mechanism for storing and quickly retrieving precomputed data that represents the inference state of the model. This cache is used to encapsulate the processed information from preloaded documents, allowing the model to generate responses based on this cached context without the need for real-time retrieval. The KV cache helps in reducing latency and improving the efficiency of the model's inference process.
+A Key-Value (KV) cache in the context of large language models refers to a mechanism for storing and quickly retrieving precomputed information. In Cache-Augmented Generation (CAG), the KV cache encapsulates the inference state of the LLM after processing a set of preloaded documents. This cache allows the model to generate responses based on the preloaded context without needing to retrieve information in real-time during inference. The KV cache is stored on disk or in memory and can be efficiently reset or updated to maintain system performance.

@@ -14,7 +14,7 @@ upload_date: '2025-01-28'
 https://arxiv.org/pdf/2306.11644
 ## Summary
 
-The paper introduces phi-1, a Transformer-based language model for code with 1.3B parameters, trained on a high-quality dataset of 7B tokens, including synthetically generated textbooks and exercises. Despite its smaller size, phi-1 achieves competitive performance on coding benchmarks like HumanEval and MBPP, outperforming larger models in some cases. The model's success is attributed to the quality of its training data, which is designed to be clear, self-contained, and instructive, similar to a textbook. The paper also discusses the importance of data quality in training language models and the potential for high-quality data to improve model performance and reduce environmental costs. Additionally, the paper explores the model's emergent properties and its ability to generalize to tasks not explicitly present in the finetuning dataset. The authors release the model for community evaluation and discuss potential limitations and future directions for research.
+The paper introduces phi-1, a new large language model for code with 1.3 billion parameters, trained on a high-quality dataset of 7 billion tokens. Despite its smaller size, phi-1 achieves state-of-the-art performance on coding benchmarks like HumanEval and MBPP, outperforming larger models. The key innovation is the use of "textbook-quality" data, which includes filtered code from web sources and synthetically generated textbooks and exercises using GPT-3.5. The model's architecture is based on a decoder-only Transformer with FlashAttention. Training was done on 8 A100 GPUs for about 4 days. Phi-1 demonstrates emergent properties and improved understanding and capability in using external libraries after finetuning on a small synthetic exercises dataset. The paper also discusses the importance of high-quality data in training language models and the potential environmental benefits of smaller models. Evaluation on unconventional problems and data pruning experiments further validate the model's performance. The paper concludes with a discussion on the limitations of phi-1 and the broader implications for natural language processing.
 ## Links
 
 
@@ -22,11 +22,13 @@ The paper introduces phi-1, a Transformer-based language model for code with 1.3
 
 ![](topics/Model/Phi)
 
-![](topics/Dataset/CodeTextbook)
+![](topics/Concept/Textbook%20Quality%20Data)
 
-![](topics/Dataset/CodeExercises)
+![](topics/Concept/Data%20Decontamination)
 
-![](topics/Concept/Emergent%20Properties)
+![](topics/Concept/Synthetic%20Data%20Generation)
+
+![](topics/Concept/Model%20Emergent%20Properties)
 
 ![](topics/Concept/Data%20Pruning)
 

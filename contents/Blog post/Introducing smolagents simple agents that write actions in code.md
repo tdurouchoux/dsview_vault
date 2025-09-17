@@ -14,23 +14,28 @@ upload_date: '2025-01-08'
 https://huggingface.co/blog/smolagents
 ## Summary
 
-Hugging Face introduces smolagents, a simple library for building agents that write actions in code. Agents are programs where LLM outputs control the workflow, with agency levels ranging from simple processors to multi-agent systems. Agents are useful when flexibility is needed in workflows, but they can be overkill for simple, deterministic tasks. Smolagents supports code agents, which write actions in code rather than JSON, offering better composability, object management, generality, and representation in LLM training data. The library is designed for simplicity, first-class support for code agents, hub integrations, and compatibility with any LLM. To build an agent, you need tools and a model, with tools being simple functions decorated with @tool. Smolagents also supports sharing tools to the Hub. A comparison of open-source models with closed models shows that open-source models can now compete with the best closed models in agentic workflows. Next steps include studying tutorials, diving into examples, and reading more on agents.
+The article introduces smolagents, a simple library for building agents that write actions in code. Key points include:
+
+- **Agents**: Programs where LLM outputs control the workflow, with agency varying on a continuous spectrum.
+- **When to Use Agents**: Useful for tasks requiring flexibility in workflow, but often overkill for simple, predetermined tasks.
+- **Code Agents**: Agents that write actions in code are more effective than JSON-like formats due to better composability, object management, generality, and representation in LLM training data.
+- **smolagents Library**: Features simplicity, first-class support for code agents, hub integrations, and support for any LLM.
+- **Building an Agent**: Requires tools (functions with type hints and docstrings) and a model (any LLM).
+- **Benchmarking**: Open-source models with smolagents can compete with closed models.
+- **Next Steps**: Guided tours, tutorials, examples, and further reading on agents.
+
+The article also includes community comments and discussions on the library.
 ## Links
 
-- [smolagents GitHub Repository](https://github.com/huggingface/smolagents) : The GitHub repository for smolagents, a simple library to build agents.
-- [Guided Tour of smolagents](https://huggingface.co/docs/smolagents/guided_tour) : A guided tour to familiarize yourself with the smolagents library.
-- [Tools Tutorial](https://huggingface.co/docs/smolagents/tutorials/tools) : In-depth tutorials to learn more about tools and general best practices in smolagents.
-- [Building Good Agents Tutorial](https://huggingface.co/docs/smolagents/tutorials/building_good_agents) : Tutorial on building good agents with smolagents.
-- [Anthropic Blog on Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) : An excellent blog post by Anthropic providing solid general knowledge on building effective agents.
+- [Guided Tour of Smolagents](https://huggingface.co/docs/smolagents/guided_tour) : A guided tour of the smolagents library, helping users familiarize themselves with the basics and core functionalities.
+- [Building Good Agents Tutorial](https://huggingface.co/docs/smolagents/tutorials/building_good_agents) : A tutorial on building effective agents using the smolagents library, covering best practices and detailed examples.
+- [Smolagents GitHub Repository](https://github.com/huggingface/smolagents) : The official GitHub repository for smolagents, containing the source code, examples, and additional resources for developers.
+- [Anthropic's Guide to Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) : An in-depth guide by Anthropic on building effective agents, providing insights and methodologies for creating robust agentic systems.
 
 ## Topics
 
 ![](topics/Library/smolagents)
 
-![](topics/Concept/AI%20Agents)
+![](topics/Tool/DuckDuckGoSearchTool)
 
-![](topics/Concept/Code%20Agents)
-
-![](topics/Concept/Multi%20step%20Agent)
-
-![](topics/Concept/ToolCallingAgent)
+![](topics/Tool/HfApiModel)

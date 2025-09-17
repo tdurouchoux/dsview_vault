@@ -2,4 +2,4 @@
 type: Model
 ---
 
-Gemini Robotics-ER is a vision-language model that enhances Gemini 2.0's capabilities with advanced spatial reasoning, specifically designed for robotics. It allows roboticists to connect it with existing low-level controllers and perform tasks such as perception, state estimation, spatial understanding, planning, and code generation. This model significantly improves the success rate of controlling robots in real-world scenarios.
+Gemini Robotics-ER is an advanced vision-language model that enhances Gemini's world understanding, particularly in spatial reasoning. It allows roboticists to connect it with existing low-level controllers, improving capabilities such as pointing and 3D detection. This model can perform tasks like perception, state estimation, planning, and code generation, achieving higher success rates in controlling robots compared to previous versions.

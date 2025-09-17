@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Instruction tuning is a technique used to align large language models with human intentions by fine-tuning them on datasets that consist of instructions and desired outputs. This process helps models better understand and follow specific commands, improving their performance on a wide range of tasks. Instruction tuning is crucial for making language models more versatile and useful in practical applications.
+Instruction Tuning is a process where language models are fine-tuned on datasets that consist of instructions and corresponding responses. This helps the models to better understand and follow complex instructions, improving their performance on a wide range of tasks. Instruction tuning can involve generating high-quality, diverse instructions to enhance the model's ability to handle various types of queries and commands.

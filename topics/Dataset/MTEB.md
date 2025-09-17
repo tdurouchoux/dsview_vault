@@ -1,0 +1,5 @@
+---
+type: Dataset
+---
+
+A comprehensive benchmark designed to evaluate the performance of text embedding models across a wide range of tasks and datasets. MTEB includes 56 datasets across 8 tasks and supports up to 112 different languages. It provides a leaderboard to compare models and is extensible, allowing contributions of new tasks, datasets, and metrics. MTEB (Massive Text Embedding Benchmark) is a comprehensive benchmark suite designed to evaluate the performance of text embedding models across a wide range of tasks, including clustering, reranking, classification, pair classification, semantic textual similarity (STS), and question answering (CQA). The MTEB benchmarks provide a standardized way to compare the performance of different embedding models, making it easier to identify the most suitable model for a given task. WordLlama has been evaluated on the MTEB benchmarks and has shown significant improvements over traditional word models like GloVe 300d.

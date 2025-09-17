@@ -20,35 +20,31 @@ The blog post discusses the challenges faced by machine learning (ML) compilers 
 
 2. **Differences from Procedural Compilers**: ML computation graphs consist of a large, ever-growing set of layers, unlike procedural languages with a small number of core primitives. This makes it difficult for ML compilers to support all operations, leading to subsets of supported layers.
 
-3. **Challenges with Layers**: The plethora of layers in ML models, often optimized for specific platforms, makes it hard for compilers to convert them into other representations. New layers are constantly being invented, adding to the complexity.
+3. **Challenges with Layers**: The plethora of layers in ML models, including those defined for performance reasons, makes it hard for compilers to convert them into other representations. New layers are constantly being invented, adding to the complexity.
 
-4. **Non-Mathematical Operations**: Many layers involve procedural functions that are difficult to express mathematically, posing additional challenges for ML compilers.
+4. **Fallbacks and Portability**: Falling back to original CPU implementations for unsupported layers reduces the advantages of using a compiler, as it limits optimizations and portability. Porting layers often means porting the entire training framework, which is resource-intensive.
 
-5. **Fallback Mechanisms**: Falling back to original implementations for unsupported layers reduces the advantages of using a compiler, as it limits optimizations and portability.
+5. **Python Code in Models**: Many frameworks rely on Python glue code, making it difficult to port models to environments that don't support Python, such as mobile platforms and GPUs.
 
-6. **Python Code Compilation**: The reliance on Python glue code in many frameworks complicates porting to other environments, as parts of the model definition are held in Python rather than the compute graph.
+6. **Future Directions**: The author suggests two possible futures for the ML ecosystem: one resembling Matlab, where manual engineering is required for production deployments, and another resembling LLVM, where a rich intermediate representation allows for broad support. The author advocates for changing the training environment to produce more manageable representations from the start.
 
-7. **Future Directions**: The author suggests two possible futures for ML compilers: one resembling Matlab, where manual engineering is required for production deployments, and another resembling LLVM, where an intermediate representation allows for broad support across different platforms. The latter is preferred but requires changes in the training environment to make it feasible.
-
-The post concludes with a call for innovation in the ML compiler community to develop tools that balance flexibility, performance, and portability.
+The post concludes with a call for continued innovation in the ML compiler community to address these challenges.
 ## Links
 
-- [MLIR TOSA Dialect](https://mlir.llvm.org/docs/Dialects/TOSA/) : MLIR's TOSA dialect documentation, which is an intermediate representation for machine learning models.
-- [TensorFlow Lite Ops](https://www.tensorflow.org/lite/guide/ops_select) : TensorFlow Lite's supported operations, which are a subset of TensorFlow operations.
-- [ONNX](https://onnx.ai/) : The Open Neural Network Exchange (ONNX) format, which is designed for interoperability between different machine learning frameworks.
-- [Apache TVM](https://tvm.apache.org/) : Apache TVM is an open deep learning compiler stack for CPUs, GPUs, and specialized accelerators. It aims to close the gap between the productivity of deep learning frameworks and the performance of hardware.
-- [Edge Impulse EON Compiler](https://www.edgeimpulse.com/blog/introducing-eon) : Edge Impulse's EON Compiler, which is designed to optimize machine learning models for edge devices.
+- [TensorFlow XLA Architecture](https://www.tensorflow.org/xla/architecture) : Explanation of the architecture behind XLA (Accelerated Linear Algebra), a domain-specific compiler for machine learning graphs integrated into TensorFlow.
+- [MLIR (Multi-Level Intermediate Representation)](https://mlir.llvm.org/) : Information about MLIR, a compiler infrastructure designed for reusable and extensible compiler construction.
+- [ONNX (Open Neural Network Exchange)](https://onnx.ai/) : Details about ONNX, an open format built to represent machine learning models, enabling interoperability between different frameworks, runtimes, and hardware platforms.
 
 ## Topics
 
 ![](topics/Concept/ML%20Compilers)
 
-![](topics/Concept/High%20Level%20Operation%20HLO)
+![](topics/Concept/High%20Level%20Operations%20HLO)
 
 ![](topics/Concept/Intermediate%20Representation%20IR)
 
 ![](topics/Concept/Non%20Max%20Suppression)
 
-![](topics/Concept/TensorFlow%20Lite)
+![](topics/Concept/Machine%20Learning%20Compilation)
 
-![](topics/Concept/MLIR)
+![](topics/Concept/Model%20Optimization)

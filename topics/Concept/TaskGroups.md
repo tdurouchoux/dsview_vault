@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-TaskGroups are a feature in Airflow that allows for the organization of tasks into hierarchical groups within a DAG. They help in reducing visual clutter and creating repeating patterns in the DAG structure. Tasks within a TaskGroup live on the same DAG and honor all DAG settings and pool configurations. TaskGroups can be used to apply dependency relationships across all tasks within the group.
+TaskGroups in Airflow are used to organize tasks into hierarchical groups within a DAG. They help to reduce visual clutter in the DAG graph view and make it easier to manage and understand complex workflows. TaskGroups allow for the grouping of related tasks, and dependencies can be applied across all tasks within a group.

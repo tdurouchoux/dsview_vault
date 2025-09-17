@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A feature API is an interface that allows data scientists to create, deploy, discover, and experiment with features. It aims to make feature engineering self-serve, enabling data scientists to work independently without needing to collaborate with data engineers. Feature APIs can support various interfaces, including Scala, SQL, and Python, to cater to different user preferences and requirements.
+A feature API allows data scientists to create, deploy, discover, and experiment with features. It should be self-serve and user-friendly, supporting interfaces like Scala, SQL, or Python to facilitate feature engineering. The API should handle both one-off batch computations and ongoing stream computations, and may separate transformation logic from feature logic to allow reuse and collaboration.

@@ -13,79 +13,50 @@ upload_date: '2025-03-11'
 https://github.com/thalissonvs/pydoll
 ## Summary
 
-Pydoll is a Python library designed for automating Chromium-based browsers without the need for a WebDriver, offering realistic interactions. It connects directly to the Chrome DevTools Protocol (CDP), eliminating the need for external drivers and providing a clean implementation for realistic interactions.
+Pydoll is a Python library designed for automating Chromium-based browsers without the need for a WebDriver, offering realistic interactions. It connects directly to the Chrome DevTools Protocol (CDP), eliminating the need for external drivers and simplifying the automation process. Key features include:
 
-Key features include:
-- **Zero WebDrivers**: No compatibility issues with WebDrivers.
+- **Zero Webdrivers**: Eliminates compatibility issues associated with WebDriver.
 - **Human-like Interaction Engine**: Capable of passing behavioral CAPTCHAs like reCAPTCHA v3 or Turnstile, depending on IP reputation and interaction patterns.
 - **Asynchronous Performance**: Supports high-speed automation and multiple simultaneous tasks.
-- **Humanized Interactions**: Mimics real user behavior.
-- **Simplicity**: Easy installation and immediate automation.
+- **Humanized Interactions**: Mimics real user behavior for more realistic automation.
+- **Simplicity**: Easy to install and use, with minimal configuration required.
 
-### New Features:
-- **Remote Connections via WebSocket**: Control any Chrome instance remotely via its WebSocket address.
+### Key Features and Updates:
+- **Remote Connections via WebSocket**: Allows control of any Chrome browser remotely via WebSocket.
 - **DOM Navigation**: Methods like `get_children_elements()` and `get_siblings_elements()` for efficient DOM traversal.
-- **WebElement State Waiting**: New `wait_until(...)` method to await element states with minimal code.
-- **Browser-context HTTP Requests**: Make HTTP requests that automatically inherit the browser's session state.
+- **WebElement State Waiting**: New methods like `wait_until()` to wait for element states (visible, interactable, etc.).
+- **Browser-context HTTP Requests**: Makes HTTP requests that inherit the browser's session state, useful for hybrid automation.
 - **Download Management**: `expect_download()` context manager for robust file downloads.
-- **Custom Browser Preferences**: Control hundreds of internal Chrome settings for advanced customization.
-- **Concurrent Automation**: Asynchronous implementation allows for simultaneous automation of multiple tabs.
+- **Custom Browser Preferences**: Advanced control over Chrome settings for customization and security.
+- **Concurrent Automation**: Supports multiple tasks simultaneously thanks to its asynchronous implementation.
 
-### Installation:
-```bash
-pip install pydoll-python
-```
-
-### Example Usage:
-```python
-import asyncio
-from pydoll.browser import Chrome
-from pydoll.constants import Key
-
-async def google_search(query: str):
-    async with Chrome() as browser:
-        tab = await browser.start()
-        await tab.go_to('https://www.google.com')
-        search_box = await tab.find(tag_name='textarea', name='q')
-        await search_box.insert_text(query)
-        await search_box.press_keyboard_key(Key.ENTER)
-        await (await tab.find(
-            tag_name='h3',
-            text='autoscrape-labs/pydoll',
-            timeout=10,
-        )).click()
-        await tab.find(id='repository-container-header', timeout=10)
-
-asyncio.run(google_search('pydoll python'))
-```
+### Installation and Usage:
+- **Installation**: `pip install pydoll-python`
+- **Basic Example**: Automating a Google search and clicking on the first result.
+- **Data Extraction**: Extracting information like project description, number of stars, forks, issues, and pull requests from a webpage.
+- **Custom Configurations**: Configuring browser options like proxy settings, window size, and custom binary paths.
 
 ### Advanced Features:
-- **Element Search**: Multiple ways to find elements using attributes, CSS selectors, XPath, etc.
-- **Browser-context HTTP Requests**: Inherit browser session state for API calls.
-- **Download Management**: Handle file downloads with ease.
-- **Custom Browser Preferences**: Control browser settings for advanced customization.
-- **Concurrent Automation**: Automate multiple tabs simultaneously.
+- **Element Search**: Various methods to find elements using attributes, CSS selectors, XPath, etc.
+- **Event System**: For reactive automations.
+- **Request Interception and Modification**: Advanced control over network requests.
 
 ### Troubleshooting:
 - **Browser Not Found**: Specify the binary location.
-- **Browser Start Timeout**: Increase the start timeout.
-- **Proxy Configuration**: Add proxy server arguments.
-- **Docker Configuration**: Use `--no-sandbox` and `--disable-dev-shm-usage`.
+- **Browser Start Issues**: Adjust the start timeout.
+- **Proxy Settings**: Configure proxy server settings.
+- **Docker Compatibility**: Use `--no-sandbox` and `--disable-dev-shm-usage` flags.
 
-### Documentation:
-For complete documentation, visit the official documentation, which includes getting started guides, API references, and advanced techniques.
+### Documentation and Support:
+- **Documentation**: Comprehensive guides, API references, and advanced techniques.
+- **Contributing**: Guidelines for contributing to the project.
+- **Support**: Options to support the project, including sponsorship, starring the repository, and sharing on social media.
 
-### Contributing:
-Contributions are welcome. Follow the contribution guidelines, write tests, and use conventional commits.
-
-### Support:
-Support the project by starring the repository, sharing on social media, writing tutorials, or reporting issues. Consider sponsoring for exclusive benefits.
-
-Pydoll is licensed under the MIT License.
+Pydoll is licensed under the MIT License and aims to make browser automation more efficient and realistic.
 ## Links
 
 - [Pydoll Documentation](https://pydoll.tech/) : Official documentation for Pydoll, providing detailed guides, API references, and advanced techniques for browser automation.
-- [Pydoll Features](https://pydoll.tech/docs/features/#custom-browser-preferences/) : Detailed information on advanced features of Pydoll, including custom browser preferences and other functionalities.
+- [GitHub Blog](https://github.blog) : GitHub's official blog featuring updates, announcements, and articles about GitHub features and services.
 
 ## Topics
 

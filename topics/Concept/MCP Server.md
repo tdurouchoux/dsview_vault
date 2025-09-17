@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-The MCP (Master Control Program) Server is a feature within Scrapling that facilitates AI-assisted web scraping and data extraction. It extracts targeted content before passing it to an AI system, such as Claude or Cursor, thereby speeding up operations and reducing costs by minimizing token usage. This integration allows for more efficient and cost-effective data processing and analysis.
+The MCP Server is a built-in feature of Scrapling designed for AI-assisted web scraping and data extraction. It utilizes Scrapling to extract targeted content before passing it to an AI, such as Claude or Cursor. This server aims to speed up operations and reduce costs by minimizing token usage, making the data extraction process more efficient and effective.

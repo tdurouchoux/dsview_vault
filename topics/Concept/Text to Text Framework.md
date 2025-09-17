@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A unified approach to natural language processing tasks where every task is treated as a text-to-text problem. This means taking text as input and producing new text as output, allowing the same model, objective, training procedure, and decoding process to be applied across diverse tasks.
+The text-to-text framework is a unified approach to natural language processing tasks where all tasks are formulated as text-to-text problems. This means that the model takes text as input and produces text as output, allowing for a consistent training objective and decoding procedure across different tasks.

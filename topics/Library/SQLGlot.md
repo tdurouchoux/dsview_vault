@@ -2,4 +2,4 @@
 type: Library
 ---
 
-SQLGlot is an open-source SQL parser, transpiler, optimizer, and engine. It is a no-dependency library that allows for the parsing and manipulation of SQL queries. SQLGlot is used by various tools to provide SQL comprehension and generation capabilities, including Ibis. It enables the transformation of SQL queries into different dialects and optimizes them for better performance.
+SQLGlot is an open-source SQL parser, transpiler, optimizer, and engine. It is used by Ibis to generate SQL queries from Ibis expressions. SQLGlot can parse SQL into an abstract syntax tree, transpile between different SQL dialects, and optimize SQL queries. It is a key component in the SQL comprehension and generation capabilities of various data tools.

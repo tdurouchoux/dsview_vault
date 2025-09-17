@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-TypeScript stored procedures refer to the use of TypeScript, a typed superset of JavaScript, to write stored procedures in databases. Stored procedures are precompiled collections of SQL statements and procedural logic that can be executed on a database server. Using TypeScript for stored procedures can enhance code reliability and maintainability, leveraging modern programming features and type safety.
+TypeScript stored procedures involve writing stored procedures in TypeScript, a superset of JavaScript, to enhance the functionality and performance of database operations. This approach aims to modernize database programming by leveraging the strengths of TypeScript for better code reliability and maintainability.

@@ -2,4 +2,4 @@
 type: Platform
 ---
 
-Anaconda is a leading enterprise-grade Python repository used by tens of millions of data practitioners worldwide. It provides a package manager, an environment manager, and a distribution of the Python and R programming languages for scientific computing and data science.
+Anaconda is a leading enterprise-grade Python repository and distribution used by data practitioners worldwide. It includes a package manager, an environment manager, and a collection of over 1,500 open-source packages aimed at data science and machine learning.

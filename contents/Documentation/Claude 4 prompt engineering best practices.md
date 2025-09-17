@@ -6,6 +6,7 @@ relevance: 0
 source: Alpha Signal
 tags:
 - Large_Language_Model
+- AI_agent
 type: Content
 upload_date: '2025-05-26'
 ---
@@ -15,40 +16,32 @@ https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/claude-4
 
 **Concise Summary:**
 
-**General Principles:**
-- Be explicit and specific with instructions for optimal results.
-- Provide context and motivation to improve performance.
-- Pay attention to examples and details to encourage desired behaviors.
+The document outlines prompt engineering best practices for Claude 4 models (Opus 4.1, Opus 4, and Sonnet 4), emphasizing explicit instructions, context provision, and attention to details. Key strategies include:
 
-**Guidance for Specific Situations:**
-- **Control Response Format:**
-  - Tell Claude what to do instead of what not to do.
-  - Use XML format indicators for specific response styles.
-  - Match prompt style to desired output style.
-- **Leverage Thinking Capabilities:**
-  - Guide initial or interleaved thinking for complex tasks.
-- **Optimize Parallel Tool Calling:**
-  - Encourage parallel tool execution for efficiency.
-- **Reduce File Creation in Agentic Coding:**
-  - Instruct Claude to clean up temporary files.
-- **Enhance Visual and Frontend Code Generation:**
-  - Provide explicit encouragement for complex designs.
-  - Use modifiers to focus on specific areas.
-- **Avoid Overemphasis on Tests:**
-  - Encourage general, robust solutions rather than test-specific ones.
+1. **General Principles:**
+   - Be clear and specific with instructions.
+   - Provide context to improve performance.
+   - Use examples and details to guide behavior.
 
-**Migration Considerations (Sonnet 3.7 to Claude 4):**
-- Be specific about desired behavior and output quality.
-- Use modifiers to enhance output detail and quality.
-- Explicitly request specific features like animations and interactive elements.
+2. **Specific Guidance:**
+   - Control response format by telling Claude what to do, using XML tags, and matching prompt style to desired output.
+   - Leverage thinking capabilities for complex tasks and parallel tool calling.
+   - Reduce file creation in agentic coding by instructing cleanup.
+   - Enhance frontend code generation with explicit encouragement and details.
+   - Avoid focusing solely on passing tests; prioritize general, robust solutions.
+
+3. **Migration Considerations:**
+   - Be specific about desired behavior and features when migrating from Sonnet 3.7 to Claude 4.
+
+The document also mentions tools like the Prompt Generator and Prompt Improver, and highlights the importance of testing and evaluating prompts.
 ## Links
 
-- [Anthropic Privacy Policy](https://www.anthropic.com/legal/privacy) : Anthropic's privacy policy detailing how user data is handled and protected.
+- [Anthropic Research](https://www.anthropic.com/research) : Anthropic Research page, providing insights into the research behind Claude models.
 
 ## Topics
 
-![](topics/Concept/Extended%20thinking)
+![](topics/Concept/Extended%20Thinking)
 
 ![](topics/Concept/Prompt%20Engineering)
 
-![](topics/Concept/Agentic%20Coding)
+![](topics/Concept/Model%20Context%20Protocol%20MCP)

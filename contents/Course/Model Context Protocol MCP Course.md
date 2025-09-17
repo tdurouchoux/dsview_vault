@@ -14,12 +14,14 @@ upload_date: '2025-05-21'
 https://huggingface.co/learn/mcp-course/unit0/introduction
 ## Summary
 
-The 🤗 Model Context Protocol (MCP) Course, developed in partnership with Anthropic, is designed to guide learners from beginner to advanced levels in understanding, using, and building applications with MCP. The course covers theoretical and practical aspects, including MCP concepts, SDKs, and real-world applications. It is structured into foundational units, hands-on sessions, use case assignments, and collaborations with industry partners. Prerequisites include basic AI, LLM concepts, and programming experience. The course offers two certification options: fundamentals and completion, with a recommended pace of 3-4 hours per week. Participants are encouraged to join study groups, complete quizzes, and follow a schedule. The course is supported by contributors like Gradio, Continue, Llama.cpp, and Anthropic, with opportunities for community engagement and improvements via GitHub and Discord.
+The Hugging Face Model Context Protocol (MCP) Course, developed in partnership with Anthropic, is designed to educate participants on understanding, using, and building applications with MCP. The course is structured into foundational units, hands-on sessions, and use case assignments, with collaborations from Hugging Face's partners providing the latest MCP implementations and tools. The syllabus includes onboarding, MCP fundamentals, end-to-end use cases, deployed use cases, and bonus units. Prerequisites include a basic understanding of AI, LLM concepts, software development principles, and experience with at least one programming language. Participants need a computer with an internet connection and an account to access course resources. The certification process is free and involves completing specific units for different certificates. The recommended pace is one chapter per week, with approximately 3-4 hours of work. Participants are encouraged to join study groups, complete quizzes and assignments, and define a schedule. The course is authored by Ben Burtenshaw and Alex Notov, with contributions from various partners. Participants can report bugs, suggest improvements, and ask questions through the course's Discord server.
 ## Links
 
-- [MCP Course](https://huggingface.co/mcp-course) : The MCP Course page on Hugging Face, providing access to the course resources and projects.
-- [LLM Course](https://huggingface.co/learn/llm-course/) : A course guiding through the basics of using and building with LLMs.
-- [Agents Course](https://huggingface.co/learn/agents-course/) : A course guiding through building AI agents with LLMs.
+- [MCP Course GitHub Repository](https://github.com/huggingface/mcp-course) : The GitHub repository for the Model Context Protocol (MCP) Course, containing all the course materials and resources.
+- [Llama.cpp GitHub Repository](https://github.com/ggerganov/llama.cpp) : The GitHub repository for Llama.cpp, a popular open-source project for running Llama models locally.
+- [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/) : A course on building AI agents with LLMs, provided by Hugging Face.
+- [Gradio Website](https://www.gradio.app/) : The official website for Gradio, a popular Python library for building interactive web demos for machine learning models.
+- [Continue.dev](https://continue.dev) : A platform for running and fine-tuning large language models locally.
 
 ## Topics
 

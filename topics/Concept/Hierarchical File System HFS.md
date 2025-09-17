@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A method of organizing and storing documents in a tree-like structure with directories and subdirectories. It uniquely identifies documents by their path and file name, but imposes limitations such as the inability to store a document in multiple folders and the need to encode metadata into the file path.
+A method of organizing and storing documents in a tree-like structure of directories and subdirectories, where each document is uniquely identified by its path and file name. This system has been the standard for document storage and retrieval in computing.

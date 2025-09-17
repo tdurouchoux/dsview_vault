@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-The Barnes-Hut optimization is a method used to reduce the computational complexity of force-directed graph layout from O(n^2) + O(e) to O(n log(n)) + O(e). It achieves this by approximating the effects of distant nodes, allowing for more efficient computation of node forces.
+An optimization technique used in force-directed graph layout to reduce the computational complexity of calculating forces between nodes from O(n^2) to O(n log n) by approximating the effects of distant nodes using a hierarchical data structure called a quadtree.

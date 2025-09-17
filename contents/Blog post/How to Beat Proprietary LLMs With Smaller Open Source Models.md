@@ -14,37 +14,35 @@ upload_date: '2024-05-05'
 https://www.aidancooper.co.uk/how-to-beat-proprietary-llms/
 ## Summary
 
-The article discusses the advantages of using open source large language models (LLMs) over proprietary ones, focusing on strategies to make open source models more effective. Key points include:
+The article discusses the advantages of using open source large language models (LLMs) over proprietary ones, focusing on strategies to build AI applications that are cheaper, faster, and better. Key points include:
 
-1. **Proprietary vs. Open Source LLMs**: Proprietary LLMs offer state-of-the-art performance but are expensive, slower, and have rate limits. Open source LLMs are cheaper, faster, and more configurable but historically lag in performance.
+1. **Proprietary vs. Open Source LLMs**: Proprietary LLMs offer state-of-the-art performance but are expensive, slower, and have rate limits. Open source LLMs are cheaper, faster, and more configurable but have smaller context windows and historically lag in performance.
 
-2. **Key Strategies for Open Source LLMs**:
-   - **Multi-turn Conversations and Control Flow**: Break down complex tasks into subtasks to improve performance.
-   - **Constrained Decoding**: Ensures structured outputs, improves throughput, and reduces costs.
-   - **Caching and Optimisations**: Techniques like caching and model quantisation increase throughput and reduce costs.
-   - **Model Fine-Tuning and Knowledge Distillation**: Enhances task performance without affecting inference costs or throughput.
-   - **Optimal Model Sizing**: Use the smallest model that can reliably complete the task to balance performance, cost, and throughput.
+2. **Requirements of an Effective LLM System**: There are tradeoffs between task performance, throughput, and cost. Open source models can achieve better throughput and cost profiles while maintaining or improving task performance.
 
-3. **Technical Roadmap**: A dependency map outlines the order of implementing these techniques, emphasizing the importance of aligning them to prevent dysfunction.
+3. **Strategies for Open Source LLMs**:
+   - **Multi-turn Conversations and Control Flow**: Decompose complex tasks into granular subtasks to improve task performance.
+   - **Constrained Decoding**: Useful for structured outputs, increasing throughput and decreasing costs.
+   - **Caching, Model Quantisation, and Other Backend Optimisations**: Improve throughput and decrease costs without affecting task performance.
+   - **Model Fine-Tuning and Knowledge Distillation**: Improve task performance without impacting inference costs or throughput.
+   - **Optimal Model Sizing**: Use the smallest model that can reliably complete the task to increase throughput and decrease costs.
 
-4. **Conclusion**: Open source models can outperform proprietary LLMs in speed, cost, and performance by leveraging sophisticated system design and appropriate tradeoffs. The choice between open source and proprietary models depends on the application, budget, and engineering resources.
+4. **Technical Roadmap**: A logical order for implementing these techniques, considering dependencies and feedback loops for continuous improvement.
 
-The article also mentions related content, such as benchmarks for evaluating LLM chess reasoning and the convergence of proprietary and open source LLMs.
+5. **Conclusion**: Open source models can outperform proprietary LLMs when engineered to leverage their unique advantages, making them faster, cheaper, and better. The choice depends on the application, budget, and engineering resources.
 ## Links
 
-- [Constrained Decoding](https://www.aidancooper.co.uk/constrained-decoding/) : A guide to structured generation using constrained decoding, explaining the how, why, power, and pitfalls of constraining generative language model outputs.
-- [Hugging Face Quantization](https://huggingface.co/docs/optimum/en/concept_guides/quantization) : Documentation on quantization techniques for optimizing language models, provided by Hugging Face.
-- [SGLang GitHub](https://github.com/sgl-project/sglang) : The GitHub repository for SGLang, a runtime for serving large language models with high throughput and low latency.
+- [SGLang](https://lmsys.org/blog/2024-01-17-sglang/?ref=aidancooper.co.uk) : SGLang is a runtime for running LLMs locally. It is a recent player with similar capabilities as vLLM, and an innovative RadixAttention caching approach that claims especially impressive performance.
+- [vLLM](https://github.com/vllm-project/vllm?ref=aidancooper.co.uk) : vLLM is a serving framework, boasting various caching mechanisms, parallelisations, kernel optimisations, and model quantisation methods.
+- [Constrained Decoding](https://www.aidancooper.co.uk/constrained-decoding/) : Constrained decoding is a powerful technique that can guarantee outputs that conform to the desired structure, drastically improve throughput by accelerating token generation, and reducing the number of tokens that need to be generated.
 
 ## Topics
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![](topics/Concept/Retrieval%20Augmented%20Generation)
 
 ![](topics/Concept/Chain%20of%20Thought%20CoT)
 
 ![](topics/Concept/ReAct)
-
-![](topics/Concept/Constrained%20Decoding)
 
 ![](topics/Concept/Model%20Quantization)
 

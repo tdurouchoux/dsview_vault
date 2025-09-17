@@ -14,25 +14,37 @@ upload_date: '2024-10-01'
 https://github.com/ultralytics/ultralytics
 ## Summary
 
-Ultralytics YOLO is a state-of-the-art (SOTA) computer vision and AI framework that offers a range of YOLO models for various tasks such as object detection, tracking, instance segmentation, image classification, and pose estimation. The framework is designed to be fast, accurate, and easy to use, with models that are constantly updated for performance and flexibility.
+Ultralytics YOLO is a cutting-edge, state-of-the-art (SOTA) computer vision and AI framework that offers fast, accurate, and easy-to-use models for various tasks such as object detection, tracking, instance segmentation, image classification, and pose estimation. The framework is constantly updated for performance and flexibility.
 
-Key features include:
+### Key Features:
+- **Models**: Ultralytics supports a wide range of YOLO models, from YOLOv3 to the latest YOLO11, pretrained on datasets like COCO and ImageNet.
+- **Tasks**: The models are designed for tasks like detection, segmentation, classification, pose estimation, and oriented bounding boxes (OBB).
+- **Performance Metrics**: Detailed metrics are provided for each model, including mAP (mean Average Precision), speed, parameters, and FLOPs.
+- **Installation and Usage**: The framework can be installed via pip and used through a Command Line Interface (CLI) or integrated into Python projects.
+- **Integrations**: Ultralytics integrates with platforms like Weights & Biases, Comet ML, Roboflow, and Intel OpenVINO to enhance AI workflows.
+- **Ultralytics HUB**: An all-in-one platform for data visualization, training, and deployment of YOLO models without requiring coding.
+- **Contributions**: The project encourages community contributions and provides guidelines for contributing.
+- **Licensing**: Offers both AGPL-3.0 (open-source) and Enterprise licenses for commercial use.
 
-- **Installation**: The ultralytics package can be installed via pip in a Python>=3.8 environment with PyTorch>=1.8.
-- **Usage**: YOLO models can be used directly from the Command Line Interface (CLI) or integrated into Python projects. The framework supports various tasks and modes, including training, validation, prediction, and deployment.
-- **Models**: Ultralytics supports a wide range of YOLO models, from YOLOv3 to the latest YOLO11. Models are pretrained on datasets like COCO and ImageNet and are automatically downloaded upon first use.
-- **Integrations**: Ultralytics offers key integrations with leading AI platforms like Weights & Biases, Comet ML, Roboflow, and Intel OpenVINO to enhance AI workflows.
-- **Contributions**: The framework thrives on community collaboration, with guidelines for contributing and a survey for feedback.
-- **Licensing**: Ultralytics offers both AGPL-3.0 and Enterprise licenses to suit different needs, from open-source collaboration to commercial use.
+### Usage Examples:
+- **CLI**: `yolo predict model=yolo11n.pt source='https://ultralytics.com/images/bus.jpg'`
+- **Python**: `from ultralytics import YOLO; model = YOLO("yolo11n.pt"); results = model("path/to/image.jpg")`
 
-The framework is well-documented and supported by active communities on Discord, Reddit, and the Ultralytics Community Forums. For more detailed information, refer to the Ultralytics Docs.
+### Support and Community:
+- **Documentation**: Comprehensive guidance is available in the Ultralytics Docs.
+- **Support**: Issues can be reported on GitHub, and discussions can be joined on Discord, Reddit, and the Ultralytics Community Forums.
+
+Ultralytics YOLO is designed to be user-friendly and highly performant, making it suitable for a wide range of applications in computer vision and AI.
 ## Links
 
-- [Ultralytics Documentation](https://docs.ultralytics.com/) : Official documentation for Ultralytics, providing detailed guides on training, validation, prediction, and deployment of YOLO models.
-- [Ultralytics Hub](https://hub.ultralytics.com/) : Ultralytics HUB is an all-in-one platform for data visualization, training YOLO models, and deployment—no coding required.
-- [Ultralytics GitHub Repository](https://github.com/ultralytics) : The official GitHub repository for Ultralytics, containing the source code, issues, and contributions for the YOLO models.
-- [Ultralytics Licensing](https://www.ultralytics.com/license) : Information on licensing options for Ultralytics software, including the AGPL-3.0 License and Ultralytics Enterprise License.
+- [Ultralytics Documentation](https://docs.ultralytics.com/) : The official documentation for Ultralytics, providing comprehensive guides and resources for using their YOLO models.
+- [Ultralytics Hub](https://hub.ultralytics.com/) : The Ultralytics Hub platform for data visualization, training YOLO models, and deployment without needing to code.
+- [Ultralytics GitHub Repository](https://github.com/ultralytics) : The GitHub repository for Ultralytics, containing the source code, issues, and other resources related to their YOLO models.
 
 ## Topics
 
 ![](topics/Library/Ultralytics%20YOLO)
+
+![](topics/Model/YOLO11)
+
+![](topics/Platform/Ultralytics%20HUB)

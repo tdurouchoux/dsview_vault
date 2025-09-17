@@ -14,29 +14,33 @@ upload_date: '2024-10-18'
 https://motherduck.com/blog/sql-llm-prompt-function-gpt-models/
 ## Summary
 
-The blog post introduces the `prompt()` function in MotherDuck, which integrates small language models (SLMs) like OpenAI's gpt-4o-mini directly into SQL, enabling text summarization, structured data extraction, and more. Key points include:
+The blog post introduces the `prompt()` function in MotherDuck, which integrates small language models (SLMs) like OpenAI's gpt-4o-mini directly into SQL. This function allows users to generate, summarize, and extract structured data from text without needing separate infrastructure. Key points include:
 
-- **Prompt Function Overview**: The `prompt()` function supports OpenAI's gpt-4o-mini and gpt-4o models, allowing for bulk text summarization and structured data extraction. It can be used to generate, summarize, and extract structured data without separate infrastructure.
+- **Function Overview**: The `prompt()` function supports OpenAI's gpt-4o-mini and gpt-4o models. It can be used for bulk text summarization and structured data extraction. Users can specify the model to use and return structured output with the `struct` and `struct_descr` parameters.
+
 - **Use Cases**:
-  - **Text Summarization**: The function can summarize text, such as converting Hacker News comments into Haikus.
-  - **Unstructured to Structured Data Conversion**: The function can generate structured outputs using the `struct` and `struct_descr` parameters, facilitating the integration of LLM-generated data into analytical workflows.
-- **Practical Considerations**: Effective usage requires careful consideration of tradeoffs, and testing on small samples is advised. For specific tasks like extracting email addresses, traditional SQL methods like `regex_extract` may be more efficient.
-- **Availability**: The `prompt()` function is available in Preview for MotherDuck users on a Free Trial or the Standard Plan, with usage limits and quotas in place.
+  - **Text Summarization**: The function can summarize text, such as converting Hacker News comments into Haikus. It processes rows concurrently, significantly speeding up the process compared to unparallelized Python loops.
+  - **Unstructured to Structured Data Conversion**: The function can generate structured outputs, extracting information like topic, sentiment, and mentioned technologies from text. The output can be stored as a STRUCT type and easily unfolded into individual columns.
 
-The post encourages users to explore the function and share feedback through the Slack channel.
+- **Practical Considerations**: Users should test prompt-based use cases on small samples first. For specific tasks like extracting email addresses, traditional SQL methods like DuckDB’s `regex_extract` may be more efficient. The function is available in Preview for MotherDuck users with specific quotas.
+
+- **Getting Started**: The `prompt()` function is available for MotherDuck users on a Free Trial or the Standard Plan. Users are encouraged to share their experiences and feedback through the Slack channel.
 ## Links
 
-- [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/) : This link points to OpenAI's introduction of structured outputs in their API, which is relevant to the prompt() function's ability to return structured data.
-- [GPT-4o-mini: Advancing Cost-Efficient Intelligence](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) : This link points to OpenAI's page on GPT-4o-mini, which is the model used in the prompt() function for cost-effective and performant language processing.
+- [OpenAI GPT-4o-mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) : OpenAI's GPT-4o-mini model, a cost-efficient and powerful language model.
+- [Haiku](https://en.wikipedia.org/wiki/Haiku) : Wikipedia page on Haiku, a form of Japanese poetry.
+- [Structured Outputs in OpenAI API](https://openai.com/index/introducing-structured-outputs-in-the-api/) : OpenAI's introduction of structured outputs in their API, enabling more controlled and predictable responses from language models.
 
 ## Topics
 
-![](topics/Platform/MotherDuck)
+![](topics/Concept/Retrieval%20Augmented%20Generation)
 
-![](topics/Model/gpt%204o%20mini)
+![](topics/Concept/Structured%20Output)
 
-![](topics/Model/gpt%204o)
+![](topics/Concept/Constrained%20Decoding)
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![](topics/Concept/Compute%20Units)
 
-![](topics/Library/DuckDB)
+![](topics/Concept/Structured%20Data%20Extraction)
+
+![](topics/Concept/Bulk%20Text%20Summarization)

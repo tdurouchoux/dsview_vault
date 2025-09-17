@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Graph of Operations (GoO) is a structured approach within the Graph of Thoughts framework that models problems as a series of interconnected operations. Each operation represents a step or a thought process that contributes to solving the problem. The GoO is executed by a Large Language Model (LLM), which navigates through the graph to perform the necessary operations, making it a powerful tool for complex problem-solving.
+Graph of Operations (GoO) is a conceptual framework used within the Graph of Thoughts (GoT) approach. It involves modeling a problem as a series of interconnected operations, where each operation represents a step or a thought process. These operations are executed by a Large Language Model (LLM) to solve complex problems. The GoO framework is designed to be flexible, allowing for the integration of different problem-solving strategies and the customization of operations to suit specific problems.

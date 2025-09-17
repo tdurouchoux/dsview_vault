@@ -2,4 +2,4 @@
 type: Library
 ---
 
-chess.js is a JavaScript library for chess move generation and validation. It provides a simple interface for working with chess games, including move generation, move validation, and game state management. The library is useful for building chess applications, such as web-based chess games or chess puzzles, and can be used to implement chess rules and logic in a web application.
+chess.js is a JavaScript library designed to handle chess rules and logic. It provides functionalities for representing chess boards, making moves, detecting check, checkmate, and other game states, and generating valid moves. In the context of Probabilistic Chess, chess.js is used to manage the basic chess rules and logic, while additional probabilistic elements are layered on top. This library is essential for implementing the core mechanics of the game and ensuring that the moves adhere to standard chess rules, modified by the probabilistic elements introduced in this variant.

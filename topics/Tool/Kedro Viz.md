@@ -2,4 +2,4 @@
 type: Tool
 ---
 
-Kedro-Viz is a visualization tool that provides a blueprint of data and machine learning workflows within a Kedro project. It helps users understand data lineage, track pipeline execution details such as execution time and node status, and view dataset statistics. This tool enhances collaboration by making it easier to communicate with business stakeholders and other team members.
+Kedro-Viz is a visualization tool that provides a blueprint of data and machine learning workflows within a Kedro project. It offers data lineage, detailed pipeline execution information such as execution time, node status, dataset statistics, and facilitates collaboration with business stakeholders by making the workflows easier to understand and navigate.

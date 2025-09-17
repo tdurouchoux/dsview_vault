@@ -14,27 +14,17 @@ upload_date: '2025-03-09'
 https://www.databenchmarks.com/
 ## Summary
 
-The content presents a benchmarking tool for data teams, analyzing various aspects of data teams across numerous companies. Key points include:
+- **Data Team Size**: Analysis of data team size relative to total company size in 100 tech scaleups.
+- **Team Composition**: Breakdown of data roles into insight, data engineering, and machine learning categories.
+- **Data-to-Engineer Ratio**: Comparison of data and product team sizes to engineering team sizes in 40 scaleups.
+- **Salary Benchmark**: Salary comparison across data teams in hundreds of European companies.
+- **Data Stack**: Popular tools in data warehousing, BI, transformation, ingestion, and catalogs.
 
-1. **Data Team Size**: Compares the size of data teams to the total company size in 100 tech scaleups.
-2. **Team Composition**: Examines the distribution of data roles across insights, data engineering, and machine learning.
-3. **Data-to-Engineer Ratio**: Compares the size of data and product teams to engineering teams in 40 scaleups.
-4. **Salary Benchmark**: Provides salary comparisons for data team roles across hundreds of European companies.
-5. **Data Stack**: Identifies the most popular tools in data warehousing, BI, transformation, ingestion, and catalogs.
-
-The analysis aims to help data teams understand how they compare to industry standards and trends. Additionally, it promotes a guide by SYNQ on building reliable data products.
+The content provides benchmarks for data teams, including size, composition, ratios, salaries, and popular tools, based on extensive company data.
 ## Links
 
-- [SYNQ's guide to building reliable data products](https://synq.io/guide) : A guide provided by SYNQ on how to build reliable data products.
+- [SYNQ's guide](https://synq.io/guide) : A guide to build reliable data products.
 
 ## Topics
 
-![](topics/Concept/Data%20Team%20Size)
-
-![](topics/Concept/Team%20Composition)
-
-![](topics/Concept/Data%20to%20Engineer%20Ratio)
-
-![](topics/Concept/Salary%20Benchmark)
-
-![](topics/Concept/Modern%20Data%20Stack)
+![](topics/Concept/Data%20Products%20Observability)

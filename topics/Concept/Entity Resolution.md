@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Entity Resolution is the process of identifying, matching, and merging records that correspond to the same real-world entity from different data sources. It is crucial for data cleaning and integration, especially when dealing with noisy or inconsistent data. This process helps in disambiguating entities and improving data quality for various data science tasks.
+Entity Resolution is a data science technique used to identify and link records that refer to the same real-world entity across different data sources. This process is crucial for data integration, deduplication, and ensuring data quality. Entity Resolution involves dealing with noisy data, which may contain errors, inconsistencies, or variations, making it challenging to accurately match records. Advanced algorithms and machine learning models are often employed to improve the accuracy of entity resolution tasks.

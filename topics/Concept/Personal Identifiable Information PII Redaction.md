@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-PII redaction is the process of identifying and removing Personal Identifiable Information from datasets to protect privacy. In the context of StarCoder, an improved PII redaction pipeline was used to remove sensitive information such as names, passwords, and email addresses from the training data. This process is crucial for ensuring the responsible and safe release of open models.
+PII redaction is the process of removing Personal Identifiable Information such as names, passwords, and email addresses from training data to protect privacy. In the context of StarCoder, an improved PII redaction pipeline was implemented in collaboration with Toloka to ensure that sensitive information is removed from the training dataset, making the model safer and more privacy-conscious.

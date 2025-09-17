@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Discrete diffusion models are a type of model used in machine learning that involve sequences of random variables where the future state depends only on the current state, not on the sequence of events that preceded it. These models are used in various applications, including image generation and time series analysis.
+Discrete diffusion models are a type of generative model that operates in discrete space and time, as opposed to continuous diffusion models. They are used for generating data, such as images or text, by gradually adding noise to the data and then learning to reverse this process. These models have been explored in recent research, such as Lou et al. (2023), Sahoo et al. (2024), and Shi et al. (2024), and are related to continuous-time Markov chains.

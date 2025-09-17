@@ -6,7 +6,7 @@ relevance: 0
 source: Alpha Signal
 tags:
 - Computer_Vision
-- Data_Analysis
+- Development_tool
 type: Content
 upload_date: '2024-10-16'
 ---
@@ -14,24 +14,42 @@ upload_date: '2024-10-16'
 https://github.com/VikParuchuri/surya
 ## Summary
 
-Surya is a document OCR toolkit that supports OCR in 90+ languages, line-level text detection, layout analysis (table, image, header, etc. detection), reading order detection, table recognition, and LaTeX OCR. It is designed to work on a range of documents and benchmarks favorably against cloud services.
+Surya is a document OCR toolkit that offers the following features:
 
-Key features include:
-- OCR in 90+ languages
+- OCR in 90+ languages with competitive benchmarks against cloud services
 - Line-level text detection in any language
-- Layout analysis and reading order detection
-- Table recognition with row/column detection
-- LaTeX OCR for equation recognition
+- Layout analysis (table, image, header, etc. detection)
+- Reading order detection
+- Table recognition (detecting rows/columns)
+- LaTeX OCR
 
-The toolkit provides various commands for different tasks such as OCR, text line detection, layout and reading order analysis, table recognition, and LaTeX OCR. It can be used via command line or integrated into Python code. Surya also offers an interactive app for easy testing and an API for hosted services.
+Key technical points:
 
-Performance tips and benchmarks are provided for different tasks, showing competitive performance against other tools like Tesseract and Google Cloud Vision. The toolkit is open-source and can be installed via pip. For commercial use, specific licensing terms apply.
+- Works on a range of documents, with usage and benchmarks provided
+- Hosted API available for PDFs, images, word docs, and powerpoints
+- Licensing: Model weights use a modified AI Pubs Open Rail-M license (free for research, personal use, and startups under $2M funding/revenue), and code is GPL
+- Installation requires Python 3.10+ and PyTorch
+- Interactive app available for testing Surya on images or PDF files
+- Performance tips provided for optimizing GPU and CPU usage
+- Benchmarks against Tesseract and Google Cloud Vision for OCR, text line detection, layout analysis, reading order, table recognition, and LaTeX OCR
+- Training details provided for text detection and recognition models
+- Finetuning script available for training Surya OCR on custom data
+- Citation information provided for academic use
 
-Training details and finetuning options are also mentioned, highlighting the use of advanced architectures and models. The project is actively maintained and has a community for support and discussion.
+Key takeaways:
+
+- Surya is a versatile OCR toolkit with support for multiple languages and document types
+- It offers competitive performance against established cloud services and open-source tools
+- The toolkit is designed to be user-friendly, with an interactive app and detailed documentation
+- Surya is open-source and free for research, personal use, and startups, with commercial licensing available
+- The toolkit's performance can be further optimized with provided tips and finetuned on custom data.
 ## Links
 
-- [Surya OCR Toolkit Documentation](https://www.datalab.to/) : The official website for Surya, providing detailed documentation, installation instructions, and usage examples for the OCR toolkit.
-- [Surya OCR Toolkit GitHub Repository](https://github.com/VikParuchuri/surya) : The GitHub repository for Surya, containing the source code, issues, and pull requests for the OCR toolkit.
+- [Surya OCR Toolkit](https://www.datalab.to?utm_source=gh-surya) : The official website for Surya, a document OCR toolkit that supports OCR, layout analysis, reading order detection, and table recognition in over 90 languages.
+- [PubLayNet Dataset](https://github.com/ibm-aur-nlp/PubLayNet) : A dataset used for benchmarking layout analysis, containing labeled images of document layouts.
+- [DocLayNet Benchmark Dataset](https://huggingface.co/datasets/vikp/doclaynet_bench) : A benchmark dataset for evaluating text line detection performance across a variety of document images.
+- [EfficientViT Architecture](https://github.com/mit-han-lab/efficientvit) : The GitHub repository for EfficientViT, a semantic segmentation architecture used in training the text detection model.
+- [Donut Model](https://github.com/clovaai/donut) : The GitHub repository for the Donut model, a transformer-based model used in training the text recognition model.
 
 ## Topics
 

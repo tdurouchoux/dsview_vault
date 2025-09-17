@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Quantization-Aware Training (QAT) is a technique used to optimize the performance of large language models by reducing the precision of the model's weights and activations. This process involves training the model with quantization in mind, resulting in a more efficient model with similar performance. Torchtune supports QAT for various models.
+Quantization-Aware Training (QAT) is a technique used to optimize the performance of neural networks by simulating the effects of quantization during training. This approach helps in reducing the model size and improving inference speed without significant loss in accuracy, making it suitable for deployment on resource-constrained devices.

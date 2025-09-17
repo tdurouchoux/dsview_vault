@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Self-Alignment in the context of LLMs refers to the process where a language model improves its own performance and alignment with human intentions without extensive human intervention. This involves techniques such as self-instruction, self-rewarding, and self-play, where the model generates its own training data, evaluates its outputs, and iteratively improves. Self-alignment aims to create models that can follow complex instructions, generate high-quality outputs, and align better with user needs and ethical guidelines.
+Self-Alignment refers to the process where language models align their outputs with desired behaviors or principles without extensive human supervision. This can involve using techniques like self-play, where the model generates its own training data and feedback to improve its performance. Self-alignment aims to create models that are safer, more helpful, and more aligned with human values and intentions.

@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-UltraFeedback is a method or dataset used in the fine-tuning process of language models. In the context of SmolLM2, UltraFeedback is utilized in the Direct Preference Optimization (DPO) phase to refine the model's performance based on preference data, aligning it more closely with human preferences and improving its overall effectiveness.
+UltraFeedback is a feedback mechanism used to improve the performance and alignment of language models. It involves collecting and utilizing feedback data to fine-tune models, ensuring they better meet user needs and preferences. In the context of SmolLM2, UltraFeedback was used in conjunction with Direct Preference Optimization (DPO) to enhance the model's instruction-following capabilities and overall performance.

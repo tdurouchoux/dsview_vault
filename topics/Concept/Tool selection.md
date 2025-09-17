@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Tool selection is the process of choosing the appropriate tools for an AI agent to use in order to accomplish a task effectively. This process involves considering the environment, the task requirements, and the agent's capabilities. Effective tool selection requires experimentation and analysis to determine the best set of tools for a given task. It is a crucial aspect of building and optimizing AI agents, as the right tools can significantly enhance the agent's performance and capabilities.
+Tool selection is the process of choosing the right set of tools for an AI agent to use. The selection depends on the environment, the task, and the AI model's capabilities. Effective tool selection requires experimentation and analysis to balance the number of tools with the agent's ability to use them efficiently. Tools can be combined or created from simpler ones to enhance the agent's capabilities.

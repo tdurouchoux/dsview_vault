@@ -14,20 +14,17 @@ upload_date: '2024-11-18'
 https://huggingface.co/blog/moe
 ## Summary
 
-Mixture of Experts (MoE) models are designed to be pretrained faster and offer faster inference compared to dense models, but they require high VRAM and face challenges in fine-tuning. MoEs replace dense feed-forward network (FFN) layers with MoE layers, which consist of multiple experts and a gate network that routes tokens to these experts. The history of MoEs dates back to 1991, with significant advancements in the 2010s leading to their application in NLP.
+Mixture of Experts (MoEs) are models that enable efficient pretraining and faster inference compared to dense models. They consist of sparse MoE layers with multiple experts and a gate network that routes tokens to these experts. MoEs have a history dating back to 1991, with significant advancements in the 2010s, particularly in the context of NLP. Sparsity in MoEs allows for conditional computation, where only parts of the network are active for specific inputs, leading to efficient training and inference.
 
-Sparsity in MoEs allows for conditional computation, where only parts of the network are active for specific inputs, enabling efficient scaling. Load balancing is crucial to ensure all experts are utilized equally. MoEs integrated with transformers, such as in the GShard and Switch Transformers models, have shown promising results in large-scale training. Switch Transformers, in particular, introduced a simplified single-expert strategy and explored expert capacity and auxiliary loss for load balancing.
+Key challenges include training instabilities and high VRAM requirements. Techniques like load balancing, expert capacity, and router Z-loss help stabilize training. MoEs can be fine-tuned, but they require different hyperparameter setups and may benefit from instruction tuning. The choice between MoEs and dense models depends on the use case, with MoEs being more suitable for high-throughput scenarios and dense models for low-throughput ones.
 
-Fine-tuning MoEs presents unique challenges, including overfitting and the need for different hyperparameter setups. Recent work suggests that MoEs benefit significantly from instruction tuning. The choice between sparse MoEs and dense models depends on the specific use case, with MoEs being more suitable for high-throughput scenarios and dense models for low-throughput, low-VRAM scenarios.
-
-Efficient training and serving techniques for MoEs include expert parallelism, capacity factor adjustments, and distillation methods. Open-source projects and resources are available for training and experimenting with MoEs. Future directions include distilling MoEs to dense models, exploring model merging techniques, and performing extreme quantization techniques.
+Efficient training and serving techniques, such as parallelism, capacity factor adjustment, and expert aggregation, are crucial for practical implementation. Open-source projects and resources are available for further exploration and experimentation with MoEs.
 ## Links
 
-- [Mixture of Experts Explained](https://huggingface.co/blog/moe) : This link points to the blog post explaining Mixture of Experts (MoE) on the Hugging Face website. It provides an overview of MoEs, their history, and their applications in machine learning, particularly in the context of transformer models.
-- [Mixtral 8x7B Model Announcement](https://mistral.ai/news/mixtral-of-experts/) : This link points to the announcement of the Mixtral 8x7B model, a Mixture of Experts model. It provides details about the model's architecture, performance, and how it compares to other models.
-- [Mixtral-8x7B-Instruct-v0.1 Model](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1) : This link points to the Hugging Face page for the Mixtral-8x7B-Instruct-v0.1 model. It provides information about the model, including its parameters, performance, and how to use it for inference.
-- [Switch Transformers Collection](https://huggingface.co/collections/google/switch-transformers-release-6548c35c6507968374b56d1f) : This link points to a collection of Switch Transformers models on Hugging Face. It provides access to various models released by Google, including details about their architecture and performance.
-- [OpenMoE GitHub Repository](https://github.com/XueFuzhao/OpenMoE) : This link points to the GitHub repository for OpenMoE, an open-source project for training Mixture of Experts models. It provides access to the code, documentation, and examples for using OpenMoE.
+- [Mixture of Experts Explained](https://github.com/huggingface/blog/blob/main/moe.md) : The markdown file for the blog post explaining Mixture of Experts (MoE) on Hugging Face.
+- [Switch Transformers Paper](https://arxiv.org/abs/2101.03961) : The paper introducing Switch Transformers, a type of Mixture of Experts model.
+- [Mixtral 8x7B Model](https://huggingface.co/mistralai/Mixtral-8x7B-v0.1) : The Mixtral 8x7B model, a Mixture of Experts model released by Mistral AI.
+- [Mixtral of Experts Blog Post](https://mistral.ai/news/mixtral-of-experts/) : A blog post announcing the Mixtral 8x7B model and discussing its performance and capabilities.
 
 ## Topics
 
@@ -44,3 +41,7 @@ Efficient training and serving techniques for MoEs include expert parallelism, c
 ![](topics/Concept/Expert%20Capacity)
 
 ![](topics/Concept/Fine%20tuning%20MoEs)
+
+![](topics/Concept/Parallelism)
+
+![](topics/Concept/Serving%20Techniques)

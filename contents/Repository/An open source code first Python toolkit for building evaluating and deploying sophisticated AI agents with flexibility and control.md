@@ -14,28 +14,20 @@ upload_date: '2025-04-19'
 https://github.com/google/adk-python
 ## Summary
 
-The Agent Development Kit (ADK) is an open-source, code-first Python toolkit for building, evaluating, and deploying AI agents. Key features include:
+The Agent Development Kit (ADK) is an open-source, code-first Python toolkit designed for building, evaluating, and deploying AI agents with flexibility and control. Key features include:
 
-- **Rich Tool Ecosystem**: Pre-built tools, custom functions, and OpenAPI specs for diverse agent capabilities.
-- **Code-First Development**: Define agent logic, tools, and orchestration directly in Python.
-- **Modular Multi-Agent Systems**: Design scalable applications by composing multiple specialized agents.
-- **Deploy Anywhere**: Containerize and deploy agents on Cloud Run or scale with Vertex AI Agent Engine.
-- **Agent2Agent (A2A) Protocol**: For remote agent-to-agent communication.
+- **Rich Tool Ecosystem**: Utilizes pre-built tools, custom functions, and OpenAPI specs for diverse agent capabilities.
+- **Code-First Development**: Defines agent logic, tools, and orchestration directly in Python for flexibility and testability.
+- **Modular Multi-Agent Systems**: Allows designing scalable applications by composing multiple specialized agents into flexible hierarchies.
+- **Deploy Anywhere**: Easily containerize and deploy agents on Cloud Run or scale with Vertex AI Agent Engine.
+- **Agent2Agent (A2A) Protocol**: Integrates with the A2A protocol for remote agent-to-agent communication.
 
-**Installation**:
-- Stable Release: `pip install google-adk`
-- Development Version: `pip install git+https://github.com/google/adk-python.git@main`
-
-**Documentation**: Available for detailed guides on building, evaluating, and deploying agents.
-
-**Contributing**: Community contributions are welcome, with guidelines provided for bug reports, feature requests, and code contributions.
-
-**License**: Apache 2.0 License.
+The toolkit is model-agnostic and deployment-agnostic, optimized for Gemini and the Google ecosystem but compatible with other frameworks. It supports both stable and development versions for installation via pip. The documentation provides detailed guides on building, evaluating, and deploying agents. Contributions from the community are welcome, with guidelines available for bug reports, feature requests, and code contributions. The project is licensed under the Apache 2.0 License.
 ## Links
 
-- [Agent Development Kit (ADK) Documentation](https://google.github.io/adk-docs/) : The official documentation for the Agent Development Kit (ADK), providing detailed guides on building, evaluating, and deploying AI agents.
-- [Agent2Agent (A2A) Protocol and ADK Integration](https://github.com/google-a2a/A2A/) : Repository for the Agent2Agent (A2A) protocol, which integrates with ADK for remote agent-to-agent communication.
-- [Agent Development Kit (ADK) Samples](https://github.com/google/adk-samples) : A collection of sample projects demonstrating how to use the Agent Development Kit (ADK) to build and deploy AI agents.
+- [Agent Development Kit (ADK) Documentation](https://google.github.io/adk-docs/) : The official documentation for the Agent Development Kit (ADK), providing detailed guides on building, evaluating, and deploying agents.
+- [Agent Development Kit (ADK) Samples](https://github.com/google/adk-samples) : A repository containing sample code and examples for the Agent Development Kit (ADK), demonstrating various use cases and features.
+- [Agent2Agent (A2A) Protocol](https://github.com/google-a2a/A2A/) : The repository for the Agent2Agent (A2A) protocol, which enables remote agent-to-agent communication and integrates with the ADK.
 
 ## Topics
 
@@ -43,4 +35,6 @@ The Agent Development Kit (ADK) is an open-source, code-first Python toolkit for
 
 ![](topics/Concept/Agent%20Config)
 
-![](topics/Concept/Agent%20to%20Agent%20A2A%20Protocol)
+![](topics/Concept/Tool%20Confirmation)
+
+![](topics/Concept/Agent2Agent%20A2A%20Protocol)

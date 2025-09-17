@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Variable clustering is a statistical technique used to group similar variables together based on their relationships or patterns. This approach is often used to reduce the dimensionality of data, identify redundant or collinear variables, and improve the interpretability of complex datasets. Variable clustering can be particularly useful in medical research for summarizing patient characteristics and relating them to outcomes.
+Variable clustering is a technique used to group variables (features) based on their similarities or correlations. This approach is often more informative and less arbitrary than patient clustering, as it does not discard as much information and better handles collinearities and redundancies among variables. It can be combined with methods like sparse principal components analysis (PCA) to provide a more sparse and interpretable representation of the data.

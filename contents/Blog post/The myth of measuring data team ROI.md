@@ -13,18 +13,21 @@ upload_date: '2025-03-09'
 https://hex.tech/blog/myth-of-data-team-roi/
 ## Summary
 
-The article discusses the challenges of measuring the ROI of data teams. Key points include:
+The article discusses the challenges of measuring the ROI of data teams and argues that it's not a quantifiable metric. Key points include:
 
-- Measuring data team ROI quantitatively is difficult and often leads to "measurement theater."
-- Instead of self-reporting, the value of a data team should be communicated through stakeholders' advocacy, similar to a Net Promoter Score (NPS).
-- Data teams should embrace their role as a service organization, supporting other functions to make better decisions.
-- The real ROI of data insights is realized when they inspire action.
-- Data teams should focus on making their impact obvious to stakeholders to gain budget and support.
-- The article concludes that data teams should aim to have stakeholders advocate for their value, rather than trying to quantify it themselves.
+1. **Difficulty in Measurement**: Quantifying the impact of data work, especially infrastructure investments, is complex and often leads to "measurement theater" with underwhelming results.
+
+2. **Alternative Approach**: Instead of self-measurement, the author suggests using Net Promoter Score (NPS) as a proxy for ROI. The value of a data team should be judged by the satisfaction and advocacy of its stakeholders.
+
+3. **Service and Agency**: Data teams should embrace their role as a service organization, supporting other teams' success. They must also drive agency to ensure their insights inspire action.
+
+4. **Future Impact**: To gain budget and support, data teams should focus on making their impact clear to stakeholders, rather than relying on spreadsheets to tell their story.
+
+The article concludes that data teams should aim to make their impact so obvious that stakeholders advocate for them, negating the need for ROI justification.
 ## Links
 
-- [Glue Work](https://locallyoptimistic.com/post/glue-work/) : An article discussing the concept of 'glue work' in data teams, which is likely referenced in the main content when talking about the difficulty of quantifying the impact of data work.
+- [Glue Work](https://locallyoptimistic.com/post/glue-work/) : An article discussing the concept of 'glue work' in data teams, which aligns with the content's discussion on the challenges of measuring the impact of data work.
 
 ## Topics
 
-![](topics/Concept/Data%20Team%20ROI)
+![](topics/Platform/Hex%20Platform)

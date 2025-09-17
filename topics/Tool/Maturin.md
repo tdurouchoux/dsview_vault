@@ -2,4 +2,4 @@
 type: Tool
 ---
 
-Maturin is a tool that simplifies the process of compiling Rust code and preparing it as a Python wheel package. It streamlines the build process, making it easier to integrate Rust modules into Python projects. Maturin is particularly useful for developers looking to combine the performance of Rust with the flexibility of Python.
+Maturin is a tool that simplifies the process of building and packaging Rust projects for use in Python. It compiles Rust code and prepares it as a Python wheel package, which can then be installed and used like any other Python library. Maturin streamlines the integration of Rust and Python, making it easier to develop performant and secure applications.

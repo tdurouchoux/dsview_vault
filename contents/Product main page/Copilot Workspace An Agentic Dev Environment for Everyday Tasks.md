@@ -14,25 +14,17 @@ upload_date: '2025-01-15'
 https://githubnext.com/projects/copilot-workspace
 ## Summary
 
-Copilot Workspace is an agentic development environment designed to assist with everyday coding tasks. It uses natural language input to generate a plan of action and implement changes. Key features include:
-
-- **Brainstorming**: Discuss ideas and consider alternatives.
-- **Validation**: Test and repair code changes using an integrated terminal.
-- **Collaboration**: Share workspaces with team members and create pull requests.
-- **Mobility**: Access and manage workspaces from the GitHub mobile app.
-
-Copilot Workspace is powered by GPT-4o and offers steerable interactions, allowing developers to edit specifications and plans. It differs from Copilot and Copilot Chat by focusing on task-oriented development, coordinating changes across multiple files. Users can run and test code within the workspace before creating a pull request, and the environment supports integration with a full IDE via Codespaces.
-
-Access to Copilot Workspace is available to users with a paid Copilot subscription. The technical preview ended on May 30th, 2024.
+Copilot Workspace is an agentic development environment designed to assist with everyday coding tasks. It uses natural language to understand and implement user intent, offering features like brainstorming, code validation, and collaborative workflows. Powered by GPT-4o, it provides a steerable interface where users can edit specifications and plans, making it easier to evaluate and generate correct code. Unlike Copilot and Copilot Chat, which offer inline suggestions and chat-based interactions, Copilot Workspace focuses on planning and executing coordinated changes across multiple files. Users can run and test code within the workspace before creating pull requests, and it integrates with Codespaces for a full IDE experience. The technical preview ended on May 30th, 2025, and access requires a paid Copilot subscription.
 ## Links
 
-- [Copilot Workspace Sunset](https://gh.io/copilot-workspace-sunset) : This link provides information about the sunset of the Copilot Workspace technical preview, which ended on May 30th, 2025.
-- [Copilot Workspace User Manual](https://github.com/githubnext/copilot-workspace-user-manual) : This link points to the user manual for Copilot Workspace, offering detailed guidance on how to use the tool effectively.
+- [Copilot Workspace User Manual](https://github.com/githubnext/copilot-workspace-user-manual) : This link points to the user manual for Copilot Workspace, providing detailed instructions and guidance on how to use the tool effectively. It includes information on setting up, navigating, and utilizing the various features of Copilot Workspace.
 
 ## Topics
 
 ![](topics/Platform/Copilot%20Workspace)
 
-![](topics/Concept/Steerability)
+![](topics/Model/GPT%204o)
 
-![](topics/Platform/Codespaces)
+![](topics/Platform/GitHub%20Codespaces)
+
+![](topics/Tool/GitHub)

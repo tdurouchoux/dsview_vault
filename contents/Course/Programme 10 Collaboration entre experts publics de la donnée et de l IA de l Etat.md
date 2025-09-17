@@ -5,9 +5,9 @@ read_priority: 1
 relevance: 0
 source: null
 tags:
-- Data_Analysis
 - Data_Visualization
-- Development_tool
+- Natural_Language_Processing
+- Data_Analysis
 type: Content
 upload_date: '2023-09-21'
 ---
@@ -15,41 +15,32 @@ upload_date: '2023-09-21'
 https://www.10pourcent.etalab.gouv.fr/projets/
 ## Summary
 
-The Programme 10% is a collaborative initiative between public data and AI experts from the French government. It focuses on projects that have a common interest, concrete impact, and open data. The program is structured into three phases:
-
-1. **Investigation Phase (January-February):** Teams form, identify use cases, and develop project ideas.
-2. **Construction Phase (March-June):** Teams work on technical solutions, test them, and present them during a demo day.
-3. **Amplification Phase (September-November):** Projects are proposed to other administrations, with support provided throughout this phase, culminating in presentations during the month of public innovation in November.
+The Programme 10% is a collaborative initiative between public data and AI experts from the French government. It focuses on projects that have a common interest, concrete impact, and open data. The program is structured into three phases: Investigation (January-February), Construction (March-June), and Amplification (September-November).
 
 **Season 3 Projects:**
 - **KALLM:** A practical guide for implementing Large Language Models (LLMs).
-- **MatchCV:** An tool to optimize recruitment and help candidates find suitable jobs in the public sector.
-- **ChartsGouv:** A unified, open-source tool for data visualization within the administration.
-- **Cartiflette:** A tool for creating geographic maps using public map funds.
+- **MatchCV:** A tool to optimize recruitment by matching candidates with suitable job vacancies.
+- **ChartsGouv:** A unified, open-source data visualization tool for the public sector.
+- **Cartiflette:** A tool for creating geographical maps using public map funds.
 
 **Season 2 Projects:**
 - **ChartsGouv:** Development of an open-source data visualization tool for government agents.
-- **Trouver Mon Expertise Data:** A search engine to find data experts within the government by missions, organizations, and competencies.
-- **Cartiflette:** A tool to facilitate the retrieval of official map funds for creating geographic maps.
-- **Formiable:** A project to help administrations extract and structure information from non-exploitable formats like scanned PDFs.
-- **Transformers:** A project to make large language models accessible for exploratory purposes.
-- **Nouvelle Generation de Rapports Word:** A tool to assist administrations in producing recurring reports.
-- **Impact Environnemental:** A project to measure the environmental impact of 10% projects and provide training on environmental impact.
-- **Datanonyme:** A project to review existing methods for data anonymization and synthetic data to promote data reuse while ensuring confidentiality.
+- **Trouver Mon Expertise Data:** A search engine to find data experts within the government.
+- **Cartiflette:** Facilitates the retrieval of official map data for geographical visualization.
+- **FORMiaBLE:** Automates the extraction and structuring of information from administrative documents.
+- **TRANFORMERS:** Makes large language models accessible for exploratory analysis.
+- **Nouvelle Génération de Rapports Word:** A tool to aid in the production of recurring reports.
+- **Impact Environnemental:** Measures and raises awareness about the environmental impact of projects.
+- **DataNonyme:** Explores methods for data anonymization to ensure confidentiality while allowing data reuse.
 
-The program aims to foster innovation and collaboration among public sector data experts, with a focus on open data and practical applications.
+The program aims to foster innovation and collaboration among government agencies, leveraging data and AI to improve public services.
 ## Links
 
-- [KALLM GitHub Repository](https://github.com/pedevineau/llm-experiment) : GitHub repository for KALLM, a project providing practical recommendations for implementing Large Language Models (LLMs).
-- [ChartsGouv GitHub Repository](https://github.com/etalab-ia/chartsgouv/) : GitHub repository for ChartsGouv, a project aimed at providing a unified, free, and open tool for data visualization within the French administration.
-- [Cartiflette GitHub Repository](https://github.com/InseeFrLab/cartogether) : GitHub repository for Cartiflette, a tool that simplifies the creation of maps by utilizing official map funds provided by public entities.
+- [KALLM](https://github.com/pedevineau/llm-experiment) : KALLM is a guide of practical recommendations for implementing Large Language Models (LLMs).
+- [ChartsGouv](https://github.com/etalab-ia/chartsgouv/) : ChartsGouv is a project aimed at providing a unified, free, and open-source tool for data visualization within the French administration.
 
 ## Topics
 
 ![](topics/Concept/Confidentialit%C3%A9%20diff%C3%A9rentielle)
 
 ![](topics/Concept/Synthetic%20Data%20Generation)
-
-![](topics/Concept/Anonymisation)
-
-![](topics/Concept/Code%20Carbon)

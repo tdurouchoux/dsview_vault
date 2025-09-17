@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A feature in a document management system that allows users to group multiple files that share the same attributes into a single document. This makes it easier to manage and retrieve related documents, such as a set of digital photos taken at a specific event.
+Sets of files that share the same attributes and are treated as a single document. Collections are useful for managing groups of related files, such as a series of photos taken at the same event, by defining attributes once and applying them to all files in the collection.

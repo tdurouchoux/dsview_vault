@@ -2,4 +2,4 @@
 type: Tool
 ---
 
-Quarto Dashboards is a tool for creating interactive and dynamic dashboards using the Quarto publishing system. It allows users to combine code, data, and visualizations into a single, interactive document that can be easily shared and deployed. Quarto Dashboards supports various programming languages, including Python and R, and can be used to create a wide range of interactive content, from simple reports to complex dashboards.
+Quarto Dashboards is a tool for creating interactive, web-based dashboards using the Quarto publishing system. It allows users to combine narrative text, code, and visualizations to create dynamic and interactive reports. Quarto Dashboards support various programming languages and can be used for data exploration, analysis, and presentation.

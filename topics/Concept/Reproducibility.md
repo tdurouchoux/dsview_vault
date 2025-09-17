@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Reproducibility in machine learning refers to the ability to reproduce an ML experiment and obtain the exact same results. This involves tracking and logging all aspects of the experiment, including data, code, and model parameters. Reproducibility ensures that experiments can be reliably repeated, which is crucial for validation, compliance, and auditing purposes. It is achieved through versioning of data, models, and code, as well as thorough documentation and metadata tracking.
+Reproducibility in the context of MLOps refers to the ability to reproduce an ML experiment and obtain the exact same results. This is crucial for ensuring the reliability and validity of ML models. Reproducibility is closely linked to versioning of data, model, and code, as well as thorough documentation and tracking of ML metadata.

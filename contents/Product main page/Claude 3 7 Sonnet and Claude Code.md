@@ -6,7 +6,7 @@ relevance: 0
 source: Data Points
 tags:
 - Large_Language_Model
-- AI_agent
+- Development_tool
 type: Content
 upload_date: '2025-02-25'
 ---
@@ -14,16 +14,16 @@ upload_date: '2025-02-25'
 https://www.anthropic.com/news/claude-3-7-sonnet
 ## Summary
 
-Anthropic has announced Claude 3.7 Sonnet, its most advanced model yet, which combines quick responses with extended, step-by-step thinking. It excels in coding and front-end web development and is available across all Claude plans and major cloud platforms. The model offers fine-grained control over thinking time and maintains the same pricing as its predecessors. Claude 3.7 Sonnet is designed to integrate quick and deep reasoning, improving performance on tasks like math, physics, instruction-following, and coding. It also introduces Claude Code, a command-line tool for agentic coding, available in a limited research preview. Claude 3.7 Sonnet has shown significant improvements in real-world coding tasks and achieves state-of-the-art performance on benchmarks like SWE-bench Verified and TAU-bench. The model has been extensively tested for security, safety, and reliability, with a 45% reduction in unnecessary refusals compared to its predecessor. Anthropic aims to continue improving Claude Code based on user feedback and plans to enhance its capabilities in the coming weeks. The announcement also includes updates on responsible AI practices and future developments in AI systems that augment human capabilities.
+Anthropic has introduced Claude 3.7 Sonnet, a hybrid reasoning model that offers both quick and extended thinking modes, with users controlling the thinking duration. It excels in coding and front-end web development and is available across all Claude plans and platforms. Pricing remains the same as previous models. Claude 3.7 Sonnet integrates reasoning capabilities into a single model, improving performance on tasks like math, physics, and coding. It outperforms other models in real-world coding tasks and benchmarks like SWE-bench Verified and TAU-bench. Additionally, Anthropic launched Claude Code, a command-line tool for agentic coding, enabling developers to delegate substantial engineering tasks directly from their terminal. The tool is in a limited research preview and is designed to enhance productivity by automating complex tasks. Claude 3.7 Sonnet and Claude Code represent a step towards AI systems that can deeply reason, work autonomously, and collaborate effectively with humans. The release also includes improvements in safety and reliability, with extensive testing and evaluations conducted to ensure the model meets high standards.
 ## Links
 
-- [Claude 3.7 Sonnet System Card](https://www.anthropic.com/claude-3-7-sonnet-system-card) : The system card for Claude 3.7 Sonnet, detailing its safety, security, and reliability evaluations, including how it handles harmful requests and potential vulnerabilities.
-- [SWE-bench Verified](https://www.swebench.com/#verified) : A benchmark for evaluating AI models' ability to solve real-world software issues, where Claude 3.7 Sonnet achieves state-of-the-art performance.
-- [Claude Code Documentation](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code) : Documentation for Claude Code, an agentic coding tool that allows developers to delegate substantial engineering tasks directly from their terminal.
+- [Visible Extended Thinking](https://www.anthropic.com/research/visible-extended-thinking) : Research article on visible extended thinking in AI models.
+- [Claude Code Documentation](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code) : Documentation for Claude Code, an agentic coding tool.
+- [SWE-bench Sonnet](https://www.anthropic.com/research/swe-bench-sonnet) : Research on SWE-bench Sonnet, evaluating AI models' ability to solve real-world software issues.
 
 ## Topics
 
-![](topics/Model/Claude%20Sonnet)
+![](topics/Model/Claude%203%207%20Sonnet)
 
 ![](topics/Tool/Claude%20Code)
 
@@ -31,4 +31,8 @@ Anthropic has announced Claude 3.7 Sonnet, its most advanced model yet, which co
 
 ![](topics/Concept/Hybrid%20Reasoning%20Model)
 
-![](topics/Concept/Extended%20Thinking%20Mode)
+![](topics/Concept/Extended%20Thinking)
+
+![](topics/Concept/SWE%20bench%20Verified)
+
+![](topics/Concept/TAU%20bench)

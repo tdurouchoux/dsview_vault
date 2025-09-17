@@ -2,4 +2,4 @@
 type: Library
 ---
 
-A Python library that provides a fluent interface for stream-like manipulation of iterables. It supports operations like mapping, filtering, and grouping, with lazy evaluation and concurrency support for efficient data processing.
+A Python library that combines elegance, power, and practicality to redefine how you handle data transformations. It wraps any iterable in a fluent interface, allowing you to chain operations like .map(), .filter(), and .group() while keeping them lazily evaluated. Streamable supports concurrency, making it easy to execute tasks in parallel using threads, processes, or asyncio. It is fully type-annotated, tested with 100% code coverage, and embraces immutability.

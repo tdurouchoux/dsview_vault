@@ -2,4 +2,4 @@
 type: Model
 ---
 
-Gemini 2.0 Flash is a multimodal model that serves as a core component in the AMIE system. It enables AMIE to process and understand various types of data, including text and images. The model supports AMIE's ability to conduct diagnostic conversations by interpreting multimodal information and adapting its responses based on the conversation's context and the patient's evolving state. Gemini 2.0 Flash is part of a series of models that are continuously being advanced to improve their capabilities in handling complex medical data and scenarios.
+Gemini 2.0 Flash is a multimodal model developed by Google DeepMind. It is designed to handle and interpret various types of data, including text and images, making it suitable for applications that require understanding and processing of complex, multimodal information. This model is used as a core component in the AMIE system to enable it to request, interpret, and reason about visual medical information during clinical conversations.

@@ -6,7 +6,7 @@ relevance: 0
 source: null
 tags:
 - Deep_Learning
-- MlOps
+- Development_tool
 type: Content
 upload_date: '2023-09-28'
 ---
@@ -14,27 +14,30 @@ upload_date: '2023-09-28'
 https://hanlab.mit.edu/courses/2023-fall-65940
 ## Summary
 
-This course, "TinyML and Efficient Deep Learning Computing," focuses on efficient machine learning techniques to address the high computational demands of deep neural networks. Key topics include model compression, pruning, quantization, neural architecture search, distributed training, and on-device fine-tuning. The course also covers application-specific acceleration techniques for large language models and diffusion models. Students gain hands-on experience implementing model compression techniques and deploying large language models (Llama2-7B) on laptops.
+The course "TinyML and Efficient Deep Learning Computing" at MIT focuses on efficient machine learning techniques to enable deep learning applications on resource-constrained devices. Key topics include model compression, pruning, quantization, neural architecture search, distributed training, and on-device fine-tuning. The course also covers application-specific acceleration techniques for large language models and diffusion models. Students gain hands-on experience implementing model compression techniques and deploying large language models (Llama2-7B) on a laptop.
 
 The course is structured into several chapters:
-- **Chapter I: Efficient Inference**: Covers pruning, sparsity, quantization, neural architecture search, and knowledge distillation.
-- **Chapter II: Domain-Specific Optimization**: Includes topics on transformers, LLMs, vision transformers, GANs, video, point clouds, and diffusion models.
-- **Chapter III: Efficient Training**: Focuses on distributed training, on-device training, transfer learning, and efficient fine-tuning.
-- **Chapter IV: Advanced Topics**: Explores quantum computing, quantum machine learning, and noise-robust quantum ML.
+1. Efficient Inference: Covers pruning, sparsity, quantization, and neural architecture search.
+2. Domain-Specific Optimization: Includes transformers, LLMs, vision transformers, GANs, video, and point cloud processing.
+3. Efficient Training: Focuses on distributed training, on-device training, transfer learning, and efficient fine-tuning.
+4. Advanced Topics: Explores quantum computing, quantum machine learning, and noise-robust quantum ML.
 
-The course includes five labs and a final project, with grading based on labs, project proposal, presentation, final report, and participation. Labs cover pruning, quantization, neural architecture search, LLM compression, and LLM deployment on laptops. The final project involves a proposal, oral presentation, and a final report. Participation bonuses can be earned through mid-semester evaluations and other acts that improve the class.
+Grading is based on five labs (15% each) and a final project (25%), which includes a proposal (5%), presentation and final report (20%), and a participation bonus (4%). Labs must be done individually but collaboration is allowed. The course does not have any tests or exams.
 ## Links
 
-- [MIT Han Lab Homepage](https://songhan.mit.edu) : The homepage of Professor Song Han, providing information about his research and publications.
-- [MIT Han Lab YouTube Channel](https://www.youtube.com/c/MITHANLab) : The YouTube channel of the MIT Han Lab, featuring lectures and presentations related to efficient machine learning and systems.
-- [MIT Han Lab GitHub](https://github.com/mit-han-lab) : The GitHub repository of the MIT Han Lab, containing code and resources for efficient machine learning and systems.
-- [MIT Han Lab Live Streaming](https://live.efficientml.ai/) : The live streaming page for the MIT Han Lab's lectures and events.
+- [MIT 6.5940 Fall 2023 TinyML and Efficient Deep Learning Computing](https://efficientml.ai) : The main page of the course, containing all the information about the course.
+- [MIT 6.5940 Fall 2023 TinyML and Efficient Deep Learning Computing Live Streaming](https://live.efficientml.ai/) : The live streaming page of the course, containing all the live streams of the course.
+- [MIT 6.5940 Fall 2023 TinyML and Efficient Deep Learning Computing Mid-term survey](https://forms.gle/xMgCohDLX73cd4af9) : The mid-term survey of the course, containing all the information about the mid-term survey.
+- [MIT 6.5940 Fall 2023 TinyML and Efficient Deep Learning Computing Piazza](https://piazza.com/class/lncg3hplflo4mb) : The Piazza page of the course, containing all the discussions and announcements related to the course.
+- [MIT 6.5940 Fall 2023 TinyML and Efficient Deep Learning Computing Canvas](https://canvas.mit.edu/courses/22517) : The Canvas page of the course, containing all the assignments and grades related to the course.
 
 ## Topics
 
 ![](topics/Concept/Model%20Compression)
 
 ![](topics/Concept/Pruning)
+
+![](topics/Concept/Quantization)
 
 ![](topics/Concept/Neural%20Architecture%20Search)
 
@@ -47,7 +50,5 @@ The course includes five labs and a final project, with grading based on labs, p
 ![](topics/Concept/Gradient%20Compression)
 
 ![](topics/Concept/On%20Device%20Fine%20Tuning)
-
-![](topics/Concept/Quantization)
 
 ![](topics/Concept/Knowledge%20Distillation)

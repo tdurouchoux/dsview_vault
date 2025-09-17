@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-attri2vec is an algorithm for node representation learning, node classification, and out-of-sample node link prediction for homogeneous graphs with node attributes. It leverages node attributes to learn embeddings that capture both the structure of the graph and the features of the nodes. These embeddings can then be used in downstream machine learning tasks, such as node classification and link prediction.
+attri2vec is an algorithm for node representation learning, node classification, and link prediction in homogeneous graphs with node attributes. It leverages the attributes associated with nodes to generate embeddings that capture both the structural and attribute information of the graph. This makes it useful for tasks where node attributes play a significant role in the learning process. attri2vec is implemented in libraries like StellarGraph and can be used for various downstream machine learning tasks.

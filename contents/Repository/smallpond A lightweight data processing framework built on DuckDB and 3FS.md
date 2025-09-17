@@ -14,37 +14,15 @@ upload_date: '2025-03-09'
 https://github.com/deepseek-ai/smallpond
 ## Summary
 
-Smallpond is a lightweight data processing framework built on DuckDB and 3FS. Key features include:
-
-- High-performance data processing powered by DuckDB
-- Scalability to handle PB-scale datasets
-- Easy operations with no long-running services
-
-Installation is straightforward with Python 3.8 to 3.12 support:
-```bash
-pip install smallpond
-```
-
-Quick start example:
-```python
-import smallpond
-sp = smallpond.init()
-df = sp.read_parquet("prices.parquet")
-df = df.repartition(3, hash_by="ticker")
-df = sp.partial_sql("SELECT ticker, min(price), max(price) FROM {0} GROUP BY ticker", df)
-df.write_parquet("output/")
-print(df.to_pandas())
-```
-
-Performance is notable, achieving 3.66TiB/min throughput in the GraySort benchmark. Development and documentation building instructions are provided. The project is licensed under MIT.
+Smallpond is a lightweight data processing framework built on DuckDB and 3FS. Key features include high-performance data processing, scalability for PB-scale datasets, and ease of use with no long-running services. It supports Python versions 3.8 to 3.12 and can be installed via pip. The framework allows for easy data loading, processing using SQL, and saving results. Performance benchmarks show it can sort 110.5TiB of data in 30 minutes and 14 seconds, achieving an average throughput of 3.66TiB/min. The project is licensed under the MIT License.
 ## Links
 
-- [smallpond Documentation](https://deepseek-ai.github.io/smallpond/) : The official documentation for smallpond, providing detailed guides and API references for the data processing framework.
-- [3FS Repository](https://github.com/deepseek-ai/3FS) : The GitHub repository for 3FS, a distributed file system that complements smallpond's data processing capabilities.
-- [DuckDB Website](https://duckdb.org/) : The official website for DuckDB, an in-process SQL OLAP database management system that powers smallpond.
+- [SmallPond PyPI](https://pypi.org/project/smallpond/) : PyPI page for the SmallPond data processing framework.
+- [3FS GitHub](https://github.com/deepseek-ai/3FS) : GitHub repository for 3FS, a distributed file system used by SmallPond.
+- [DuckDB](https://duckdb.org/) : Website for DuckDB, the database system used by SmallPond.
+- [3FS Gray Sort](https://github.com/deepseek-ai/3FS?tab=readme-ov-file#2-graysort) : Details about the GraySort benchmark performance of 3FS.
+- [SortBenchmark](https://sortbenchmark.org/) : Website for the SortBenchmark, which includes the GraySort benchmark used to evaluate SmallPond's performance.
 
 ## Topics
 
 ![](topics/Library/smallpond)
-
-![](topics/Platform/3FS)

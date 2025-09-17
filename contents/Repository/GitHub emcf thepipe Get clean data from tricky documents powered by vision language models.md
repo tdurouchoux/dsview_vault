@@ -20,16 +20,14 @@ Thepipe is a Python package designed to extract clean data from complex document
 - **Chunking**: Splits content into smaller chunks to satisfy token-limit constraints, with methods like `chunk_by_page`, `chunk_by_section`, and experimental methods like `chunk_semantic` and `chunk_agentic`.
 - **Integration**: Works out-of-the-box with OpenAI, LlamaIndex, and other RAG frameworks.
 - **Structured Extraction**: Deprecated in favor of OpenAI's structured outputs or Trellis AI for automated workflows.
-- **Supported File Types**: Includes webpages, PDFs, Word documents, PowerPoints, videos, audio, Jupyter notebooks, spreadsheets, images, ZIP files, directories, YouTube videos, tweets, and GitHub repositories.
+- **CLI Usage**: Provides command-line options for scraping and configuration.
 
-Thepipe uses a combination of computer-vision models and heuristics to process content for downstream use with large language models or vision-language models. It can be installed via pip and configured with environment variables for API keys, hosting, and model defaults. The project welcomes contributions and is licensed under the MIT license.
+Thepipe uses computer-vision models and heuristics to process content for downstream use with large language models or vision-language models. It supports various file types and can be configured via environment variables for API keys, hosting, and model defaults. Contributions are welcome, and the project is licensed under MIT.
 ## Links
 
-- [thepipe](https://thepi.pe) : thepipe is a package that can scrape clean markdown, multimodal media, and structured data from complex documents.
-- [OpenAI Structured Outputs](https://platform.openai.com/docs/guides/structured-outputs?api-mode=chat) : OpenAI's documentation on structured outputs, which is recommended for structured data extraction.
-- [OpenLLM](https://github.com/bentoml/OpenLLM) : OpenLLM is a project that provides a way to run local vision-language models, which can be used with thepipe.
-- [Sentence Transformers](https://pypi.org/project/sentence-transformers/) : Sentence Transformers is a Python library for state-of-the-art sentence, text, and image embeddings.
-- [Trellis AI](https://runtrellis.com/) : Trellis AI is a platform for automated workflows with structured data, which is recommended by thepipe for enterprise-ready document processing and intelligent automation.
+- [Thepipe API Download](https://www.pepy.tech/projects/thepipe-api) : Thepipe API download statistics and information.
+- [Sentence Transformers](https://pypi.org/project/sentence-transformers/) : Sentence Transformers is a Python framework for state-of-the-art sentence, text, and image embeddings, which can be used for semantic search, clustering, and more.
+- [OpenLLM](https://github.com/bentoml/OpenLLM) : OpenLLM is a project that provides a collection of large language models that can be run locally or in the cloud.
 
 ## Topics
 
@@ -37,4 +35,6 @@ Thepipe uses a combination of computer-vision models and heuristics to process c
 
 ![](topics/Concept/Vision%20Language%20Models)
 
-![](topics/Concept/Retrieval%20Augmented%20Generation)
+![](topics/Concept/Chunking)
+
+![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)

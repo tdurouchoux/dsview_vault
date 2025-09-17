@@ -2,4 +2,4 @@
 type: Model
 ---
 
-Generative Pre-trained Transformer 4o (GPT-4o) is a large language model developed by OpenAI. Released after GPT-3, GPT-4o is known for its ability to generate human-like text based on a given prompt. With enhanced capabilities and performance compared to smaller models, it represents a significant leap in scale and capability compared to its predecessors. GPT-4o can perform a wide range of tasks, from writing articles and poetry to coding and translating languages, showcasing the potential of large-scale language models in various applications.
+GPT-4o is the model powering Copilot Workspace. It was chosen for its balance of power and latency after experiments with various models from different providers. It enables the steerability and efficiency of Copilot Workspace, allowing developers to generate and refine code changes effectively.

@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Multi-GPU autoscaling is a feature that allows systems to automatically adjust the number of GPUs used based on the current workload. This ensures efficient resource utilization and optimal performance by scaling up or down the number of GPUs as needed. It is particularly useful in handling variable workloads and maintaining high performance in AI applications.
+Multi-GPU autoscaling is a concept that involves automatically adjusting the number of GPUs used in a system based on the current workload. This allows for efficient resource utilization and can significantly improve the performance of AI models, especially those that require substantial computational power. It is particularly useful in environments where the workload can vary significantly over time.

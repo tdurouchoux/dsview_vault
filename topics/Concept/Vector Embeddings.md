@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-High-dimensional representations of data, such as text or images, used for various AI applications like semantic search and retrieval-augmented generation (RAG). Vector embeddings capture the semantic meaning of the data, allowing for efficient similarity searches and retrieval. They are derived from source data through embedding models and are used to represent data in a format that can be processed by machine learning algorithms.
+Vector embeddings are high-dimensional representations of data, such as text or images, that capture semantic meanings in a numerical format. These embeddings are generated using models like OpenAI's text-embedding-3-small, E5, BGE, and Solon and are used in various AI applications for tasks like semantic search, retrieval-augmented generation (RAG), semantic similarity, information retrieval, and text clustering.

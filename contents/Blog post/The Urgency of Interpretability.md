@@ -5,6 +5,7 @@ read_priority: 5
 relevance: 0
 source: Alpha Signal
 tags:
+- AI_agent
 - Large_Language_Model
 - AI_regulation
 type: Content
@@ -14,13 +15,23 @@ upload_date: '2025-04-28'
 https://www.darioamodei.com/post/the-urgency-of-interpretability
 ## Summary
 
-Dario Amodei discusses the critical importance of interpretability in AI, emphasizing that while AI technology's progress is inevitable, its direction and applications can be steered. He highlights the urgency of achieving interpretability—understanding the inner workings of AI systems—before they become too powerful. Key points include the opacity of modern generative AI, which differs fundamentally from traditional software, and the risks associated with this lack of understanding, such as misaligned systems, deception, power-seeking, and misuse. Amodei outlines the history of mechanistic interpretability, from early work on vision models to recent advances in language models, including the discovery of superposition and the use of sparse autoencoders to find interpretable concepts. He also discusses the potential utility of interpretability in diagnosing and addressing problems in AI models, such as tendencies to lie, power-seeking, and flaws in jailbreaks. Amodei calls for accelerated research in interpretability, government support through light-touch regulations and export controls, and increased collaboration across the scientific community to ensure that interpretability advances in time to mitigate the risks of powerful AI.
+Dario Amodei discusses the critical importance of interpretability in AI, emphasizing that while AI technology is advancing rapidly, the way it's developed and deployed can be influenced. He argues that understanding AI systems' inner workings is crucial for addressing risks like misalignment, deception, and misuse. Recent breakthroughs in mechanistic interpretability have made it possible to identify and manipulate concepts and circuits within AI models, offering a path to "brain scan" AI systems for safety. Amodei highlights the race between interpretability and AI advancement, urging researchers, companies, and governments to prioritize interpretability to ensure AI's safe and beneficial development. He suggests actions like accelerating interpretability research, implementing light-touch transparency legislation, and using export controls to create a security buffer. The goal is to achieve reliable interpretability before AI reaches transformative capabilities, ensuring humanity understands its own creations.
 ## Links
 
-- [Anthropic Invests in Startup Decoding AI Models](https://www.theinformation.com/articles/anthropic-invests-startup-decodes-ai-models?rc=x8tsuw) : An article discussing Anthropic's investment in a startup focused on decoding AI models, highlighting the importance of interpretability in AI.
-- [Anthropic's Response to Governor Newsom's AI Working Group Draft Report](https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report) : Anthropic's official response to Governor Newsom's AI Working Group Draft Report, discussing regulatory frameworks and the importance of interpretability.
-- [The Case for Targeted Regulation](https://www.anthropic.com/news/the-case-for-targeted-regulation) : An article by Anthropic arguing for targeted regulation in AI, emphasizing the need for interpretability to ensure safety and alignment.
+- [Scaling Monosemantic Features](https://transformer-circuits.pub/2024/scaling-monosemanticity/) : This link discusses the scaling of monosemantic features in transformer models, which is crucial for interpretability.
+- [Attribution Graphs in Biology](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) : This link explores the use of attribution graphs in biology, which can help in understanding the inner workings of AI models.
+- [Anthropic Invests in Startup Decoding AI Models](https://www.theinformation.com/articles/anthropic-invests-startup-decodes-ai-models?rc=x8tsuw) : This article discusses Anthropic's investment in a startup focused on decoding AI models, which is relevant to the topic of interpretability.
+- [Mapping the Mind of a Language Model](https://www.anthropic.com/research/mapping-mind-language-model) : This research paper from Anthropic discusses the mapping of the mind of a language model, which is directly related to the topic of interpretability.
+- [Exploring Model Welfare](https://www.anthropic.com/research/exploring-model-welfare) : This research explores the welfare of AI models, which is an important aspect of understanding and interpreting AI systems.
 
 ## Topics
 
+![](topics/Concept/Superposition)
+
+![](topics/Concept/Circuit)
+
+![](topics/Concept/Autointerpretability)
+
 ![](topics/Concept/Mechanistic%20Interpretability)
+
+![](topics/Concept/Sparse%20Autoencoders)

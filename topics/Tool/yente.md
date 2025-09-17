@@ -2,4 +2,4 @@
 type: Tool
 ---
 
-A screening engine for sanctions compliance. It uses FollowTheMoney as its core data model.
+A screening engine for sanctions compliance that utilizes the FollowTheMoney data model to analyze and screen data for compliance with sanctions.

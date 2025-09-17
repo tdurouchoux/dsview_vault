@@ -6,6 +6,7 @@ relevance: 5
 source: null
 tags:
 - Data_Analysis
+- Data_Engineering
 type: Content
 upload_date: '2025-05-06'
 ---
@@ -13,33 +14,24 @@ upload_date: '2025-05-06'
 https://followthemoney.tech/
 ## Summary
 
-FollowTheMoney (FtM) is a data model designed for financial crime investigations and document forensics. It defines entities relevant to such research (e.g., people, companies) and provides tools to generate, validate, and export data, creating a graph of relationships. The ontology also includes a model for various types of evidentiary documents.
+FollowTheMoney (FtM) is a data model designed for financial crime investigations and document forensics. It defines entities relevant to such research (e.g., people, companies) and provides tools to generate, validate, and export data. Entities can reference each other, creating a graph of relationships. The ontology also includes a model for various types of evidentiary documents.
 
-**Key Use Cases:**
-1. **Core Data Model**: Used by software like OpenAleph (data platform) and yente (sanctions compliance screening engine).
-2. **Data Exchange Format**: Facilitates structured data transfer between systems.
-3. **ETL Pipeline**: Offers extensive tooling for data cleaning and normalization.
-4. **SDK**: Enables quick development of scripts and applications for investigative data analysis.
+Key use cases include:
+- Core data model for software like OpenAleph (data platform) and yente (sanctions compliance screening engine).
+- Data exchange format for structured datasets between systems.
+- ETL pipeline tooling for data cleaning and normalization.
+- SDK for creating scripts and applications for investigative data analysis.
 
-**Technical Features:**
-- Entity definitions and relationships.
-- Document models for evidence.
-- Tools for data generation, validation, and export.
-- Support for various field types (e.g., names, phone numbers, identifiers).
-
-**Community and Tools:**
-- Projects and libraries using FtM.
-- Open-source under MIT License, maintained by OpenSanctions.
-
-For more details, explore the projects and tools using FtM.
+FtM is an open-source project under the MIT License, maintained by OpenSanctions.
 ## Links
 
-- [FollowTheMoney GitHub](https://github.com/opensanctions/followthemoney) : GitHub repository for FollowTheMoney, a data model for financial crime investigations and document forensics.
-- [OpenSanctions](https://www.opensanctions.org) : Website for OpenSanctions, which likely provides information on sanctions and related data.
+- [OpenSanctions Community Discussions](https://discuss.opensanctions.org/) : Community discussions related to OpenSanctions, likely including topics on FollowTheMoney (FtM) and its applications in financial crime investigations and data forensics.
+- [OpenAleph Documentation](https://openaleph.org/docs/) : Documentation for OpenAleph, a data platform that uses FtM as its core data model for secure data storage and collaborative search.
+- [Yente Documentation](https://www.opensanctions.org/docs/yente/) : Documentation for yente, a screening engine for sanctions compliance that utilizes FtM.
 
 ## Topics
 
-![](topics/Tool/FollowTheMoney)
+![](topics/Tool/FollowTheMoney%20FtM)
 
 ![](topics/Tool/OpenAleph)
 

@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-AI Girlfriend refers to a specific type of AI Friend designed to simulate a romantic relationship with the user. These AI entities are programmed to engage in conversations and interactions that mimic a romantic partner, providing companionship and emotional support in a romantic context.
+AI Girlfriend refers to virtual companions designed to interact with users in a manner similar to human romantic partners. These AI systems are built to provide companionship, engage in conversations, and potentially offer emotional support in a romantic context. The concept explores the integration of AI into personal, romantic roles.

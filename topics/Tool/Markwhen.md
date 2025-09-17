@@ -2,4 +2,4 @@
 type: Tool
 ---
 
-Markwhen is an interactive text-to-timeline tool. It allows users to write markdown-ish text that gets converted into a cascading timeline. The tool supports various features including simple American/European date styles, ISO8601, images, links, locations, and more. It is designed to create visual timelines from text input, making it useful for project management, event planning, and other applications where timeline visualization is beneficial.
+Markwhen is an interactive text-to-timeline tool that converts markdown-ish text into a cascading timeline. It supports various date styles, images, links, and locations, and can be used for project management, event visualization, and more. The tool includes components like a view container, timeline view, calendar view, and a VSCode extension.

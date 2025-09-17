@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Latent Diffusion Models (LDMs) are a type of generative model that generates new data by reversing a gradual noising process in a lower-dimensional latent space. They are used for generating new data samples that are similar to the training data. The basic idea behind Latent Diffusion Models is to gradually add noise to the training data in a lower-dimensional latent space, and then learn to reverse this noising process to generate new data samples. Latent Diffusion Models are particularly well-suited for generating high-quality images, and they have been used in a variety of applications, including image generation, image super-resolution, and image inpainting. Latent Diffusion Models are a promising area of research in the field of generative modeling, and they have the potential to revolutionize the way we generate and manipulate data.

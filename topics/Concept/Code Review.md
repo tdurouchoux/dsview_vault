@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Code review is a form of peer review where a reviewer examines the code written by another person to identify potential issues, suggest improvements, and provide feedback. It is a critical part of the software development process, ensuring code quality, knowledge transfer, and collaboration among team members. Effective code review helps catch bugs early, ensures code maintainability, and promotes adherence to coding standards and best practices.
+Code review is a process where developers or data scientists review each other's code to ensure quality, identify bugs, and suggest improvements. It involves examining the code for correctness, readability, and adherence to style guidelines. The process often includes making comments, suggesting changes, and discussing improvements. Code review is a collaborative practice aimed at improving the overall quality and maintainability of the codebase.

@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Pseudocode is a simplified, human-readable representation of code that outlines the structure and logic of a program without the syntax of a specific programming language. In the context of InstructPipe, pseudocode is used to define the selections and connections of essential nodes in a visual programming pipeline, making it easier to generate and interpret complex workflows.
+Pseudocode is an informal high-level description of the steps in an algorithm or a program. It uses the structural conventions of programming languages but is intended for human reading rather than machine reading. In the context of InstructPipe, pseudocode is used to represent machine learning pipelines in a compact and interpretable format.

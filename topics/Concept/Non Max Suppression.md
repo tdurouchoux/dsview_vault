@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Non-Max Suppression (NMS) is a post-processing technique used in object detection algorithms to filter out redundant bounding boxes. It works by selecting the bounding box with the highest confidence score and suppressing those that have a significant overlap with it, based on a predefined threshold. This process helps in reducing the number of duplicate detections and improving the accuracy of the detection results. NMS is particularly useful in applications like image localization and object detection, where multiple bounding boxes may be generated for the same object.
+Non-Max Suppression (NMS) is a technique used in object detection and other computer vision tasks to filter out redundant bounding boxes and improve the accuracy of the detection results. It works by sorting the bounding boxes in order of confidence scores and then suppressing those that have a high overlap with the highest-confidence detection. NMS is often implemented as a layer in deep learning models and can be challenging to optimize and port to different hardware platforms due to its procedural nature.

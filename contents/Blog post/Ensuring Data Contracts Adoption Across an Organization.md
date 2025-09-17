@@ -18,24 +18,23 @@ The article discusses the importance of data contracts in ensuring data quality 
 
 Key points include:
 
-- Data contracts should explicitly document changes, notify consumers, and manage operational impact.
-- Governance mechanisms, such as control and communication, should be incorporated into contracts from the design phase.
-- Common failure patterns in data contracts adoption include silent bypassing, passive resistance, lack of ownership, and excessive bureaucracy.
-- A governance-as-a-service team should facilitate the adoption of data contracts by making the "virtuous path" easier than workarounds, addressing operational needs, and promoting accountability.
-- Effective data contracts governance relies on clear role definition and a collaborative ecosystem.
-- The governance process involves need identification, requirement writing, refinement, implementation, user approval, and communication.
-- Adoption strategies include establishing an enabling team, providing training, and starting with a limited but significant scope.
-- Success should be measured through business and organizational impact, such as data quality improvement and team satisfaction.
-- Data contracts governance and adoption is a journey that requires a balance between structure and flexibility, control and autonomy, and investment in the human aspect.
+- **Data Contracts**: Formal agreements that document data model evolution, notify consumers of changes, and manage operational impact.
+- **Governance Mechanisms**: Essential for controlling and communicating changes, anchored from the design phase within tools used by teams.
+- **Failure Patterns**: Common issues in adopting data contracts include silent bypassing, passive resistance, lack of ownership, and excessive bureaucracy.
+- **Governance-as-a-Service**: A facilitating body that makes the "virtuous path" easier than workarounds, addresses operational needs, and promotes accountability.
+- **Organizational Strategy and Operational Processes**: Governance must clarify roles and responsibilities, establish standards, and integrate contracts into workflows.
+- **Roles and Responsibilities**: Clear definition of roles such as Data Product Owner, Data Architect, Data Engineer, Data Owner, Data Quality Analyst, Data Governance Officer, and Contract Registry Admin.
+- **Governance Process**: A collaborative journey that ensures contract quality and relevance, involving need identification, requirement writing, refinement, implementation, user approval, and communication.
+- **Adoption Strategies**: Establishing an enabling team, providing standardized templates, structured training, and continuous support.
+- **Success Metrics**: Monitoring business and organizational impact through metrics like critical data coverage, data quality improvement, reduction in time-to-market, decrease in data-related incidents, and team satisfaction.
+- **Progressive and Iterative Approach**: Starting with a limited but significant scope, choosing early adopters carefully, and using feedback to refine governance.
+- **Conclusion**: Data contracts governance and adoption is a journey that requires balance between structure and flexibility, control and autonomy, and investment in the human aspect as much as technical excellence.
+
+The article emphasizes the importance of creating a data culture where quality and reliability are everyone's business.
 ## Links
 
-- [Clean Data Architecture Author Profile](https://substack.com/@gaelleseret) : Profile of Gaëlle Seret, co-author of the article on ensuring data contracts adoption.
-- [Clean Data Architecture Author Profile](https://substack.com/@pierreyvesbonnefoy) : Profile of Pierre-Yves Bonnefoy, co-author of the article on ensuring data contracts adoption.
+- [Author's Profile - Pierre-Yves Bonnefoy](https://substack.com/@pierreyvesbonnefoy) : Profile of Pierre-Yves Bonnefoy, co-author of the article on data contracts adoption.
 
 ## Topics
 
 ![](topics/Concept/Data%20Contracts)
-
-![](topics/Concept/Governance%20as%20a%20Service)
-
-![](topics/Concept/Data%20Mesh)

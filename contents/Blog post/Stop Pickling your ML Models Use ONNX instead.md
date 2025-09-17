@@ -6,6 +6,7 @@ relevance: 0
 source: null
 tags:
 - MlOps
+- Development_tool
 type: Content
 upload_date: '2022-09-15'
 ---
@@ -13,24 +14,24 @@ upload_date: '2022-09-15'
 https://readmedium.com/https://medium.com/@liamwr17/stop-pickling-your-ml-models-use-onnx-instead-983cd4561e3a
 ## Summary
 
-The content discusses the advantages of using ONNX (Open Neural Network Exchange) over traditional pickling methods for saving and sharing machine learning models. Key points include:
+The content discusses the advantages of using ONNX (Open Neural Network Exchange) over traditional pickling methods for machine learning models. Key points include:
 
-1. **Interoperability**: ONNX provides a standardized format that allows models to be transferred between different frameworks (e.g., PyTorch, TensorFlow, scikit-learn) and runtimes, enhancing collaboration and deployment flexibility.
+1. **Interoperability**: ONNX allows models to be transferred between different frameworks (e.g., PyTorch, TensorFlow) and runtimes, enhancing flexibility and collaboration.
 
-2. **Performance**: ONNX models can be optimized and run efficiently on various hardware platforms, including GPUs and specialized accelerators, which can lead to better performance compared to pickled models.
+2. **Performance**: ONNX Runtime is optimized for performance, often outperforming traditional pickled models in inference speed.
 
-3. **Portability**: ONNX models are framework-agnostic, making it easier to deploy models in different environments and integrate them into various applications without being tied to a specific framework's ecosystem.
+3. **Portability**: ONNX models can be deployed on various platforms, including mobile devices and edge devices, making them more versatile.
 
-4. **Community and Support**: ONNX has a growing community and ecosystem, with tools and libraries available for converting, optimizing, and running models, which can simplify the model deployment process.
+4. **Standardization**: ONNX provides a standardized format for models, ensuring consistency and ease of use across different environments.
 
-5. **Security**: ONNX models are less prone to issues related to serialization and deserialization vulnerabilities that can sometimes affect pickled models.
+5. **Ease of Use**: Converting models to ONNX is straightforward, and the format is supported by many popular machine learning frameworks.
 
-The content suggests that using ONNX can lead to more efficient, flexible, and secure machine learning workflows compared to traditional pickling methods.
+The article encourages data scientists to adopt ONNX for better model management, deployment, and performance.
 ## Links
 
-- [OpenAI o1](https://openai01.net/) : OpenAI o1 website.
-- [OpenAI o1 API](https://openaio1api.com/) : OpenAI o1 API website.
+- [OpenAI o1 Chat](https://openai01.net/) : OpenAI o1 Chat is a free chat service provided by OpenAI.
+- [OpenAI o1 API](https://openaio1api.com/) : OpenAI o1 API is an API service provided by OpenAI.
 
 ## Topics
 
-![](topics/Concept/ONNX)
+![](topics/Library/ONNX)

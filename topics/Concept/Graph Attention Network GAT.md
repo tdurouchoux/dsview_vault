@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+A Graph Attention Network (GAT) is a type of graph neural network that uses attention mechanisms to aggregate information from neighboring nodes. GATs are designed to handle the variability in the importance of different neighbors by assigning weights to the edges based on their relevance to the central node. This makes GATs particularly effective for tasks such as node classification and representation learning in homogeneous graphs. GATs support both sparse and dense adjacency matrices and are implemented in libraries like StellarGraph. Graph Attention Networks (GATs) are a type of Graph Neural Network that uses attention mechanisms to weigh the importance of neighboring nodes when updating node embeddings. GATs assign weights to edges based on a scoring function that measures the relevance of neighboring nodes to the central node. These weights are normalized and used to compute a weighted sum of the neighboring node features. GATs are permutation-invariant and can be used for tasks like node classification and link prediction.

@@ -14,20 +14,19 @@ upload_date: '2023-10-12'
 https://www.jpmorgan.com/technology/technology-blog/evolution-of-data-mesh-architecture
 ## Summary
 
-JPMorganChase's data mesh architecture aims to maximize data value while managing risks. The approach involves defining 'Data Products' curated by domain experts and implementing a 'Data Mesh' architecture that aligns data technology with these products. Key aspects include:
+The content discusses the evolution of data mesh architecture and its potential to drive significant value in modern enterprises. Key points include:
 
-1. **Data Product Strategy**: Data is grouped into products stored in separate, cloud-based data lakes, with physical separation between lakes and consumer applications.
-
-2. **Empowering Data Product Owners**: Owners manage their data, make risk-based decisions, and facilitate quick access for consumers via an enterprise-wide data catalog.
-
-3. **In-Place Consumption**: Data is shared rather than copied, ensuring up-to-date and accurate data, and easier enforcement of control decisions. Sophisticated access controls restrict visibility to specific data elements.
-
-4. **Cross-Enterprise Visibility**: A cloud-based Mesh Catalog provides visibility into data flows across the enterprise, helping data product owners track data usage.
-
-The architecture enables efficient data sharing, control, and visibility, supporting enterprise-wide analytics, AI/ML, and reporting.
+- **Data Value**: Data's value increases when combined with other data assets, enabling enterprise-wide visibility, real-time analytics, and accurate AI/ML predictions.
+- **Data Sharing Paradox**: While sharing data across the enterprise can add value, it also increases risk. JPMorganChase addresses this by defining 'Data Products' and implementing a 'Data Mesh' architecture.
+- **Data Products**: These are curated by domain experts who understand data management requirements, permissible uses, and limitations.
+- **Data Mesh Architecture**: This aligns data technology with data products, empowering data product owners to make management and use decisions, enforcing those decisions by sharing data rather than copying it, and providing clear visibility of data sharing across the enterprise.
+- **Implementation**: The architecture uses cloud services for storage, cataloging, and querying data, with physical separation between data lakes and consumer applications.
+- **Control and Visibility**: The data mesh allows for granular access control and provides cross-enterprise visibility of data consumption through a cloud-based Mesh Catalog.
+- **Example**: The architecture enables reporting teams to find and request lake-based data, with the mesh catalog allowing auditing of data flows.
+- **Conclusion**: JPMorganChase's data mesh architecture aligns data technology solutions with their data product strategy, enabling data sharing while giving data owners the control and visibility they need.
 ## Links
 
-- [JPMorganChase Homepage](https://www.jpmorgan.com) : The official homepage of JPMorganChase, providing information about the company's services, news, and more.
+- [JPMorganChase Homepage](https://www.jpmorgan.com) : The homepage of JPMorganChase, providing an overview of the company's services, news, and other relevant information.
 
 ## Topics
 
@@ -42,5 +41,3 @@ The architecture enables efficient data sharing, control, and visibility, suppor
 ![](topics/Platform/AWS%20LakeFormation)
 
 ![](topics/Platform/AWS%20Athena)
-
-![](topics/Platform/AWS%20Glue%20Catalog)

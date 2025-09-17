@@ -14,22 +14,39 @@ upload_date: '2025-01-22'
 https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity
 ## Summary
 
-- **Main Points:**
-  - Cosine similarity is often used as a quick fix for vector comparisons, but it can lead to misleading results if not used carefully.
-  - Embeddings capture similarities, but they may reflect the wrong kind of similarity (e.g., matching questions to questions rather than questions to answers).
-  - Cosine similarity is the cosine of the angle between two vectors and is calculated as the dot product of normalized vectors.
-  - It has appealing properties but can be misleading, as the values do not represent probabilities or meaningful metrics.
-  - Cosine similarity is related to Pearson correlation, but it skips the mean centering step.
-  - Problems arise when the training objective differs from what is actually cared about or when the model has not been exposed to cosine similarity.
-  - Cosine similarity may not capture the right kind of similarity, as it smashes nuanced views into a single number.
-  - In practice, cosine similarity may not work well for tasks like finding answers to questions, as it may match questions to other questions rather than providing plausible answers.
-  - Alternative approaches include using LLM queries to compare entries directly, fine-tuning or transfer learning to create task-specific embeddings, prompt engineering, and preprocessing text before embedding.
-  - Key takeaways: Cosine similarity provides a number between -1 and 1 but should not be mistaken for a probability. Most models are not trained using cosine similarity, and even when they are, the kind of similarity learned may not match the user's needs. Effective use of vector similarity involves training custom embeddings, engineering prompts, and cleaning/standardizing text before embedding.
+The blog post discusses the pitfalls of using cosine similarity carelessly in data science, particularly with embeddings from Large Language Models (LLMs). Key points include:
+
+1. **Embeddings and Cosine Similarity**:
+   - Embeddings capture relationships between items, but cosine similarity may not always reflect the intended similarity.
+   - Cosine similarity is the cosine of the angle between vectors, often used to compare vectors in high-dimensional spaces.
+
+2. **Problems with Cosine Similarity**:
+   - It's a quick fix that may mask deeper problems and doesn't always represent meaningful metrics.
+   - It's related to Pearson correlation but skips the mean centering step.
+   - It may not align with the training objective or the actual similarity needed.
+
+3. **When It Falls Apart**:
+   - Cosine similarity may match questions to questions rather than questions to answers.
+   - It can be distracted by superficial patterns like writing style and typos rather than meaning.
+
+4. **Better Approaches**:
+   - Use LLM queries to compare entries directly for more meaningful comparisons.
+   - Create task-specific embeddings through fine-tuning or transfer learning.
+   - Pre-process text with prompts or rewriting to focus on relevant aspects before embedding.
+
+5. **Recap**:
+   - Cosine similarity provides a number between -1 and 1 but isn't a probability.
+   - Models aren't always trained with cosine similarity, so results may vary.
+   - To use vector similarity effectively, consider training custom embeddings, engineering prompts, or cleaning and standardizing text.
+
+The post emphasizes the importance of understanding the limitations of cosine similarity and exploring alternative methods for more accurate and meaningful similarity measures.
 ## Links
 
-- [OpenAI Embedding Models](https://platform.openai.com/docs/guides/embeddings) : Documentation on OpenAI's embedding models, including text-embedding-3-large, which is used to generate vectors for text similarity analysis.
-- [Thinking in Tensors, Writing in PyTorch](https://github.com/stared/thinking-in-tensors-writing-in-pytorch) : A GitHub repository containing tutorials and exercises on using PyTorch for tensor operations and deep learning, relevant to the discussion on embeddings and cosine similarity.
-- [Text and Code Embeddings by Contrastive Pre-Training](https://cdn.openai.com/papers/Text_and_Code_Embeddings_by_Contrastive_Pre_Training.pdf) : A research paper on contrastive pre-training for text and code embeddings, which is relevant to the topic of embeddings and their applications.
+- [OpenAI Embedding Models and API Updates](https://openai.com/index/new-embedding-models-and-api-updates/) : This link points to the OpenAI blog post about new embedding models and API updates, which is relevant to the content discussing embeddings and cosine similarity.
+- [Text and Code Embeddings by Contrastive Pre-Training](https://cdn.openai.com/papers/Text_and_Code_Embeddings_by_Contrastive_Pre_Training.pdf) : This link points to a research paper on text and code embeddings by contrastive pre-training, which is relevant to the content discussing embeddings and their applications.
+- [Thinking in Tensors, Writing in PyTorch](https://github.com/stared/thinking-in-tensors-writing-in-pytorch) : This link points to a GitHub repository for a series on thinking in tensors and writing in PyTorch, which is relevant to the content discussing the use of PyTorch for machine learning tasks.
+- [GLove Embeddings](https://nlp.stanford.edu/projects/glove/) : This link points to the GLove embeddings project, which is relevant to the content discussing the use of embeddings and cosine similarity.
+- [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance) : This link points to the Wikipedia page for Levenshtein distance, which is relevant to the content discussing string similarity and its limitations.
 
 ## Topics
 
@@ -39,6 +56,6 @@ https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity
 
 ![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
 
-![](topics/Concept/Text%20Embeddings)
+![](topics/Concept/Embeddings)
 
 ![](topics/Concept/Prompt%20Engineering)

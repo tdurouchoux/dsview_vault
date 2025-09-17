@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-AI Friend refers to virtual companions designed to interact with users, providing companionship and engaging in conversations. These AI entities are programmed to mimic human-like interactions, offering emotional support and engaging in various topics of discussion.
+AI Friend refers to virtual companions designed to interact with users in a manner similar to human friends. These AI systems are built to provide companionship, engage in conversations, and potentially offer emotional support. The concept explores the integration of AI into personal, social, and potentially romantic roles.

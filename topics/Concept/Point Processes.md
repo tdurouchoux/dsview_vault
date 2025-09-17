@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Point processes are mathematical models used to describe the occurrence of events in time or space. They are used in various fields such as seismology, neuroscience, and telecommunications. They can be used to simulate Markov chains by associating each state transition with a point process.
+Point processes are mathematical models used to describe the occurrence of events in time or space. They are used to model phenomena where events occur randomly and independently. Point processes can be discrete or continuous and are characterized by their intensity or rate, which describes the average number of events per unit time or space. They are closely related to Markov chains, as the waiting times between transitions in a Markov chain can be modeled using point processes.

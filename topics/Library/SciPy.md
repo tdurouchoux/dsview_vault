@@ -2,4 +2,4 @@
 type: Library
 ---
 
-SciPy is a fundamental library used for scientific and technical computing in Python. It builds on the NumPy extension and provides many user-friendly and efficient numerical routines, such as routines for numerical integration and optimization. It is particularly useful for solving optimization problems and performing other numerical computations.
+SciPy is a fundamental library for scientific computing in Python. It builds on NumPy and provides many user-friendly and efficient numerical routines, such as routines for optimization, integration, interpolation, eigenvalue problems, algebra, statistics, and many special functions. It includes the `scipy.optimize` module used for optimization tasks.

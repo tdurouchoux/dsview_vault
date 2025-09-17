@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Sparse Principal Components Analysis (PCA) is a statistical method that combines the principles of principal component analysis and variable clustering to handle collinearities in data while providing a more sparse representation of the variables. This technique is useful for dimensionality reduction and identifying key patterns in high-dimensional datasets, such as patient baseline variables in medical research.
+Sparse PCA is a variant of principal component analysis that incorporates sparsity into the principal components. This means that the principal components are linear combinations of only a subset of the original variables, making them more interpretable. Sparse PCA is particularly useful for handling collinearities and redundancies in the data while providing a more compact representation of the variables.

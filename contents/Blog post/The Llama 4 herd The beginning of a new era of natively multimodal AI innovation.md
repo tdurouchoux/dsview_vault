@@ -6,7 +6,6 @@ relevance: 0
 source: Alpha Signal
 tags:
 - Large_Language_Model
-- AI_agent
 type: Content
 upload_date: '2025-04-09'
 ---
@@ -14,43 +13,24 @@ upload_date: '2025-04-09'
 https://ai.meta.com/blog/llama-4-multimodal-intelligence/
 ## Summary
 
-Meta AI Research introduces the Llama 4 herd, marking a new era in multimodal AI innovation. The Llama 4 models are designed to enable personalized multimodal experiences and are available in three variants: Llama 4 Scout, Llama 4 Maverick, and Llama 4 Behemoth.
+Meta AI Research introduces the Llama 4 herd, marking a new era in multimodal AI innovation. The Llama 4 models are the first open-weight, natively multimodal models with unprecedented context length support and a mixture-of-experts (MoE) architecture.
 
-**Key Technical Points:**
+Key models include:
+- **Llama 4 Scout**: A 17 billion active parameter model with 16 experts, fitting on a single NVIDIA H100 GPU. It offers a 10M context window and outperforms competitors like Gemma 3 and Mistral 3.1.
+- **Llama 4 Maverick**: A 17 billion active parameter model with 128 experts, beating GPT-4o and Gemini 2.0 Flash across various benchmarks, with a best-in-class performance-to-cost ratio.
+- **Llama 4 Behemoth**: A 288 billion active parameter model with 16 experts, currently in training, serving as a teacher for the other models and outperforming GPT-4.5 and Claude Sonnet 3.7 on STEM benchmarks.
 
-1. **Llama 4 Scout:**
-   - 17 billion active parameters with 16 experts.
-   - Best multimodal model in its class, outperforming previous Llama models and competitors like Gemma 3, Gemini 2.0 Flash-Lite, and Mistral 3.1.
-   - Industry-leading context window of 10 million tokens.
-   - Fits on a single NVIDIA H100 GPU.
+The models are designed with native multimodality, incorporating early fusion to integrate text and vision tokens. They use a MoE architecture for efficiency, with Llama 4 Maverick having 17B active parameters and 400B total parameters. The models were pre-trained on over 30 trillion tokens, including diverse text, image, and video datasets.
 
-2. **Llama 4 Maverick:**
-   - 17 billion active parameters with 128 experts.
-   - Best multimodal model in its class, outperforming GPT-4o and Gemini 2.0 Flash.
-   - Comparable to DeepSeek v3 on reasoning and coding with fewer active parameters.
-   - Best-in-class performance-to-cost ratio with an experimental chat version scoring ELO of 1417 on LMArena.
+Post-training involved a revamped pipeline with lightweight supervised fine-tuning (SFT), online reinforcement learning (RL), and lightweight direct preference optimization (DPO). The models were trained on a wide variety of image and video frame stills for broad visual understanding.
 
-3. **Llama 4 Behemoth:**
-   - 288 billion active parameters with 16 experts.
-   - Most powerful Llama model yet, still in training.
-   - Outperforms GPT-4.5, Claude Sonnet 3.7, and Gemini 2.0 Pro on STEM benchmarks.
+Safeguards and protections include pre- and post-training mitigations, system-level approaches like Llama Guard and Prompt Guard, and evaluations through red-teaming and GOAT (Generative Offensive Agent Testing). The models aim to address bias, with Llama 4 performing better than previous versions in reducing bias and refusing responses less often on debated topics.
 
-**Key Takeaways:**
-
-- **Multimodal Architecture:** Llama 4 models use a mixture-of-experts (MoE) architecture, improving compute efficiency and quality.
-- **Native Multimodality:** Early fusion integrates text and vision tokens, enabling joint pre-training with large amounts of unlabeled data.
-- **Efficient Training:** Uses FP8 precision and achieves high model FLOPs utilization.
-- **Context Length:** Llama 4 Scout supports an industry-leading context window of 10 million tokens.
-- **Performance:** Both Llama 4 Scout and Maverick outperform competitors in various benchmarks.
-- **Safeguards:** Built with pre- and post-training mitigations, system-level safeguards, and evaluations to ensure safety and reduce bias.
-- **Open Source:** Llama 4 Scout and Maverick are available for download on llama.com and Hugging Face, promoting innovation and accessibility.
-
-The Llama 4 models represent a significant advancement in AI technology, offering improved performance, efficiency, and multimodal capabilities.
+The Llama 4 models are available for download on llama.com and Hugging Face, with integrations in WhatsApp, Messenger, Instagram Direct, and the Meta.AI website. Meta AI Research continues to innovate and collaborate with partners across the AI community.
 ## Links
 
 - [Llama 4 Models Download](https://www.llama.com/) : Download the Llama 4 Scout and Llama 4 Maverick models on llama.com.
-- [Llama 4 Models Download](https://www.llama.com/llama-downloads/) : Download the Llama 4 Scout and Llama 4 Maverick models on llama.com.
-- [LlamaCon 2025](https://www.llama.com/events/llamacon/signup/) : Sign up for LlamaCon 2025 to learn more about the future of Llama models and their applications.
+- [LlamaCon Signup](https://www.llama.com/events/llamacon/signup/) : Sign up for LlamaCon to hear more about the future of Llama models and their applications.
 
 ## Topics
 
@@ -66,6 +46,4 @@ The Llama 4 models represent a significant advancement in AI technology, offerin
 
 ![](topics/Concept/MetaP)
 
-![](topics/Concept/Knowledge%20Distillation)
-
-![](topics/Concept/Generative%20Offensive%20Agent%20Testing%20GOAT)
+![](topics/Concept/iRoPE%20Architecture)

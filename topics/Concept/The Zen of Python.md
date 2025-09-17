@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-The Zen of Python is a collection of 20 aphorisms that serve as guiding principles for writing computer programs in the Python language. These principles emphasize readability, simplicity, and explicitness, among other qualities. They were written by Tim Peters and are intended to be a philosophical guide for Python developers.
+The Zen of Python is a collection of 19 aphorisms that outline the design principles and philosophy of the Python programming language. These guidelines emphasize readability, simplicity, and explicitness in code, among other qualities. They serve as a foundational set of best practices for writing Pythonic code.

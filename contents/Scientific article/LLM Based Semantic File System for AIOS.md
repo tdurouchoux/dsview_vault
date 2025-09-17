@@ -15,7 +15,30 @@ upload_date: '2025-05-04'
 https://arxiv.org/pdf/2410.11843
 ## Summary
 
-The paper introduces an LLM-based Semantic File System (LSFS) designed to enhance file management in AIOS by leveraging semantic information. LSFS enables users to interact with files through natural language prompts, improving usability and efficiency. Key features include semantic file retrieval, file update summarization, and semantic file rollback. The system incorporates a vector database for semantic indexing and supports various syscalls and APIs for file operations. Experiments show that LSFS achieves significant improvements in retrieval accuracy and speed compared to traditional file systems. The paper also discusses the architecture, implementation, and evaluation of LSFS, highlighting its advantages in semantic file management tasks.
+The paper introduces an LLM-based Semantic File System (LSFS) designed to enhance file management in AIOS by incorporating semantic understanding. Key points include:
+
+1. **Problem Addressed**: Traditional file systems rely on manual navigation and precise commands, which can be inefficient and complex, especially with large file hierarchies and cryptic file names.
+
+2. **LSFS Solution**: LSFS uses large language models (LLMs) to enable natural language prompts for file operations, improving usability. It incorporates semantic file management functionalities like semantic file retrieval, file update summarization, and semantic file rollback.
+
+3. **Architecture**: LSFS operates as an additional layer on top of traditional file systems, leveraging a layered architecture with segregated LSFS APIs and syscalls. It uses a lightweight embedding model for semantic indexing and includes a supervisor for real-time synchronization and fault tolerance.
+
+4. **Implementation Details**:
+   - **Syscalls**: Includes atomic syscalls (create, read, update, delete) and composite syscalls (group by, join).
+   - **APIs**: Provides APIs for semantic CRUD operations, including retrieve-summary, change-summary, rollback, and link APIs.
+   - **Parser**: Implements an LSFS parser to translate natural language prompts into executable API calls.
+
+5. **Experiments and Results**:
+   - **Parser Effectiveness**: Achieves high accuracy in parsing natural language prompts into executable API calls.
+   - **Semantic File Retrieval**: Shows significant improvements in accuracy and speed compared to traditional file systems.
+   - **Keyword-based File Retrieval**: Maintains good performance in non-semantic tasks, with high precision and recall.
+   - **File Sharing**: Demonstrates efficient generation of shareable links with high success rates.
+
+6. **Security Mechanisms**: Includes process locks, user confirmation steps, and rollback operations to prevent unintended dangerous operations and ensure file operation reliability.
+
+7. **Future Work**: Suggests further exploration of multi-modal and multi-extension file management, security and privacy enhancements, optimized retrieval strategies, and more instantiated APIs and syscalls.
+
+Overall, LSFS aims to make file management more intuitive and efficient by leveraging the semantic understanding capabilities of LLMs.
 ## Links
 
 
@@ -27,10 +50,6 @@ The paper introduces an LLM-based Semantic File System (LSFS) designed to enhanc
 
 ![](topics/Concept/Semantic%20Indexing)
 
-![](topics/Concept/Vector%20Database)
+![](topics/Concept/Syscalls%20in%20LSFS)
 
-![](topics/Concept/Natural%20Language%20Prompts)
-
-![](topics/Concept/File%20Update%20Summarization)
-
-![](topics/Concept/Semantic%20File%20Rollback)
+![](topics/Concept/APIs%20in%20LSFS)

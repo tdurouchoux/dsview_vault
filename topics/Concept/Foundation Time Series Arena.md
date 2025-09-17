@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A comprehensive platform or framework designed for experimenting with and benchmarking various time series forecasting models. It likely includes a collection of datasets, evaluation metrics, and tools to facilitate comparative analysis and research in the field of time series forecasting.
+A specialized platform or framework designed for experimenting with and benchmarking various time series forecasting models. It provides a standardized environment for comparing the performance of different models on time series data, facilitating research and development in the field of time series analysis.

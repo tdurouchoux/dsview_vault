@@ -2,4 +2,4 @@
 type: Library
 ---
 
-Basemap is a matplotlib toolkit specifically designed for plotting 2D data on maps. It provides capabilities for projecting data onto a variety of map projections and for plotting coastlines, countries, and other geographical features. It is widely used for creating maps and visualizing geographical data.
+Basemap is a matplotlib toolkit for plotting 2D data on maps. It is a convenient way to create low-resolution maps for scientific data visualization. It is particularly useful for creating geographical plots and visualizing data on a global scale.

@@ -14,22 +14,21 @@ upload_date: '2024-01-18'
 https://docs.pola.rs/user-guide/getting-started/
 ## Summary
 
-The Polars user guide provides a comprehensive introduction to the Polars library, a DataFrame library implemented in Rust and available in Python. The guide covers the basics from installation to core functionalities, making it easy for new users to get started.
+Polars is a data manipulation library that supports Python and Rust. The user guide provides a comprehensive overview of the library's features and functionalities, starting with installation instructions for both Python and Rust. It covers reading and writing data in various formats, including CSV, JSON, and Parquet, as well as cloud storage and databases.
 
-Key points include:
+The guide introduces expressions, which are a modular and flexible way of expressing data transformations. It demonstrates how to use expressions in different contexts, such as select, with_columns, filter, and group_by, to manipulate and analyze data. The guide also shows how to chain contexts and expressions to create more complex queries.
 
-- **Installation**: Polars can be installed via pip for Python or cargo for Rust.
-- **Reading & Writing**: Polars supports various file formats (CSV, JSON, Parquet) and cloud storage/databases. Examples are provided for creating, writing, and reading dataframes.
-- **Expressions and Contexts**: Polars uses expressions for data transformations, which can be used within different contexts like `select`, `with_columns`, `filter`, and `group_by`. These contexts allow for selecting, manipulating, filtering, and aggregating data.
-- **Complex Queries**: Contexts and expressions can be chained to create more complex queries.
-- **Combining DataFrames**: Polars provides tools for joining and concatenating dataframes, with examples for left outer joins and vertical concatenation.
+Polars provides tools for combining dataframes, including different join algorithms and concatenation methods. The guide includes examples of left outer joins and vertical concatenation. It also mentions other features like time series operations, lazy API for optimized query execution, and support for GPU acceleration.
 
-The guide also mentions additional sections for more detailed exploration of expressions, contexts, and other advanced features.
+The user guide is structured to help new users get started with Polars, while also providing advanced users with detailed information on specific features and functionalities. It includes sections on installation, concepts, expressions, transformations, lazy API, IO, plugins, SQL, migrating from other tools, miscellaneous topics, API reference, development, releases, and Polars Cloud.
 ## Links
 
-- [Polars DataFrame API Reference (Rust)](https://docs.pola.rs/api/rust/dev/polars/frame/struct.DataFrame.html) : This link points to the Rust API reference for the DataFrame struct in Polars, providing detailed information about methods and functionalities available for DataFrame manipulation in Rust.
-- [Polars DataFrame API Reference (Python)](https://docs.pola.rs/api/python/stable/reference/dataframe/index.html) : This link points to the Python API reference for DataFrame manipulation in Polars, detailing methods and functionalities available for DataFrame operations in Python.
+- [Polars Rust Documentation](https://docs.rs/polars/latest/polars/prelude/struct.LazyGroupBy.html#method.agg) : Polars Rust documentation for the LazyGroupBy struct, specifically the agg method.
+- [Polars Python Documentation](https://docs.pola.rs/api/python/stable/reference/dataframe/api/polars.DataFrame.with_columns.html) : Polars Python documentation for the DataFrame.with_columns method.
+- [Polars Rust Documentation](https://docs.rs/polars/latest/polars/prelude/struct.LazyGroupBy.html#method.agg) : Polars Rust documentation for the LazyGroupBy struct, specifically the agg method.
 
 ## Topics
 
-![](topics/Library/Polars)
+![](topics/Library/polars)
+
+![](topics/Concept/Lazy%20Evaluation)

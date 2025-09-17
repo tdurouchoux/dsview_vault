@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Red teaming in the context of AI involves simulating attacks or identifying vulnerabilities in AI systems to assess their robustness and security. It includes both internal and external teams that proactively test AI systems for weaknesses, potential biases, and other risks. Red teaming helps in identifying and mitigating risks before the AI systems are deployed, ensuring they are more secure and reliable. Red-teaming in the context of AI and machine learning refers to the practice of simulating adversarial attacks on a model to identify vulnerabilities and improve its robustness. This involves testing the model with various adversarial examples and scenarios to ensure it can handle real-world challenges and maintain its performance under stress. It is a form of adversarial testing where adversaries launch an attack on an AI system to test for vulnerabilities and social harms. It involves adversary simulations and a sociotechnical approach to identify and address potential risks and harms.

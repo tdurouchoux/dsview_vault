@@ -2,4 +2,4 @@
 type: Library
 ---
 
-Ibis is a Pythonic interface for querying databases. It provides a consistent API for working with different database backends, allowing users to write queries in a pandas-like syntax.
+Ibis is a Pythonic way to work with data. It provides a high-level interface for querying databases, data frames, and other data sources. It supports multiple backends, making it versatile for different data environments.

@@ -2,4 +2,4 @@
 type: Tool
 ---
 
-styler is an R package designed to format and style R code according to a specified style guide. It automatically adjusts code to adhere to consistent formatting rules, such as indentation, spacing, and naming conventions, making the code more readable and maintainable. styler integrates with the R development environment and can be used in conjunction with other tools like {lintr} to enforce coding standards and improve code quality within a team.
+styler is an R package used for automatically formatting R code to adhere to a specific style guide. It can reformat code to ensure consistent indentation, spacing, and naming conventions, making the code easier to read and maintain. By using styler, teams can enforce a consistent coding style across their projects, reducing the number of stylistic issues that need to be addressed during code reviews.

@@ -13,18 +13,17 @@ upload_date: '2025-01-08'
 https://www.kaggle.com/whitepaper-agents
 ## Summary
 
-Agents on Kaggle are autonomous entities that can perform various tasks such as creating and editing notebooks, participating in competitions, and interacting with the Kaggle platform. They can be used for automation, collaboration, and experimentation. Key features include:
+Agents on Kaggle are AI models designed to perform specific tasks, such as data analysis, model training, or competition submissions. They can automate repetitive tasks, learn from user interactions, and improve over time. Key features include:
 
-- **Autonomous Operation**: Agents can act independently, following predefined rules or learning from interactions.
-- **Task Automation**: They can automate repetitive tasks like data preprocessing, model training, and evaluation.
-- **Collaboration**: Agents can work together or with human users to enhance productivity and innovation.
-- **Learning and Adaptation**: Some agents can learn from their environment and adapt their behavior over time.
-- **Integration with Kaggle**: Agents can interact with Kaggle's API to access datasets, competitions, and other resources.
+- **Automation**: Agents can handle tasks like data preprocessing, feature engineering, and model evaluation.
+- **Learning**: They can learn from user feedback and improve their performance.
+- **Integration**: Agents can be integrated into Kaggle notebooks and competitions.
+- **Customization**: Users can create and train their own agents for specific tasks.
 
-Agents can be used for various purposes, such as automating data science workflows, enhancing collaboration, and exploring new methodologies. They represent a significant advancement in the field of artificial intelligence and data science, offering new possibilities for automation and innovation.
+The platform provides tools and APIs to develop and deploy these agents, making it easier for data scientists to leverage AI for their workflows.
 ## Links
 
 
 ## Topics
 
-![](topics/Concept/AI%20Agents)
+![](topics/Platform/Kaggle)

@@ -7,7 +7,6 @@ source: null
 tags:
 - Large_Language_Model
 - AI_agent
-- Natural_Language_Processing
 type: Content
 upload_date: '2023-10-12'
 ---
@@ -15,38 +14,40 @@ upload_date: '2023-10-12'
 https://github.com/StanGirard/quivr
 ## Summary
 
-Quivr is an opinionated RAG (Retrieval-Augmented Generation) framework designed to simplify the integration of Generative AI into applications. It allows users to focus on their product rather than the underlying RAG technology. Key features include:
+Quivr is an opinionated RAG (Retrieval-Augmented Generation) framework designed to simplify the integration of Generative AI into applications. It supports various LLMs (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), and works with any file type. Key features include easy customization, integration with Megaparse for file ingestion, and a focus on allowing developers to concentrate on their product rather than the RAG implementation.
 
-- **Compatibility**: Works with any LLM (e.g., GPT4, Groq, Llama) and any vector store (e.g., PGVector, Faiss).
-- **File Support**: Supports various file types (PDF, TXT, Markdown) and allows custom parsers.
-- **Customization**: Users can customize their RAG, add internet search, and integrate tools.
-- **Integration with Megaparse**: Facilitates file ingestion and RAG usage.
+**Key Technical Points:**
+- **Opiniated RAG:** Pre-configured for efficiency and ease of use.
+- **LLM and Vector Store Compatibility:** Works with multiple LLMs and vector stores.
+- **File Support:** Handles various file types and allows custom parsers.
+- **Customization:** Supports adding internet search, tools, and other enhancements.
+- **Integration with Megaparse:** Facilitates file ingestion and RAG usage.
 
-**Getting Started**:
-1. Install the package: `pip install quivr-core`.
-2. Create a basic RAG workflow with a few lines of code.
-3. Configure the RAG using a YAML file.
-4. Launch a chat interface to interact with the RAG.
+**Getting Started:**
+- **Prerequisites:** Python 3.10 or newer.
+- **Installation:** `pip install quivr-core`.
+- **Basic Usage:** Create a RAG with a few lines of code, configure workflows using YAML, and interact with the brain via a chat interface.
 
-**Advanced Features**:
-- Users can extend functionality by adding internet search, tools, and more.
-- The project is open-source and actively maintained, with contributions welcome.
+**Configuration:**
+- **Workflow Configuration:** Define nodes and edges for the RAG workflow.
+- **LLM and Reranker Configuration:** Set parameters like max tokens, temperature, and reranker settings.
 
-**Technical Details**:
-- Requires Python 3.10 or newer.
-- Supports APIs from Anthropic, OpenAI, Mistral, and local models using Ollama.
-- Configuration includes settings for history, reranker, and LLM parameters.
+**Contribution and Community:**
+- **Contributors:** Open to pull requests and new ideas.
+- **Partners:** Acknowledges support from partners.
 
-Quivr aims to streamline the process of integrating AI into applications, making it easier for developers to focus on their product rather than the complexities of RAG implementation.
+**License:** Apache 2.0.
 ## Links
 
-- [Quivr Documentation](https://core.quivr.com/) : The official documentation for Quivr, providing detailed information on how to use and integrate the Quivr RAG system.
-- [Quivr Megaparse Integration](https://github.com/quivrhq/megaparse) : Repository for Megaparse, a tool integrated with Quivr for ingesting files and enhancing the RAG capabilities.
+- [Quivr Documentation](https://core.quivr.com) : The official documentation for Quivr, providing detailed information on how to use the Quivr core for integrating Generative AI into applications.
+- [Quivr GitHub Repository](https://github.com/quivrhq/quivr) : The GitHub repository for Quivr, containing the source code, issues, and pull requests for the Quivr project.
 
 ## Topics
 
-![](topics/Library/Quivr%20core)
+![](topics/Library/Quivr)
 
 ![](topics/Concept/Vectorstore)
+
+![](topics/Tool/Megaparse)
 
 ![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)

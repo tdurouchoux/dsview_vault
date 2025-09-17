@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-MCP Clients allow for programmatic interaction with any MCP server. They support various transports like Stdio, SSE, and In-Memory, and can handle advanced patterns like server-initiated LLM sampling requests. Clients are essential for testing and using MCP servers, providing a flexible and efficient way to interact with MCP applications.
+MCP Clients are programs or applications that interact with MCP servers. They can call tools, access resources, and use prompts defined on the server. FastMCP provides client libraries that support various transports and handle advanced patterns like server-initiated LLM sampling requests. Clients can connect to multiple servers through a unified interface.

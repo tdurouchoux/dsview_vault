@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Supervised Fine-Tuning (SFT) is a method used to adapt pre-trained language models to specific tasks using labeled data. It involves fine-tuning the model on a dataset where the input-output pairs are known, allowing the model to learn to generate more accurate and contextually relevant responses.
+Supervised Fine-Tuning (SFT) is a technique used to adapt pre-trained language models to specific tasks by fine-tuning them on a labeled dataset. This process involves training the model on input-output pairs to improve its performance on particular tasks. In the context of SmolLM2, SFT was used to develop the instruct version of the model, leveraging both public datasets and curated datasets to enhance its capabilities in tasks such as text rewriting, summarization, and function calling.

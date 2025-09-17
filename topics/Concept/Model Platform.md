@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A model platform is a system that concerns the packaging, deployment, and serving of models. It typically includes a model deployment API for packaging trained models with necessary dependencies, a model registry for storing and versioning models, and a prediction service for retrieving models and generating predictions. The goal is to make model deployment self-serve, allowing data scientists to deploy models without needing to hand them off to engineering teams.
+A model platform concerns how models are packaged and served, typically consisting of three major components: model deployment API, model registry (model store), and prediction service. It focuses on the deployment, storage, versioning, and serving of models, and may also include experimentation capabilities for evaluating models in production.

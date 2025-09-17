@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A method for measuring the similarity between two strings by compressing them individually and then concatenating and compressing them together. The idea is that similar strings will have a smaller compressed size when concatenated and compressed together compared to their individual compressed sizes.
+A measure of the difference between two strings based on their compression. It is used to benchmark algorithms for detecting copy-pasta in the 3∆-space duplicate methodology.

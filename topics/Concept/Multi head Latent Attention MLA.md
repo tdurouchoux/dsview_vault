@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Multi-head Latent Attention (MLA) is an architectural component used in the DeepSeek-V3 model to enhance efficiency in both inference and training processes. It is designed to optimize attention mechanisms, which are critical for the performance of large language models. MLA helps in reducing computational overhead and improving the model's ability to handle large-scale data efficiently.
+Multi-head Latent Attention (MLA) is an attention mechanism designed to improve the efficiency and performance of large language models. It allows the model to focus on different parts of the input sequence simultaneously, capturing a wide range of dependencies and relationships. MLA is particularly useful in models like DeepSeek-V3, where it helps achieve efficient inference and cost-effective training.
