@@ -39,6 +39,6 @@ The model is available via the Gemini API, Google AI Studio for developers, and 
 
 ![](topics/Platform/Vertex%20AI)
 
-![](topics/Platform/OpenRouter%20ai)
+![](topics/Platform/OpenRouter)
 
 ![](topics/Platform/fal%20ai)
