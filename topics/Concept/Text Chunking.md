@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Text chunking is a technique used to divide large documents into smaller, manageable sections or chunks. This approach helps in processing long documents efficiently by allowing parallel processing and multiple passes, thereby improving the recall and accuracy of information extraction. It aims to create meaningful and coherent chunks that preserve the context and relationships within the text. This technique is used to handle token-limit constraints in large language models (LLMs) and to improve the efficiency of data processing. Chunking methods can vary, including splitting by document, page, length, section, keyword, semantic content, or using AI agents to identify meaningful sections. Effective chunking ensures that data is processed in a way that maintains context and relevance.
