@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+The Agent Client Protocol (ACP) is a standardized communication protocol designed to facilitate interaction between code editors (such as IDEs and text editors) and coding agents (programs that use generative AI to autonomously modify code). It aims to reduce integration overhead, enhance compatibility, and prevent developer lock-in by allowing agents to work with any compatible editor and editors to support a wide range of agents. ACP uses JSON-RPC over stdio for communication and re-uses JSON representations from the Multi-Agent Communication Protocol (MCP) where possible, including custom types for agentic coding user experience elements like displaying diffs. The default format for user-readable text in ACP is Markdown, allowing rich formatting without requiring HTML rendering capabilities in the code editor.
