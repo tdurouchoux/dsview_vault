@@ -37,6 +37,6 @@ Anthropic introduces Claude Opus 4 and Claude Sonnet 4, setting new standards in
 
 ![](topics/Concept/Thinking%20summaries)
 
-![](topics/Platform/Google%20Cloud%20Vertex%20AI)
+![](topics/Platform/Vertex%20AI)
 
 ![](topics/Platform/Amazon%20Bedrock)

@@ -26,7 +26,7 @@ Mistral Small 3.1 is an advanced AI model released under the Apache 2.0 license,
 
 ![](topics/Platform/La%20Plateforme)
 
-![](topics/Platform/Google%20Cloud%20Vertex%20AI)
+![](topics/Platform/Vertex%20AI)
 
 ![](topics/Platform/NVIDIA%20NIM)
 
