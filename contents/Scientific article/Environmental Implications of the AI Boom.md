@@ -28,4 +28,4 @@ The summary highlights the need for awareness and action to mitigate the environ
 
 ## Topics
 
-![[topics/Concept/AI Energy Footprint)]]
+![[topics/Concept/AI Energy Footprint]]

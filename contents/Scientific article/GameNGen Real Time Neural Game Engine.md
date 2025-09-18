@@ -28,12 +28,12 @@ The paper also discusses limitations, such as the model's limited memory and the
 
 ## Topics
 
-![[topics/Concept/Interactive World Simulation)]]
+![[topics/Concept/Interactive World Simulation]]
 
-![[topics/Concept/Auto regressive Drift)]]
+![[topics/Concept/Auto regressive Drift]]
 
-![[topics/Model/GameNGen)]]
+![[topics/Model/GameNGen]]
 
-![[topics/Concept/Noise Augmentation)]]
+![[topics/Concept/Noise Augmentation]]
 
-![[topics/Concept/Latent Decoder Fine Tuning)]]
+![[topics/Concept/Latent Decoder Fine Tuning]]

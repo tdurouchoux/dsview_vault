@@ -26,4 +26,4 @@ The platform provides tools and APIs to develop and deploy these agents, making 
 
 ## Topics
 
-![[topics/Platform/Kaggle)]]
+![[topics/Platform/Kaggle]]

@@ -38,6 +38,6 @@ Overall, Data Formulator aims to simplify the data visualization process by inte
 
 ## Topics
 
-![[topics/Library/DuckDB)]]
+![[topics/Library/DuckDB]]
 
-![[topics/Tool/Data Formulator)]]
+![[topics/Tool/Data Formulator]]

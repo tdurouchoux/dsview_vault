@@ -31,10 +31,10 @@ The toolkit is model-agnostic and deployment-agnostic, optimized for Gemini and 
 
 ## Topics
 
-![[topics/Concept/Tool Confirmation)]]
+![[topics/Concept/Tool Confirmation]]
 
-![[topics/Concept/Agent2Agent A2A Protocol)]]
+![[topics/Concept/Agent2Agent A2A Protocol]]
 
-![[topics/Concept/Agent Config)]]
+![[topics/Concept/Agent Config]]
 
-![[topics/Tool/Agent Development Kit ADK)]]
+![[topics/Tool/Agent Development Kit ADK]]

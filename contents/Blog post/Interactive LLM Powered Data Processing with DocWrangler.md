@@ -23,6 +23,6 @@ DocWrangler is an interactive IDE designed to streamline the process of building
 
 ## Topics
 
-![[topics/Tool/DocETL)]]
+![[topics/Tool/DocETL]]
 
-![[topics/Tool/DocWrangler)]]
+![[topics/Tool/DocWrangler]]

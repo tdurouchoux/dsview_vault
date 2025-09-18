@@ -22,6 +22,6 @@ The EU is planning to regulate generative AI models like Stable Diffusion, LaMDA
 
 ## Topics
 
-![[topics/Concept/Generative AI)]]
+![[topics/Concept/Generative AI]]
 
-![[topics/Concept/AI Regulation)]]
+![[topics/Concept/AI Regulation]]

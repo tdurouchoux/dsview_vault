@@ -27,4 +27,4 @@ The course is designed to be hands-on, with a final project that involves buildi
 
 ## Topics
 
-![[topics/Concept/Machine Learning Systems Design)]]
+![[topics/Concept/Machine Learning Systems Design]]

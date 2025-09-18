@@ -37,12 +37,12 @@ Overall, the PostgreSQL extension for VS Code offers significant improvements in
 
 ## Topics
 
-![[topics/Platform/GitHub Copilot)]]
+![[topics/Platform/GitHub Copilot]]
 
-![[topics/Platform/Visual Studio Code)]]
+![[topics/Platform/Visual Studio Code]]
 
-![[topics/Tool/PostgreSQL extension for VS Code)]]
+![[topics/Tool/PostgreSQL extension for VS Code]]
 
-![[topics/Concept/Schema Visualization)]]
+![[topics/Concept/Schema Visualization]]
 
-![[topics/Concept/Entra ID)]]
+![[topics/Concept/Entra ID]]

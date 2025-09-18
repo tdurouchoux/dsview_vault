@@ -29,10 +29,10 @@ The paper concludes by discussing the limitations and future work, such as exten
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Hallucination in LLMs)]]
+![[topics/Concept/Hallucination in LLMs]]
 
-![[topics/Concept/Sufficient Context)]]
+![[topics/Concept/Sufficient Context]]
 
-![[topics/Concept/Selective Generation)]]
+![[topics/Concept/Selective Generation]]

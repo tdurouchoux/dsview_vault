@@ -40,18 +40,18 @@ Appendices provide practical examples of agents in customer support and coding, 
 
 ## Topics
 
-![[topics/Concept/AI Agents)]]
+![[topics/Concept/AI Agents]]
 
-![[topics/Concept/Routing)]]
+![[topics/Concept/Routing]]
 
-![[topics/Concept/Orchestrator Workers)]]
+![[topics/Concept/Orchestrator Workers]]
 
-![[topics/Concept/Evaluator Optimizer)]]
+![[topics/Concept/Evaluator Optimizer]]
 
-![[topics/Concept/Parallelization)]]
+![[topics/Concept/Parallelization]]
 
-![[topics/Concept/Prompt Chaining)]]
+![[topics/Concept/Prompt Chaining]]
 
-![[topics/Concept/Agentic Systems)]]
+![[topics/Concept/Agentic Systems]]
 
-![[topics/Concept/Augmented LLM)]]
+![[topics/Concept/Augmented LLM]]

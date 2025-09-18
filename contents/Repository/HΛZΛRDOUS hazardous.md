@@ -30,12 +30,12 @@ Note: The library does not focus on inferring statistical associations or causal
 
 ## Topics
 
-![[topics/Library/lifelines)]]
+![[topics/Library/lifelines]]
 
-![[topics/Concept/Competing Risks Setting)]]
+![[topics/Concept/Competing Risks Setting]]
 
-![[topics/Library/hazardous)]]
+![[topics/Library/hazardous]]
 
-![[topics/Model/SurvivalBoost)]]
+![[topics/Model/SurvivalBoost]]
 
-![[topics/Concept/Survival Analysis)]]
+![[topics/Concept/Survival Analysis]]

@@ -37,12 +37,12 @@ The article emphasizes the importance of careful validation and alignment with c
 
 ## Topics
 
-![[topics/Concept/Variable Clustering)]]
+![[topics/Concept/Variable Clustering]]
 
-![[topics/Concept/Sparse Principal Components Analysis PCA)]]
+![[topics/Concept/Sparse Principal Components Analysis PCA]]
 
-![[topics/Concept/Forced Choice Cluster Classification)]]
+![[topics/Concept/Forced Choice Cluster Classification]]
 
-![[topics/Concept/Cluster Stability)]]
+![[topics/Concept/Cluster Stability]]
 
-![[topics/Concept/Patient Clustering)]]
+![[topics/Concept/Patient Clustering]]

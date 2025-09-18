@@ -32,12 +32,12 @@ Overall, the article serves as a comprehensive guide to understanding and buildi
 
 ## Topics
 
-![[topics/Concept/Graphs)]]
+![[topics/Concept/Graphs]]
 
-![[topics/Concept/Message Passing)]]
+![[topics/Concept/Message Passing]]
 
-![[topics/Concept/Pooling)]]
+![[topics/Concept/Pooling]]
 
-![[topics/Model/Graph Neural Networks)]]
+![[topics/Model/Graph Neural Networks]]
 
-![[topics/Concept/Graph Attention Network GAT)]]
+![[topics/Concept/Graph Attention Network GAT]]

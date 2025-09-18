@@ -19,4 +19,4 @@ It seems like the content provided is empty or not properly formatted. Please pr
 
 ## Topics
 
-![[topics/Concept/All MiniLM L6 v2)]]
+![[topics/Concept/All MiniLM L6 v2]]

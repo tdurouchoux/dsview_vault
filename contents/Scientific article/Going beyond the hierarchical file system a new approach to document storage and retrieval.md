@@ -19,20 +19,20 @@ The document discusses a critique of the traditional hierarchical file system (H
 
 ## Topics
 
-![[topics/Concept/Metadata)]]
+![[topics/Concept/Metadata]]
 
-![[topics/Concept/Document Shortcuts)]]
+![[topics/Concept/Document Shortcuts]]
 
-![[topics/Concept/Collections)]]
+![[topics/Concept/Collections]]
 
-![[topics/Concept/Hierarchical File System HFS)]]
+![[topics/Concept/Hierarchical File System HFS]]
 
-![[topics/Concept/Category Tree)]]
+![[topics/Concept/Category Tree]]
 
-![[topics/Concept/Concept Attributes)]]
+![[topics/Concept/Concept Attributes]]
 
-![[topics/Concept/Ontological Intelligence)]]
+![[topics/Concept/Ontological Intelligence]]
 
-![[topics/Concept/Document Management System)]]
+![[topics/Concept/Document Management System]]
 
-![[topics/Concept/Attribute Value Pairs)]]
+![[topics/Concept/Attribute Value Pairs]]

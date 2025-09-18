@@ -51,4 +51,4 @@ This API is designed to provide a robust and flexible way to access Google searc
 
 ## Topics
 
-![[topics/Library/SerpApi)]]
+![[topics/Library/SerpApi]]

@@ -37,4 +37,4 @@ PandasAI is a Python library that enables natural language interactions with dat
 
 ## Topics
 
-![[topics/Library/PandasAI)]]
+![[topics/Library/PandasAI]]

@@ -21,12 +21,12 @@ The paper explores the potential of AI-powered tools to reshape data analysis, f
 
 ## Topics
 
-![[topics/Concept/Generative AI)]]
+![[topics/Concept/Generative AI]]
 
-![[topics/Concept/Large Language Models LLMs)]]
+![[topics/Concept/Large Language Models LLMs]]
 
-![[topics/Concept/Multimodal Large Language Models)]]
+![[topics/Concept/Multimodal Large Language Models]]
 
-![[topics/Concept/Data Analysis Workflow)]]
+![[topics/Concept/Data Analysis Workflow]]
 
-![[topics/Concept/Human Centered Design)]]
+![[topics/Concept/Human Centered Design]]

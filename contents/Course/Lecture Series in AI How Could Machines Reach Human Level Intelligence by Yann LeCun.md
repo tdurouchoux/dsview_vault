@@ -21,4 +21,4 @@ Yann LeCun, a prominent figure in AI, discusses the path to human-level intellig
 
 ## Topics
 
-![[topics/Concept/Artificial General Intelligence AGI)]]
+![[topics/Concept/Artificial General Intelligence AGI]]

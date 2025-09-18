@@ -60,4 +60,4 @@ Pydoll is licensed under the MIT License and aims to make browser automation mor
 
 ## Topics
 
-![[topics/Library/Pydoll)]]
+![[topics/Library/Pydoll]]

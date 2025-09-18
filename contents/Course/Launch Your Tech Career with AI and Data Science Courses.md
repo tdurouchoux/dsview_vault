@@ -38,8 +38,8 @@ The platform aims to help users advance their tech careers with certified creden
 
 ## Topics
 
-![[topics/Concept/Reinforcement Learning)]]
+![[topics/Concept/Reinforcement Learning]]
 
-![[topics/Concept/Time Series Analysis)]]
+![[topics/Concept/Time Series Analysis]]
 
-![[topics/Concept/Generative AI)]]
+![[topics/Concept/Generative AI]]

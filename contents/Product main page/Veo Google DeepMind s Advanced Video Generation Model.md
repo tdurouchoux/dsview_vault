@@ -41,20 +41,20 @@ Google DeepMind's Veo is a state-of-the-art video generation model designed to e
 
 ## Topics
 
-![[topics/Model/Gemini)]]
+![[topics/Model/Gemini]]
 
-![[topics/Model/Gemma)]]
+![[topics/Model/Gemma]]
 
-![[topics/Model/AlphaFold)]]
+![[topics/Model/AlphaFold]]
 
-![[topics/Model/AlphaGenome)]]
+![[topics/Model/AlphaGenome]]
 
-![[topics/Model/AlphaProteo)]]
+![[topics/Model/AlphaProteo]]
 
-![[topics/Model/Imagen)]]
+![[topics/Model/Imagen]]
 
-![[topics/Model/AlphaMissense)]]
+![[topics/Model/AlphaMissense]]
 
-![[topics/Model/Lyria)]]
+![[topics/Model/Lyria]]
 
-![[topics/Model/Veo)]]
+![[topics/Model/Veo]]

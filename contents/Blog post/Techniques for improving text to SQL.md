@@ -41,12 +41,12 @@ The post concludes by encouraging readers to try Gemini text-to-SQL in various G
 
 ## Topics
 
-![[topics/Concept/Text to SQL)]]
+![[topics/Concept/Text to SQL]]
 
-![[topics/Concept/Disambiguation)]]
+![[topics/Concept/Disambiguation]]
 
-![[topics/Concept/Self consistency)]]
+![[topics/Concept/Self consistency]]
 
-![[topics/Concept/In context learning)]]
+![[topics/Concept/In context learning]]
 
-![[topics/Concept/LLM as a judge)]]
+![[topics/Concept/LLM as a judge]]

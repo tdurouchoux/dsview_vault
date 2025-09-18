@@ -30,8 +30,8 @@ Swarm is designed for developers curious about multi-agent orchestration and is 
 
 ## Topics
 
-![[topics/Concept/Swarm Framework)]]
+![[topics/Concept/Swarm Framework]]
 
-![[topics/Concept/Multi agent orchestration)]]
+![[topics/Concept/Multi agent orchestration]]
 
-![[topics/Concept/Controller Delegate Pattern)]]
+![[topics/Concept/Controller Delegate Pattern]]

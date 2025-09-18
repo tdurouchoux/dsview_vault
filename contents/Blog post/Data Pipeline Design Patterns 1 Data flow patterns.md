@@ -45,4 +45,4 @@ The article aims to help data engineers choose the right design patterns for the
 
 ## Topics
 
-![[topics/Concept/Sink Overwritability)]]
+![[topics/Concept/Sink Overwritability]]

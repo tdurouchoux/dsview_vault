@@ -37,12 +37,12 @@ The article concludes by recommending Streamlit for quick prototyping, Solara fo
 
 ## Topics
 
-![[topics/Library/Streamlit)]]
+![[topics/Library/Streamlit]]
 
-![[topics/Library/Solara)]]
+![[topics/Library/Solara]]
 
-![[topics/Library/PyQt)]]
+![[topics/Library/PyQt]]
 
-![[topics/Library/Trame)]]
+![[topics/Library/Trame]]
 
-![[topics/Library/ReactPy)]]
+![[topics/Library/ReactPy]]

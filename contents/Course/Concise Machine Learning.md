@@ -19,12 +19,12 @@ The document provides a concise summary of the content from "Concise Machine Lea
 
 ## Topics
 
-![[topics/Model/k Means Clustering)]]
+![[topics/Model/k Means Clustering]]
 
-![[topics/Model/Singular Value Decomposition SVD)]]
+![[topics/Model/Singular Value Decomposition SVD]]
 
-![[topics/Model/k Nearest Neighbors k NN)]]
+![[topics/Model/k Nearest Neighbors k NN]]
 
-![[topics/Model/Hierarchical Clustering)]]
+![[topics/Model/Hierarchical Clustering]]
 
-![[topics/Model/Principal Components Analysis PCA)]]
+![[topics/Model/Principal Components Analysis PCA]]

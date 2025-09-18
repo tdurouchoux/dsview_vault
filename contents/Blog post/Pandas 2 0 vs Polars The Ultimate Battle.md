@@ -31,6 +31,6 @@ Key takeaways:
 
 ## Topics
 
-![[topics/Library/polars)]]
+![[topics/Library/polars]]
 
-![[topics/Library/Pandas)]]
+![[topics/Library/Pandas]]

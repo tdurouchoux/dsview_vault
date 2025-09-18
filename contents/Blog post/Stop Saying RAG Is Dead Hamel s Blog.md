@@ -35,14 +35,14 @@ The series includes annotated notes for each part, highlighting key points and p
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/FreshStack)]]
+![[topics/Concept/FreshStack]]
 
-![[topics/Concept/Rank1)]]
+![[topics/Concept/Rank1]]
 
-![[topics/Concept/Information Retrieval IR)]]
+![[topics/Concept/Information Retrieval IR]]
 
-![[topics/Concept/Late Interaction Models)]]
+![[topics/Concept/Late Interaction Models]]
 
-![[topics/Concept/Context Rot)]]
+![[topics/Concept/Context Rot]]

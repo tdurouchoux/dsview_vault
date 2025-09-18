@@ -32,10 +32,10 @@ Polars is used by leading companies for data engineering and analysis, providing
 
 ## Topics
 
-![[topics/Library/polars)]]
+![[topics/Library/polars]]
 
-![[topics/Platform/Polars Cloud)]]
+![[topics/Platform/Polars Cloud]]
 
-![[topics/Concept/Columnar Processing)]]
+![[topics/Concept/Columnar Processing]]
 
-![[topics/Concept/Vectorized Processing)]]
+![[topics/Concept/Vectorized Processing]]

@@ -22,10 +22,10 @@ DSPy is a framework that allows users to program language models (LLMs) rather t
 
 ## Topics
 
-![[topics/Concept/Prompt Engineering)]]
+![[topics/Concept/Prompt Engineering]]
 
-![[topics/Library/DSPy)]]
+![[topics/Library/DSPy]]
 
-![[topics/Concept/Signature)]]
+![[topics/Concept/Signature]]
 
-![[topics/Concept/Module)]]
+![[topics/Concept/Module]]

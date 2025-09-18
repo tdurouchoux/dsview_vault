@@ -34,4 +34,4 @@ For distributed computing, frameworks like Dask, Spark, or Vaex are more suitabl
 
 ## Topics
 
-![[topics/Concept/Distributed Computing)]]
+![[topics/Concept/Distributed Computing]]

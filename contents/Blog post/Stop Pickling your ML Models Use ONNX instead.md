@@ -34,4 +34,4 @@ The article encourages data scientists to adopt ONNX for better model management
 
 ## Topics
 
-![[topics/Library/ONNX)]]
+![[topics/Library/ONNX]]

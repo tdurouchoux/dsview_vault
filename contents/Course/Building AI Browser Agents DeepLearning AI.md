@@ -33,12 +33,12 @@ The course is ideal for learners with basic Python skills who want to explore bu
 
 ## Topics
 
-![[topics/Concept/Direct Preference Optimization DPO)]]
+![[topics/Concept/Direct Preference Optimization DPO]]
 
-![[topics/Concept/Reflexive Mechanisms)]]
+![[topics/Concept/Reflexive Mechanisms]]
 
-![[topics/Concept/Monte Carlo Tree Search MCTS)]]
+![[topics/Concept/Monte Carlo Tree Search MCTS]]
 
-![[topics/Concept/AgentQ Framework)]]
+![[topics/Concept/AgentQ Framework]]
 
-![[topics/Concept/Autonomous Web Agents)]]
+![[topics/Concept/Autonomous Web Agents]]

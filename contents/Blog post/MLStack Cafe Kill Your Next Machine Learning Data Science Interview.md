@@ -19,4 +19,4 @@ MLStack.Cafe's guide for acing machine learning and data science interviews focu
 
 ## Topics
 
-![[topics/Platform/MLStack Cafe)]]
+![[topics/Platform/MLStack Cafe]]

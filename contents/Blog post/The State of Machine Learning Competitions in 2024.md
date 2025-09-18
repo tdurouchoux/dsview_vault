@@ -23,8 +23,8 @@ The report summarizes the state of machine learning (ML) competitions in 2024, h
 
 ## Topics
 
-![[topics/Concept/Quantization)]]
+![[topics/Concept/Quantization]]
 
-![[topics/Concept/AutoML)]]
+![[topics/Concept/AutoML]]
 
-![[topics/Concept/Inference time scaling)]]
+![[topics/Concept/Inference time scaling]]

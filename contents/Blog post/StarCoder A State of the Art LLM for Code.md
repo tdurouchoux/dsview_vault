@@ -36,22 +36,22 @@ Links to resources and tools are provided, including model weights, evaluation h
 
 ## Topics
 
-![[topics/Concept/MultiPL E)]]
+![[topics/Concept/MultiPL E]]
 
-![[topics/Concept/HumanEval)]]
+![[topics/Concept/HumanEval]]
 
-![[topics/Concept/Code Attribution)]]
+![[topics/Concept/Code Attribution]]
 
-![[topics/Concept/Tech Assistant Prompt)]]
+![[topics/Concept/Tech Assistant Prompt]]
 
-![[topics/Concept/DS 1000)]]
+![[topics/Concept/DS 1000]]
 
-![[topics/Model/StarCoderBase)]]
+![[topics/Model/StarCoderBase]]
 
-![[topics/Dataset/The Stack 1 2)]]
+![[topics/Dataset/The Stack 1 2]]
 
-![[topics/Concept/Personal Identifiable Information PII Redaction)]]
+![[topics/Concept/Personal Identifiable Information PII Redaction]]
 
-![[topics/Concept/OpenRAIL License)]]
+![[topics/Concept/OpenRAIL License]]
 
-![[topics/Model/StarCoder)]]
+![[topics/Model/StarCoder]]

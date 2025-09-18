@@ -43,12 +43,12 @@ The article concludes by encouraging readers to try DuckLake for simple, scalabl
 
 ## Topics
 
-![[topics/Concept/Parquet)]]
+![[topics/Concept/Parquet]]
 
-![[topics/Library/Apache Iceberg)]]
+![[topics/Library/Apache Iceberg]]
 
-![[topics/Concept/Lakehouse)]]
+![[topics/Concept/Lakehouse]]
 
-![[topics/Concept/Delta Lake)]]
+![[topics/Concept/Delta Lake]]
 
-![[topics/Tool/DuckLake)]]
+![[topics/Tool/DuckLake]]

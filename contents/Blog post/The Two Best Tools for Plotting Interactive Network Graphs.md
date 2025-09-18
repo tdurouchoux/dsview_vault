@@ -28,4 +28,4 @@ Both tools are suitable for different use cases, depending on specific requireme
 
 ## Topics
 
-![[topics/Tool/Interactive Network Graphs)]]
+![[topics/Tool/Interactive Network Graphs]]

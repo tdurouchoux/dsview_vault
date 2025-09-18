@@ -40,8 +40,8 @@ The content also highlights the importance of considering fairness and personali
 
 ## Topics
 
-![[topics/Concept/Secure Aggregation)]]
+![[topics/Concept/Secure Aggregation]]
 
-![[topics/Concept/Confidentialité différentielle)]]
+![[topics/Concept/Confidentialité différentielle]]
 
-![[topics/Concept/Federated Learning)]]
+![[topics/Concept/Federated Learning]]

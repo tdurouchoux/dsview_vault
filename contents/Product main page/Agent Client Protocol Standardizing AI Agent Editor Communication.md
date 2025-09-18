@@ -24,4 +24,4 @@ ACP assumes that the user primarily operates within their editor and uses agents
 
 ## Topics
 
-![[topics/Concept/Agent Client Protocol)]]
+![[topics/Concept/Agent Client Protocol]]

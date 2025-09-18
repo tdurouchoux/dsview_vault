@@ -23,4 +23,4 @@ Argilla is an open-source collaboration tool designed for AI engineers and domai
 
 ## Topics
 
-![[topics/Tool/Argilla)]]
+![[topics/Tool/Argilla]]

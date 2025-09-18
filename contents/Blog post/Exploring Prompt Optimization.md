@@ -31,24 +31,24 @@ The authors conclude that while prompt optimization is a valuable tool, it is no
 
 ## Topics
 
-![[topics/Concept/Prompt Engineering)]]
+![[topics/Concept/Prompt Engineering]]
 
-![[topics/Concept/Multilingual math)]]
+![[topics/Concept/Multilingual math]]
 
-![[topics/Concept/PhaseEvo)]]
+![[topics/Concept/PhaseEvo]]
 
-![[topics/Concept/Support email routing)]]
+![[topics/Concept/Support email routing]]
 
-![[topics/Concept/Meta prompting with reflection)]]
+![[topics/Concept/Meta prompting with reflection]]
 
-![[topics/Concept/Few shot Prompting)]]
+![[topics/Concept/Few shot Prompting]]
 
-![[topics/Concept/Prompt Gradients)]]
+![[topics/Concept/Prompt Gradients]]
 
-![[topics/Concept/Meta prompting)]]
+![[topics/Concept/Meta prompting]]
 
-![[topics/Concept/Email assistant eccentric)]]
+![[topics/Concept/Email assistant eccentric]]
 
-![[topics/Concept/Evolutionary Optimization)]]
+![[topics/Concept/Evolutionary Optimization]]
 
-![[topics/Concept/Email assistant simple)]]
+![[topics/Concept/Email assistant simple]]

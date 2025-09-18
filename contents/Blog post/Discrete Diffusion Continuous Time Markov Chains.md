@@ -40,10 +40,10 @@ The author summarizes the key ideas, emphasizing the memory-less property, the r
 
 ## Topics
 
-![[topics/Concept/Continuous Time Markov Chains)]]
+![[topics/Concept/Continuous Time Markov Chains]]
 
-![[topics/Concept/Point Processes)]]
+![[topics/Concept/Point Processes]]
 
-![[topics/Concept/Poisson Point Process)]]
+![[topics/Concept/Poisson Point Process]]
 
-![[topics/Concept/Discrete Diffusion Models)]]
+![[topics/Concept/Discrete Diffusion Models]]

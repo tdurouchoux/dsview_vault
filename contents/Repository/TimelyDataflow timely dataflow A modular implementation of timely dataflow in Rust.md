@@ -43,8 +43,8 @@ The project is open-source under the MIT license and welcomes contributions from
 
 ## Topics
 
-![[topics/Concept/Differential Dataflow)]]
+![[topics/Concept/Differential Dataflow]]
 
-![[topics/Concept/Timely Dataflow)]]
+![[topics/Concept/Timely Dataflow]]
 
-![[topics/Library/timely)]]
+![[topics/Library/timely]]

@@ -28,4 +28,4 @@ The system involves training models on historical query data, using a combinatio
 
 ## Topics
 
-![[topics/Concept/Text to SQL)]]
+![[topics/Concept/Text to SQL]]

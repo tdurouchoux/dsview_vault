@@ -21,4 +21,4 @@ A developer's journal is a tool to track and organize thoughts around coding tas
 
 ## Topics
 
-![[topics/Tool/Jira)]]
+![[topics/Tool/Jira]]

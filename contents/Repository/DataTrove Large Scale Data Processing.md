@@ -29,12 +29,12 @@ The library is open-source under the Apache-2.0 license and includes contributio
 
 ## Topics
 
-![[topics/Concept/Slurm)]]
+![[topics/Concept/Slurm]]
 
-![[topics/Concept/fsspec)]]
+![[topics/Concept/fsspec]]
 
-![[topics/Concept/Ray)]]
+![[topics/Concept/Ray]]
 
-![[topics/Concept/Pipeline Processing Blocks)]]
+![[topics/Concept/Pipeline Processing Blocks]]
 
-![[topics/Library/DataTrove)]]
+![[topics/Library/DataTrove]]

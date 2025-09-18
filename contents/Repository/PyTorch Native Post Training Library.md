@@ -33,14 +33,14 @@ The library is actively maintained, with recent updates adding support for new m
 
 ## Topics
 
-![[topics/Concept/LoRA Low Rank Adaptation)]]
+![[topics/Concept/LoRA Low Rank Adaptation]]
 
-![[topics/Concept/Quantization Aware Training QAT)]]
+![[topics/Concept/Quantization Aware Training QAT]]
 
-![[topics/Library/Torchtune)]]
+![[topics/Library/Torchtune]]
 
-![[topics/Concept/Reinforcement Learning from Human Feedback RLHF)]]
+![[topics/Concept/Reinforcement Learning from Human Feedback RLHF]]
 
-![[topics/Concept/Knowledge Distillation)]]
+![[topics/Concept/Knowledge Distillation]]
 
-![[topics/Concept/QLoRA)]]
+![[topics/Concept/QLoRA]]

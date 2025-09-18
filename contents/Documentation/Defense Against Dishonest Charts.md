@@ -39,8 +39,8 @@ The guide advises readers to recognize the possibilities of data interpretation,
 
 ## Topics
 
-![[topics/Concept/Chart Anatomy)]]
+![[topics/Concept/Chart Anatomy]]
 
-![[topics/Concept/Visual Encoding)]]
+![[topics/Concept/Visual Encoding]]
 
-![[topics/Concept/Scales)]]
+![[topics/Concept/Scales]]

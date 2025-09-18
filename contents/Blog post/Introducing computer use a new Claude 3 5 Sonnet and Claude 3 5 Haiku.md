@@ -33,12 +33,12 @@ Overall, these updates aim to enhance AI-powered coding, automation, and user-fa
 
 ## Topics
 
-![[topics/Model/Claude 3 5 Sonnet)]]
+![[topics/Model/Claude 3 5 Sonnet]]
 
-![[topics/Model/Claude 3 Series)]]
+![[topics/Model/Claude 3 Series]]
 
-![[topics/Concept/Computer Use)]]
+![[topics/Concept/Computer Use]]
 
-![[topics/Platform/Amazon Bedrock)]]
+![[topics/Platform/Amazon Bedrock]]
 
-![[topics/Platform/Vertex AI)]]
+![[topics/Platform/Vertex AI]]

@@ -22,14 +22,14 @@ The 🍷 FineWeb dataset is a large-scale, cleaned, and deduplicated English web
 
 ## Topics
 
-![[topics/Library/DataTrove)]]
+![[topics/Library/DataTrove]]
 
-![[topics/Tool/semhash)]]
+![[topics/Tool/semhash]]
 
-![[topics/Dataset/Common Crawl)]]
+![[topics/Dataset/Common Crawl]]
 
-![[topics/Concept/Text Extraction)]]
+![[topics/Concept/Text Extraction]]
 
-![[topics/Dataset/FineWeb)]]
+![[topics/Dataset/FineWeb]]
 
-![[topics/Concept/Language Filtering)]]
+![[topics/Concept/Language Filtering]]

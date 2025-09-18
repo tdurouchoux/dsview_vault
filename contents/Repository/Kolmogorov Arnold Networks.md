@@ -21,6 +21,6 @@ Kolmogorov-Arnold Networks (KANs) are presented as an alternative to Multi-Layer
 
 ## Topics
 
-![[topics/Library/pykan)]]
+![[topics/Library/pykan]]
 
-![[topics/Concept/Kolmogorov Arnold Networks)]]
+![[topics/Concept/Kolmogorov Arnold Networks]]

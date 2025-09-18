@@ -26,12 +26,12 @@ Dario Amodei discusses the critical importance of interpretability in AI, emphas
 
 ## Topics
 
-![[topics/Concept/Mechanistic Interpretability)]]
+![[topics/Concept/Mechanistic Interpretability]]
 
-![[topics/Concept/Sparse Autoencoders)]]
+![[topics/Concept/Sparse Autoencoders]]
 
-![[topics/Concept/Autointerpretability)]]
+![[topics/Concept/Autointerpretability]]
 
-![[topics/Concept/Superposition)]]
+![[topics/Concept/Superposition]]
 
-![[topics/Concept/Circuit)]]
+![[topics/Concept/Circuit]]

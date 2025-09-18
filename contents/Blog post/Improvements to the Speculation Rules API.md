@@ -41,4 +41,4 @@ The goal is to encourage wider adoption of the Speculation Rules API, leading to
 
 ## Topics
 
-![[topics/Concept/Speculation Rules API)]]
+![[topics/Concept/Speculation Rules API]]

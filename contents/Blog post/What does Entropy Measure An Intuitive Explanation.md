@@ -21,4 +21,4 @@ Entropy, in the context of information theory, measures the uncertainty or unpre
 
 ## Topics
 
-![[topics/Concept/Entropy)]]
+![[topics/Concept/Entropy]]

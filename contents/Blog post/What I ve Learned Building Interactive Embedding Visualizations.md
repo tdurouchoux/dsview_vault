@@ -35,16 +35,16 @@ The author emphasizes the importance of experimenting with parameters and algori
 
 ## Topics
 
-![[topics/Concept/Text Embeddings)]]
+![[topics/Concept/Text Embeddings]]
 
-![[topics/Concept/Co Occurrence Matrix)]]
+![[topics/Concept/Co Occurrence Matrix]]
 
-![[topics/Library/Emblaze)]]
+![[topics/Library/Emblaze]]
 
-![[topics/Concept/t SNE)]]
+![[topics/Concept/t SNE]]
 
-![[topics/Concept/UMAP)]]
+![[topics/Concept/UMAP]]
 
-![[topics/Library/PyMDE)]]
+![[topics/Library/PyMDE]]
 
-![[topics/Concept/Embedding Visualizations)]]
+![[topics/Concept/Embedding Visualizations]]

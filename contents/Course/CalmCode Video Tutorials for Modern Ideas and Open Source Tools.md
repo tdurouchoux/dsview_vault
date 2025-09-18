@@ -21,18 +21,18 @@ Calmcode.io is an educational platform offering short, simple video tutorials on
 
 ## Topics
 
-![[topics/Concept/Ray)]]
+![[topics/Concept/Ray]]
 
-![[topics/Library/polars)]]
+![[topics/Library/polars]]
 
-![[topics/Library/JAX)]]
+![[topics/Library/JAX]]
 
-![[topics/Library/Ibis)]]
+![[topics/Library/Ibis]]
 
-![[topics/Library/SymPy)]]
+![[topics/Library/SymPy]]
 
-![[topics/Library/Altair)]]
+![[topics/Library/Altair]]
 
-![[topics/Library/Annoy)]]
+![[topics/Library/Annoy]]
 
-![[topics/Library/Scikit Learn)]]
+![[topics/Library/Scikit Learn]]

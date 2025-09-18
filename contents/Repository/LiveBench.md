@@ -19,4 +19,4 @@ LiveBench is a tool designed to evaluate the performance of machine learning mod
 
 ## Topics
 
-![[topics/Tool/LiveBench)]]
+![[topics/Tool/LiveBench]]

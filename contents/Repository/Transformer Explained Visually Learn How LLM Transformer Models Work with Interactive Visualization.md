@@ -32,4 +32,4 @@ The main takeaway is that Transformer Explainer is a valuable resource for anyon
 
 ## Topics
 
-![[topics/Tool/Transformer Explainer)]]
+![[topics/Tool/Transformer Explainer]]

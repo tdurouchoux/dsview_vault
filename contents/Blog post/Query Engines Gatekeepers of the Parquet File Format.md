@@ -34,12 +34,12 @@ The article discusses the role of query engines in supporting the Parquet file f
 
 ## Topics
 
-![[topics/Library/DuckDB)]]
+![[topics/Library/DuckDB]]
 
-![[topics/Concept/Parquet)]]
+![[topics/Concept/Parquet]]
 
-![[topics/Concept/Backward Compatibility)]]
+![[topics/Concept/Backward Compatibility]]
 
-![[topics/Concept/Data Compression)]]
+![[topics/Concept/Data Compression]]
 
-![[topics/Concept/Query Engines)]]
+![[topics/Concept/Query Engines]]

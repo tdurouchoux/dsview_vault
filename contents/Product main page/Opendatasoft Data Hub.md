@@ -29,4 +29,4 @@ The main focus is on enhancing user access to data and providing comprehensive d
 
 ## Topics
 
-![[topics/Platform/Opendatasoft)]]
+![[topics/Platform/Opendatasoft]]

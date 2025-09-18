@@ -22,12 +22,12 @@ DuckDB's success is attributed to its unique corporate structure, where the open
 
 ## Topics
 
-![[topics/Library/DuckDB)]]
+![[topics/Library/DuckDB]]
 
-![[topics/Concept/Product Market Fit PMF)]]
+![[topics/Concept/Product Market Fit PMF]]
 
-![[topics/Concept/Open Core Model)]]
+![[topics/Concept/Open Core Model]]
 
-![[topics/Concept/Foundation Model)]]
+![[topics/Concept/Foundation Model]]
 
-![[topics/Concept/Go To Market GTM Strategy)]]
+![[topics/Concept/Go To Market GTM Strategy]]

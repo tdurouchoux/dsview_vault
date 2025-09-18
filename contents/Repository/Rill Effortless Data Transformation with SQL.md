@@ -44,14 +44,14 @@ Rill is developed and maintained by Rill Data, Inc., and is licensed under the A
 
 ## Topics
 
-![[topics/Library/DuckDB)]]
+![[topics/Library/DuckDB]]
 
-![[topics/Concept/AI Agents)]]
+![[topics/Concept/AI Agents]]
 
-![[topics/Concept/Metrics Layer)]]
+![[topics/Concept/Metrics Layer]]
 
-![[topics/Concept/BI as Code)]]
+![[topics/Concept/BI as Code]]
 
-![[topics/Tool/Rill)]]
+![[topics/Tool/Rill]]
 
-![[topics/Library/ClickHouse)]]
+![[topics/Library/ClickHouse]]

@@ -22,4 +22,4 @@ Hugging Face AI Sheets is an open-source, no-code tool for building, enriching, 
 
 ## Topics
 
-![[topics/Tool/AI Sheets)]]
+![[topics/Tool/AI Sheets]]

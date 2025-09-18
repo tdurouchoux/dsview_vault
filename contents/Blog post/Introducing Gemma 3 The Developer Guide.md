@@ -30,18 +30,18 @@ To get started with Gemma 3, users can experiment directly using Google AI Studi
 
 ## Topics
 
-![[topics/Concept/Reinforcement Learning from Human Feedback RLHF)]]
+![[topics/Concept/Reinforcement Learning from Human Feedback RLHF]]
 
-![[topics/Concept/Knowledge Distillation)]]
+![[topics/Concept/Knowledge Distillation]]
 
-![[topics/Concept/Reinforcement Learning from AI Feedback RLAIF)]]
+![[topics/Concept/Reinforcement Learning from AI Feedback RLAIF]]
 
-![[topics/Model/Gemma)]]
+![[topics/Model/Gemma]]
 
-![[topics/Concept/SigLIP)]]
+![[topics/Concept/SigLIP]]
 
-![[topics/Concept/ShieldGemma 2)]]
+![[topics/Concept/ShieldGemma 2]]
 
-![[topics/Concept/Multimodality)]]
+![[topics/Concept/Multimodality]]
 
-![[topics/Concept/Reinforcement Learning from Execution Feedback RLEF)]]
+![[topics/Concept/Reinforcement Learning from Execution Feedback RLEF]]

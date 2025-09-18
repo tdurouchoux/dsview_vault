@@ -24,14 +24,14 @@ The blog post discusses the evolution of graph learning, highlighting key milest
 
 ## Topics
 
-![[topics/Model/Graph Neural Networks)]]
+![[topics/Model/Graph Neural Networks]]
 
-![[topics/Concept/Graph Learning)]]
+![[topics/Concept/Graph Learning]]
 
-![[topics/Concept/Graph Embedding)]]
+![[topics/Concept/Graph Embedding]]
 
-![[topics/Model/DeepWalk)]]
+![[topics/Model/DeepWalk]]
 
-![[topics/Model/Message Passing Neural Networks MPNNs)]]
+![[topics/Model/Message Passing Neural Networks MPNNs]]
 
-![[topics/Library/TensorFlow GNN)]]
+![[topics/Library/TensorFlow GNN]]

@@ -34,4 +34,4 @@ Developers can quickly start using Parlant with a simple installation and setup 
 
 ## Topics
 
-![[topics/Tool/Parlant)]]
+![[topics/Tool/Parlant]]

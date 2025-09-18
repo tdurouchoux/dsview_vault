@@ -33,6 +33,6 @@ Examples of use cases include analyzing survey responses, clustering GitHub issu
 
 ## Topics
 
-![[topics/Concept/Latent Space)]]
+![[topics/Concept/Latent Space]]
 
-![[topics/Tool/Latent Scope)]]
+![[topics/Tool/Latent Scope]]

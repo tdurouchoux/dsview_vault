@@ -44,12 +44,12 @@ Overall, LSFS aims to make file management more intuitive and efficient by lever
 
 ## Topics
 
-![[topics/Concept/Syscalls in LSFS)]]
+![[topics/Concept/Syscalls in LSFS]]
 
-![[topics/Concept/APIs in LSFS)]]
+![[topics/Concept/APIs in LSFS]]
 
-![[topics/Concept/LLM based Semantic File System LSFS)]]
+![[topics/Concept/LLM based Semantic File System LSFS]]
 
-![[topics/Concept/Semantic Indexing)]]
+![[topics/Concept/Semantic Indexing]]
 
-![[topics/Concept/Semantic File Retrieval)]]
+![[topics/Concept/Semantic File Retrieval]]

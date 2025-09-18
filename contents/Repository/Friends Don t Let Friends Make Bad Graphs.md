@@ -43,8 +43,8 @@ The essay concludes by encouraging readers to stay tuned for more examples and u
 
 ## Topics
 
-![[topics/Concept/Graphs)]]
+![[topics/Concept/Graphs]]
 
-![[topics/Concept/Heatmap)]]
+![[topics/Concept/Heatmap]]
 
-![[topics/Concept/Data Visualization)]]
+![[topics/Concept/Data Visualization]]

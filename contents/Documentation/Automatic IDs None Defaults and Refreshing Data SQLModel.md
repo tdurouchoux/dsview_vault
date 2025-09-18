@@ -37,4 +37,4 @@ The tutorial provides a comprehensive overview of how SQLModel handles data pers
 
 ## Topics
 
-![[topics/Library/SQLModel)]]
+![[topics/Library/SQLModel]]

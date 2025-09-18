@@ -23,4 +23,4 @@ TimesFM is a pretrained time-series foundation model developed by Google Researc
 
 ## Topics
 
-![[topics/Model/TimesFM)]]
+![[topics/Model/TimesFM]]

@@ -36,14 +36,14 @@ Key points:
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Reranking)]]
+![[topics/Concept/Reranking]]
 
-![[topics/Concept/Contextual BM25)]]
+![[topics/Concept/Contextual BM25]]
 
-![[topics/Concept/Prompt Caching)]]
+![[topics/Concept/Prompt Caching]]
 
-![[topics/Concept/Contextual Embeddings)]]
+![[topics/Concept/Contextual Embeddings]]
 
-![[topics/Concept/Contextual Retrieval)]]
+![[topics/Concept/Contextual Retrieval]]

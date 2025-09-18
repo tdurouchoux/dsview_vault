@@ -28,14 +28,14 @@ ModernBERT is expected to become the new standard for encoder-only models in var
 
 ## Topics
 
-![[topics/Concept/Rotary Positional Embeddings RoPE)]]
+![[topics/Concept/Rotary Positional Embeddings RoPE]]
 
-![[topics/Concept/Unpadding and Sequence Packing)]]
+![[topics/Concept/Unpadding and Sequence Packing]]
 
-![[topics/Concept/GeGLU Layers)]]
+![[topics/Concept/GeGLU Layers]]
 
-![[topics/Model/ModernBERT)]]
+![[topics/Model/ModernBERT]]
 
-![[topics/Concept/Hardware Aware Model Design)]]
+![[topics/Concept/Hardware Aware Model Design]]
 
-![[topics/Concept/Alternating Attention)]]
+![[topics/Concept/Alternating Attention]]

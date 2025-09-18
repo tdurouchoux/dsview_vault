@@ -46,14 +46,14 @@ These insights underscore the importance of careful implementation, continuous f
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Agentic AI)]]
+![[topics/Concept/Agentic AI]]
 
-![[topics/Concept/Controller Delegate Pattern)]]
+![[topics/Concept/Controller Delegate Pattern]]
 
-![[topics/Concept/Task Oriented Prompts)]]
+![[topics/Concept/Task Oriented Prompts]]
 
-![[topics/Concept/Adaptive Model Selection)]]
+![[topics/Concept/Adaptive Model Selection]]
 
-![[topics/Concept/Sparse Priming Representations SPRs)]]
+![[topics/Concept/Sparse Priming Representations SPRs]]

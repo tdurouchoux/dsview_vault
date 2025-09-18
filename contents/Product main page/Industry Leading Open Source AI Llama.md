@@ -19,4 +19,4 @@ Llama is an open-source AI model developed by Meta, designed to advance AI resea
 
 ## Topics
 
-![[topics/Model/Meta Models)]]
+![[topics/Model/Meta Models]]

@@ -30,4 +30,4 @@ The project is open-source and licensed under the Elastic License 2.0. It encour
 
 ## Topics
 
-![[topics/Platform/Positron)]]
+![[topics/Platform/Positron]]

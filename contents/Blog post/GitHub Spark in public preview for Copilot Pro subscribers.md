@@ -32,8 +32,8 @@ Spark is available for Copilot Pro+ users, with rollout to additional customers 
 
 ## Topics
 
-![[topics/Model/Claude Sonnet 4)]]
+![[topics/Model/Claude Sonnet 4]]
 
-![[topics/Platform/GitHub Spark)]]
+![[topics/Platform/GitHub Spark]]
 
-![[topics/Concept/Copilot agent mode)]]
+![[topics/Concept/Copilot agent mode]]

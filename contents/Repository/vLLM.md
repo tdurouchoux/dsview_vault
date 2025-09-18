@@ -31,4 +31,4 @@ The documentation provides guides for users, developers, and contributors, inclu
 
 ## Topics
 
-![[topics/Library/vLLM)]]
+![[topics/Library/vLLM]]

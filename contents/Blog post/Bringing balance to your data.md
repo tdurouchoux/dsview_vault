@@ -26,16 +26,16 @@ Meta has released "balance" as an open-source project to encourage its use in Py
 
 ## Topics
 
-![[topics/Library/balance)]]
+![[topics/Library/balance]]
 
-![[topics/Concept/Post Stratification)]]
+![[topics/Concept/Post Stratification]]
 
-![[topics/Concept/Survey Statistics)]]
+![[topics/Concept/Survey Statistics]]
 
-![[topics/Concept/Propensity Score)]]
+![[topics/Concept/Propensity Score]]
 
-![[topics/Concept/Inverse Propensity Score Weighting)]]
+![[topics/Concept/Inverse Propensity Score Weighting]]
 
-![[topics/Concept/Covariate Balancing Propensity Score)]]
+![[topics/Concept/Covariate Balancing Propensity Score]]
 
-![[topics/Concept/LASSO Least Absolute Shrinkage and Selection Operator)]]
+![[topics/Concept/LASSO Least Absolute Shrinkage and Selection Operator]]

@@ -41,10 +41,10 @@ https://minishlab.github.io/semhash-blogpost/
 
 ## Topics
 
-![[topics/Concept/Fuzzy Deduplication)]]
+![[topics/Concept/Fuzzy Deduplication]]
 
-![[topics/Tool/semhash)]]
+![[topics/Tool/semhash]]
 
-![[topics/Model/potion base 8m)]]
+![[topics/Model/potion base 8m]]
 
-![[topics/Concept/Vicinity Vector Store)]]
+![[topics/Concept/Vicinity Vector Store]]

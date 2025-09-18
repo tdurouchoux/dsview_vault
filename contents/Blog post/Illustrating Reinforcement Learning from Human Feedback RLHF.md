@@ -34,16 +34,16 @@ Key papers on RLHF include studies on training language models to follow instruc
 
 ## Topics
 
-![[topics/Concept/Reinforcement Learning from Human Feedback RLHF)]]
+![[topics/Concept/Reinforcement Learning from Human Feedback RLHF]]
 
-![[topics/Concept/Reward Modeling)]]
+![[topics/Concept/Reward Modeling]]
 
-![[topics/Concept/Kullback Leibler KL Divergence)]]
+![[topics/Concept/Kullback Leibler KL Divergence]]
 
-![[topics/Concept/Proximal Policy Optimization PPO)]]
+![[topics/Concept/Proximal Policy Optimization PPO]]
 
-![[topics/Concept/Fine tuning with Reinforcement Learning)]]
+![[topics/Concept/Fine tuning with Reinforcement Learning]]
 
-![[topics/Concept/Open source Tools for RLHF)]]
+![[topics/Concept/Open source Tools for RLHF]]
 
-![[topics/Concept/Pre training)]]
+![[topics/Concept/Pre training]]

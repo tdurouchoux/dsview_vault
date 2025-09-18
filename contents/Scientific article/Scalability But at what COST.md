@@ -26,14 +26,14 @@ The paper concludes with lessons learned and future directions for the area, emp
 
 ## Topics
 
-![[topics/Concept/COST)]]
+![[topics/Concept/COST]]
 
-![[topics/Concept/PageRank)]]
+![[topics/Concept/PageRank]]
 
-![[topics/Concept/Union Find)]]
+![[topics/Concept/Union Find]]
 
-![[topics/Concept/Hilbert Curve)]]
+![[topics/Concept/Hilbert Curve]]
 
-![[topics/Concept/Label Propagation)]]
+![[topics/Concept/Label Propagation]]
 
-![[topics/Concept/Graph Processing)]]
+![[topics/Concept/Graph Processing]]

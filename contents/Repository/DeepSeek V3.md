@@ -23,14 +23,14 @@ DeepSeek-V3 is a powerful Mixture-of-Experts (MoE) language model with 671B tota
 
 ## Topics
 
-![[topics/Concept/Reinforcement Learning from Human Feedback RLHF)]]
+![[topics/Concept/Reinforcement Learning from Human Feedback RLHF]]
 
-![[topics/Concept/Knowledge Distillation)]]
+![[topics/Concept/Knowledge Distillation]]
 
-![[topics/Concept/Mixture of Experts MoE)]]
+![[topics/Concept/Mixture of Experts MoE]]
 
-![[topics/Model/DeepSeek v3)]]
+![[topics/Model/DeepSeek v3]]
 
-![[topics/Concept/Multi head Latent Attention MLA)]]
+![[topics/Concept/Multi head Latent Attention MLA]]
 
-![[topics/Concept/Multi Token Prediction MTP)]]
+![[topics/Concept/Multi Token Prediction MTP]]

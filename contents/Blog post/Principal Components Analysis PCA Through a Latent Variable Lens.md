@@ -28,12 +28,12 @@ In conclusion, PPCA extends the functionality of classical PCA by accommodating 
 
 ## Topics
 
-![[topics/Model/Principal Components Analysis PCA)]]
+![[topics/Model/Principal Components Analysis PCA]]
 
-![[topics/Concept/Expectation Maximization EM Algorithm)]]
+![[topics/Concept/Expectation Maximization EM Algorithm]]
 
-![[topics/Concept/Isotropic Gaussian Distribution)]]
+![[topics/Concept/Isotropic Gaussian Distribution]]
 
-![[topics/Concept/Probabilistic Principal Components Analysis PPCA)]]
+![[topics/Concept/Probabilistic Principal Components Analysis PPCA]]
 
-![[topics/Concept/Latent Variable)]]
+![[topics/Concept/Latent Variable]]

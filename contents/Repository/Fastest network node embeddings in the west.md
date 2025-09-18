@@ -25,20 +25,20 @@ The nodevectors package is designed for fast and scalable network node embedding
 
 ## Topics
 
-![[topics/Library/NetworkX)]]
+![[topics/Library/NetworkX]]
 
-![[topics/Model/GGVec)]]
+![[topics/Model/GGVec]]
 
-![[topics/Model/GLoVe)]]
+![[topics/Model/GLoVe]]
 
-![[topics/Library/CSRGraphs)]]
+![[topics/Library/CSRGraphs]]
 
-![[topics/Library/nodevectors)]]
+![[topics/Library/nodevectors]]
 
-![[topics/Model/ProNE)]]
+![[topics/Model/ProNE]]
 
-![[topics/Model/Node2Vec)]]
+![[topics/Model/Node2Vec]]
 
-![[topics/Model/GraRep)]]
+![[topics/Model/GraRep]]
 
-![[topics/Concept/Graph Embedding)]]
+![[topics/Concept/Graph Embedding]]

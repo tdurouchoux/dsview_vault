@@ -33,4 +33,4 @@ The guide emphasizes that these solutions are based on practical experience and 
 
 ## Topics
 
-![[topics/Tool/Git)]]
+![[topics/Tool/Git]]

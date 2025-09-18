@@ -37,6 +37,6 @@ Resources for further learning include documentation, workshops, and hands-on ex
 
 ## Topics
 
-![[topics/Concept/Model Context Protocol MCP)]]
+![[topics/Concept/Model Context Protocol MCP]]
 
-![[topics/Concept/Agent Context Protocol ACP)]]
+![[topics/Concept/Agent Context Protocol ACP]]

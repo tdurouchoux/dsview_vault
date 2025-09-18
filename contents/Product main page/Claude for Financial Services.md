@@ -43,12 +43,12 @@ Anthropic introduces a comprehensive financial analysis solution leveraging Clau
 
 ## Topics
 
-![[topics/Platform/Databricks)]]
+![[topics/Platform/Databricks]]
 
-![[topics/Platform/Snowflake)]]
+![[topics/Platform/Snowflake]]
 
-![[topics/Concept/Monte Carlo Simulations)]]
+![[topics/Concept/Monte Carlo Simulations]]
 
-![[topics/Platform/Google Cloud Marketplace)]]
+![[topics/Platform/Google Cloud Marketplace]]
 
-![[topics/Platform/AWS Marketplace)]]
+![[topics/Platform/AWS Marketplace]]

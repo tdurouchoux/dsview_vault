@@ -46,12 +46,12 @@ The author acknowledges that while he initially proposed the concept of a metric
 
 ## Topics
 
-![[topics/Concept/Universal Semantic Layer)]]
+![[topics/Concept/Universal Semantic Layer]]
 
-![[topics/Concept/Metrics Layer)]]
+![[topics/Concept/Metrics Layer]]
 
-![[topics/Concept/Malloy)]]
+![[topics/Concept/Malloy]]
 
-![[topics/Concept/Motif)]]
+![[topics/Concept/Motif]]
 
-![[topics/Concept/dbt Core)]]
+![[topics/Concept/dbt Core]]

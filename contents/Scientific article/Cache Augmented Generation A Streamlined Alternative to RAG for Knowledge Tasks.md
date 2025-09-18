@@ -20,14 +20,14 @@ The paper introduces Cache-Augmented Generation (CAG), a method that leverages l
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Dataset/HotPotQA)]]
+![[topics/Dataset/HotPotQA]]
 
-![[topics/Concept/Key Value KV Cache)]]
+![[topics/Concept/Key Value KV Cache]]
 
-![[topics/Dataset/Stanford Question Answering Dataset SQuAD 1 0)]]
+![[topics/Dataset/Stanford Question Answering Dataset SQuAD 1 0]]
 
-![[topics/Concept/Long Context LLMs)]]
+![[topics/Concept/Long Context LLMs]]
 
-![[topics/Concept/Cache Augmented Generation CAG)]]
+![[topics/Concept/Cache Augmented Generation CAG]]

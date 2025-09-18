@@ -35,14 +35,14 @@ The library aims to reduce the amount of code needed for data preprocessing and 
 
 ## Topics
 
-![[topics/Concept/Feature Engineering)]]
+![[topics/Concept/Feature Engineering]]
 
-![[topics/Library/skrub)]]
+![[topics/Library/skrub]]
 
-![[topics/Concept/Machine Learning)]]
+![[topics/Concept/Machine Learning]]
 
-![[topics/Concept/Data Preprocessing)]]
+![[topics/Concept/Data Preprocessing]]
 
-![[topics/Concept/Data Exploration)]]
+![[topics/Concept/Data Exploration]]
 
-![[topics/Concept/Data Cleaning)]]
+![[topics/Concept/Data Cleaning]]

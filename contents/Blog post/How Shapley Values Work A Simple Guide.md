@@ -22,12 +22,12 @@ The article explains Shapley values, a machine learning explainability technique
 
 ## Topics
 
-![[topics/Library/Scikit Learn)]]
+![[topics/Library/Scikit Learn]]
 
-![[topics/Concept/SHAP SHapley Additive exPlanations)]]
+![[topics/Concept/SHAP SHapley Additive exPlanations]]
 
-![[topics/Dataset/Boston housing dataset)]]
+![[topics/Dataset/Boston housing dataset]]
 
-![[topics/Concept/Explainable AI)]]
+![[topics/Concept/Explainable AI]]
 
-![[topics/Concept/Shapley Values)]]
+![[topics/Concept/Shapley Values]]

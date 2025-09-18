@@ -22,4 +22,4 @@ The document discusses the intersection of open source and artificial intelligen
 
 ## Topics
 
-![[topics/Concept/Generative AI)]]
+![[topics/Concept/Generative AI]]

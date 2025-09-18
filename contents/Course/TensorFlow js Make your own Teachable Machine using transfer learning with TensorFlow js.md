@@ -38,10 +38,10 @@ The codelab concludes with a recap of what was learned and suggestions for furth
 
 ## Topics
 
-![[topics/Library/TensorFlow js)]]
+![[topics/Library/TensorFlow js]]
 
-![[topics/Model/MobileNet)]]
+![[topics/Model/MobileNet]]
 
-![[topics/Platform/TensorFlow Hub)]]
+![[topics/Platform/TensorFlow Hub]]
 
-![[topics/Concept/Transfer Learning)]]
+![[topics/Concept/Transfer Learning]]

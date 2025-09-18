@@ -33,14 +33,14 @@ The feature has received positive feedback from customers and partners, highligh
 
 ## Topics
 
-![[topics/Library/Matplotlib)]]
+![[topics/Library/Matplotlib]]
 
-![[topics/Platform/Anaconda)]]
+![[topics/Platform/Anaconda]]
 
-![[topics/Library/seaborn)]]
+![[topics/Library/seaborn]]
 
-![[topics/Library/Pandas)]]
+![[topics/Library/Pandas]]
 
-![[topics/Platform/Azure)]]
+![[topics/Platform/Azure]]
 
-![[topics/Library/statsmodels)]]
+![[topics/Library/statsmodels]]

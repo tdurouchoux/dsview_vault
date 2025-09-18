@@ -30,6 +30,6 @@ AutoGluon is designed to make machine learning accessible to both beginners and 
 
 ## Topics
 
-![[topics/Concept/AutoML)]]
+![[topics/Concept/AutoML]]
 
-![[topics/Library/AutoGluon)]]
+![[topics/Library/AutoGluon]]

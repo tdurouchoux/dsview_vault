@@ -45,8 +45,8 @@ https://motherduck.com/learn-more/duckdb-vs-sqlite-databases/
 
 ## Topics
 
-![[topics/Library/DuckDB)]]
+![[topics/Library/DuckDB]]
 
-![[topics/Platform/MotherDuck)]]
+![[topics/Platform/MotherDuck]]
 
-![[topics/Library/SQLite)]]
+![[topics/Library/SQLite]]

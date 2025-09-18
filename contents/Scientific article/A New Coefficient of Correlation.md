@@ -33,4 +33,4 @@ The summary focuses on the main technical points and key takeaways, providing a 
 
 ## Topics
 
-![[topics/Concept/Coefficient of Correlation)]]
+![[topics/Concept/Coefficient of Correlation]]

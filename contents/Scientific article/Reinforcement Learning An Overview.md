@@ -30,16 +30,16 @@ The paper aims to give a big-picture, up-to-date summary of these areas, making 
 
 ## Topics
 
-![[topics/Concept/Offline RL)]]
+![[topics/Concept/Offline RL]]
 
-![[topics/Concept/Policy based Methods)]]
+![[topics/Concept/Policy based Methods]]
 
-![[topics/Concept/Intrinsic Reward)]]
+![[topics/Concept/Intrinsic Reward]]
 
-![[topics/Concept/Model based Methods)]]
+![[topics/Concept/Model based Methods]]
 
-![[topics/Concept/Hierarchical RL)]]
+![[topics/Concept/Hierarchical RL]]
 
-![[topics/Concept/Value based Methods)]]
+![[topics/Concept/Value based Methods]]
 
-![[topics/Concept/Multi agent RL)]]
+![[topics/Concept/Multi agent RL]]

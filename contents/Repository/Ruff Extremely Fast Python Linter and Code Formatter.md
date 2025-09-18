@@ -32,4 +32,4 @@ Ruff is used in major open-source projects like Apache Airflow, FastAPI, and Pan
 
 ## Topics
 
-![[topics/Library/Ruff)]]
+![[topics/Library/Ruff]]

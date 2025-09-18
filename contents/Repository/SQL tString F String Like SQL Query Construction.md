@@ -30,4 +30,4 @@ The library is designed to make SQL query construction safer and more intuitive,
 
 ## Topics
 
-![[topics/Library/SQL tString)]]
+![[topics/Library/SQL tString]]

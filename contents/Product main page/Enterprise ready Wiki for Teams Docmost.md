@@ -23,4 +23,4 @@ Docmost is an enterprise-ready wiki platform designed for modern teams to secure
 
 ## Topics
 
-![[topics/Platform/Docmost)]]
+![[topics/Platform/Docmost]]

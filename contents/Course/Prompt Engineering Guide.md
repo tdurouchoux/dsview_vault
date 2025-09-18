@@ -80,12 +80,12 @@ The guide covers prompt basics, including:
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Prompt Engineering)]]
+![[topics/Concept/Prompt Engineering]]
 
-![[topics/Concept/Chain of Thought Prompting)]]
+![[topics/Concept/Chain of Thought Prompting]]
 
-![[topics/Concept/Few shot Prompting)]]
+![[topics/Concept/Few shot Prompting]]
 
-![[topics/Concept/Zero shot Prompting)]]
+![[topics/Concept/Zero shot Prompting]]

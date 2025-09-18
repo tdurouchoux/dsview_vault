@@ -20,4 +20,4 @@ The content is about the book "Software Engineering at Google" published in Marc
 
 ## Topics
 
-![[topics/Concept/Software Engineering Practices)]]
+![[topics/Concept/Software Engineering Practices]]

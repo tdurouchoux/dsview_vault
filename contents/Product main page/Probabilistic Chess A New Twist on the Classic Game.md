@@ -27,12 +27,12 @@ Variants of the game include different rules for king moves to balance gameplay.
 
 ## Topics
 
-![[topics/Library/stockfish js)]]
+![[topics/Library/stockfish js]]
 
-![[topics/Library/chess js)]]
+![[topics/Library/chess js]]
 
-![[topics/Concept/Probabilistic Chess)]]
+![[topics/Concept/Probabilistic Chess]]
 
-![[topics/Concept/Expectation Maximization EM Algorithm)]]
+![[topics/Concept/Expectation Maximization EM Algorithm]]
 
-![[topics/Concept/Alpha Beta Search Algorithm)]]
+![[topics/Concept/Alpha Beta Search Algorithm]]

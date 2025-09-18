@@ -35,8 +35,8 @@ The author acknowledges that while Excel may not be the ideal tool for data entr
 
 ## Topics
 
-![[topics/Tool/REDCap)]]
+![[topics/Tool/REDCap]]
 
-![[topics/Tool/Qualtrics)]]
+![[topics/Tool/Qualtrics]]
 
-![[topics/Tool/Google Forms Sheets)]]
+![[topics/Tool/Google Forms Sheets]]

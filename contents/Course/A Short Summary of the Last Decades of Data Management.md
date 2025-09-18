@@ -28,4 +28,4 @@ The talk highlights the continuous evolution driven by technological advancement
 
 ## Topics
 
-![[topics/Concept/Data Management)]]
+![[topics/Concept/Data Management]]

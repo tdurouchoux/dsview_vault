@@ -19,22 +19,22 @@ This study introduces a methodology called the "3∆-space duplicate methodology
 
 ## Topics
 
-![[topics/Concept/Levenshtein Similarity Ratio)]]
+![[topics/Concept/Levenshtein Similarity Ratio]]
 
-![[topics/Concept/Translation)]]
+![[topics/Concept/Translation]]
 
-![[topics/Concept/Copy Pasta)]]
+![[topics/Concept/Copy Pasta]]
 
-![[topics/Concept/Bigrams)]]
+![[topics/Concept/Bigrams]]
 
-![[topics/Concept/Coordinated Inauthentic Behavior CIB)]]
+![[topics/Concept/Coordinated Inauthentic Behavior CIB]]
 
-![[topics/Concept/Rewording)]]
+![[topics/Concept/Rewording]]
 
-![[topics/Concept/Ratclif Obershelp distance)]]
+![[topics/Concept/Ratclif Obershelp distance]]
 
-![[topics/Concept/Gzip compressor distance)]]
+![[topics/Concept/Gzip compressor distance]]
 
-![[topics/Concept/3 space duplicate methodology)]]
+![[topics/Concept/3 space duplicate methodology]]
 
-![[topics/Concept/Universal Sentence Encoder USE)]]
+![[topics/Concept/Universal Sentence Encoder USE]]

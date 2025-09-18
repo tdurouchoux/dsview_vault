@@ -41,4 +41,4 @@ https://ai.meta.com/blog/dinov3-self-supervised-vision-model/
 
 ## Topics
 
-![[topics/Model/DINOv3)]]
+![[topics/Model/DINOv3]]

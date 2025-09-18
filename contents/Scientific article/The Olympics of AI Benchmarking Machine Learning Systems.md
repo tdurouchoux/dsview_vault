@@ -32,4 +32,4 @@ The main takeaway is that benchmarking is a vital component of machine learning 
 
 ## Topics
 
-![[topics/Concept/Benchmarking Machine Learning Systems)]]
+![[topics/Concept/Benchmarking Machine Learning Systems]]

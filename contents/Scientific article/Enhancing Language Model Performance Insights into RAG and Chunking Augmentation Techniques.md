@@ -54,10 +54,10 @@ The article provides insights into enhancing language model performance through 
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Text Chunking)]]
+![[topics/Concept/Text Chunking]]
 
-![[topics/Concept/Reranking)]]
+![[topics/Concept/Reranking]]
 
-![[topics/Concept/Embedding Models)]]
+![[topics/Concept/Embedding Models]]

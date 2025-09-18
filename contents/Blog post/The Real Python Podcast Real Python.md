@@ -21,14 +21,14 @@ The Real Python Podcast is a weekly show hosted by Christopher Bailey, featuring
 
 ## Topics
 
-![[topics/Concept/Python Events)]]
+![[topics/Concept/Python Events]]
 
-![[topics/Concept/Python Podcast)]]
+![[topics/Concept/Python Podcast]]
 
-![[topics/Concept/Python Membership)]]
+![[topics/Concept/Python Membership]]
 
-![[topics/Concept/Python Career Development)]]
+![[topics/Concept/Python Career Development]]
 
-![[topics/Concept/Python Community)]]
+![[topics/Concept/Python Community]]
 
-![[topics/Concept/Python Learning Resources)]]
+![[topics/Concept/Python Learning Resources]]

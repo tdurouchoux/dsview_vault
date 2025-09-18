@@ -23,20 +23,20 @@ The blog provides a comprehensive guide to understanding and implementing transf
 
 ## Topics
 
-![[topics/Model/Transformer)]]
+![[topics/Model/Transformer]]
 
-![[topics/Concept/Self Attention)]]
+![[topics/Concept/Self Attention]]
 
-![[topics/Concept/Multi Head Attention)]]
+![[topics/Concept/Multi Head Attention]]
 
-![[topics/Concept/Positional Encoding)]]
+![[topics/Concept/Positional Encoding]]
 
-![[topics/Concept/Residual Connections)]]
+![[topics/Concept/Residual Connections]]
 
-![[topics/Concept/Label Smoothing)]]
+![[topics/Concept/Label Smoothing]]
 
-![[topics/Concept/Layer Normalization)]]
+![[topics/Concept/Layer Normalization]]
 
-![[topics/Concept/Masked Attention)]]
+![[topics/Concept/Masked Attention]]
 
-![[topics/Concept/Feed Forward Network)]]
+![[topics/Concept/Feed Forward Network]]

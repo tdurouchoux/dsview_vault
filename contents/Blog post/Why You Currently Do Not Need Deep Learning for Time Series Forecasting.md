@@ -37,18 +37,18 @@ The article concludes that deep learning is not yet practical for real-world tim
 
 ## Topics
 
-![[topics/Concept/Feature Engineering)]]
+![[topics/Concept/Feature Engineering]]
 
-![[topics/Concept/Ensemble Methods)]]
+![[topics/Concept/Ensemble Methods]]
 
-![[topics/Model/XGBoost)]]
+![[topics/Model/XGBoost]]
 
-![[topics/Concept/Exogenous Variables)]]
+![[topics/Concept/Exogenous Variables]]
 
-![[topics/Model/LightGBM)]]
+![[topics/Model/LightGBM]]
 
-![[topics/Model/CatBoost)]]
+![[topics/Model/CatBoost]]
 
-![[topics/Concept/Cross Validation)]]
+![[topics/Concept/Cross Validation]]
 
-![[topics/Model/Gradient Boosting Machines GBMs)]]
+![[topics/Model/Gradient Boosting Machines GBMs]]

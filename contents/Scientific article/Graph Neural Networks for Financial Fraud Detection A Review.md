@@ -23,4 +23,4 @@ This paper reviews the application of Graph Neural Networks (GNNs) in financial 
 
 ## Topics
 
-![[topics/Model/Graph Neural Networks)]]
+![[topics/Model/Graph Neural Networks]]

@@ -33,4 +33,4 @@ In summary, "Joan Is Awful" uses a fictional narrative to explore the ethical im
 
 ## Topics
 
-![[topics/Concept/Intelligence Artificielle)]]
+![[topics/Concept/Intelligence Artificielle]]

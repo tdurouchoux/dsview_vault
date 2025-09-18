@@ -34,12 +34,12 @@ The library supports custom model providers and offers detailed examples for tas
 
 ## Topics
 
-![[topics/Concept/Text Chunking)]]
+![[topics/Concept/Text Chunking]]
 
-![[topics/Concept/Few shot Learning)]]
+![[topics/Concept/Few shot Learning]]
 
-![[topics/Concept/Interactive Visualization)]]
+![[topics/Concept/Interactive Visualization]]
 
-![[topics/Library/LangExtract)]]
+![[topics/Library/LangExtract]]
 
-![[topics/Concept/Source Grounding)]]
+![[topics/Concept/Source Grounding]]

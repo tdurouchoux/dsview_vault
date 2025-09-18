@@ -21,4 +21,4 @@ The course "Efficient AI Computing, Transforming the Future" offered by MIT's HA
 
 ## Topics
 
-![[topics/Concept/TinyML)]]
+![[topics/Concept/TinyML]]

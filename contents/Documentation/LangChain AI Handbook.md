@@ -36,4 +36,4 @@ The handbook aims to empower developers to create intelligent applications by ha
 
 ## Topics
 
-![[topics/Library/LangChain)]]
+![[topics/Library/LangChain]]

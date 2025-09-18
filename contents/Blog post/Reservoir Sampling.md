@@ -26,4 +26,4 @@ The essay concludes by applying reservoir sampling to the log collection service
 
 ## Topics
 
-![[topics/Concept/Reservoir Sampling)]]
+![[topics/Concept/Reservoir Sampling]]

@@ -32,4 +32,4 @@ The paper highlights the effectiveness of GraphFC in handling label scarcity and
 
 ## Topics
 
-![[topics/Model/GraphFC)]]
+![[topics/Model/GraphFC]]

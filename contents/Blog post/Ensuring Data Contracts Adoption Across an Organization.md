@@ -37,4 +37,4 @@ The article emphasizes the importance of creating a data culture where quality a
 
 ## Topics
 
-![[topics/Concept/Data Contracts)]]
+![[topics/Concept/Data Contracts]]

@@ -23,16 +23,16 @@ Anthropic has introduced Claude 3.7 Sonnet, a hybrid reasoning model that offers
 
 ## Topics
 
-![[topics/Concept/SWE bench Verified)]]
+![[topics/Concept/SWE bench Verified]]
 
-![[topics/Concept/TAU bench)]]
+![[topics/Concept/TAU bench]]
 
-![[topics/Concept/Extended Thinking)]]
+![[topics/Concept/Extended Thinking]]
 
-![[topics/Model/Claude 3 7 Sonnet)]]
+![[topics/Model/Claude 3 7 Sonnet]]
 
-![[topics/Concept/Hybrid Reasoning Model)]]
+![[topics/Concept/Hybrid Reasoning Model]]
 
-![[topics/Tool/Claude Code)]]
+![[topics/Tool/Claude Code]]
 
-![[topics/Concept/Agentic Coding)]]
+![[topics/Concept/Agentic Coding]]

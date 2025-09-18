@@ -29,4 +29,4 @@ The library is easy to install via `uv pip install flowshow` and integrates seam
 
 ## Topics
 
-![[topics/Library/flowshow)]]
+![[topics/Library/flowshow]]

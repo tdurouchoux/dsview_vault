@@ -31,20 +31,20 @@ Overall, the handbook emphasizes the importance of a systematic approach to debu
 
 ## Topics
 
-![[topics/Concept/Remote Debugging)]]
+![[topics/Concept/Remote Debugging]]
 
-![[topics/Concept/Profiling)]]
+![[topics/Concept/Profiling]]
 
-![[topics/Concept/Assertions)]]
+![[topics/Concept/Assertions]]
 
-![[topics/Concept/Unit Testing)]]
+![[topics/Concept/Unit Testing]]
 
-![[topics/Concept/Logging)]]
+![[topics/Concept/Logging]]
 
-![[topics/Concept/Print Statements)]]
+![[topics/Concept/Print Statements]]
 
-![[topics/Concept/Exception Handling)]]
+![[topics/Concept/Exception Handling]]
 
-![[topics/Concept/Code Linters and Analyzers)]]
+![[topics/Concept/Code Linters and Analyzers]]
 
-![[topics/Concept/Interactive Debugger PDB)]]
+![[topics/Concept/Interactive Debugger PDB]]

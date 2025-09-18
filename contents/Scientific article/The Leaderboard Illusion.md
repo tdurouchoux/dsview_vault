@@ -38,12 +38,12 @@ The document discusses the challenges and issues with the Chatbot Arena, a platf
 
 ## Topics
 
-![[topics/Concept/The Leaderboard Illusion)]]
+![[topics/Concept/The Leaderboard Illusion]]
 
-![[topics/Concept/Overfitting to Arena Specific Dynamics)]]
+![[topics/Concept/Overfitting to Arena Specific Dynamics]]
 
-![[topics/Concept/Data Access Asymmetries)]]
+![[topics/Concept/Data Access Asymmetries]]
 
-![[topics/Concept/Model Deprecation)]]
+![[topics/Concept/Model Deprecation]]
 
-![[topics/Concept/Private Testing and Selective Score Reporting)]]
+![[topics/Concept/Private Testing and Selective Score Reporting]]

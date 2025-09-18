@@ -39,16 +39,16 @@ The article concludes by envisioning Aardvark Weather as a pioneer for a new gen
 
 ## Topics
 
-![[topics/Model/Vision Transformer)]]
+![[topics/Model/Vision Transformer]]
 
-![[topics/Model/Aardvark Weather)]]
+![[topics/Model/Aardvark Weather]]
 
-![[topics/Concept/Remote Sensing)]]
+![[topics/Concept/Remote Sensing]]
 
-![[topics/Concept/Neural Process)]]
+![[topics/Concept/Neural Process]]
 
-![[topics/Concept/Data Assimilation)]]
+![[topics/Concept/Data Assimilation]]
 
-![[topics/Concept/Machine Learning in Weather Forecasting)]]
+![[topics/Concept/Machine Learning in Weather Forecasting]]
 
-![[topics/Concept/End to End Data Driven Weather Prediction)]]
+![[topics/Concept/End to End Data Driven Weather Prediction]]

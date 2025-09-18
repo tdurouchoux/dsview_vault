@@ -22,14 +22,14 @@ The "smol-course" is a practical course focused on aligning small language model
 
 ## Topics
 
-![[topics/Concept/Vision Language Models)]]
+![[topics/Concept/Vision Language Models]]
 
-![[topics/Concept/Instruction Tuning)]]
+![[topics/Concept/Instruction Tuning]]
 
-![[topics/Concept/Synthetic Data)]]
+![[topics/Concept/Synthetic Data]]
 
-![[topics/Concept/Reinforcement Learning)]]
+![[topics/Concept/Reinforcement Learning]]
 
-![[topics/Concept/Small Language Models)]]
+![[topics/Concept/Small Language Models]]
 
-![[topics/Concept/Preference Alignment)]]
+![[topics/Concept/Preference Alignment]]

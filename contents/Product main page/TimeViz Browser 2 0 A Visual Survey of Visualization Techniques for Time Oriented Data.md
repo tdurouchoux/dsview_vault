@@ -29,4 +29,4 @@ The tool is based on an open-access book titled "Visualization of Time-Oriented 
 
 ## Topics
 
-![[topics/Concept/Time Oriented Data Visualization)]]
+![[topics/Concept/Time Oriented Data Visualization]]

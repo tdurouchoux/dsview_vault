@@ -33,10 +33,10 @@ The post concludes with a list of eclipses found, matching online sources, and n
 
 ## Topics
 
-![[topics/Library/Basemap)]]
+![[topics/Library/Basemap]]
 
-![[topics/Library/SciPy)]]
+![[topics/Library/SciPy]]
 
-![[topics/Library/Astropy)]]
+![[topics/Library/Astropy]]
 
-![[topics/Platform/Modal)]]
+![[topics/Platform/Modal]]

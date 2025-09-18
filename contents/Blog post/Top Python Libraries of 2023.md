@@ -47,24 +47,24 @@ The article also mentions several runners-up and hidden gems, each with unique c
 
 ## Topics
 
-![[topics/Concept/AutoGen)]]
+![[topics/Concept/AutoGen]]
 
-![[topics/Library/Taipy)]]
+![[topics/Library/Taipy]]
 
-![[topics/Library/ZenML)]]
+![[topics/Library/ZenML]]
 
-![[topics/Library/WhisperX)]]
+![[topics/Library/WhisperX]]
 
-![[topics/Library/MLX)]]
+![[topics/Library/MLX]]
 
-![[topics/Library/Guardrails)]]
+![[topics/Library/Guardrails]]
 
-![[topics/Library/Unstructured)]]
+![[topics/Library/Unstructured]]
 
-![[topics/Library/Temporian)]]
+![[topics/Library/Temporian]]
 
-![[topics/Library/AutoMLOps)]]
+![[topics/Library/AutoMLOps]]
 
-![[topics/Library/LiteLLM)]]
+![[topics/Library/LiteLLM]]
 
-![[topics/Library/PyApp)]]
+![[topics/Library/PyApp]]

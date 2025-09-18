@@ -37,6 +37,6 @@ The paper from Anthropic's Alignment Science team, in collaboration with Redwood
 
 ## Topics
 
-![[topics/Concept/Reinforcement Learning)]]
+![[topics/Concept/Reinforcement Learning]]
 
-![[topics/Concept/Alignment Faking)]]
+![[topics/Concept/Alignment Faking]]

@@ -25,12 +25,12 @@ The SQL or Death? Seminar Series, organized by Carnegie Mellon University's Data
 
 ## Topics
 
-![[topics/Concept/TypeScript Stored Procedures)]]
+![[topics/Concept/TypeScript Stored Procedures]]
 
-![[topics/Concept/Query Language)]]
+![[topics/Concept/Query Language]]
 
-![[topics/Concept/Query Optimization)]]
+![[topics/Concept/Query Optimization]]
 
-![[topics/Concept/SQL)]]
+![[topics/Concept/SQL]]
 
-![[topics/Concept/Database Management)]]
+![[topics/Concept/Database Management]]

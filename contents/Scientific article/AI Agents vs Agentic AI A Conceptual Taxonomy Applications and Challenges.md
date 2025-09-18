@@ -20,20 +20,20 @@ The document provides a comprehensive review of AI Agents and Agentic AI, focusi
 
 ## Topics
 
-![[topics/Concept/Agentic AI)]]
+![[topics/Concept/Agentic AI]]
 
-![[topics/Concept/Generative AI)]]
+![[topics/Concept/Generative AI]]
 
-![[topics/Concept/AI Agents)]]
+![[topics/Concept/AI Agents]]
 
-![[topics/Concept/Reflexive Mechanisms)]]
+![[topics/Concept/Reflexive Mechanisms]]
 
-![[topics/Concept/Programmatic Prompt Engineering)]]
+![[topics/Concept/Programmatic Prompt Engineering]]
 
-![[topics/Concept/Causal Reasoning)]]
+![[topics/Concept/Causal Reasoning]]
 
-![[topics/Concept/Tool Augmented Reasoning)]]
+![[topics/Concept/Tool Augmented Reasoning]]
 
-![[topics/Concept/Memory Architectures)]]
+![[topics/Concept/Memory Architectures]]
 
-![[topics/Concept/Orchestration Layers)]]
+![[topics/Concept/Orchestration Layers]]

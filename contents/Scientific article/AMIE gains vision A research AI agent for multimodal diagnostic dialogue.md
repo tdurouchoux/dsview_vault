@@ -36,14 +36,14 @@ The research underscores the potential of AI in healthcare, emphasizing responsi
 
 ## Topics
 
-![[topics/Model/Gemini 2 5)]]
+![[topics/Model/Gemini 2 5]]
 
-![[topics/Model/AMIE)]]
+![[topics/Model/AMIE]]
 
-![[topics/Concept/Multimodal Diagnostic Dialogue)]]
+![[topics/Concept/Multimodal Diagnostic Dialogue]]
 
-![[topics/Model/Gemini 2 0 Flash)]]
+![[topics/Model/Gemini 2 0 Flash]]
 
-![[topics/Concept/Simulation Environment for Dialogue Evaluation)]]
+![[topics/Concept/Simulation Environment for Dialogue Evaluation]]
 
-![[topics/Concept/State aware Reasoning Framework)]]
+![[topics/Concept/State aware Reasoning Framework]]

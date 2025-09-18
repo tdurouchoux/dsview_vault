@@ -50,12 +50,12 @@ The post emphasizes the importance of understanding the limitations of cosine si
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Text Embeddings)]]
+![[topics/Concept/Text Embeddings]]
 
-![[topics/Concept/Prompt Engineering)]]
+![[topics/Concept/Prompt Engineering]]
 
-![[topics/Concept/Cosine Similarity)]]
+![[topics/Concept/Cosine Similarity]]
 
-![[topics/Concept/Sentence Embeddings)]]
+![[topics/Concept/Sentence Embeddings]]

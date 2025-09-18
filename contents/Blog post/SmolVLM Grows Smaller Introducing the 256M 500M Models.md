@@ -23,14 +23,14 @@ Hugging Face introduces two new Vision Language Models (VLMs), SmolVLM-256M and 
 
 ## Topics
 
-![[topics/Concept/Tokenization)]]
+![[topics/Concept/Tokenization]]
 
-![[topics/Model/SmolVLM)]]
+![[topics/Model/SmolVLM]]
 
-![[topics/Model/SmolVLM 256M)]]
+![[topics/Model/SmolVLM 256M]]
 
-![[topics/Concept/Data Mixture)]]
+![[topics/Concept/Data Mixture]]
 
-![[topics/Concept/Multimodal Retrieval)]]
+![[topics/Concept/Multimodal Retrieval]]
 
-![[topics/Concept/Vision Encoder)]]
+![[topics/Concept/Vision Encoder]]

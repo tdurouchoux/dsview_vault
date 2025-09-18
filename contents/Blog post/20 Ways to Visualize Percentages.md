@@ -19,4 +19,4 @@ The content discusses various methods to visualize percentage data, aiming to mo
 
 ## Topics
 
-![[topics/Concept/Data Visualization)]]
+![[topics/Concept/Data Visualization]]

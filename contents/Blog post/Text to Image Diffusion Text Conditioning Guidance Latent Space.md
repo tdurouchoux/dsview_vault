@@ -35,10 +35,10 @@ The content highlights the rapid progress in text-to-image generation, with rece
 
 ## Topics
 
-![[topics/Concept/Latent Space)]]
+![[topics/Concept/Latent Space]]
 
-![[topics/Concept/Diffusion Models)]]
+![[topics/Concept/Diffusion Models]]
 
-![[topics/Concept/Classifier Guidance)]]
+![[topics/Concept/Classifier Guidance]]
 
-![[topics/Concept/Text Conditioning)]]
+![[topics/Concept/Text Conditioning]]

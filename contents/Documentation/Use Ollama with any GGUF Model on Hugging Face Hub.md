@@ -33,8 +33,8 @@ The document is structured into sections: Custom Quantization, Custom Chat Templ
 
 ## Topics
 
-![[topics/Tool/Ollama)]]
+![[topics/Tool/Ollama]]
 
-![[topics/Platform/Hugging Face)]]
+![[topics/Platform/Hugging Face]]
 
-![[topics/Concept/GGUF)]]
+![[topics/Concept/GGUF]]

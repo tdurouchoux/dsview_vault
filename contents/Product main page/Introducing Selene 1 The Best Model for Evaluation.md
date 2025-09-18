@@ -22,6 +22,6 @@ Atla introduces Selene 1, a state-of-the-art LLM Judge designed for evaluating g
 
 ## Topics
 
-![[topics/Model/Selene 1)]]
+![[topics/Model/Selene 1]]
 
-![[topics/Tool/Eval Copilot)]]
+![[topics/Tool/Eval Copilot]]

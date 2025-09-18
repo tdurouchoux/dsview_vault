@@ -30,16 +30,16 @@ The project is open-source under the Apache-2.0 license, with active development
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Model Context Protocol MCP)]]
+![[topics/Concept/Model Context Protocol MCP]]
 
-![[topics/Concept/Knowledge Graph)]]
+![[topics/Concept/Knowledge Graph]]
 
-![[topics/Concept/Context Engineering)]]
+![[topics/Concept/Context Engineering]]
 
-![[topics/Concept/Bi Temporal Data Model)]]
+![[topics/Concept/Bi Temporal Data Model]]
 
-![[topics/Concept/Real Time Incremental Updates)]]
+![[topics/Concept/Real Time Incremental Updates]]
 
-![[topics/Concept/Hybrid Retrieval)]]
+![[topics/Concept/Hybrid Retrieval]]

@@ -37,4 +37,4 @@ TorchGeo is licensed under the MIT license and is actively maintained with regul
 
 ## Topics
 
-![[topics/Library/TorchGeo)]]
+![[topics/Library/TorchGeo]]

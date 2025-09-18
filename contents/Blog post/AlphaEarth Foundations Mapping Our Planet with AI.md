@@ -33,22 +33,22 @@ The model's capabilities are being explored further, with potential future appli
 
 ## Topics
 
-![[topics/Model/Gemini)]]
+![[topics/Model/Gemini]]
 
-![[topics/Model/Gemma)]]
+![[topics/Model/Gemma]]
 
-![[topics/Model/Imagen)]]
+![[topics/Model/Imagen]]
 
-![[topics/Model/Lyria)]]
+![[topics/Model/Lyria]]
 
-![[topics/Model/Veo)]]
+![[topics/Model/Veo]]
 
-![[topics/Model/Project Astra)]]
+![[topics/Model/Project Astra]]
 
-![[topics/Model/Project Mariner)]]
+![[topics/Model/Project Mariner]]
 
-![[topics/Model/AlphaEarth Foundations)]]
+![[topics/Model/AlphaEarth Foundations]]
 
-![[topics/Dataset/Satellite Embedding dataset)]]
+![[topics/Dataset/Satellite Embedding dataset]]
 
-![[topics/Model/Gemini Diffusion)]]
+![[topics/Model/Gemini Diffusion]]

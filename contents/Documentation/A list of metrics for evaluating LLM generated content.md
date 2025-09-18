@@ -48,22 +48,22 @@ The article also mentions implementations like Azure Machine Learning prompt flo
 
 ## Topics
 
-![[topics/Concept/Rule based Metrics)]]
+![[topics/Concept/Rule based Metrics]]
 
-![[topics/Concept/Reference free Metrics)]]
+![[topics/Concept/Reference free Metrics]]
 
-![[topics/Concept/Levenshtein Similarity Ratio)]]
+![[topics/Concept/Levenshtein Similarity Ratio]]
 
-![[topics/Concept/Reference based Metrics)]]
+![[topics/Concept/Reference based Metrics]]
 
-![[topics/Concept/Semantic Similarity Metrics)]]
+![[topics/Concept/Semantic Similarity Metrics]]
 
-![[topics/Concept/Evaluation Metrics)]]
+![[topics/Concept/Evaluation Metrics]]
 
-![[topics/Concept/ROUGE)]]
+![[topics/Concept/ROUGE]]
 
-![[topics/Concept/LLM based Evaluators)]]
+![[topics/Concept/LLM based Evaluators]]
 
-![[topics/Concept/Functional Correctness)]]
+![[topics/Concept/Functional Correctness]]
 
-![[topics/Concept/BLEU Score)]]
+![[topics/Concept/BLEU Score]]

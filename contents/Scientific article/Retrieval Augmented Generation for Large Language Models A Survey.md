@@ -25,16 +25,16 @@ The paper emphasizes the importance of RAG in combining parameterized knowledge 
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Modular RAG)]]
+![[topics/Concept/Modular RAG]]
 
-![[topics/Concept/Advanced RAG)]]
+![[topics/Concept/Advanced RAG]]
 
-![[topics/Concept/Naive RAG)]]
+![[topics/Concept/Naive RAG]]
 
-![[topics/Concept/Augmentation in RAG)]]
+![[topics/Concept/Augmentation in RAG]]
 
-![[topics/Concept/Retriever)]]
+![[topics/Concept/Retriever]]
 
-![[topics/Concept/Generator)]]
+![[topics/Concept/Generator]]

@@ -33,4 +33,4 @@ The service is designed to enhance productivity and organization through AI-driv
 
 ## Topics
 
-![[topics/Platform/NotebookLM)]]
+![[topics/Platform/NotebookLM]]

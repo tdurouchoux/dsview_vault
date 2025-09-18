@@ -29,12 +29,12 @@ The models are available for use with Transformers and MLX, with detailed instru
 
 ## Topics
 
-![[topics/Library/MLX)]]
+![[topics/Library/MLX]]
 
-![[topics/Concept/Video MME)]]
+![[topics/Concept/Video MME]]
 
-![[topics/Concept/Flash Attention 2)]]
+![[topics/Concept/Flash Attention 2]]
 
-![[topics/Model/SmolVLM)]]
+![[topics/Model/SmolVLM]]
 
-![[topics/Library/Transformers)]]
+![[topics/Library/Transformers]]

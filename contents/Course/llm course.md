@@ -32,20 +32,20 @@ The course also includes a list of notebooks and tools for fine-tuning, quantiza
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Language Model Sampling Techniques)]]
+![[topics/Concept/Language Model Sampling Techniques]]
 
-![[topics/Concept/Quantization)]]
+![[topics/Concept/Quantization]]
 
-![[topics/Concept/Tokenization)]]
+![[topics/Concept/Tokenization]]
 
-![[topics/Concept/Attention Mechanism)]]
+![[topics/Concept/Attention Mechanism]]
 
-![[topics/Concept/Preference Alignment)]]
+![[topics/Concept/Preference Alignment]]
 
-![[topics/Concept/Fine tuning)]]
+![[topics/Concept/Fine tuning]]
 
-![[topics/Concept/AI Agents)]]
+![[topics/Concept/AI Agents]]
 
-![[topics/Concept/Model Merging)]]
+![[topics/Concept/Model Merging]]

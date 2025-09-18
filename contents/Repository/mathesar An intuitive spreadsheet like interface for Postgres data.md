@@ -31,6 +31,6 @@ Mathesar is currently in public beta, indicating it is stable and feature-rich e
 
 ## Topics
 
-![[topics/Platform/PostgreSQL)]]
+![[topics/Platform/PostgreSQL]]
 
-![[topics/Platform/Mathesar)]]
+![[topics/Platform/Mathesar]]

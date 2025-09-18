@@ -31,14 +31,14 @@ The content also covers practical applications, including setting up environment
 
 ## Topics
 
-![[topics/Library/DuckDB)]]
+![[topics/Library/DuckDB]]
 
-![[topics/Tool/Argo Workflows)]]
+![[topics/Tool/Argo Workflows]]
 
-![[topics/Concept/FastText)]]
+![[topics/Concept/FastText]]
 
-![[topics/Concept/MLOps)]]
+![[topics/Concept/MLOps]]
 
-![[topics/Tool/MLflow)]]
+![[topics/Tool/MLflow]]
 
-![[topics/Tool/Quarto Dashboards)]]
+![[topics/Tool/Quarto Dashboards]]

@@ -35,16 +35,16 @@ WordLlama is licensed under the MIT License and includes a citation for academic
 
 ## Topics
 
-![[topics/Concept/Matryoshka Representation Learning)]]
+![[topics/Concept/Matryoshka Representation Learning]]
 
-![[topics/Concept/Fuzzy Deduplication)]]
+![[topics/Concept/Fuzzy Deduplication]]
 
-![[topics/Concept/Semantic Text Splitting)]]
+![[topics/Concept/Semantic Text Splitting]]
 
-![[topics/Dataset/Massive Text Embedding Benchmark MTEB)]]
+![[topics/Dataset/Massive Text Embedding Benchmark MTEB]]
 
-![[topics/Library/WordLlama)]]
+![[topics/Library/WordLlama]]
 
-![[topics/Concept/Binary Embeddings)]]
+![[topics/Concept/Binary Embeddings]]
 
-![[topics/Concept/Text Embeddings)]]
+![[topics/Concept/Text Embeddings]]

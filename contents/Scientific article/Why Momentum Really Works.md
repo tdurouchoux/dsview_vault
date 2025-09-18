@@ -29,18 +29,18 @@ Key takeaways include the mathematical formulation of momentum, the conditions u
 
 ## Topics
 
-![[topics/Concept/Gradient Descent)]]
+![[topics/Concept/Gradient Descent]]
 
-![[topics/Concept/Condition Number)]]
+![[topics/Concept/Condition Number]]
 
-![[topics/Concept/Pathological Curvature)]]
+![[topics/Concept/Pathological Curvature]]
 
-![[topics/Concept/Momentum)]]
+![[topics/Concept/Momentum]]
 
-![[topics/Concept/Eigenvalue Decomposition)]]
+![[topics/Concept/Eigenvalue Decomposition]]
 
-![[topics/Concept/Convex Rosenbrock Function)]]
+![[topics/Concept/Convex Rosenbrock Function]]
 
-![[topics/Concept/Convex Quadratic Model)]]
+![[topics/Concept/Convex Quadratic Model]]
 
-![[topics/Concept/Stochastic Gradient Descent)]]
+![[topics/Concept/Stochastic Gradient Descent]]

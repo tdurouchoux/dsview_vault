@@ -25,6 +25,6 @@ The course CS324 focuses on large language models, covering their modeling, theo
 
 ## Topics
 
-![[topics/Concept/Responsible AI)]]
+![[topics/Concept/Responsible AI]]
 
-![[topics/Concept/Few shot Learning)]]
+![[topics/Concept/Few shot Learning]]

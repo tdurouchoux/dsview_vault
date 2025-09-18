@@ -36,16 +36,16 @@ Throughout the essay, Amodei emphasizes the need for a collective effort to ensu
 
 ## Topics
 
-![[topics/Concept/Biological Freedom)]]
+![[topics/Concept/Biological Freedom]]
 
-![[topics/Concept/Entente Strategy)]]
+![[topics/Concept/Entente Strategy]]
 
-![[topics/Concept/Machines of Loving Grace)]]
+![[topics/Concept/Machines of Loving Grace]]
 
-![[topics/Concept/Marginal Returns to Intelligence)]]
+![[topics/Concept/Marginal Returns to Intelligence]]
 
-![[topics/Concept/Country of Geniuses in a Datacenter)]]
+![[topics/Concept/Country of Geniuses in a Datacenter]]
 
-![[topics/Concept/Powerful AI)]]
+![[topics/Concept/Powerful AI]]
 
-![[topics/Concept/Compressed 21st Century)]]
+![[topics/Concept/Compressed 21st Century]]

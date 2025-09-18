@@ -32,4 +32,4 @@ The project can be set up locally using npm or Docker. Documentation and additio
 
 ## Topics
 
-![[topics/Tool/Markwhen)]]
+![[topics/Tool/Markwhen]]

@@ -25,4 +25,4 @@ The paper "A Decade of Knowledge Graphs in Natural Language Processing: A Survey
 
 ## Topics
 
-![[topics/Concept/Knowledge Graph)]]
+![[topics/Concept/Knowledge Graph]]

@@ -20,16 +20,16 @@ The paper introduces phi-1, a new large language model for code with 1.3 billion
 
 ## Topics
 
-![[topics/Concept/Scaling Laws)]]
+![[topics/Concept/Scaling Laws]]
 
-![[topics/Model/Phi)]]
+![[topics/Model/Phi]]
 
-![[topics/Concept/Data Pruning)]]
+![[topics/Concept/Data Pruning]]
 
-![[topics/Concept/Data Decontamination)]]
+![[topics/Concept/Data Decontamination]]
 
-![[topics/Concept/Model Emergent Properties)]]
+![[topics/Concept/Model Emergent Properties]]
 
-![[topics/Concept/Synthetic Data Generation)]]
+![[topics/Concept/Synthetic Data Generation]]
 
-![[topics/Concept/Textbook Quality Data)]]
+![[topics/Concept/Textbook Quality Data]]

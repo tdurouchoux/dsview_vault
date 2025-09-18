@@ -24,16 +24,16 @@ Mistral AI introduces Voxtral, open-source speech understanding models available
 
 ## Topics
 
-![[topics/Model/Mistral Small 3 1)]]
+![[topics/Model/Mistral Small 3 1]]
 
-![[topics/Model/Voxtral)]]
+![[topics/Model/Voxtral]]
 
-![[topics/Concept/Multilingual Fluency)]]
+![[topics/Concept/Multilingual Fluency]]
 
-![[topics/Concept/Speech Understanding)]]
+![[topics/Concept/Speech Understanding]]
 
-![[topics/Concept/Automatic Speech Recognition ASR)]]
+![[topics/Concept/Automatic Speech Recognition ASR]]
 
-![[topics/Model/Voxtral Mini Transcribe)]]
+![[topics/Model/Voxtral Mini Transcribe]]
 
-![[topics/Concept/Function Calling from Voice)]]
+![[topics/Concept/Function Calling from Voice]]

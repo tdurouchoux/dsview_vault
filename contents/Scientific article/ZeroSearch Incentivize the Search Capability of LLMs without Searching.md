@@ -42,10 +42,10 @@ Overall, ZeroSearch provides a cost-effective and scalable alternative to real s
 
 ## Topics
 
-![[topics/Concept/Reinforcement Learning)]]
+![[topics/Concept/Reinforcement Learning]]
 
-![[topics/Concept/Supervised Fine Tuning)]]
+![[topics/Concept/Supervised Fine Tuning]]
 
-![[topics/Model/ZeroSearch)]]
+![[topics/Model/ZeroSearch]]
 
-![[topics/Concept/Curriculum Learning)]]
+![[topics/Concept/Curriculum Learning]]

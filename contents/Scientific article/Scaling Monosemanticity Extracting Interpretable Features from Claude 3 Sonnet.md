@@ -33,22 +33,22 @@ The paper also discusses the potential implications of these findings for the sa
 
 ## Topics
 
-![[topics/Concept/Attribution)]]
+![[topics/Concept/Attribution]]
 
-![[topics/Concept/Monosemanticity)]]
+![[topics/Concept/Monosemanticity]]
 
-![[topics/Concept/Feature Steering)]]
+![[topics/Concept/Feature Steering]]
 
-![[topics/Concept/Sparse Autoencoders)]]
+![[topics/Concept/Sparse Autoencoders]]
 
-![[topics/Concept/Feature Ablation)]]
+![[topics/Concept/Feature Ablation]]
 
-![[topics/Concept/Safety Relevant Features)]]
+![[topics/Concept/Safety Relevant Features]]
 
-![[topics/Concept/Scaling Laws)]]
+![[topics/Concept/Scaling Laws]]
 
-![[topics/Concept/Feature Survey)]]
+![[topics/Concept/Feature Survey]]
 
-![[topics/Concept/Feature Interpretability)]]
+![[topics/Concept/Feature Interpretability]]
 
-![[topics/Concept/Dictionary Learning)]]
+![[topics/Concept/Dictionary Learning]]

@@ -26,20 +26,20 @@ The repository is designed to cater to both beginners and experienced practition
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Generative AI Agents)]]
+![[topics/Concept/Generative AI Agents]]
 
-![[topics/Concept/Agentic AI)]]
+![[topics/Concept/Agentic AI]]
 
-![[topics/Concept/Model Context Protocol MCP)]]
+![[topics/Concept/Model Context Protocol MCP]]
 
-![[topics/Library/LangChain)]]
+![[topics/Library/LangChain]]
 
-![[topics/Concept/CrewAI)]]
+![[topics/Concept/CrewAI]]
 
-![[topics/Concept/AutoGen)]]
+![[topics/Concept/AutoGen]]
 
-![[topics/Concept/Task Oriented AI)]]
+![[topics/Concept/Task Oriented AI]]
 
-![[topics/Concept/LangGraph)]]
+![[topics/Concept/LangGraph]]

@@ -37,22 +37,22 @@ The article concludes by emphasizing Python's versatility and its growing capabi
 
 ## Topics
 
-![[topics/Library/Colorama)]]
+![[topics/Library/Colorama]]
 
-![[topics/Library/TQDM)]]
+![[topics/Library/TQDM]]
 
-![[topics/Library/MoviePy)]]
+![[topics/Library/MoviePy]]
 
-![[topics/Library/Taipy)]]
+![[topics/Library/Taipy]]
 
-![[topics/Library/PyPDF2)]]
+![[topics/Library/PyPDF2]]
 
-![[topics/Library/Arrow)]]
+![[topics/Library/Arrow]]
 
-![[topics/Library/Whoosh)]]
+![[topics/Library/Whoosh]]
 
-![[topics/Library/PyAutoGUI)]]
+![[topics/Library/PyAutoGUI]]
 
-![[topics/Library/Pyjokes)]]
+![[topics/Library/Pyjokes]]
 
-![[topics/Library/Geopy)]]
+![[topics/Library/Geopy]]

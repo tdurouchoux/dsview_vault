@@ -21,8 +21,8 @@ The article discusses the visualization of road networks in livable cities, comb
 
 ## Topics
 
-![[topics/Concept/15 minute city)]]
+![[topics/Concept/15 minute city]]
 
-![[topics/Library/OSMnx)]]
+![[topics/Library/OSMnx]]
 
-![[topics/Library/NetworkX)]]
+![[topics/Library/NetworkX]]

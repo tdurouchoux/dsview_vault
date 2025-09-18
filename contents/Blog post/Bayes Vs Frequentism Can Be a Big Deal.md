@@ -40,20 +40,20 @@ In summary, the author argues that the differences between Bayesian and Frequent
 
 ## Topics
 
-![[topics/Concept/Winner s Curse)]]
+![[topics/Concept/Winner s Curse]]
 
-![[topics/Concept/Decision Theory)]]
+![[topics/Concept/Decision Theory]]
 
-![[topics/Concept/Hierarchical Bayesian Modeling)]]
+![[topics/Concept/Hierarchical Bayesian Modeling]]
 
-![[topics/Concept/Frequentist Statistics)]]
+![[topics/Concept/Frequentist Statistics]]
 
-![[topics/Concept/Bayesian Statistics)]]
+![[topics/Concept/Bayesian Statistics]]
 
-![[topics/Concept/Posterior Distribution)]]
+![[topics/Concept/Posterior Distribution]]
 
-![[topics/Concept/Prior Distribution)]]
+![[topics/Concept/Prior Distribution]]
 
-![[topics/Concept/Expected Value of Sample Information)]]
+![[topics/Concept/Expected Value of Sample Information]]
 
-![[topics/Concept/Expected Loss)]]
+![[topics/Concept/Expected Loss]]

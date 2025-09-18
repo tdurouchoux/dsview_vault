@@ -57,22 +57,22 @@ The content aims to provide a comprehensive overview of the most innovative and 
 
 ## Topics
 
-![[topics/Library/WAT)]]
+![[topics/Library/WAT]]
 
-![[topics/Library/Rio)]]
+![[topics/Library/Rio]]
 
-![[topics/Tool/uv)]]
+![[topics/Tool/uv]]
 
-![[topics/Library/Whenever)]]
+![[topics/Library/Whenever]]
 
-![[topics/Library/peepDB)]]
+![[topics/Library/peepDB]]
 
-![[topics/Library/Tach)]]
+![[topics/Library/Tach]]
 
-![[topics/Library/PGQueuer)]]
+![[topics/Library/PGQueuer]]
 
-![[topics/Library/Crawlee)]]
+![[topics/Library/Crawlee]]
 
-![[topics/Library/RightTyper)]]
+![[topics/Library/RightTyper]]
 
-![[topics/Library/streamable)]]
+![[topics/Library/streamable]]

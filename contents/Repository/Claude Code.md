@@ -38,4 +38,4 @@ The project is actively maintained with contributions from 32 developers and has
 
 ## Topics
 
-![[topics/Tool/Claude Code)]]
+![[topics/Tool/Claude Code]]

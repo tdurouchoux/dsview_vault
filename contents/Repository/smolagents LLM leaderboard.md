@@ -19,4 +19,4 @@ The smolagents LLM leaderboard is a Hugging Face Space application that tracks a
 
 ## Topics
 
-![[topics/Platform/Hugging Face Spaces)]]
+![[topics/Platform/Hugging Face Spaces]]

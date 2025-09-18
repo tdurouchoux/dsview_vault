@@ -27,18 +27,18 @@ The model achieves a score of 46.8% on SWE-Bench Verified, outperforming prior o
 
 ## Topics
 
-![[topics/Library/vLLM)]]
+![[topics/Library/vLLM]]
 
-![[topics/Tool/Ollama)]]
+![[topics/Tool/Ollama]]
 
-![[topics/Concept/Agentic Coding)]]
+![[topics/Concept/Agentic Coding]]
 
-![[topics/Tool/OpenHands)]]
+![[topics/Tool/OpenHands]]
 
-![[topics/Tool/LMStudio)]]
+![[topics/Tool/LMStudio]]
 
-![[topics/Model/Devstral)]]
+![[topics/Model/Devstral]]
 
-![[topics/Tool/Mistral inference)]]
+![[topics/Tool/Mistral inference]]
 
-![[topics/Tool/llama cpp)]]
+![[topics/Tool/llama cpp]]

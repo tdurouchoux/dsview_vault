@@ -38,4 +38,4 @@ The paper emphasizes the transformative potential of AI in solving fundamental p
 
 ## Topics
 
-![[topics/Model/AlphaTensor)]]
+![[topics/Model/AlphaTensor]]

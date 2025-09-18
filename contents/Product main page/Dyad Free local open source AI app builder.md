@@ -21,8 +21,8 @@ Dyad is a free, local, open-source AI app builder that allows users to create AI
 
 ## Topics
 
-![[topics/Tool/Ollama)]]
+![[topics/Tool/Ollama]]
 
-![[topics/Tool/Dyad)]]
+![[topics/Tool/Dyad]]
 
-![[topics/Platform/Supabase)]]
+![[topics/Platform/Supabase]]

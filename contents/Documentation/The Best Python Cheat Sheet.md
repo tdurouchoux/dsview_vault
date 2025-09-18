@@ -88,24 +88,24 @@ https://kieranholland.com/best-python-cheat-sheet/
 
 ## Topics
 
-![[topics/Concept/Python Operators)]]
+![[topics/Concept/Python Operators]]
 
-![[topics/Concept/Python Sequence)]]
+![[topics/Concept/Python Sequence]]
 
-![[topics/Concept/Python Tuple)]]
+![[topics/Concept/Python Tuple]]
 
-![[topics/Concept/Python Named Tuple)]]
+![[topics/Concept/Python Named Tuple]]
 
-![[topics/Concept/Python Comparison)]]
+![[topics/Concept/Python Comparison]]
 
-![[topics/Concept/Python Keywords)]]
+![[topics/Concept/Python Keywords]]
 
-![[topics/Concept/Python Match Case)]]
+![[topics/Concept/Python Match Case]]
 
-![[topics/Concept/Python Flow Control)]]
+![[topics/Concept/Python Flow Control]]
 
-![[topics/Concept/Python Built in Functions)]]
+![[topics/Concept/Python Built in Functions]]
 
-![[topics/Concept/Python Scope)]]
+![[topics/Concept/Python Scope]]
 
-![[topics/Concept/Context Managers)]]
+![[topics/Concept/Context Managers]]

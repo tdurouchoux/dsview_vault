@@ -39,12 +39,12 @@ The author concludes that while AI has great potential, its implementation and i
 
 ## Topics
 
-![[topics/Concept/Data Cleaning)]]
+![[topics/Concept/Data Cleaning]]
 
-![[topics/Concept/Industrial Internet of Things IIoT)]]
+![[topics/Concept/Industrial Internet of Things IIoT]]
 
-![[topics/Concept/Digital Transformation)]]
+![[topics/Concept/Digital Transformation]]
 
-![[topics/Concept/Statistical Process Control SPC)]]
+![[topics/Concept/Statistical Process Control SPC]]
 
-![[topics/Concept/Data Integration)]]
+![[topics/Concept/Data Integration]]

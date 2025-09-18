@@ -37,12 +37,12 @@ The choice of library depends on the project's needs, complexity, and desired cu
 
 ## Topics
 
-![[topics/Library/Panel)]]
+![[topics/Library/Panel]]
 
-![[topics/Library/Gradio)]]
+![[topics/Library/Gradio]]
 
-![[topics/Library/PyWebIO)]]
+![[topics/Library/PyWebIO]]
 
-![[topics/Library/Voila)]]
+![[topics/Library/Voila]]
 
-![[topics/Platform/Plotly Dash)]]
+![[topics/Platform/Plotly Dash]]

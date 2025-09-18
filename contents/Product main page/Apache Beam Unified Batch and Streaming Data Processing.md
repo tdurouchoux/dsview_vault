@@ -45,4 +45,4 @@ Apache Beam is designed for mission-critical production workloads, offering flex
 
 ## Topics
 
-![[topics/Platform/Apache Beam)]]
+![[topics/Platform/Apache Beam]]

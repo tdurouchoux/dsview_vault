@@ -34,18 +34,18 @@ The documentation includes examples such as a "Hello World" example and a bank s
 
 ## Topics
 
-![[topics/Concept/Model Context Protocol MCP)]]
+![[topics/Concept/Model Context Protocol MCP]]
 
-![[topics/Concept/Agent2Agent A2A Protocol)]]
+![[topics/Concept/Agent2Agent A2A Protocol]]
 
-![[topics/Concept/Pydantic Logfire)]]
+![[topics/Concept/Pydantic Logfire]]
 
-![[topics/Concept/AG UI)]]
+![[topics/Concept/AG UI]]
 
-![[topics/Concept/Pydantic Evals)]]
+![[topics/Concept/Pydantic Evals]]
 
-![[topics/Concept/Pydantic Graph)]]
+![[topics/Concept/Pydantic Graph]]
 
-![[topics/Concept/Durable Execution)]]
+![[topics/Concept/Durable Execution]]
 
-![[topics/Library/Pydantic AI)]]
+![[topics/Library/Pydantic AI]]

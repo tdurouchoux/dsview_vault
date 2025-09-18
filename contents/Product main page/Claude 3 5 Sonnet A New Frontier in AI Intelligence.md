@@ -32,10 +32,10 @@ The model is available for free on Claude.ai and iOS, with higher rate limits fo
 
 ## Topics
 
-![[topics/Model/Claude 3 5 Sonnet)]]
+![[topics/Model/Claude 3 5 Sonnet]]
 
-![[topics/Platform/Amazon Bedrock)]]
+![[topics/Platform/Amazon Bedrock]]
 
-![[topics/Platform/Vertex AI)]]
+![[topics/Platform/Vertex AI]]
 
-![[topics/Concept/Artifacts)]]
+![[topics/Concept/Artifacts]]

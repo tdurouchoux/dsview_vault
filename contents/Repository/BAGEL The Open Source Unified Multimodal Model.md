@@ -19,4 +19,4 @@ BAGEL is an open-source, unified multimodal model designed to handle various tas
 
 ## Topics
 
-![[topics/Model/BAGEL)]]
+![[topics/Model/BAGEL]]

@@ -48,10 +48,10 @@ The content discusses various methods for evaluating abstractive summarization t
 
 ## Topics
 
-![[topics/Concept/ROUGE)]]
+![[topics/Concept/ROUGE]]
 
-![[topics/Concept/Abstractive Summarization)]]
+![[topics/Concept/Abstractive Summarization]]
 
-![[topics/Concept/G Eval)]]
+![[topics/Concept/G Eval]]
 
-![[topics/Concept/BERTScore)]]
+![[topics/Concept/BERTScore]]

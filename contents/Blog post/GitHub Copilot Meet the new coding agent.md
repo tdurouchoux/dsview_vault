@@ -33,10 +33,10 @@ The agent is designed to handle routine tasks, allowing developers to focus on m
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Model Context Protocol MCP)]]
+![[topics/Concept/Model Context Protocol MCP]]
 
-![[topics/Platform/GitHub Copilot)]]
+![[topics/Platform/GitHub Copilot]]
 
-![[topics/Platform/GitHub Actions)]]
+![[topics/Platform/GitHub Actions]]

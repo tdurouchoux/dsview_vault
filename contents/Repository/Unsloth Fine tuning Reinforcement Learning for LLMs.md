@@ -23,10 +23,10 @@ Unsloth is a tool designed for fine-tuning and reinforcement learning of large l
 
 ## Topics
 
-![[topics/Concept/LoRA Low Rank Adaptation)]]
+![[topics/Concept/LoRA Low Rank Adaptation]]
 
-![[topics/Concept/Reinforcement Learning from Human Feedback RLHF)]]
+![[topics/Concept/Reinforcement Learning from Human Feedback RLHF]]
 
-![[topics/Concept/Quantization)]]
+![[topics/Concept/Quantization]]
 
-![[topics/Library/Unsloth)]]
+![[topics/Library/Unsloth]]

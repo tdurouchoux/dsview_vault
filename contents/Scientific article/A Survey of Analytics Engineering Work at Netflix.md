@@ -28,4 +28,4 @@ https://readmedium.com/https://netflixtechblog.com/part-1-a-survey-of-analytics-
 
 ## Topics
 
-![[topics/Concept/Analytics Engineering)]]
+![[topics/Concept/Analytics Engineering]]

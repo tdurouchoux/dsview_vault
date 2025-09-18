@@ -31,4 +31,4 @@ The AI Act is expected to be endorsed by the EU's 27 states in April and publish
 
 ## Topics
 
-![[topics/Concept/Artificial Intelligence Act)]]
+![[topics/Concept/Artificial Intelligence Act]]

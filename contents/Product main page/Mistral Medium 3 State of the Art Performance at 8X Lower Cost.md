@@ -31,4 +31,4 @@ Mistral AI hints at an upcoming "large" model, suggesting continued innovation a
 
 ## Topics
 
-![[topics/Model/Mistral Medium 3)]]
+![[topics/Model/Mistral Medium 3]]

@@ -69,22 +69,22 @@ This summary captures the main technical points and key takeaways from the conte
 
 ## Topics
 
-![[topics/Concept/Time Series Forecasting)]]
+![[topics/Concept/Time Series Forecasting]]
 
-![[topics/Concept/Time Series Clustering)]]
+![[topics/Concept/Time Series Clustering]]
 
-![[topics/Concept/Time Series Data)]]
+![[topics/Concept/Time Series Data]]
 
-![[topics/Concept/Time Series Segmentation)]]
+![[topics/Concept/Time Series Segmentation]]
 
-![[topics/Concept/Anomaly Detection Methods)]]
+![[topics/Concept/Anomaly Detection Methods]]
 
-![[topics/Concept/Prediction Based Methods)]]
+![[topics/Concept/Prediction Based Methods]]
 
-![[topics/Concept/Density Based Methods)]]
+![[topics/Concept/Density Based Methods]]
 
-![[topics/Concept/Time Series Anomaly Detection)]]
+![[topics/Concept/Time Series Anomaly Detection]]
 
-![[topics/Concept/Distance Based Methods)]]
+![[topics/Concept/Distance Based Methods]]
 
-![[topics/Concept/Matrix Profile)]]
+![[topics/Concept/Matrix Profile]]

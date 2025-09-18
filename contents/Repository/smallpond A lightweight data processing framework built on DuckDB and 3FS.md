@@ -25,4 +25,4 @@ Smallpond is a lightweight data processing framework built on DuckDB and 3FS. Ke
 
 ## Topics
 
-![[topics/Library/smallpond)]]
+![[topics/Library/smallpond]]

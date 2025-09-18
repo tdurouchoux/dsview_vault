@@ -55,14 +55,14 @@ The authors emphasize the importance of rigorous evaluation and monitoring, as w
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Prompt Engineering)]]
+![[topics/Concept/Prompt Engineering]]
 
-![[topics/Concept/Fine tuning)]]
+![[topics/Concept/Fine tuning]]
 
-![[topics/Concept/Caching)]]
+![[topics/Concept/Caching]]
 
-![[topics/Concept/Flow Engineering)]]
+![[topics/Concept/Flow Engineering]]
 
-![[topics/Concept/Evaluation and Monitoring)]]
+![[topics/Concept/Evaluation and Monitoring]]

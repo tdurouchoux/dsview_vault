@@ -30,4 +30,4 @@ Key points include:
 
 ## Topics
 
-![[topics/Concept/LangGraph)]]
+![[topics/Concept/LangGraph]]

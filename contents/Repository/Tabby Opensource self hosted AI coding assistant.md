@@ -29,14 +29,14 @@ Tabby supports multiple IDEs, including VS Code, Neovim, IntelliJ, and others. I
 
 ## Topics
 
-![[topics/Concept/AI Agents)]]
+![[topics/Concept/AI Agents]]
 
-![[topics/Tool/Tabby)]]
+![[topics/Tool/Tabby]]
 
-![[topics/Concept/Inline Chat)]]
+![[topics/Concept/Inline Chat]]
 
-![[topics/Concept/Answer Engine)]]
+![[topics/Concept/Answer Engine]]
 
-![[topics/Concept/Data Connectors)]]
+![[topics/Concept/Data Connectors]]
 
-![[topics/Concept/Code Completion)]]
+![[topics/Concept/Code Completion]]

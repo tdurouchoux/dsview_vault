@@ -33,4 +33,4 @@ The extension is pre-v1, so breaking changes are expected. It is part of the sql
 
 ## Topics
 
-![[topics/Tool/sqlite vec)]]
+![[topics/Tool/sqlite vec]]

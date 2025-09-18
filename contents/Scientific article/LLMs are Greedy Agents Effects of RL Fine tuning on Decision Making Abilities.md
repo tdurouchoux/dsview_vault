@@ -23,14 +23,14 @@ Key findings include the positive effects of RLFT on exploration and decision-ma
 
 ## Topics
 
-![[topics/Concept/Chain of Thought CoT Reasoning)]]
+![[topics/Concept/Chain of Thought CoT Reasoning]]
 
-![[topics/Concept/Knowing Doing Gap)]]
+![[topics/Concept/Knowing Doing Gap]]
 
-![[topics/Concept/Frequency Bias)]]
+![[topics/Concept/Frequency Bias]]
 
-![[topics/Concept/Greediness in Decision Making)]]
+![[topics/Concept/Greediness in Decision Making]]
 
-![[topics/Concept/Exploration Mechanisms)]]
+![[topics/Concept/Exploration Mechanisms]]
 
-![[topics/Concept/Reinforcement Learning Fine Tuning RLFT)]]
+![[topics/Concept/Reinforcement Learning Fine Tuning RLFT]]

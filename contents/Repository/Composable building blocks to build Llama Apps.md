@@ -47,12 +47,12 @@ Llama Stack aims to reduce friction and complexity, empowering developers to foc
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Model/Llama 4)]]
+![[topics/Model/Llama 4]]
 
-![[topics/Concept/Telemetry)]]
+![[topics/Concept/Telemetry]]
 
-![[topics/Concept/API Provider)]]
+![[topics/Concept/API Provider]]
 
-![[topics/Platform/Llama Stack)]]
+![[topics/Platform/Llama Stack]]

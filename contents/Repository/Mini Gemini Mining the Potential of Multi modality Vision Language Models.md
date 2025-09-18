@@ -34,4 +34,4 @@ Mini-Gemini supports a range of LLMs from 2B to 34B and has demonstrated leading
 
 ## Topics
 
-![[topics/Model/Mini Gemini)]]
+![[topics/Model/Mini Gemini]]

@@ -46,18 +46,18 @@ The article concludes with resources for further learning and acknowledges contr
 
 ## Topics
 
-![[topics/Concept/Latent Space)]]
+![[topics/Concept/Latent Space]]
 
-![[topics/Model/Transformer)]]
+![[topics/Model/Transformer]]
 
-![[topics/Concept/Diffusion Models)]]
+![[topics/Concept/Diffusion Models]]
 
-![[topics/Model/UNet)]]
+![[topics/Model/UNet]]
 
-![[topics/Model/Autoencoder)]]
+![[topics/Model/Autoencoder]]
 
-![[topics/Model/CLIP)]]
+![[topics/Model/CLIP]]
 
-![[topics/Model/Stable Diffusion)]]
+![[topics/Model/Stable Diffusion]]
 
-![[topics/Concept/Latent Diffusion Models)]]
+![[topics/Concept/Latent Diffusion Models]]

@@ -21,12 +21,12 @@ The content discusses the pitfalls of building AI products by simply wrapping ex
 
 ## Topics
 
-![[topics/Tool/Publish)]]
+![[topics/Tool/Publish]]
 
-![[topics/Tool/Builder io)]]
+![[topics/Tool/Builder io]]
 
-![[topics/Tool/Puppeteer)]]
+![[topics/Tool/Puppeteer]]
 
-![[topics/Tool/Fusion)]]
+![[topics/Tool/Fusion]]
 
-![[topics/Tool/Visual Copilot)]]
+![[topics/Tool/Visual Copilot]]

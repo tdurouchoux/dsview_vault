@@ -54,4 +54,4 @@ Gitleaks is a versatile tool for enhancing security by detecting and managing se
 
 ## Topics
 
-![[topics/Tool/Gitleaks)]]
+![[topics/Tool/Gitleaks]]

@@ -29,22 +29,22 @@ In conclusion, the paper aims to support a common understanding of MLOps and its
 
 ## Topics
 
-![[topics/Concept/MLOps)]]
+![[topics/Concept/MLOps]]
 
-![[topics/Concept/ML metadata tracking logging)]]
+![[topics/Concept/ML metadata tracking logging]]
 
-![[topics/Concept/Reproducibility)]]
+![[topics/Concept/Reproducibility]]
 
-![[topics/Concept/Continuous monitoring)]]
+![[topics/Concept/Continuous monitoring]]
 
-![[topics/Concept/Collaboration)]]
+![[topics/Concept/Collaboration]]
 
-![[topics/Concept/Versioning)]]
+![[topics/Concept/Versioning]]
 
-![[topics/Concept/DevOps)]]
+![[topics/Concept/DevOps]]
 
-![[topics/Concept/Feedback loops)]]
+![[topics/Concept/Feedback loops]]
 
-![[topics/Concept/Continuous ML training evaluation)]]
+![[topics/Concept/Continuous ML training evaluation]]
 
-![[topics/Concept/Workflow Orchestration)]]
+![[topics/Concept/Workflow Orchestration]]

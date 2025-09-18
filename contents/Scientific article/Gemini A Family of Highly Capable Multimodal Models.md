@@ -20,22 +20,22 @@ The Gemini family of models, developed by Google, represents a significant advan
 
 ## Topics
 
-![[topics/Concept/Transformer Decoders)]]
+![[topics/Concept/Transformer Decoders]]
 
-![[topics/Concept/Responsible Deployment)]]
+![[topics/Concept/Responsible Deployment]]
 
-![[topics/Concept/Impact Assessment)]]
+![[topics/Concept/Impact Assessment]]
 
-![[topics/Concept/Red Teaming)]]
+![[topics/Concept/Red Teaming]]
 
-![[topics/Concept/Mitigations)]]
+![[topics/Concept/Mitigations]]
 
-![[topics/Concept/Safety Policies)]]
+![[topics/Concept/Safety Policies]]
 
-![[topics/Concept/Multimodal Large Language Models)]]
+![[topics/Concept/Multimodal Large Language Models]]
 
-![[topics/Concept/Evaluations)]]
+![[topics/Concept/Evaluations]]
 
-![[topics/Model/Gemini)]]
+![[topics/Model/Gemini]]
 
-![[topics/Concept/Pre training and Post training)]]
+![[topics/Concept/Pre training and Post training]]

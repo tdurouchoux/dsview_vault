@@ -22,16 +22,16 @@ The document discusses the evaluation of AI agents' ability to predict future ev
 
 ## Topics
 
-![[topics/Model/DeepSeek v3)]]
+![[topics/Model/DeepSeek v3]]
 
-![[topics/Concept/SmolAgents)]]
+![[topics/Concept/SmolAgents]]
 
-![[topics/Concept/FutureBench)]]
+![[topics/Concept/FutureBench]]
 
-![[topics/Tool/Firecrawl)]]
+![[topics/Tool/Firecrawl]]
 
-![[topics/Tool/Tavily)]]
+![[topics/Tool/Tavily]]
 
-![[topics/Concept/Prediction Markets)]]
+![[topics/Concept/Prediction Markets]]
 
-![[topics/Concept/Agentic Frameworks)]]
+![[topics/Concept/Agentic Frameworks]]

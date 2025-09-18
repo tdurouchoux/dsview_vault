@@ -41,6 +41,6 @@ https://docs.devin.ai/work-with-devin/deepwiki
 
 ## Topics
 
-![[topics/Tool/DeepWiki)]]
+![[topics/Tool/DeepWiki]]
 
-![[topics/Tool/Ask Devin)]]
+![[topics/Tool/Ask Devin]]

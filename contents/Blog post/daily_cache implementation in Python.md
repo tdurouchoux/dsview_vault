@@ -30,10 +30,10 @@ Finally, the author mentions `fsspec` as a promising solution that provides a co
 
 ## Topics
 
-![[topics/Concept/fsspec)]]
+![[topics/Concept/fsspec]]
 
-![[topics/Library/joblib)]]
+![[topics/Library/joblib]]
 
-![[topics/Library/functools)]]
+![[topics/Library/functools]]
 
-![[topics/Library/FreezeGun)]]
+![[topics/Library/FreezeGun]]

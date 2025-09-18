@@ -20,24 +20,24 @@ The Graph of Thoughts (GoT) framework is introduced as a new paradigm for prompt
 
 ## Topics
 
-![[topics/Concept/Graph of Operations GoO)]]
+![[topics/Concept/Graph of Operations GoO]]
 
-![[topics/Concept/Graph of Thoughts GoT)]]
+![[topics/Concept/Graph of Thoughts GoT]]
 
-![[topics/Concept/Prompt Engineering)]]
+![[topics/Concept/Prompt Engineering]]
 
-![[topics/Concept/Synergistic Outcomes)]]
+![[topics/Concept/Synergistic Outcomes]]
 
-![[topics/Concept/Volume of a Thought)]]
+![[topics/Concept/Volume of a Thought]]
 
-![[topics/Concept/Latency Volume Tradeoff)]]
+![[topics/Concept/Latency Volume Tradeoff]]
 
-![[topics/Concept/Tree of Thoughts ToT)]]
+![[topics/Concept/Tree of Thoughts ToT]]
 
-![[topics/Concept/Feedback Loops)]]
+![[topics/Concept/Feedback Loops]]
 
-![[topics/Concept/Graph Based Reasoning)]]
+![[topics/Concept/Graph Based Reasoning]]
 
-![[topics/Concept/Chain of Thought Prompting)]]
+![[topics/Concept/Chain of Thought Prompting]]
 
-![[topics/Concept/Large Language Models LLMs)]]
+![[topics/Concept/Large Language Models LLMs]]

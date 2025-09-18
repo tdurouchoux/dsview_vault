@@ -33,4 +33,4 @@ Codestral Embed is available via Mistral AI’s API and batch API, with on-prem 
 
 ## Topics
 
-![[topics/Model/Codestral Embed)]]
+![[topics/Model/Codestral Embed]]

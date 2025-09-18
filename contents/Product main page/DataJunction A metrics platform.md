@@ -21,4 +21,4 @@ DataJunction is an open-source metrics platform that allows users to define metr
 
 ## Topics
 
-![[topics/Platform/DataJunction)]]
+![[topics/Platform/DataJunction]]

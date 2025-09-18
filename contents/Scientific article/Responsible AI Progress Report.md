@@ -43,18 +43,18 @@ The report concludes with a commitment to continuous improvement and collaborati
 
 ## Topics
 
-![[topics/Concept/Responsible AI)]]
+![[topics/Concept/Responsible AI]]
 
-![[topics/Concept/Red Teaming)]]
+![[topics/Concept/Red Teaming]]
 
-![[topics/Concept/Provenance Technology)]]
+![[topics/Concept/Provenance Technology]]
 
-![[topics/Concept/SynthID)]]
+![[topics/Concept/SynthID]]
 
-![[topics/Concept/AI Literacy)]]
+![[topics/Concept/AI Literacy]]
 
-![[topics/Concept/AI assisted Red Teaming)]]
+![[topics/Concept/AI assisted Red Teaming]]
 
-![[topics/Concept/AI assisted Evaluations)]]
+![[topics/Concept/AI assisted Evaluations]]
 
-![[topics/Concept/AI Risk Management Framework)]]
+![[topics/Concept/AI Risk Management Framework]]

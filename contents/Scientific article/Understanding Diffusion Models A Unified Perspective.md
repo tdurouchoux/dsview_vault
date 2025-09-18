@@ -37,12 +37,12 @@ The paper aims to demystify and unify the understanding of diffusion models, mak
 
 ## Topics
 
-![[topics/Concept/Diffusion Models)]]
+![[topics/Concept/Diffusion Models]]
 
-![[topics/Concept/Tweedie s Formula)]]
+![[topics/Concept/Tweedie s Formula]]
 
-![[topics/Concept/Conditional Generation via Guidance)]]
+![[topics/Concept/Conditional Generation via Guidance]]
 
-![[topics/Concept/Variational Diffusion Models VDM)]]
+![[topics/Concept/Variational Diffusion Models VDM]]
 
-![[topics/Concept/Score based Generative Modeling)]]
+![[topics/Concept/Score based Generative Modeling]]

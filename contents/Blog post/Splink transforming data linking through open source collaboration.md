@@ -25,4 +25,4 @@ The success of Splink is attributed to its open-source nature, which facilitates
 
 ## Topics
 
-![[topics/Library/Splink)]]
+![[topics/Library/Splink]]

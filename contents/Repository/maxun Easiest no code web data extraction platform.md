@@ -34,6 +34,6 @@ Main takeaways:
 
 ## Topics
 
-![[topics/Concept/BYOP Bring Your Own Proxy)]]
+![[topics/Concept/BYOP Bring Your Own Proxy]]
 
-![[topics/Tool/Maxun)]]
+![[topics/Tool/Maxun]]

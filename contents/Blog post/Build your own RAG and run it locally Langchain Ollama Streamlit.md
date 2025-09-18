@@ -42,20 +42,20 @@ The full source code for the project is available on GitHub. The guide also prov
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Library/LangChain)]]
+![[topics/Library/LangChain]]
 
-![[topics/Library/Streamlit)]]
+![[topics/Library/Streamlit]]
 
-![[topics/Library/Qdrant FastEmbeddings)]]
+![[topics/Library/Qdrant FastEmbeddings]]
 
-![[topics/Library/Chroma)]]
+![[topics/Library/Chroma]]
 
-![[topics/Model/Mistral 7B)]]
+![[topics/Model/Mistral 7B]]
 
-![[topics/Tool/Ollama)]]
+![[topics/Tool/Ollama]]
 
-![[topics/Library/RecursiveCharacterSplitter)]]
+![[topics/Library/RecursiveCharacterSplitter]]
 
-![[topics/Library/PyPDFLoader)]]
+![[topics/Library/PyPDFLoader]]

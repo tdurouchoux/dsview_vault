@@ -45,20 +45,20 @@ Overall, the blog post offers a comprehensive guide to processing PDFs and simil
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Span Categorization)]]
+![[topics/Concept/Span Categorization]]
 
-![[topics/Tool/Prodigy)]]
+![[topics/Tool/Prodigy]]
 
-![[topics/Concept/Optical Character Recognition OCR)]]
+![[topics/Concept/Optical Character Recognition OCR]]
 
-![[topics/Tool/Docling)]]
+![[topics/Tool/Docling]]
 
-![[topics/Tool/spaCyLayout)]]
+![[topics/Tool/spaCyLayout]]
 
-![[topics/Concept/Named Entity Recognition)]]
+![[topics/Concept/Named Entity Recognition]]
 
-![[topics/Model/TableFormer)]]
+![[topics/Model/TableFormer]]
 
-![[topics/Concept/Layout Analysis)]]
+![[topics/Concept/Layout Analysis]]

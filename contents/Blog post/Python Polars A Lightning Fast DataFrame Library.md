@@ -31,4 +31,4 @@ The tutorial covers installation, basic DataFrame operations, expressions, conte
 
 ## Topics
 
-![[topics/Library/polars)]]
+![[topics/Library/polars]]

@@ -30,4 +30,4 @@ Overall, the overview provides a concise introduction to GML, highlighting its s
 
 ## Topics
 
-![[topics/Concept/Graph Learning)]]
+![[topics/Concept/Graph Learning]]

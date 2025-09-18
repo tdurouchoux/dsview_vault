@@ -34,4 +34,4 @@ Dify can be used via Dify Cloud, self-hosted Community Edition, or enterprise-ce
 
 ## Topics
 
-![[topics/Platform/Dify)]]
+![[topics/Platform/Dify]]

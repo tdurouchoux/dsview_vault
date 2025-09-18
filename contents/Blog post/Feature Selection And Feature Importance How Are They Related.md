@@ -23,12 +23,12 @@ While feature selection can aid interpretation by reducing the number of feature
 
 ## Topics
 
-![[topics/Concept/LASSO Least Absolute Shrinkage and Selection Operator)]]
+![[topics/Concept/LASSO Least Absolute Shrinkage and Selection Operator]]
 
-![[topics/Concept/Feature Selection)]]
+![[topics/Concept/Feature Selection]]
 
-![[topics/Concept/SHAP SHapley Additive exPlanations)]]
+![[topics/Concept/SHAP SHapley Additive exPlanations]]
 
-![[topics/Concept/Feature Importance)]]
+![[topics/Concept/Feature Importance]]
 
-![[topics/Concept/Permutation Feature Importance)]]
+![[topics/Concept/Permutation Feature Importance]]

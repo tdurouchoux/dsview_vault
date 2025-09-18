@@ -22,18 +22,18 @@ This GitHub repository, "generative-ai-for-beginners" by Microsoft, offers a com
 
 ## Topics
 
-![[topics/Concept/Retrieval Augmented Generation RAG)]]
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Vector Database)]]
+![[topics/Concept/Vector Database]]
 
-![[topics/Model/Meta Models)]]
+![[topics/Model/Meta Models]]
 
-![[topics/Concept/LLMOps)]]
+![[topics/Concept/LLMOps]]
 
-![[topics/Concept/Prompt Engineering)]]
+![[topics/Concept/Prompt Engineering]]
 
-![[topics/Concept/Function Calling)]]
+![[topics/Concept/Function Calling]]
 
-![[topics/Concept/Small Language Models)]]
+![[topics/Concept/Small Language Models]]
 
-![[topics/Concept/Mistral Models)]]
+![[topics/Concept/Mistral Models]]
