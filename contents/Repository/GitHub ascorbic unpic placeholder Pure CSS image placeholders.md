@@ -28,8 +28,8 @@ The library is designed to work without client-side JavaScript, making it compat
 
 ## Topics
 
-![](topics/Library/unpic%20placeholder)
+![[topics/Library/unpic placeholder)]]
 
-![](topics/Concept/BlurHash)
+![[topics/Concept/BlurHash)]]
 
-![](topics/Concept/k%20means%20clustering)
+![[topics/Concept/k means clustering)]]

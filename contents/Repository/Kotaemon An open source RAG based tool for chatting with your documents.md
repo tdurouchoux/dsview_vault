@@ -50,14 +50,14 @@ Kotaemon is an open-source RAG (Retrieval-Augmented Generation) tool designed fo
 
 ## Topics
 
-![](topics/Tool/Kotaemon)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Library/Gradio)
+![[topics/Library/Gradio)]]
 
-![](topics/Concept/GraphRAG)
+![[topics/Concept/LightRAG)]]
 
-![](topics/Concept/NanoGraphRAG)
+![[topics/Concept/GraphRAG)]]
 
-![](topics/Concept/LightRAG)
+![[topics/Tool/Kotaemon)]]
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![[topics/Concept/NanoGraphRAG)]]

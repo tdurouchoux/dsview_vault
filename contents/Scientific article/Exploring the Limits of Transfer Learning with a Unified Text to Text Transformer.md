@@ -20,22 +20,22 @@ The text-to-text framework is a simple way to train a single model on a wide var
 
 ## Topics
 
-![](topics/Concept/Text%20to%20Text%20Framework)
+![[topics/Model/Transformer)]]
 
-![](topics/Concept/Denoising%20Objective)
+![[topics/Concept/Ensemble Methods)]]
 
-![](topics/Concept/Multi%20Task%20Learning)
+![[topics/Concept/Transfer Learning)]]
 
-![](topics/Concept/Ensemble%20Methods)
+![[topics/Concept/Fine tuning)]]
 
-![](topics/Concept/Colossal%20Clean%20Crawled%20Corpus%20C4)
+![[topics/Concept/Self Attention)]]
 
-![](topics/Model/Transformer)
+![[topics/Concept/Pre training)]]
 
-![](topics/Concept/Transfer%20Learning)
+![[topics/Concept/Denoising Objective)]]
 
-![](topics/Concept/Self%20Attention)
+![[topics/Concept/Colossal Clean Crawled Corpus C4)]]
 
-![](topics/Concept/Pre%20training)
+![[topics/Concept/Text to Text Framework)]]
 
-![](topics/Concept/Fine%20tuning)
+![[topics/Concept/Multi Task Learning)]]

@@ -33,10 +33,10 @@ The author concludes by suggesting that NumPy's design flaws stem from its relia
 
 ## Topics
 
-![](topics/Library/CuPy)
+![[topics/Library/JAX)]]
 
-![](topics/Library/Einops)
+![[topics/Library/NumPy)]]
 
-![](topics/Library/NumPy)
+![[topics/Library/CuPy)]]
 
-![](topics/Library/JAX)
+![[topics/Library/Einops)]]

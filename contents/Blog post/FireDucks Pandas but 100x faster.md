@@ -27,6 +27,6 @@ The author, a hedge fund professional, highlights the potential of FireDucks to 
 
 ## Topics
 
-![](topics/Library/FireDucks)
+![[topics/Library/polars)]]
 
-![](topics/Library/Polars)
+![[topics/Library/FireDucks)]]

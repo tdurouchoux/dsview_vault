@@ -54,10 +54,10 @@ The article provides insights into enhancing language model performance through 
 
 ## Topics
 
-![](topics/Concept/Vector%20Embeddings)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Concept/Reranking)
+![[topics/Concept/Text Chunking)]]
 
-![](topics/Concept/Retrieval%20Augmented%20Generation)
+![[topics/Concept/Reranking)]]
 
-![](topics/Concept/Chunking)
+![[topics/Concept/Embedding Models)]]

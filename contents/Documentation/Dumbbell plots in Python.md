@@ -23,8 +23,8 @@ Dumbbell plots in Python using Plotly are useful for visualizing changes between
 
 ## Topics
 
-![](topics/Concept/Dumbbell%20Plots)
+![[topics/Platform/Plotly Dash)]]
 
-![](topics/Library/Plotly)
+![[topics/Concept/Dumbbell Plots)]]
 
-![](topics/Platform/Plotly%20Dash)
+![[topics/Library/Plotly)]]

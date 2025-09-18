@@ -20,10 +20,10 @@ The paper introduces a new approach called "Jailbreak Rapid Response" to mitigat
 
 ## Topics
 
-![](topics/Concept/Jailbreak%20Proliferation)
+![[topics/Concept/Jailbreak Proliferation)]]
 
-![](topics/Concept/Rapid%20Response%20Techniques)
+![[topics/Concept/RapidResponseBench)]]
 
-![](topics/Concept/RapidResponseBench)
+![[topics/Concept/Rapid Response Techniques)]]
 
-![](topics/Concept/Guard%20Fine%20tuning)
+![[topics/Concept/Guard Fine tuning)]]

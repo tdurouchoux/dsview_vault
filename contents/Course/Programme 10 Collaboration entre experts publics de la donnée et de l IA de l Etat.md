@@ -41,6 +41,6 @@ The program aims to foster innovation and collaboration among government agencie
 
 ## Topics
 
-![](topics/Concept/Confidentialit%C3%A9%20diff%C3%A9rentielle)
+![[topics/Concept/Synthetic Data)]]
 
-![](topics/Concept/Synthetic%20Data%20Generation)
+![[topics/Concept/Confidentialité différentielle)]]

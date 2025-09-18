@@ -65,18 +65,18 @@ PyGWalker aims to streamline the data analysis process, making it more accessibl
 
 ## Topics
 
-![](topics/Library/PyGWalker)
+![[topics/Library/DuckDB)]]
 
-![](topics/Library/Graphic%20Walker)
+![[topics/Library/Streamlit)]]
 
-![](topics/Library/runcell)
+![[topics/Library/PyGWalker)]]
 
-![](topics/Library/Streamlit)
+![[topics/Library/Panel)]]
 
-![](topics/Library/Panel)
+![[topics/Platform/Hex Platform)]]
 
-![](topics/Platform/marimo)
+![[topics/Platform/marimo)]]
 
-![](topics/Platform/Hex%20Platform)
+![[topics/Library/runcell)]]
 
-![](topics/Library/DuckDB)
+![[topics/Library/Graphic Walker)]]

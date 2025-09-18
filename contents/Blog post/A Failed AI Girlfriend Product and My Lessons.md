@@ -44,14 +44,14 @@ The author shares their experience developing an AI companion app called Dolores
 
 ## Topics
 
-![](topics/Concept/AI%20Town)
+![[topics/Concept/AI Agents)]]
 
-![](topics/Concept/AI%20Friend)
+![[topics/Concept/AI Moderation)]]
 
-![](topics/Concept/AI%20Girlfriend)
+![[topics/Concept/AI Content Review)]]
 
-![](topics/Concept/AI%20Agents)
+![[topics/Concept/AI Town)]]
 
-![](topics/Concept/AI%20Moderation)
+![[topics/Concept/AI Friend)]]
 
-![](topics/Concept/AI%20Content%20Review)
+![[topics/Concept/AI Girlfriend)]]

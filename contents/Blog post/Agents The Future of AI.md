@@ -33,18 +33,18 @@ The post concludes by emphasizing the importance of tools in enhancing agent cap
 
 ## Topics
 
-![](topics/Concept/AI%20Agents)
+![[topics/Concept/Function Calling)]]
 
-![](topics/Concept/Knowledge%20augmentation)
+![[topics/Concept/AI Agents)]]
 
-![](topics/Concept/Capability%20extension)
+![[topics/Concept/Capability extension)]]
 
-![](topics/Concept/Write%20actions)
+![[topics/Concept/Write actions)]]
 
-![](topics/Concept/Planning)
+![[topics/Concept/Reflexive Mechanisms)]]
 
-![](topics/Concept/Function%20Calling)
+![[topics/Concept/Planning)]]
 
-![](topics/Concept/Self%20critique%20Mechanism)
+![[topics/Concept/Knowledge augmentation)]]
 
-![](topics/Concept/Tool%20selection)
+![[topics/Concept/Tool selection)]]

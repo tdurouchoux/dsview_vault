@@ -21,10 +21,10 @@ Copilot Workspace is an agentic development environment designed to assist with 
 
 ## Topics
 
-![](topics/Platform/Copilot%20Workspace)
+![[topics/Platform/GitHub Codespaces)]]
 
-![](topics/Model/GPT%204o)
+![[topics/Platform/Copilot Workspace)]]
 
-![](topics/Platform/GitHub%20Codespaces)
+![[topics/Tool/GitHub)]]
 
-![](topics/Tool/GitHub)
+![[topics/Model/GPT 4o)]]

@@ -54,6 +54,6 @@ This makes the auto-generated MCP server available at `https://app.base.url/mcp`
 
 ## Topics
 
-![](topics/Library/fastapi%20mcp)
+![[topics/Concept/Model Context Protocol MCP)]]
 
-![](topics/Concept/Model%20Context%20Protocol%20MCP)
+![[topics/Library/fastapi mcp)]]

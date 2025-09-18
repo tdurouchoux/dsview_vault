@@ -31,12 +31,12 @@ The model is available for download and use, with various inference providers an
 
 ## Topics
 
-![](topics/Model/SmolLM2)
+![[topics/Concept/UltraFeedback)]]
 
-![](topics/Concept/Supervised%20Fine%20Tuning%20SFT)
+![[topics/Model/SmolLM2)]]
 
-![](topics/Concept/Direct%20Preference%20Optimization%20DPO)
+![[topics/Concept/Direct Preference Optimization DPO)]]
 
-![](topics/Concept/UltraFeedback)
+![[topics/Concept/Text Generation)]]
 
-![](topics/Concept/Text%20Generation)
+![[topics/Concept/Supervised Fine Tuning)]]

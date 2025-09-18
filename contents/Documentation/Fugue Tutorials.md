@@ -22,6 +22,6 @@ Fugue is a tool that simplifies distributed computing by minimizing code and opt
 
 ## Topics
 
-![](topics/Library/Fugue)
+![[topics/Library/Fugue)]]
 
-![](topics/Library/FugueSQL)
+![[topics/Library/FugueSQL)]]

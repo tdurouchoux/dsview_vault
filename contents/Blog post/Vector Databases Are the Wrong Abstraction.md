@@ -48,18 +48,18 @@ The post encourages trying pgai Vectorizer in Early Access and provides addition
 
 ## Topics
 
-![](topics/Concept/Vector%20Embeddings)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Concept/Vectorizers)
+![[topics/Concept/Text Chunking)]]
 
-![](topics/Tool/pgai%20Vectorizer)
+![[topics/Concept/Vector Database)]]
 
-![](topics/Tool/pgvector)
+![[topics/Concept/Embedding Models)]]
 
-![](topics/Tool/pgvectorscale)
+![[topics/Tool/pgvector)]]
 
-![](topics/Concept/Vector%20Databases)
+![[topics/Tool/pgvectorscale)]]
 
-![](topics/Concept/Retrieval%20Augmented%20Generation)
+![[topics/Tool/pgai Vectorizer)]]
 
-![](topics/Concept/Chunking)
+![[topics/Concept/Vectorizers)]]

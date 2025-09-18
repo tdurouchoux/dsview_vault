@@ -24,4 +24,4 @@ Pretzel is a modern, open-source fork of Jupyter Notebook designed to enhance da
 
 ## Topics
 
-![](topics/Tool/Pretzel)
+![[topics/Tool/Pretzel)]]

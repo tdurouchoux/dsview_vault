@@ -42,6 +42,6 @@ These books cover a range of topics from foundational concepts to advanced techn
 
 ## Topics
 
-![](topics/Concept/Data%20Science)
+![[topics/Concept/Machine Learning)]]
 
-![](topics/Concept/Machine%20Learning)
+![[topics/Concept/Data Science)]]

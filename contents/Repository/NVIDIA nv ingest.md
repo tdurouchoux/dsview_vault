@@ -23,12 +23,12 @@ NeMo Retriever extraction is a scalable microservice for document content and me
 
 ## Topics
 
-![](topics/Library/NeMo%20Retriever%20extraction)
+![[topics/Concept/Optical Character Recognition OCR)]]
 
-![](topics/Platform/NVIDIA%20NIM%20microservices)
+![[topics/Dataset/Milvus)]]
 
-![](topics/Dataset/Milvus)
+![[topics/Platform/NVIDIA NIM microservices)]]
 
-![](topics/Model/yolox%20graphic%20elements)
+![[topics/Model/yolox graphic elements)]]
 
-![](topics/Concept/Optical%20Character%20Recognition%20OCR)
+![[topics/Library/NeMo Retriever extraction)]]

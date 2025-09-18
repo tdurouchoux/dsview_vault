@@ -36,10 +36,10 @@ The content also includes frequently asked questions about creating Python modul
 
 ## Topics
 
-![](topics/Library/PyO3)
+![[topics/Tool/Maturin)]]
 
-![](topics/Library/Pfuzzer)
+![[topics/Library/PyO3)]]
 
-![](topics/Library/Nucleo)
+![[topics/Library/Pfuzzer)]]
 
-![](topics/Tool/Maturin)
+![[topics/Library/Nucleo)]]

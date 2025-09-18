@@ -20,4 +20,4 @@ Data Compass AI is a platform designed to assess and enhance an organization's d
 
 ## Topics
 
-![](topics/Platform/Data%20Compass%20AI)
+![[topics/Platform/Data Compass AI)]]

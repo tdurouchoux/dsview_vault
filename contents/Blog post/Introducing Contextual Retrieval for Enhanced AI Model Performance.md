@@ -28,22 +28,22 @@ Key points:
 - Developers can use a cookbook to implement Contextual Retrieval and experiment with these approaches to unlock new levels of performance.
 ## Links
 
+- [Voyage Reranker Documentation](https://docs.voyageai.com/docs/reranker) : Documentation on Voyage reranker, which is mentioned as a tool for boosting performance.
 - [Contextual Embeddings Cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main/skills/contextual-embeddings) : A cookbook guide on implementing contextual embeddings for improved retrieval accuracy.
 - [Evaluating Chunking Strategies](https://research.trychroma.com/evaluating-chunking) : Research on evaluating different chunking strategies for document processing.
 - [Gemini Embeddings Documentation](https://ai.google.dev/gemini-api/docs/embeddings) : Documentation on Gemini embeddings, which are mentioned as effective in the content.
-- [Voyage Reranker Documentation](https://docs.voyageai.com/docs/reranker) : Documentation on Voyage reranker, which is mentioned as a tool for boosting performance.
 - [Cohere Reranker](https://cohere.com/rerank) : Documentation on Cohere reranker, which is mentioned as a tool for boosting performance.
 
 ## Topics
 
-![](topics/Concept/Retrieval%20Augmented%20Generation)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Concept/Contextual%20Retrieval)
+![[topics/Concept/Reranking)]]
 
-![](topics/Concept/Contextual%20Embeddings)
+![[topics/Concept/Contextual BM25)]]
 
-![](topics/Concept/Contextual%20BM25)
+![[topics/Concept/Prompt Caching)]]
 
-![](topics/Concept/Prompt%20Caching)
+![[topics/Concept/Contextual Embeddings)]]
 
-![](topics/Concept/Reranking)
+![[topics/Concept/Contextual Retrieval)]]

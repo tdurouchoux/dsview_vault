@@ -32,6 +32,6 @@ The library is distributed under the MIT license and is supported by Variomedia 
 
 ## Topics
 
-![](topics/Library/Tenacity)
+![[topics/Library/Tenacity)]]
 
-![](topics/Library/Stamina)
+![[topics/Library/Stamina)]]

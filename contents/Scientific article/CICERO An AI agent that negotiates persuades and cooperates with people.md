@@ -31,8 +31,8 @@ The research underscores the importance of aligning AI with human intentions and
 
 ## Topics
 
-![](topics/Concept/CICERO)
+![[topics/Concept/CICERO)]]
 
-![](topics/Concept/Dialogue%20aware%20strategy%20planning)
+![[topics/Model/piKL)]]
 
-![](topics/Model/piKL)
+![[topics/Concept/Dialogue aware strategy planning)]]

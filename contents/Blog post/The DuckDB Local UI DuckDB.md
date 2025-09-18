@@ -34,6 +34,6 @@ For support or feedback, users can file issues or join the DuckDB Discord or Mot
 
 ## Topics
 
-![](topics/Platform/MotherDuck)
+![[topics/Library/DuckDB)]]
 
-![](topics/Library/DuckDB)
+![[topics/Platform/MotherDuck)]]

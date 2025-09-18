@@ -21,4 +21,4 @@ This book by Nathan Lambert provides an introduction to Reinforcement Learning f
 
 ## Topics
 
-![](topics/Concept/Reinforcement%20Learning%20from%20Human%20Feedback%20RLHF)
+![[topics/Concept/Reinforcement Learning from Human Feedback RLHF)]]

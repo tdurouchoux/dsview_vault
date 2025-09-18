@@ -26,4 +26,4 @@ This footer is designed to help users navigate the platform, access support, and
 
 ## Topics
 
-![](topics/Platform/YouTube)
+![[topics/Platform/YouTube)]]

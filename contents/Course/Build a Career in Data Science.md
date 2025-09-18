@@ -43,6 +43,6 @@ The podcast is an extension of the book "Build a Career in Data Science" and off
 
 ## Topics
 
-![](topics/Concept/Data%20Science%20Career%20Management)
+![[topics/Concept/Data Science Subfields)]]
 
-![](topics/Concept/Data%20Science%20Subfields)
+![[topics/Concept/Data Science Career Management)]]

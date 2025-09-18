@@ -32,20 +32,20 @@ Further reading is suggested for more detailed guidance on code review practices
 
 ## Topics
 
-![](topics/Concept/Code%20Review)
+![[topics/Concept/Code Linters and Analyzers)]]
 
-![](topics/Tool/GitHub)
+![[topics/Tool/styler)]]
 
-![](topics/Tool/GitLab)
+![[topics/Tool/BitBucket)]]
 
-![](topics/Tool/BitBucket)
+![[topics/Tool/precommit)]]
 
-![](topics/Tool/R)
+![[topics/Tool/GitLab)]]
 
-![](topics/Tool/colorblindr)
+![[topics/Tool/R)]]
 
-![](topics/Concept/Code%20Linters%20and%20Analyzers)
+![[topics/Concept/Code Review)]]
 
-![](topics/Tool/styler)
+![[topics/Tool/colorblindr)]]
 
-![](topics/Tool/precommit)
+![[topics/Tool/GitHub)]]

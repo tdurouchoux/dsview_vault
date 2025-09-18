@@ -34,16 +34,16 @@ The discussion also touches on the importance of open-source research and the po
 
 ## Topics
 
-![](topics/Concept/ARC%20Benchmark)
+![[topics/Concept/Combinatorial Search)]]
 
-![](topics/Concept/Core%20Knowledge)
+![[topics/Concept/Program Synthesis)]]
 
-![](topics/Concept/Program%20Synthesis)
+![[topics/Concept/Generalization vs Memorization)]]
 
-![](topics/Concept/Discrete%20Program%20Search)
+![[topics/Concept/Discrete Program Search)]]
 
-![](topics/Concept/System%201%20and%20System%202%20Thinking)
+![[topics/Concept/ARC Benchmark)]]
 
-![](topics/Concept/Generalization%20vs%20Memorization)
+![[topics/Concept/Core Knowledge)]]
 
-![](topics/Concept/Combinatorial%20Search)
+![[topics/Concept/System 1 and System 2 Thinking)]]

@@ -32,4 +32,4 @@ The repository also includes FAQs and visualization examples to aid users in und
 
 ## Topics
 
-![](topics/Dataset/COCONut)
+![[topics/Dataset/COCONut)]]

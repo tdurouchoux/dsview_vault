@@ -26,8 +26,8 @@ To benchmark a model, users can install the MTEB library, run evaluations on cho
 
 ## Topics
 
-![](topics/Concept/Text%20Embeddings)
+![[topics/Dataset/Massive Text Embedding Benchmark MTEB)]]
 
-![](topics/Dataset/MTEB)
+![[topics/Concept/Text Embeddings)]]
 
-![](topics/Library/MTEB%20Library)
+![[topics/Library/MTEB Library)]]

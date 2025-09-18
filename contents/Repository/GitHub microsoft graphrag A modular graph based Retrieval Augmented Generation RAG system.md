@@ -36,4 +36,4 @@ The repository includes documentation for contributing, developing, and using th
 
 ## Topics
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]

@@ -33,12 +33,12 @@ The model is available via the Gemini API, Google AI Studio for developers, and 
 
 ## Topics
 
-![](topics/Model/Gemini%202%205%20Flash%20Image)
+![[topics/Platform/Vertex AI)]]
 
-![](topics/Platform/Google%20AI%20Studio)
+![[topics/Platform/fal ai)]]
 
-![](topics/Platform/Vertex%20AI)
+![[topics/Model/Gemini 2 5 Flash Image)]]
 
-![](topics/Platform/OpenRouter)
+![[topics/Platform/OpenRouter)]]
 
-![](topics/Platform/fal%20ai)
+![[topics/Platform/Google AI Studio)]]

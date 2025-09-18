@@ -35,12 +35,12 @@ The article concludes by encouraging users to try the Colab demo, browse user gu
 
 ## Topics
 
-![](topics/Model/Graph%20Neural%20Networks)
+![[topics/Model/Graph Neural Networks)]]
 
-![](topics/Concept/Subgraph%20Sampling)
+![[topics/Model/Message Passing Neural Networks MPNNs)]]
 
-![](topics/Model/Message%20Passing%20Neural%20Networks%20MPNNs)
+![[topics/Library/TensorFlow GNN)]]
 
-![](topics/Concept/Unsupervised%20Learning%20in%20GNNs)
+![[topics/Concept/Unsupervised Learning in GNNs)]]
 
-![](topics/Library/TensorFlow%20GNN)
+![[topics/Concept/Subgraph Sampling)]]

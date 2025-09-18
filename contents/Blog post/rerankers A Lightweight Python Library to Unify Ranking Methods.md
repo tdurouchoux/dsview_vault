@@ -36,4 +36,4 @@ The post concludes with key takeaways, emphasizing the benefits of two-stage pip
 
 ## Topics
 
-![](topics/Library/rerankers)
+![[topics/Library/rerankers)]]

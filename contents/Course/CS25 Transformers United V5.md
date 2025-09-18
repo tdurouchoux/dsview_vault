@@ -37,12 +37,12 @@ The course is open to the public, with lectures available in-person and via Zoom
 
 ## Topics
 
-![](topics/Concept/Reinforcement%20Learning%20from%20AI%20Feedback%20RLAIF)
+![[topics/Concept/Mechanistic Interpretability)]]
 
-![](topics/Concept/Artificial%20General%20Intelligence%20AGI)
+![[topics/Concept/Reinforcement Learning from AI Feedback RLAIF)]]
 
-![](topics/Concept/Multimodal%20World%20Models)
+![[topics/Concept/Multimodal World Models)]]
 
-![](topics/Concept/Mechanistic%20Interpretability)
+![[topics/Concept/Artificial General Intelligence AGI)]]
 
-![](topics/Concept/Diffusion%20Models)
+![[topics/Concept/Diffusion Models)]]

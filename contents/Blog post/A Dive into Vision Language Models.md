@@ -23,22 +23,22 @@ The blog post discusses the recent advancements in vision-language models, which
 
 ## Topics
 
-![](topics/Concept/Contrastive%20Learning)
+![[topics/Dataset/WebVid)]]
 
-![](topics/Concept/PrefixLM)
+![[topics/Dataset/LAION 5B)]]
 
-![](topics/Concept/Multi%20modal%20Fusing%20with%20Cross%20Attention)
+![[topics/Concept/PrefixLM)]]
 
-![](topics/Concept/Masked%20Language%20Modeling%20MLM%20Image%20Text%20Matching%20ITM)
+![[topics/Dataset/LSVTD)]]
 
-![](topics/Concept/No%20Training)
+![[topics/Dataset/PMD)]]
 
-![](topics/Dataset/PMD)
+![[topics/Dataset/VQA Visual Question Answering)]]
 
-![](topics/Dataset/LAION%205B)
+![[topics/Concept/Masked Language Modeling MLM Image Text Matching ITM)]]
 
-![](topics/Dataset/LSVTD)
+![[topics/Concept/Multi modal Fusing with Cross Attention)]]
 
-![](topics/Dataset/WebVid)
+![[topics/Concept/No Training)]]
 
-![](topics/Dataset/VQA%20Visual%20Question%20Answering)
+![[topics/Concept/Contrastive Learning)]]

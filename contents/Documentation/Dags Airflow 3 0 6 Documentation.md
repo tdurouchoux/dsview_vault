@@ -22,12 +22,12 @@ A DAG (Directed Acyclic Graph) in Airflow encapsulates everything needed to exec
 
 ## Topics
 
-![](topics/Concept/Directed%20Acyclic%20Graph%20DAG)
+![[topics/Concept/Task Dependencies)]]
 
-![](topics/Concept/Airflow)
+![[topics/Concept/Airflow)]]
 
-![](topics/Concept/Task%20Dependencies)
+![[topics/Concept/Edge Labels)]]
 
-![](topics/Concept/TaskGroups)
+![[topics/Concept/TaskGroups)]]
 
-![](topics/Concept/Edge%20Labels)
+![[topics/Concept/Directed Acyclic Graph DAG)]]

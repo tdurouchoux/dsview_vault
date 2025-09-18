@@ -34,8 +34,8 @@ Kedro is used in production by companies like Telkomsel and Beamery, and it is m
 
 ## Topics
 
-![](topics/Tool/Kedro)
+![[topics/Tool/Kedro Viz)]]
 
-![](topics/Tool/Kedro%20Viz)
+![[topics/Tool/Kedro)]]
 
-![](topics/Concept/Data%20Catalog)
+![[topics/Concept/Data Catalog)]]

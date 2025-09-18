@@ -23,4 +23,4 @@ Mergekit is a toolkit for merging pre-trained language models, designed to work 
 
 ## Topics
 
-![](topics/Tool/MergeKit)
+![[topics/Tool/MergeKit)]]

@@ -20,4 +20,4 @@ Quantile encoding is a variant of target encoding that uses quantiles instead of
 
 ## Topics
 
-![](topics/Concept/Quantile%20Encoding)
+![[topics/Concept/Quantile Encoding)]]

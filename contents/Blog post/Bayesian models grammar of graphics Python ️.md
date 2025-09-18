@@ -21,14 +21,14 @@ The post explores making Bayesian model plotting in Python more declarative by c
 
 ## Topics
 
-![](topics/Library/PyMC)
+![[topics/Library/plotnine)]]
 
-![](topics/Library/ArviZ)
+![[topics/Library/ArviZ)]]
 
-![](topics/Library/plotnine)
+![[topics/Concept/Bayesian models)]]
 
-![](topics/Concept/Bayesian%20models)
+![[topics/Concept/Tidy Data)]]
 
-![](topics/Concept/Grammar%20of%20graphics)
+![[topics/Library/PyMC)]]
 
-![](topics/Concept/Tidy%20Data)
+![[topics/Concept/Grammar of graphics)]]

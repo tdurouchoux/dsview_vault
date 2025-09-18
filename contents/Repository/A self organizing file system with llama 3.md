@@ -21,20 +21,20 @@ LlamaFS is a self-organizing file system that uses the Llama 3 model to automati
 
 ## Topics
 
-![](topics/Model/LLaMA)
+![[topics/Tool/Ollama)]]
 
-![](topics/Concept/Self%20organizing%20file%20system)
+![[topics/Model/Whisper)]]
 
-![](topics/Library/Groq)
+![[topics/Model/LLaMA)]]
 
-![](topics/Library/Moondream)
+![[topics/Library/Groq)]]
 
-![](topics/Library/Electron)
+![[topics/Library/FastAPI)]]
 
-![](topics/Library/FastAPI)
+![[topics/Library/Moondream)]]
 
-![](topics/Library/AgentOps)
+![[topics/Library/AgentOps)]]
 
-![](topics/Tool/Ollama)
+![[topics/Library/Electron)]]
 
-![](topics/Model/Whisper)
+![[topics/Concept/Self organizing file system)]]

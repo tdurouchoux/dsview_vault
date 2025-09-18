@@ -50,14 +50,14 @@ The repository aims to serve as a comprehensive resource for researchers and pra
 
 ## Topics
 
-![](topics/Concept/Synthetic%20Data%20Generation)
+![[topics/Concept/Reward Modeling)]]
 
-![](topics/Concept/Self%20Improving%20Language%20Models)
+![[topics/Concept/Self Alignment)]]
 
-![](topics/Concept/Instruction%20Tuning)
+![[topics/Concept/Instruction Tuning)]]
 
-![](topics/Concept/Agentic%20Data%20Generation)
+![[topics/Concept/Self Improving Language Models)]]
 
-![](topics/Concept/Self%20Alignment)
+![[topics/Concept/Agentic Data Generation)]]
 
-![](topics/Concept/Reward%20Modeling)
+![[topics/Concept/Synthetic Data)]]

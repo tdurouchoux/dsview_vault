@@ -35,14 +35,14 @@ The article underscores the foundational role of statistics in data science, pro
 
 ## Topics
 
-![](topics/Concept/Descriptive%20Statistics)
+![[topics/Concept/Descriptive Statistics)]]
 
-![](topics/Concept/Inferential%20Statistics)
+![[topics/Concept/Inferential Statistics)]]
 
-![](topics/Concept/Regression%20Analysis)
+![[topics/Concept/Feature Selection)]]
 
-![](topics/Concept/Data%20Sampling)
+![[topics/Concept/Statistical Evaluation on Model)]]
 
-![](topics/Concept/Feature%20Selection)
+![[topics/Concept/Regression Analysis)]]
 
-![](topics/Concept/Statistical%20Evaluation%20on%20Model)
+![[topics/Concept/Data Sampling)]]

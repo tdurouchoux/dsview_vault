@@ -26,12 +26,12 @@ The article discusses the evolution and benefits of declarative data stacks in t
 
 ## Topics
 
-![](topics/Concept/Declarative%20Data%20Stack)
+![[topics/Concept/DataOps)]]
 
-![](topics/Concept/Functional%20Data%20Engineering)
+![[topics/Concept/Software Defined Asset)]]
 
-![](topics/Concept/Software%20Defined%20Asset)
+![[topics/Concept/Universal Semantic Layer)]]
 
-![](topics/Concept/Semantic%20Layer)
+![[topics/Concept/Declarative Data Stack)]]
 
-![](topics/Concept/DataOps)
+![[topics/Concept/Functional Data Engineering)]]

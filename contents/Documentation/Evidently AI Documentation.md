@@ -23,4 +23,4 @@ Evidently is an open-source Python library with over 25 million downloads, desig
 
 ## Topics
 
-![](topics/Library/Evidently)
+![[topics/Library/Evidently)]]

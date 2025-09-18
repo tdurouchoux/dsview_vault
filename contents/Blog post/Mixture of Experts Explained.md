@@ -28,20 +28,20 @@ Efficient training and serving techniques, such as parallelism, capacity factor 
 
 ## Topics
 
-![](topics/Concept/Mixture%20of%20Experts%20MoE)
+![[topics/Concept/Mixture of Experts MoE)]]
 
-![](topics/Concept/Sparsity)
+![[topics/Concept/Sparsity)]]
 
-![](topics/Concept/Load%20Balancing)
+![[topics/Concept/Expert Capacity)]]
 
-![](topics/Concept/Switch%20Transformers)
+![[topics/Concept/Router Z loss)]]
 
-![](topics/Concept/Router%20Z%20loss)
+![[topics/Concept/Parallelism)]]
 
-![](topics/Concept/Expert%20Capacity)
+![[topics/Concept/Load Balancing)]]
 
-![](topics/Concept/Fine%20tuning%20MoEs)
+![[topics/Concept/Switch Transformers)]]
 
-![](topics/Concept/Parallelism)
+![[topics/Concept/Serving Techniques)]]
 
-![](topics/Concept/Serving%20Techniques)
+![[topics/Concept/Fine tuning MoEs)]]

@@ -36,12 +36,12 @@ Zed aims to advance the state of the art in code editing, with a focus on human-
 
 ## Topics
 
-![](topics/Tool/Zed)
+![[topics/Concept/Multibuffer Editing)]]
 
-![](topics/Concept/Agentic%20Editing)
+![[topics/Tool/Zed)]]
 
-![](topics/Concept/Multibuffer%20Editing)
+![[topics/Concept/Remote Development)]]
 
-![](topics/Concept/Remote%20Development)
+![[topics/Concept/Agentic Editing)]]
 
-![](topics/Concept/Language%20Server%20Protocol)
+![[topics/Concept/Language Server Protocol)]]

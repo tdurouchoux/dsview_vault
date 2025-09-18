@@ -31,14 +31,14 @@ The platform is currently in limited public beta, with plans to add more models 
 
 ## Topics
 
-![](topics/Platform/GitHub%20Models)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Platform/Azure%20AI)
+![[topics/Platform/GitHub Codespaces)]]
 
-![](topics/Platform/GitHub%20Copilot)
+![[topics/Platform/Copilot Workspace)]]
 
-![](topics/Platform/GitHub%20Copilot%20Workspace)
+![[topics/Platform/GitHub Copilot)]]
 
-![](topics/Platform/GitHub%20Codespaces)
+![[topics/Platform/GitHub Models)]]
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![[topics/Platform/Azure AI)]]

@@ -21,12 +21,12 @@ The paper is structured into several sections, including an introduction that ou
 
 ## Topics
 
-![](topics/Concept/Bigger%20is%20Better%20Paradigm)
+![[topics/Concept/Bigger is Better Paradigm)]]
 
-![](topics/Concept/Jevons%20Paradox)
+![[topics/Concept/Jevons Paradox)]]
 
-![](topics/Concept/Diminishing%20Returns%20of%20Scale)
+![[topics/Concept/Model Evaluation)]]
 
-![](topics/Concept/Data%20Contamination)
+![[topics/Concept/Data Contamination)]]
 
-![](topics/Concept/Model%20Evaluation)
+![[topics/Concept/Diminishing Returns of Scale)]]

@@ -23,4 +23,4 @@ Cohere has introduced Embed 3, a state-of-the-art multimodal AI search model des
 
 ## Topics
 
-![](topics/Model/Embed%203)
+![[topics/Model/Embed 3)]]

@@ -33,12 +33,12 @@ The architecture of DeepSeek-R1 consists of 61 Transformer decoder blocks, with 
 
 ## Topics
 
-![](topics/Model/DeepSeek%20R1)
+![[topics/Concept/Reinforcement Learning)]]
 
-![](topics/Model/DeepSeek%20R1%20Zero)
+![[topics/Concept/Mixture of Experts MoE)]]
 
-![](topics/Concept/Reinforcement%20Learning%20RL)
+![[topics/Concept/Supervised Fine Tuning)]]
 
-![](topics/Concept/Mixture%20of%20Experts%20MoE)
+![[topics/Model/DeepSeek R1 Zero)]]
 
-![](topics/Concept/Supervised%20Fine%20Tuning%20SFT)
+![[topics/Model/DeepSeek R1)]]

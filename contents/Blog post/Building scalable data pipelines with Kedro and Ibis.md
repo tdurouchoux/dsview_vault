@@ -37,14 +37,14 @@ The article concludes by providing resources for further exploration and encoura
 
 ## Topics
 
-![](topics/Library/OmegaConf)
+![[topics/Library/DuckDB)]]
 
-![](topics/Library/Graphviz)
+![[topics/Tool/Kedro)]]
 
-![](topics/Tool/Kedro)
+![[topics/Library/Ibis)]]
 
-![](topics/Library/Ibis)
+![[topics/Library/Pandera)]]
 
-![](topics/Library/Pandera)
+![[topics/Library/OmegaConf)]]
 
-![](topics/Library/DuckDB)
+![[topics/Library/Graphviz)]]

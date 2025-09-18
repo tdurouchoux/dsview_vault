@@ -36,8 +36,8 @@ Stlite is open-source under the Apache-2.0 license and has a community of contri
 
 ## Topics
 
-![](topics/Library/Stlite)
+![[topics/Concept/Pyodide)]]
 
-![](topics/Concept/Pyodide)
+![[topics/Concept/WebAssembly)]]
 
-![](topics/Concept/WebAssembly)
+![[topics/Library/Stlite)]]

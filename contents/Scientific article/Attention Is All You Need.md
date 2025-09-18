@@ -50,10 +50,10 @@ In summary, the Transformer is a powerful and efficient architecture for sequenc
 
 ## Topics
 
-![](topics/Model/Transformer)
+![[topics/Model/Transformer)]]
 
-![](topics/Concept/Self%20Attention)
+![[topics/Concept/Self Attention)]]
 
-![](topics/Concept/Multi%20Head%20Attention)
+![[topics/Concept/Multi Head Attention)]]
 
-![](topics/Concept/Positional%20Encoding)
+![[topics/Concept/Positional Encoding)]]

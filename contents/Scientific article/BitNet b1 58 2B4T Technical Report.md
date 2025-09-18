@@ -24,4 +24,4 @@ BitNet b1.58 2B4T is an open-source, native 1-bit Large Language Model (LLM) wit
 
 ## Topics
 
-![](topics/Model/BitNet%20b1%2058)
+![[topics/Model/BitNet b1 58)]]

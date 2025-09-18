@@ -24,12 +24,12 @@ The content is a GitHub repository named "open-llms" curated by eugeneyan, which
 
 ## Topics
 
-![](topics/Concept/Open%20LLMs)
+![[topics/Concept/Open LLMs)]]
 
-![](topics/Concept/Instruction%20Tuned%20LLMs)
+![[topics/Concept/Open LLM Datasets)]]
 
-![](topics/Concept/Alignment%20Tuned%20LLMs)
+![[topics/Concept/Instruction Tuned LLMs)]]
 
-![](topics/Concept/Open%20LLM%20Datasets)
+![[topics/Concept/Open LLM Leaderboard)]]
 
-![](topics/Concept/Open%20LLM%20Leaderboard)
+![[topics/Concept/Alignment Tuned LLMs)]]

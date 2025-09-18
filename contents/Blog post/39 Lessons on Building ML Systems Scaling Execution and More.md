@@ -59,10 +59,10 @@ The content emphasizes practical advice for ML practitioners, focusing on system
 
 ## Topics
 
-![](topics/Concept/Reward%20Function%20Engineering)
+![[topics/Concept/Altman s Law)]]
 
-![](topics/Concept/Data%20Flywheel)
+![[topics/Concept/The Bitter Lesson)]]
 
-![](topics/Concept/Altman%20s%20Law)
+![[topics/Concept/Reward Function Engineering)]]
 
-![](topics/Concept/The%20Bitter%20Lesson)
+![[topics/Concept/Data Flywheel)]]

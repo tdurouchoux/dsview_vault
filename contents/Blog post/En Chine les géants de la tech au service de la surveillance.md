@@ -21,4 +21,4 @@ The article discusses the role of Chinese tech giants, particularly WeChat and A
 
 ## Topics
 
-![](topics/Platform/WeChat)
+![[topics/Platform/WeChat)]]

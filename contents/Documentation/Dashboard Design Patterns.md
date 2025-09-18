@@ -37,4 +37,4 @@ The content also provides downloadable cheatsheets for the design patterns and i
 
 ## Topics
 
-![](topics/Concept/Dashboard%20Design%20Patterns)
+![[topics/Concept/Dashboard Design Patterns)]]

@@ -36,10 +36,10 @@ The content also includes related blog posts on topics such as validating worksp
 
 ## Topics
 
-![](topics/Concept/Hot%20Module%20Replacement%20HMR)
+![[topics/Library/Tach)]]
 
-![](topics/Concept/Dependency%20Maps)
+![[topics/Concept/WSGI)]]
 
-![](topics/Concept/WSGI)
+![[topics/Concept/Dependency Maps)]]
 
-![](topics/Library/Tach)
+![[topics/Concept/Hot Module Replacement HMR)]]

@@ -35,16 +35,16 @@ The article also discusses the cost and efficiency of developing reasoning model
 
 ## Topics
 
-![](topics/Concept/Reasoning%20Models)
+![[topics/Concept/Knowledge Distillation)]]
 
-![](topics/Concept/Inference%20time%20scaling)
+![[topics/Concept/Reinforcement Learning)]]
 
-![](topics/Concept/Reinforcement%20Learning%20RL)
+![[topics/Concept/Chain of Thought Prompting)]]
 
-![](topics/Concept/Knowledge%20Distillation)
+![[topics/Concept/Supervised Fine Tuning)]]
 
-![](topics/Concept/Chain%20of%20Thought%20Prompting)
+![[topics/Concept/Inference time scaling)]]
 
-![](topics/Concept/Journey%20Learning)
+![[topics/Concept/Journey Learning)]]
 
-![](topics/Concept/Supervised%20Fine%20Tuning%20SFT)
+![[topics/Concept/Reasoning Models)]]

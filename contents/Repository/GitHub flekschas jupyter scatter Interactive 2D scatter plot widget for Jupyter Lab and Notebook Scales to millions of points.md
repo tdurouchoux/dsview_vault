@@ -22,12 +22,12 @@ Jupyter Scatter is an interactive 2D scatter plot widget designed for Jupyter No
 
 ## Topics
 
-![](topics/Tool/Jupyter%20Scatter)
+![[topics/Library/traitlets)]]
 
-![](topics/Library/regl%20scatterplot)
+![[topics/Tool/Jupyter Scatter)]]
 
-![](topics/Library/traitlets)
+![[topics/Library/anywidget)]]
 
-![](topics/Library/anywidget)
+![[topics/Library/regl scatterplot)]]
 
-![](topics/Concept/WebGL%20rendering)
+![[topics/Concept/WebGL rendering)]]

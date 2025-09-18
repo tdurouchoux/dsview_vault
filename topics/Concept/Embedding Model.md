@@ -1,5 +1,0 @@
----
-type: Concept
----
-
-An embedding model is a type of machine learning model that converts data into numerical vectors, capturing the semantic meaning of the data. These vectors can then be used for various tasks such as similarity search, clustering, and information retrieval. In the context of Jupyter AI, an embedding model is used to parse and convert local files into embeddings, which are stored in a vector database to enhance the AI's ability to answer questions about the content of these files. Vector embeddings are high-dimensional representations of data, such as text or images, that capture semantic meanings in a numerical format. These embeddings are generated using models like OpenAI's text-embedding-3-small, E5, BGE, and Solon and are used in various AI applications for tasks like semantic search, retrieval-augmented generation (RAG), semantic similarity, information retrieval, and text clustering.

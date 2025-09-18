@@ -32,8 +32,8 @@ Use cases include digitizing scientific research, preserving historical document
 
 ## Topics
 
-![](topics/Model/Mistral%20OCR)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![[topics/Platform/La Plateforme)]]
 
-![](topics/Platform/la%20Plateforme)
+![[topics/Model/Mistral OCR)]]

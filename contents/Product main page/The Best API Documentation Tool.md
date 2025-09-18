@@ -28,4 +28,4 @@ Redocly emphasizes a "docs-as-code" approach, integrating API documentation into
 
 ## Topics
 
-![](topics/Tool/Redocly)
+![[topics/Tool/Redocly)]]

@@ -26,4 +26,4 @@ The framework supports both batch and real-time training and serving. It is prim
 
 ## Topics
 
-![](topics/Tool/Monolith)
+![[topics/Tool/Monolith)]]

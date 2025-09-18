@@ -33,10 +33,10 @@ The author emphasizes the importance of aligning stakeholders on results and ens
 
 ## Topics
 
-![](topics/Concept/Stakeholder%20Management)
+![[topics/Concept/Execution and Implementation)]]
 
-![](topics/Concept/Project%20Scoping)
+![[topics/Concept/Project Scoping)]]
 
-![](topics/Concept/Metrics%20and%20Definition%20of%20Success)
+![[topics/Concept/Stakeholder Management)]]
 
-![](topics/Concept/Execution%20and%20Implementation)
+![[topics/Concept/Metrics and Definition of Success)]]

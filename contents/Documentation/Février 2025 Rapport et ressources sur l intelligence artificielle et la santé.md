@@ -53,6 +53,6 @@ Overall, the content provides a comprehensive overview of the current trends, re
 
 ## Topics
 
-![](topics/Concept/Ethic%20by%20Design)
+![[topics/Concept/Dispositif Médical Numérique)]]
 
-![](topics/Concept/Dispositif%20M%C3%A9dical%20Num%C3%A9rique)
+![[topics/Concept/Ethic by Design)]]

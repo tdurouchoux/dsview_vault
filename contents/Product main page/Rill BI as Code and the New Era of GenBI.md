@@ -41,22 +41,22 @@ The article concludes by highlighting the potential of GenBI to revolutionize th
 
 ## Topics
 
-![](topics/Concept/Generative%20Business%20Intelligence%20GenBI)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Concept/BI%20as%20Code)
+![[topics/Concept/Declarative Data Stack)]]
 
-![](topics/Concept/Metrics%20Layer)
+![[topics/Concept/OLAP Cube)]]
 
-![](topics/Concept/Semantic%20SQL)
+![[topics/Concept/Metrics Layer)]]
 
-![](topics/Concept/Human%20in%20the%20Loop%20Data%20Analysis%20HILDA)
+![[topics/Concept/Generative Business Intelligence GenBI)]]
 
-![](topics/Concept/Master%20Data%20Management%20MDM)
+![[topics/Concept/Master Data Management MDM)]]
 
-![](topics/Concept/OLAP%20Cube)
+![[topics/Concept/Human in the Loop Data Analysis HILDA)]]
 
-![](topics/Concept/Hichert%20SUCCESS%20Rules)
+![[topics/Concept/Semantic SQL)]]
 
-![](topics/Concept/Declarative%20Data%20Stack)
+![[topics/Concept/BI as Code)]]
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![[topics/Concept/Hichert SUCCESS Rules)]]

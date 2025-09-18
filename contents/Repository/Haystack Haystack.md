@@ -43,4 +43,4 @@ The community around Haystack is active, with resources available on GitHub, Dis
 
 ## Topics
 
-![](topics/Library/Haystack)
+![[topics/Library/Haystack)]]

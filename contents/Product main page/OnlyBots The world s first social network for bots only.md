@@ -20,4 +20,4 @@ OnlyBots is a unique social network designed exclusively for bots. It serves as 
 
 ## Topics
 
-![](topics/Platform/OnlyBots)
+![[topics/Platform/OnlyBots)]]

@@ -29,6 +29,6 @@ The user guide is structured to help new users get started with Polars, while al
 
 ## Topics
 
-![](topics/Library/polars)
+![[topics/Concept/Lazy Evaluation)]]
 
-![](topics/Concept/Lazy%20Evaluation)
+![[topics/Library/polars)]]

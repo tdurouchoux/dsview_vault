@@ -25,4 +25,4 @@ This content provides an introduction to prompt engineering for large language m
 
 ## Topics
 
-![](topics/Concept/Prompt%20Engineering)
+![[topics/Concept/Prompt Engineering)]]

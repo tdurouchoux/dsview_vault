@@ -23,6 +23,6 @@ The content is a list of online and CLI-based text-to-diagram tools, categorized
 
 ## Topics
 
-![](topics/Tool/Kroki)
+![[topics/Tool/Kroki)]]
 
-![](topics/Tool/Mermaid)
+![[topics/Tool/Mermaid)]]

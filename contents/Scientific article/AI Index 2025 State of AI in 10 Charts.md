@@ -21,16 +21,16 @@ The 2025 AI Index Report from Stanford HAI highlights key trends in AI developme
 
 ## Topics
 
-![](topics/Model/PaLM)
+![[topics/Concept/HumanEval)]]
 
-![](topics/Model/Phi%203%20mini)
+![[topics/Concept/AI Agents)]]
 
-![](topics/Model/Gemini%201%205%20Flash%208B)
+![[topics/Model/PaLM)]]
 
-![](topics/Concept/Massive%20Multitask%20Language%20Understanding%20MMLU)
+![[topics/Concept/RE Bench)]]
 
-![](topics/Concept/RE%20Bench)
+![[topics/Model/Phi 3 mini)]]
 
-![](topics/Concept/HumanEval)
+![[topics/Concept/Massive Multitask Language Understanding MMLU)]]
 
-![](topics/Concept/AI%20Agents)
+![[topics/Model/Gemini 1 5 Flash 8B)]]

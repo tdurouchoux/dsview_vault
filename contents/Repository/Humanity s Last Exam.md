@@ -34,4 +34,4 @@ The content highlights the importance of HLE in tracking AI advancements and its
 
 ## Topics
 
-![](topics/Dataset/Humanity%20s%20Last%20Exam%20HLE)
+![[topics/Dataset/Humanity s Last Exam HLE)]]

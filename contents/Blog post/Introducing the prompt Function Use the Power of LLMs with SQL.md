@@ -33,14 +33,14 @@ The blog post introduces the `prompt()` function in MotherDuck, which integrates
 
 ## Topics
 
-![](topics/Concept/Retrieval%20Augmented%20Generation)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Concept/Structured%20Output)
+![[topics/Concept/Structured Output)]]
 
-![](topics/Concept/Constrained%20Decoding)
+![[topics/Concept/Compute Units)]]
 
-![](topics/Concept/Compute%20Units)
+![[topics/Concept/Structured Data Extraction)]]
 
-![](topics/Concept/Structured%20Data%20Extraction)
+![[topics/Concept/Bulk Text Summarization)]]
 
-![](topics/Concept/Bulk%20Text%20Summarization)
+![[topics/Concept/Constrained Decoding)]]

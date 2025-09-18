@@ -48,16 +48,16 @@ The repository is well-documented and includes a README with installation instru
 
 ## Topics
 
-![](topics/Model/Transformer)
+![[topics/Concept/Knowledge Distillation)]]
 
-![](topics/Concept/Generative%20Adversarial%20Networks%20GANs)
+![[topics/Concept/Generative Adversarial Networks GANs)]]
 
-![](topics/Concept/Reinforcement%20Learning%20RL)
+![[topics/Concept/Reinforcement Learning)]]
 
-![](topics/Concept/Optimizers)
+![[topics/Model/Transformer)]]
 
-![](topics/Concept/Normalization%20Layers)
+![[topics/Concept/Normalization Layers)]]
 
-![](topics/Concept/Knowledge%20Distillation)
+![[topics/Concept/Language Model Sampling Techniques)]]
 
-![](topics/Concept/Language%20Model%20Sampling%20Techniques)
+![[topics/Concept/Optimizers)]]

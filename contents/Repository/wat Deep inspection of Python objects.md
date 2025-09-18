@@ -21,4 +21,4 @@ WAT is a Python inspection tool designed to help explore and understand unknown 
 
 ## Topics
 
-![](topics/Tool/WAT%20Inspector)
+![[topics/Library/WAT)]]

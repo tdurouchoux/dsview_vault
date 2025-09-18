@@ -44,10 +44,10 @@ Quivr is an opinionated RAG (Retrieval-Augmented Generation) framework designed 
 
 ## Topics
 
-![](topics/Library/Quivr)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Concept/Vectorstore)
+![[topics/Tool/Megaparse)]]
 
-![](topics/Tool/Megaparse)
+![[topics/Library/Quivr)]]
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![[topics/Concept/Vector Database)]]

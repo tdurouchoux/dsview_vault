@@ -40,8 +40,8 @@ The document also mentions tools like the Prompt Generator and Prompt Improver, 
 
 ## Topics
 
-![](topics/Concept/Extended%20Thinking)
+![[topics/Concept/Model Context Protocol MCP)]]
 
-![](topics/Concept/Prompt%20Engineering)
+![[topics/Concept/Prompt Engineering)]]
 
-![](topics/Concept/Model%20Context%20Protocol%20MCP)
+![[topics/Concept/Extended Thinking)]]

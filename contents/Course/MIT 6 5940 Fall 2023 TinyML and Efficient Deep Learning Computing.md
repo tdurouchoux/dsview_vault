@@ -33,22 +33,22 @@ Grading is based on five labs (15% each) and a final project (25%), which includ
 
 ## Topics
 
-![](topics/Concept/Model%20Compression)
+![[topics/Concept/Knowledge Distillation)]]
 
-![](topics/Concept/Pruning)
+![[topics/Concept/Neural Architecture Search)]]
 
-![](topics/Concept/Quantization)
+![[topics/Concept/Pruning)]]
 
-![](topics/Concept/Neural%20Architecture%20Search)
+![[topics/Concept/Quantization)]]
 
-![](topics/Concept/Distributed%20Training)
+![[topics/Concept/Distributed Training)]]
 
-![](topics/Concept/Data%20Parallelism)
+![[topics/Concept/On Device Fine Tuning)]]
 
-![](topics/Concept/Model%20Parallelism)
+![[topics/Concept/Data Parallelism)]]
 
-![](topics/Concept/Gradient%20Compression)
+![[topics/Concept/Model Parallelism)]]
 
-![](topics/Concept/On%20Device%20Fine%20Tuning)
+![[topics/Concept/Gradient Compression)]]
 
-![](topics/Concept/Knowledge%20Distillation)
+![[topics/Concept/Model Compression)]]

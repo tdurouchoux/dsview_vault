@@ -35,4 +35,4 @@ The book is available in PDF format and can be read online or downloaded. The so
 
 ## Topics
 
-![](topics/Library/Matplotlib)
+![[topics/Library/Matplotlib)]]

@@ -28,10 +28,10 @@ To extend or contribute, users can add new business types by editing the spec-pr
 
 ## Topics
 
-![](topics/Tool/AI%20Dataset%20Generator)
+![[topics/Library/LiteLLM)]]
 
-![](topics/Library/Faker%20js)
+![[topics/Platform/Metabase)]]
 
-![](topics/Platform/Metabase)
+![[topics/Tool/AI Dataset Generator)]]
 
-![](topics/Library/LiteLLM)
+![[topics/Library/Faker js)]]

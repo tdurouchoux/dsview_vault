@@ -38,20 +38,20 @@ The repository also includes bonus content such as visual guides to Mamba, Quant
 
 ## Topics
 
-![](topics/Concept/Transformer%20LLMs)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Concept/Tokens%20and%20Embeddings)
+![[topics/Concept/Prompt Engineering)]]
 
-![](topics/Concept/Text%20Classification)
+![[topics/Concept/Fine tuning)]]
 
-![](topics/Concept/Text%20Clustering%20and%20Topic%20Modeling)
+![[topics/Concept/Multimodal Large Language Models)]]
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![[topics/Concept/Embedding Models)]]
 
-![](topics/Concept/Multimodal%20Large%20Language%20Models)
+![[topics/Concept/Tokens and Embeddings)]]
 
-![](topics/Concept/Embedding%20Models)
+![[topics/Concept/Text Clustering and Topic Modeling)]]
 
-![](topics/Concept/Fine%20tuning)
+![[topics/Concept/Text Classification)]]
 
-![](topics/Concept/Prompt%20Engineering)
+![[topics/Concept/Transformer LLMs)]]

@@ -34,12 +34,12 @@ FastMCP aims to be fast, simple, Pythonic, and complete, providing a comprehensi
 
 ## Topics
 
-![](topics/Tool/FastMCP)
+![[topics/Concept/Model Context Protocol MCP)]]
 
-![](topics/Concept/MCP%20Servers)
+![[topics/Tool/FastMCP)]]
 
-![](topics/Concept/MCP%20Tools)
+![[topics/Concept/MCP Clients)]]
 
-![](topics/Concept/MCP%20Clients)
+![[topics/Concept/MCP Servers)]]
 
-![](topics/Concept/Model%20Context%20Protocol%20MCP)
+![[topics/Concept/MCP Tools)]]

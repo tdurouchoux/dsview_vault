@@ -30,4 +30,4 @@ The content highlights the potential of KANs to revolutionize AI by making it mo
 
 ## Topics
 
-![](topics/Model/OpenAI%20o1)
+![[topics/Model/OpenAI o1)]]

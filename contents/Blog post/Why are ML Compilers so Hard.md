@@ -37,14 +37,14 @@ The post concludes with a call for continued innovation in the ML compiler commu
 
 ## Topics
 
-![](topics/Concept/ML%20Compilers)
+![[topics/Concept/Non Max Suppression)]]
 
-![](topics/Concept/High%20Level%20Operations%20HLO)
+![[topics/Concept/Model Optimization)]]
 
-![](topics/Concept/Intermediate%20Representation%20IR)
+![[topics/Concept/Intermediate Representation IR)]]
 
-![](topics/Concept/Non%20Max%20Suppression)
+![[topics/Concept/ML Compilers)]]
 
-![](topics/Concept/Machine%20Learning%20Compilation)
+![[topics/Concept/Machine Learning Compilation)]]
 
-![](topics/Concept/Model%20Optimization)
+![[topics/Concept/High Level Operations HLO)]]

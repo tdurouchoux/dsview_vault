@@ -20,4 +20,4 @@ drawDB is an online tool for creating database diagrams and generating SQL code.
 
 ## Topics
 
-![](topics/Platform/drawDB)
+![[topics/Platform/drawDB)]]

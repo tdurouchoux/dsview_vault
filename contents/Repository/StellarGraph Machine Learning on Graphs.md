@@ -25,24 +25,24 @@ StellarGraph is a Python library for machine learning on graphs and networks, bu
 
 ## Topics
 
-![](topics/Library/StellarGraph)
+![[topics/Concept/Graph Attention Network GAT)]]
 
-![](topics/Concept/Graph%20Convolutional%20Network%20GCN)
+![[topics/Model/Node2Vec)]]
 
-![](topics/Concept/GraphSAGE)
+![[topics/Concept/HinSAGE)]]
 
-![](topics/Concept/HinSAGE)
+![[topics/Library/StellarGraph)]]
 
-![](topics/Concept/attri2vec)
+![[topics/Concept/GraphSAGE)]]
 
-![](topics/Concept/Graph%20Attention%20Network%20GAT)
+![[topics/Concept/Cluster Graph Convolutional Network Cluster GCN)]]
 
-![](topics/Concept/Cluster%20Graph%20Convolutional%20Network%20Cluster%20GCN)
+![[topics/Concept/attri2vec)]]
 
-![](topics/Concept/Simplified%20Graph%20Convolutional%20Network%20SGC)
+![[topics/Concept/Metapath2Vec)]]
 
-![](topics/Concept/Personalized%20Propagation%20of%20Neural%20Predictions%20PPNP%20APPNP)
+![[topics/Concept/Simplified Graph Convolutional Network SGC)]]
 
-![](topics/Concept/Metapath2Vec)
+![[topics/Concept/Graph Convolutional Network GCN)]]
 
-![](topics/Model/Node2Vec)
+![[topics/Concept/Personalized Propagation of Neural Predictions PPNP APPNP)]]

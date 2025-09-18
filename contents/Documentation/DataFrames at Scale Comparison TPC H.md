@@ -54,14 +54,14 @@ Overall, the document provides a detailed analysis of the performance and suitab
 
 ## Topics
 
-![](topics/Library/Apache%20Spark)
+![[topics/Library/DuckDB)]]
 
-![](topics/Library/Dask)
+![[topics/Library/polars)]]
 
-![](topics/Concept/TPC%20H%20Benchmark)
+![[topics/Library/Apache Spark)]]
 
-![](topics/Concept/Coiled)
+![[topics/Library/Dask)]]
 
-![](topics/Library/DuckDB)
+![[topics/Concept/Coiled)]]
 
-![](topics/Library/Polars)
+![[topics/Concept/TPC H Benchmark)]]

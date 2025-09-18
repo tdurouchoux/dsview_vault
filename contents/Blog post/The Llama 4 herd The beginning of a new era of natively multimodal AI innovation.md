@@ -34,16 +34,16 @@ The Llama 4 models are available for download on llama.com and Hugging Face, wit
 
 ## Topics
 
-![](topics/Model/Llama%204%20Scout)
+![[topics/Concept/Early Fusion)]]
 
-![](topics/Model/Llama%204%20Maverick)
+![[topics/Concept/Mixture of Experts MoE)]]
 
-![](topics/Model/Llama%204%20Behemoth)
+![[topics/Concept/MetaP)]]
 
-![](topics/Concept/Mixture%20of%20Experts%20MoE)
+![[topics/Model/Llama 4 Behemoth)]]
 
-![](topics/Concept/Early%20Fusion)
+![[topics/Concept/iRoPE Architecture)]]
 
-![](topics/Concept/MetaP)
+![[topics/Model/Llama 4 Maverick)]]
 
-![](topics/Concept/iRoPE%20Architecture)
+![[topics/Model/Llama 4 Scout)]]

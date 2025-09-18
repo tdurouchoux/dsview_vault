@@ -26,19 +26,19 @@ The content introduces MLOps concepts and MLflow, a platform for managing the ma
 The content also covers practical applications, including setting up environments, training models, deploying APIs, and monitoring models in production. The goal is to streamline the transition from experimentation to production and improve collaboration among data scientists, IT, and business teams.
 ## Links
 
-- [MLflow Documentation](https://docs.python.org/3/library/logging.html) : Documentation for the Python logging library, which is used for tracking and logging metrics, parameters, and artifacts in MLflow.
 - [Quarto Dashboards](https://quarto.org/docs/dashboards/) : Documentation for creating interactive dashboards using Quarto, which can be used for monitoring and visualizing model performance metrics.
+- [MLflow Documentation](https://docs.python.org/3/library/logging.html) : Documentation for the Python logging library, which is used for tracking and logging metrics, parameters, and artifacts in MLflow.
 
 ## Topics
 
-![](topics/Concept/MLOps)
+![[topics/Library/DuckDB)]]
 
-![](topics/Tool/MLflow)
+![[topics/Tool/Argo Workflows)]]
 
-![](topics/Concept/FastText)
+![[topics/Concept/FastText)]]
 
-![](topics/Tool/Argo%20Workflows)
+![[topics/Concept/MLOps)]]
 
-![](topics/Tool/Quarto%20Dashboards)
+![[topics/Tool/MLflow)]]
 
-![](topics/Library/DuckDB)
+![[topics/Tool/Quarto Dashboards)]]

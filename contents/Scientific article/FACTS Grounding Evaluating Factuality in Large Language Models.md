@@ -33,10 +33,10 @@ The initiative is a collaboration between Google DeepMind and Google Research, w
 
 ## Topics
 
-![](topics/Concept/FACTS%20Grounding)
+![[topics/Concept/FACTS Grounding)]]
 
-![](topics/Dataset/FACTS%20Grounding%20Dataset)
+![[topics/Dataset/FACTS Grounding Dataset)]]
 
-![](topics/Concept/Hallucinations%20in%20LLMs)
+![[topics/Concept/Hallucination in LLMs)]]
 
-![](topics/Concept/LLM%20Judges)
+![[topics/Concept/LLM Judges)]]

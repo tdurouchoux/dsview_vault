@@ -35,4 +35,4 @@ The content concludes by encouraging readers to explore Hamilton and join the co
 
 ## Topics
 
-![](topics/Tool/Hamilton)
+![[topics/Tool/Hamilton)]]

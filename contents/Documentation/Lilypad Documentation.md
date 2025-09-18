@@ -30,6 +30,6 @@ Lilypad provides tools for observability, versioning, and evaluation, addressing
 
 ## Topics
 
-![](topics/Library/Mirascope)
+![[topics/Platform/Lilypad)]]
 
-![](topics/Platform/Lilypad)
+![[topics/Library/Mirascope)]]

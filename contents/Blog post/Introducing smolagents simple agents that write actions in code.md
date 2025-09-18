@@ -34,8 +34,8 @@ The article also includes community comments and discussions on the library.
 
 ## Topics
 
-![](topics/Library/smolagents)
+![[topics/Tool/DuckDuckGoSearchTool)]]
 
-![](topics/Tool/DuckDuckGoSearchTool)
+![[topics/Tool/HfApiModel)]]
 
-![](topics/Tool/HfApiModel)
+![[topics/Library/smolagents)]]

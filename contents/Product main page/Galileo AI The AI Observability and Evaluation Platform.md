@@ -31,4 +31,4 @@ The platform is trusted by enterprises and loved by developers, with testimonial
 
 ## Topics
 
-![](topics/Platform/Galileo%20AI)
+![[topics/Platform/Galileo AI)]]

@@ -26,8 +26,8 @@ User feedback highlights both the model's strengths and areas for improvement, w
 
 ## Topics
 
-![](topics/Model/Phi)
+![[topics/Platform/Hugging Face)]]
 
-![](topics/Platform/Azure%20AI%20Foundry)
+![[topics/Model/Phi)]]
 
-![](topics/Platform/Hugging%20Face)
+![[topics/Platform/Microsoft Azure AI Foundry)]]

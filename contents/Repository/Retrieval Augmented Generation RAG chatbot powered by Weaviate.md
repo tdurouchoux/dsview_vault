@@ -25,10 +25,10 @@ Verba is an open-source Retrieval Augmented Generation (RAG) chatbot powered by 
 
 ## Topics
 
-![](topics/Concept/Retrieval%20Augmented%20Generation)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Library/Haystack)
+![[topics/Library/LangChain)]]
 
-![](topics/Library/LlamaIndex)
+![[topics/Library/LlamaIndex)]]
 
-![](topics/Concept/LangChain)
+![[topics/Library/Haystack)]]

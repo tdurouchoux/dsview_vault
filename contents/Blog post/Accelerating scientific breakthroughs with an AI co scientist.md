@@ -32,10 +32,10 @@ The AI co-scientist represents a promising advance in AI-assisted technologies f
 
 ## Topics
 
-![](topics/Concept/AI%20co%20scientist)
+![[topics/Concept/Agentic AI)]]
 
-![](topics/Concept/Agentic%20AI)
+![[topics/Concept/Inference time scaling)]]
 
-![](topics/Concept/Elo%20auto%20evaluation%20metric)
+![[topics/Concept/AI co scientist)]]
 
-![](topics/Concept/Inference%20time%20scaling)
+![[topics/Concept/Elo auto evaluation metric)]]

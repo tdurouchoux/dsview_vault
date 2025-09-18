@@ -45,14 +45,14 @@ https://aeturrell.com/blog/posts/the-data-validation-landscape-in-2025/
 
 ## Topics
 
-![](topics/Library/Pydantic)
+![[topics/Library/Pandera)]]
 
-![](topics/Library/Cerberus)
+![[topics/Library/Great Expectations)]]
 
-![](topics/Library/jsonschema)
+![[topics/Library/Pointblank)]]
 
-![](topics/Library/Great%20Expectations)
+![[topics/Library/Pydantic)]]
 
-![](topics/Library/Pointblank)
+![[topics/Library/jsonschema)]]
 
-![](topics/Library/Pandera)
+![[topics/Library/Cerberus)]]

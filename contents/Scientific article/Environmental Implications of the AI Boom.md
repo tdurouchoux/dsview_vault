@@ -28,4 +28,4 @@ The summary highlights the need for awareness and action to mitigate the environ
 
 ## Topics
 
-![](topics/Concept/Environmental%20Implications%20of%20the%20AI%20Boom)
+![[topics/Concept/AI Energy Footprint)]]

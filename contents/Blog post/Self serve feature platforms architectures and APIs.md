@@ -37,20 +37,20 @@ The post also includes a comparison of feature platforms from various companies,
 
 ## Topics
 
-![](topics/Concept/Feature%20Platform)
+![[topics/Concept/Data Discoverability and Governance)]]
 
-![](topics/Concept/Feature%20Store)
+![[topics/Concept/Batch Features)]]
 
-![](topics/Concept/Model%20Platform)
+![[topics/Concept/Automated Backfills)]]
 
-![](topics/Concept/Batch%20Features)
+![[topics/Concept/Real time Features)]]
 
-![](topics/Concept/Real%20time%20Features)
+![[topics/Concept/Model Platform)]]
 
-![](topics/Concept/Near%20Real%20time%20Features)
+![[topics/Concept/Feature Platform)]]
 
-![](topics/Concept/Feature%20API)
+![[topics/Concept/Feature Store)]]
 
-![](topics/Concept/Data%20Discoverability%20and%20Governance)
+![[topics/Concept/Feature API)]]
 
-![](topics/Concept/Automated%20Backfills)
+![[topics/Concept/Near Real time Features)]]

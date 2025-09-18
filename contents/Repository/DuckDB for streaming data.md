@@ -42,10 +42,10 @@ For more detailed information, users can refer to the tutorials and example conf
 
 ## Topics
 
-![](topics/Library/Apache%20Arrow)
+![[topics/Library/DuckDB)]]
 
-![](topics/Library/pyiceberg)
+![[topics/Library/Apache Arrow)]]
 
-![](topics/Tool/SQLFlow)
+![[topics/Tool/SQLFlow)]]
 
-![](topics/Library/DuckDB)
+![[topics/Library/Apache Iceberg)]]

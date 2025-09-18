@@ -27,4 +27,4 @@ The content provides benchmarks for data teams, including size, composition, rat
 
 ## Topics
 
-![](topics/Concept/Data%20Products%20Observability)
+![[topics/Concept/Data Products Observability)]]

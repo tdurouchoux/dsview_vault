@@ -36,6 +36,6 @@ The VS Code team aims to shape the future of development as an open-source AI ed
 
 ## Topics
 
-![](topics/Platform/Visual%20Studio%20Code)
+![[topics/Platform/GitHub Copilot)]]
 
-![](topics/Platform/GitHub%20Copilot)
+![[topics/Platform/Visual Studio Code)]]

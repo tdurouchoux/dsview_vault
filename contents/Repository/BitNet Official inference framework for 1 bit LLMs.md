@@ -30,8 +30,8 @@ The framework is based on the llama.cpp framework and utilizes Lookup Table meth
 
 ## Topics
 
-![](topics/Model/BitNet%20b1%2058)
+![[topics/Library/bitnet cpp)]]
 
-![](topics/Library/bitnet%20cpp)
+![[topics/Model/BitNet b1 58)]]
 
-![](topics/Concept/1%20bit%20LLMs)
+![[topics/Concept/1 bit LLMs)]]

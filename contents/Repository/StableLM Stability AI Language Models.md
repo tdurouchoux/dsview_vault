@@ -22,14 +22,14 @@ The repository contains Stability AI's ongoing development of the StableLM serie
 
 ## Topics
 
-![](topics/Model/StableLM)
+![[topics/Concept/Rotary Positional Embeddings RoPE)]]
 
-![](topics/Model/StableLM%203B%204E1T)
+![[topics/Model/StableLM Alpha v2)]]
 
-![](topics/Model/StableLM%20Alpha%20v2)
+![[topics/Model/StableLM)]]
 
-![](topics/Model/StableVicuna)
+![[topics/Model/StableLM 3B 4E1T)]]
 
-![](topics/Concept/Rotary%20Positional%20Embeddings%20RoPE)
+![[topics/Model/StableVicuna)]]
 
-![](topics/Concept/SwiGLU)
+![[topics/Concept/SwiGLU)]]

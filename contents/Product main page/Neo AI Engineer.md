@@ -43,4 +43,4 @@ The book is designed to be both a tutorial and a reference, with practical examp
 
 ## Topics
 
-![](topics/Concept/Neo%20AI)
+![[topics/Concept/Neo AI)]]

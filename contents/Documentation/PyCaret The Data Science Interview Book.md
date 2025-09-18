@@ -30,4 +30,4 @@ PyCaret supports various tasks including Regression, Classification, Clustering,
 
 ## Topics
 
-![](topics/Library/PyCaret)
+![[topics/Library/PyCaret)]]

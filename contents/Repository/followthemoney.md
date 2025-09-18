@@ -31,8 +31,8 @@ FtM is an open-source project under the MIT License, maintained by OpenSanctions
 
 ## Topics
 
-![](topics/Tool/FollowTheMoney%20FtM)
+![[topics/Tool/yente)]]
 
-![](topics/Tool/OpenAleph)
+![[topics/Tool/FollowTheMoney FtM)]]
 
-![](topics/Tool/yente)
+![[topics/Tool/OpenAleph)]]

@@ -40,14 +40,14 @@ Key takeaways:
 
 ## Topics
 
-![](topics/Model/gte%20modernbert%20base)
+![[topics/Library/polars)]]
 
-![](topics/Dataset/Magic%20the%20Gathering%20Card%20Dataset)
+![[topics/Concept/UMAP)]]
 
-![](topics/Library/Apache%20Arrow)
+![[topics/Library/Apache Arrow)]]
 
-![](topics/Concept/Apache%20Parquet)
+![[topics/Concept/Parquet)]]
 
-![](topics/Concept/UMAP)
+![[topics/Dataset/Magic the Gathering Card Dataset)]]
 
-![](topics/Library/Polars)
+![[topics/Model/gte modernbert base)]]

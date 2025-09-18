@@ -29,4 +29,4 @@ The guide covers the basics of setting up a streaming query, processing sources 
 
 ## Topics
 
-![](topics/Concept/Structured%20Streaming)
+![[topics/Concept/Structured Streaming)]]

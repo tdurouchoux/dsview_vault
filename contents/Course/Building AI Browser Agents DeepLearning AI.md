@@ -27,18 +27,18 @@ Key topics covered include:
 The course is ideal for learners with basic Python skills who want to explore building autonomous web agents. It provides hands-on experience and a deeper understanding of making AI agents more robust and reliable. The course is currently available for free during the DeepLearning.AI learning platform beta.
 ## Links
 
+- [Naman Garg LinkedIn](https://www.linkedin.com/in/namangarg20/) : Naman Garg is a Co-founder of AGI Inc and instructor of the course.
 - [AGI Inc](https://theagi.company/) : AGI Inc is the company behind the AgentQ framework, which is used to teach agents to self-correct. It is co-founded by Div Garg and Naman Garg.
 - [Div Garg LinkedIn](https://www.linkedin.com/in/div99/) : Div Garg is a Co-founder of AGI Inc and instructor of the course.
-- [Naman Garg LinkedIn](https://www.linkedin.com/in/namangarg20/) : Naman Garg is a Co-founder of AGI Inc and instructor of the course.
 
 ## Topics
 
-![](topics/Concept/Autonomous%20Web%20Agents)
+![[topics/Concept/Direct Preference Optimization DPO)]]
 
-![](topics/Concept/Monte%20Carlo%20Tree%20Search%20MCTS)
+![[topics/Concept/Reflexive Mechanisms)]]
 
-![](topics/Concept/Self%20critique%20Mechanism)
+![[topics/Concept/Monte Carlo Tree Search MCTS)]]
 
-![](topics/Concept/AgentQ%20Framework)
+![[topics/Concept/AgentQ Framework)]]
 
-![](topics/Concept/Direct%20Preference%20Optimization%20DPO)
+![[topics/Concept/Autonomous Web Agents)]]

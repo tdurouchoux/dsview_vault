@@ -35,12 +35,12 @@ Observable aims to make data analysis more collaborative, efficient, and accessi
 
 ## Topics
 
-![](topics/Tool/Observable)
+![[topics/Tool/Observable)]]
 
-![](topics/Concept/Collaborative%20Data%20Canvas)
+![[topics/Concept/Collaborative Data Canvas)]]
 
-![](topics/Concept/AI%20Powered%20Data%20Analysis)
+![[topics/Concept/AI Powered Data Analysis)]]
 
-![](topics/Concept/Data%20Literacy)
+![[topics/Concept/Interactive Visualization)]]
 
-![](topics/Concept/Interactive%20Visualizations)
+![[topics/Concept/Data Literacy)]]

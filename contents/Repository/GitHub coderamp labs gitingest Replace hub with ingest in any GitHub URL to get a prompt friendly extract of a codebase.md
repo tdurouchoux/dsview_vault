@@ -21,4 +21,4 @@ Gitingest is a tool that transforms Git repositories into text extracts suitable
 
 ## Topics
 
-![](topics/Tool/Gitingest)
+![[topics/Tool/Gitingest)]]

@@ -29,8 +29,8 @@ The summary suggests that Data Scientists should consider these performance diff
 
 ## Topics
 
-![](topics/Library/Datatable)
+![[topics/Library/polars)]]
 
-![](topics/Library/Pandas)
+![[topics/Library/Pandas)]]
 
-![](topics/Library/Polars)
+![[topics/Library/Datatable)]]

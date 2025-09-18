@@ -41,8 +41,8 @@ The repository "llama_cloud_services" provides SDKs and clients for interacting 
 
 ## Topics
 
-![](topics/Tool/LlamaParse)
+![[topics/Tool/LlamaExtract)]]
 
-![](topics/Tool/LlamaExtract)
+![[topics/Tool/LlamaCloud Index)]]
 
-![](topics/Tool/LlamaCloud%20Index)
+![[topics/Tool/LlamaParse)]]

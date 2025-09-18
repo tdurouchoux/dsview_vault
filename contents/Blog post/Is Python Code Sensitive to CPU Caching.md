@@ -37,16 +37,16 @@ Key points include:
 
 ## Topics
 
-![](topics/Concept/CPU%20Caching)
+![[topics/Concept/Memory access patterns)]]
 
-![](topics/Concept/Cache%20aware%20programming)
+![[topics/Concept/Cache pressure)]]
 
-![](topics/Concept/Cache%20friendly%20data%20structures)
+![[topics/Concept/CPU Caching)]]
 
-![](topics/Concept/Interpreter%20overhead)
+![[topics/Concept/Benchmarking)]]
 
-![](topics/Concept/Cache%20pressure)
+![[topics/Concept/Cache aware programming)]]
 
-![](topics/Concept/Memory%20access%20patterns)
+![[topics/Concept/Cache friendly data structures)]]
 
-![](topics/Concept/Benchmarking)
+![[topics/Concept/Interpreter overhead)]]

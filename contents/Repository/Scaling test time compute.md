@@ -26,4 +26,4 @@ The key takeaway is the importance of efficiently scaling test-time compute to h
 
 ## Topics
 
-![](topics/Platform/Hugging%20Face%20Spaces)
+![[topics/Platform/Hugging Face Spaces)]]

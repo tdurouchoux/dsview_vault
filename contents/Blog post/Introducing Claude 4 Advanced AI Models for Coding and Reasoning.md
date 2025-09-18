@@ -25,18 +25,18 @@ Anthropic introduces Claude Opus 4 and Claude Sonnet 4, setting new standards in
 
 ## Topics
 
-![](topics/Model/Claude%20Opus%204)
+![[topics/Platform/Amazon Bedrock)]]
 
-![](topics/Model/Claude%20Sonnet%204)
+![[topics/Platform/Vertex AI)]]
 
-![](topics/Concept/Extended%20thinking%20with%20tool%20use)
+![[topics/Concept/Thinking summaries)]]
 
-![](topics/Concept/Parallel%20tool%20execution)
+![[topics/Concept/Parallel tool execution)]]
 
-![](topics/Concept/Memory%20capabilities)
+![[topics/Model/Claude Sonnet 4)]]
 
-![](topics/Concept/Thinking%20summaries)
+![[topics/Concept/Extended thinking with tool use)]]
 
-![](topics/Platform/Vertex%20AI)
+![[topics/Model/Claude Opus 4)]]
 
-![](topics/Platform/Amazon%20Bedrock)
+![[topics/Concept/Memory capabilities)]]

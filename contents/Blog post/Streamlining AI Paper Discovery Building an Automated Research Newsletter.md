@@ -22,14 +22,14 @@ The author created an automated AI research paper newsletter system to streamlin
 
 ## Topics
 
-![](topics/Platform/AWS)
+![[topics/Tool/SES)]]
 
-![](topics/Tool/Lambda)
+![[topics/Tool/Lambda)]]
 
-![](topics/Tool/SES)
+![[topics/Tool/SNS)]]
 
-![](topics/Tool/DynamoDB)
+![[topics/Tool/Cloudwatch)]]
 
-![](topics/Tool/Cloudwatch)
+![[topics/Tool/DynamoDB)]]
 
-![](topics/Tool/SNS)
+![[topics/Platform/AWS)]]

@@ -53,4 +53,4 @@ Key takeaways:
 
 ## Topics
 
-![](topics/Tool/Surya)
+![[topics/Tool/Surya)]]

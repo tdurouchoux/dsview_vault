@@ -31,14 +31,14 @@ The content also discusses an experimental evaluation of these models using stoc
 
 ## Topics
 
-![](topics/Model/ARIMA)
+![[topics/Concept/Feature Engineering)]]
 
-![](topics/Model/Prophet)
+![[topics/Model/Prophet)]]
 
-![](topics/Model/LSTM)
+![[topics/Tool/Neptune)]]
 
-![](topics/Tool/Neptune)
+![[topics/Model/LSTM)]]
 
-![](topics/Concept/Time%20Series%20Prediction)
+![[topics/Concept/Time Series Forecasting)]]
 
-![](topics/Concept/Feature%20Engineering)
+![[topics/Model/ARIMA)]]

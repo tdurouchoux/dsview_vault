@@ -22,4 +22,4 @@ Backstory is an experimental AI tool developed by Google DeepMind to help users 
 
 ## Topics
 
-![](topics/Model/Backstory)
+![[topics/Model/Backstory)]]

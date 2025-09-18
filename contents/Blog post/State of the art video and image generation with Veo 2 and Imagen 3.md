@@ -25,8 +25,8 @@ Google has released updated versions of its video and image generation models, V
 
 ## Topics
 
-![](topics/Model/Veo%202)
+![[topics/Model/Veo 2)]]
 
-![](topics/Model/Imagen%203)
+![[topics/Tool/Whisk)]]
 
-![](topics/Tool/Whisk)
+![[topics/Model/Imagen 3)]]

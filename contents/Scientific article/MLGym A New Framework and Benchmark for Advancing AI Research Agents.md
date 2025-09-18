@@ -28,8 +28,8 @@ The paper concludes by open-sourcing the framework and benchmark to facilitate f
 
 ## Topics
 
-![](topics/Concept/MLGym)
+![[topics/Concept/Reinforcement Learning)]]
 
-![](topics/Concept/MLGym%20Bench)
+![[topics/Concept/MLGym Bench)]]
 
-![](topics/Concept/Reinforcement%20Learning)
+![[topics/Concept/MLGym)]]

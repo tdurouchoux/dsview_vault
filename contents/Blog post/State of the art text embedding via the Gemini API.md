@@ -30,10 +30,10 @@ The model is accessible via the Gemini API and is currently in an experimental p
 
 ## Topics
 
-![](topics/Model/Gemini%20Embedding%20Model)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Concept/Matryoshka%20Representation%20Learning)
+![[topics/Concept/Matryoshka Representation Learning)]]
 
-![](topics/Dataset/Massive%20Text%20Embedding%20Benchmark%20MTEB)
+![[topics/Dataset/Massive Text Embedding Benchmark MTEB)]]
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![[topics/Model/Gemini Embedding Model)]]

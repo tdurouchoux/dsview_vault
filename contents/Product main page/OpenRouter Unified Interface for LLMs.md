@@ -28,4 +28,4 @@ The platform also provides trending models like Gemini 2.5 Pro, GPT-5, and Claud
 
 ## Topics
 
-![](topics/Platform/OpenRouter)
+![[topics/Platform/OpenRouter)]]

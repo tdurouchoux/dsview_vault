@@ -43,4 +43,4 @@ Overall, the article emphasizes the importance of readability and accessibility 
 
 ## Topics
 
-![](topics/Tool/Datawrapper)
+![[topics/Tool/Datawrapper)]]

@@ -31,10 +31,10 @@ Scrapling is designed to handle modern web scraping challenges, including bypass
 
 ## Topics
 
-![](topics/Library/Scrapling)
+![[topics/Concept/Stealthy Fetching)]]
 
-![](topics/Concept/Adaptive%20Scraping)
+![[topics/Library/Scrapling)]]
 
-![](topics/Concept/MCP%20Server)
+![[topics/Concept/Adaptive Scraping)]]
 
-![](topics/Concept/Stealthy%20Fetching)
+![[topics/Concept/MCP Server)]]

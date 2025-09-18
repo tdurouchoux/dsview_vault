@@ -46,12 +46,12 @@ Gitleaks is a tool designed to detect secrets such as passwords, API keys, and t
 Gitleaks is a versatile tool for enhancing security by detecting and managing secrets in various data sources.
 ## Links
 
-- [Gitleaks Blog](https://blog.gitleaks.io/stop-leaking-secrets-configuration-2-3-aeed293b1fbf) : A blog post on Gitleaks, detailing how to stop leaking secrets with configuration.
 - [Regex is (almost) all you need](https://lookingatcomputer.substack.com/p/regex-is-almost-all-you-need) : A blog post explaining how regex can be used to detect secrets in code.
+- [Gitleaks Blog](https://blog.gitleaks.io/stop-leaking-secrets-configuration-2-3-aeed293b1fbf) : A blog post on Gitleaks, detailing how to stop leaking secrets with configuration.
 - [Gitleaks Docker Hub](https://hub.docker.com/r/zricethezav/gitleaks) : The Docker Hub page for Gitleaks, providing information on how to use Gitleaks with Docker.
 - [Gitleaks Go Documentation](https://pkg.go.dev/github.com/zricethezav/gitleaks/v8) : The Go documentation for Gitleaks, providing detailed information on how to use Gitleaks with Go.
 - [Gitleaks Playground](https://gitleaks.io/playground) : An interactive playground for testing Gitleaks configurations and detecting secrets.
 
 ## Topics
 
-![](topics/Tool/Gitleaks)
+![[topics/Tool/Gitleaks)]]

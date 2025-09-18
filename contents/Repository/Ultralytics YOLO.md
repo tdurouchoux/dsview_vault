@@ -43,8 +43,8 @@ Ultralytics YOLO is designed to be user-friendly and highly performant, making i
 
 ## Topics
 
-![](topics/Library/Ultralytics%20YOLO)
+![[topics/Library/Ultralytics YOLO)]]
 
-![](topics/Model/YOLO11)
+![[topics/Platform/Ultralytics HUB)]]
 
-![](topics/Platform/Ultralytics%20HUB)
+![[topics/Model/YOLO11)]]

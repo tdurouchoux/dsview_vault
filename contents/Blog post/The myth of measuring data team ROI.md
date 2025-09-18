@@ -30,4 +30,4 @@ The article concludes that data teams should aim to make their impact so obvious
 
 ## Topics
 
-![](topics/Platform/Hex%20Platform)
+![[topics/Platform/Hex Platform)]]

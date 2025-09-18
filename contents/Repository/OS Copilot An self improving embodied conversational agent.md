@@ -34,4 +34,4 @@ The project is provided as-is without warranty, and users are responsible for an
 
 ## Topics
 
-![](topics/Library/OS%20Copilot)
+![[topics/Library/OS Copilot)]]

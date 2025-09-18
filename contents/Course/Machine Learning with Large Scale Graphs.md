@@ -29,6 +29,6 @@ The notes are a work in progress, with updates planned as lectures continue. Con
 
 ## Topics
 
-![](topics/Concept/Knowledge%20Graphs)
+![[topics/Concept/Metapaths)]]
 
-![](topics/Concept/Metapaths)
+![[topics/Concept/Knowledge Graph)]]

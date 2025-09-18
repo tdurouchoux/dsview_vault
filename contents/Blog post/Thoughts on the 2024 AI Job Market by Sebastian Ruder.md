@@ -35,14 +35,14 @@ The author also shares personal reasons for joining Cohere, including the compan
 
 ## Topics
 
-![](topics/Concept/Pre%20training)
+![[topics/Concept/Instruction Tuning)]]
 
-![](topics/Concept/Preference%20Alignment)
+![[topics/Concept/Generative AI)]]
 
-![](topics/Concept/Red%20Teaming)
+![[topics/Concept/Preference Alignment)]]
 
-![](topics/Concept/LLM%20Alignment)
+![[topics/Concept/Red Teaming)]]
 
-![](topics/Concept/Instruction%20Tuning)
+![[topics/Concept/Pre training)]]
 
-![](topics/Concept/Generative%20AI)
+![[topics/Concept/LLM Alignment)]]

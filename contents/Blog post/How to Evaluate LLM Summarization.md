@@ -51,4 +51,4 @@ By considering these factors, you can effectively evaluate the summarization cap
 
 ## Topics
 
-![](topics/Model/OpenAI%20o1)
+![[topics/Model/OpenAI o1)]]

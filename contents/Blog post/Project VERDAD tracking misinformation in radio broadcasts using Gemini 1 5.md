@@ -22,12 +22,12 @@ The VERDAD project, developed by Public Data Works and journalist Martina Guzmá
 
 ## Topics
 
-![](topics/Concept/Data%20Journalism)
+![[topics/Concept/Prompt Engineering)]]
 
-![](topics/Tool/Prefect)
+![[topics/Model/Gemini)]]
 
-![](topics/Model/Gemini)
+![[topics/Model/Whisper)]]
 
-![](topics/Model/Whisper)
+![[topics/Tool/Prefect)]]
 
-![](topics/Concept/Prompt%20Engineering)
+![[topics/Concept/Data Journalism)]]

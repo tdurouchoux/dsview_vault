@@ -38,10 +38,10 @@ In summary, BERT is a powerful and versatile language representation model that 
 
 ## Topics
 
-![](topics/Model/BERT)
+![[topics/Model/BERT)]]
 
-![](topics/Concept/Masked%20Language%20Model%20MLM)
+![[topics/Concept/Masked Language Model MLM)]]
 
-![](topics/Concept/Next%20Sentence%20Prediction%20NSP)
+![[topics/Concept/Transformer Architecture)]]
 
-![](topics/Concept/Transformer%20Architecture)
+![[topics/Concept/Next Sentence Prediction NSP)]]

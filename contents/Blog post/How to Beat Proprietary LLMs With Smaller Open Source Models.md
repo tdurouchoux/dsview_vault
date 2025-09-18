@@ -38,16 +38,16 @@ The article discusses the advantages of using open source large language models 
 
 ## Topics
 
-![](topics/Concept/Retrieval%20Augmented%20Generation)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Concept/Chain%20of%20Thought%20CoT)
+![[topics/Concept/Knowledge Distillation)]]
 
-![](topics/Concept/ReAct)
+![[topics/Concept/Quantization)]]
 
-![](topics/Concept/Model%20Quantization)
+![[topics/Concept/Tree of Thoughts ToT)]]
 
-![](topics/Concept/Parameter%20Efficient%20Fine%20Tuning%20PEFT)
+![[topics/Concept/Chain of Thought Prompting)]]
 
-![](topics/Concept/Tree%20of%20Thoughts%20ToT)
+![[topics/Concept/ReAct)]]
 
-![](topics/Concept/Knowledge%20Distillation)
+![[topics/Concept/Parameter Efficient Fine Tuning PEFT)]]

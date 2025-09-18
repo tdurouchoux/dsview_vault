@@ -21,4 +21,4 @@ The TPC-DS is a decision support benchmark designed to evaluate the performance 
 
 ## Topics
 
-![](topics/Concept/TPC%20DS)
+![[topics/Concept/TPC DS)]]

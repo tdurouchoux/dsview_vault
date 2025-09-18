@@ -25,4 +25,4 @@ The Hugging Face Model Context Protocol (MCP) Course, developed in partnership w
 
 ## Topics
 
-![](topics/Concept/Model%20Context%20Protocol)
+![[topics/Concept/Model Context Protocol MCP)]]

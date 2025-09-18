@@ -34,4 +34,4 @@ The guidelines are subjective and may contradict each other, requiring experienc
 
 ## Topics
 
-![](topics/Concept/The%20Zen%20of%20Python)
+![[topics/Concept/The Zen of Python)]]

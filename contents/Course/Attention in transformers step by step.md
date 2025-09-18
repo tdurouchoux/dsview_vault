@@ -38,12 +38,12 @@ The content also mentions that the attention mechanism is just one part of the t
 
 ## Topics
 
-![](topics/Concept/Attention%20Mechanism)
+![[topics/Model/Transformer)]]
 
-![](topics/Model/Transformer)
+![[topics/Concept/Text Embeddings)]]
 
-![](topics/Concept/Embeddings)
+![[topics/Concept/Attention Mechanism)]]
 
-![](topics/Concept/Query%20Key%20and%20Value)
+![[topics/Concept/Multi Head Attention)]]
 
-![](topics/Concept/Multi%20Head%20Attention)
+![[topics/Concept/Query Key and Value)]]

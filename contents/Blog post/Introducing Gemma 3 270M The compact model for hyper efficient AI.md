@@ -44,4 +44,4 @@ Gemma 3 270M is designed to empower developers to build smarter, faster, and mor
 
 ## Topics
 
-![](topics/Model/Gemma)
+![[topics/Model/Gemma)]]

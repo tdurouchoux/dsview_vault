@@ -32,6 +32,6 @@ The framework is well-documented, with a focus on making it easy for users to un
 
 ## Topics
 
-![](topics/Concept/Graph%20of%20Thoughts%20GoT)
+![[topics/Concept/Graph of Operations GoO)]]
 
-![](topics/Concept/Graph%20of%20Operations)
+![[topics/Concept/Graph of Thoughts GoT)]]

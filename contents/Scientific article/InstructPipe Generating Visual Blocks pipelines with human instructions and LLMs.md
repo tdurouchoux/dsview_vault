@@ -23,12 +23,12 @@ InstructPipe is a research prototype that automates the creation of AI pipelines
 
 ## Topics
 
-![](topics/Concept/Visual%20Programming)
+![[topics/Concept/Directed Acyclic Graph DAG)]]
 
-![](topics/Concept/Visual%20Blocks%20for%20ML)
+![[topics/Concept/InstructPipe)]]
 
-![](topics/Concept/InstructPipe)
+![[topics/Concept/Pseudocode)]]
 
-![](topics/Concept/Pseudocode)
+![[topics/Concept/Visual Blocks for ML)]]
 
-![](topics/Concept/Directed%20Acyclic%20Graph%20DAG)
+![[topics/Concept/Visual Programming)]]

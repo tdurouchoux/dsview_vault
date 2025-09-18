@@ -37,12 +37,12 @@ https://juba.github.io/pyobsplot/
 
 ## Topics
 
-![](topics/Library/Observable%20Plot)
+![[topics/Library/polars)]]
 
-![](topics/Library/pyobsplot)
+![[topics/Library/anywidget)]]
 
-![](topics/Library/polars)
+![[topics/Library/typst)]]
 
-![](topics/Library/typst)
+![[topics/Library/pyobsplot)]]
 
-![](topics/Library/anywidget)
+![[topics/Library/Observable Plot)]]

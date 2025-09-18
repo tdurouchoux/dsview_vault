@@ -30,14 +30,14 @@ The content discusses the evolution of data mesh architecture and its potential 
 
 ## Topics
 
-![](topics/Concept/Data%20Mesh)
+![[topics/Platform/AWS Glue)]]
 
-![](topics/Concept/Data%20Product)
+![[topics/Platform/AWS S3)]]
 
-![](topics/Platform/AWS%20S3)
+![[topics/Platform/AWS Athena)]]
 
-![](topics/Platform/AWS%20Glue)
+![[topics/Concept/Data Product)]]
 
-![](topics/Platform/AWS%20LakeFormation)
+![[topics/Concept/Data Mesh)]]
 
-![](topics/Platform/AWS%20Athena)
+![[topics/Platform/AWS LakeFormation)]]

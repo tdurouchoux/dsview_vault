@@ -85,10 +85,10 @@ This summary provides a concise overview of the main technical points and key ta
 
 ## Topics
 
-![](topics/Concept/Rules%20of%20Machine%20Learning)
+![[topics/Concept/Feature Engineering)]]
 
-![](topics/Concept/Training%20Serving%20Skew)
+![[topics/Concept/Training Serving Skew)]]
 
-![](topics/Concept/Ensemble%20Models)
+![[topics/Concept/Rules of Machine Learning)]]
 
-![](topics/Concept/Feature%20Engineering)
+![[topics/Concept/Ensemble Methods)]]

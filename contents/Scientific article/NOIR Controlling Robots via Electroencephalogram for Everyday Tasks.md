@@ -22,10 +22,10 @@ NOIR is a system designed to control robots using electroencephalogram (EEG) sig
 
 ## Topics
 
-![](topics/Concept/Neural%20Signal%20Operated%20Intelligent%20Robots%20NOIR)
+![[topics/Model/R3M)]]
 
-![](topics/Model/OWL%20ViT)
+![[topics/Model/OWL ViT)]]
 
-![](topics/Model/R3M)
+![[topics/Concept/Neural Signal Operated Intelligent Robots NOIR)]]
 
-![](topics/Model/Quadratic%20Discriminant%20Analysis%20QDA)
+![[topics/Model/Quadratic Discriminant Analysis QDA)]]

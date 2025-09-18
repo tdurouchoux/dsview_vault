@@ -39,18 +39,18 @@ The post concludes that probabilistic forecasting models offer significant advan
 
 ## Topics
 
-![](topics/Concept/Probabilistic%20Forecasting)
+![[topics/Library/PyMC)]]
 
-![](topics/Concept/Hierarchical%20Models)
+![[topics/Concept/Censored Likelihoods)]]
 
-![](topics/Concept/Censored%20Likelihoods)
+![[topics/Concept/Calibration and Custom Likelihoods)]]
 
-![](topics/Concept/Availability%20Constrained%20TSB%20Models)
+![[topics/Concept/Hierarchical Price Elasticity Models)]]
 
-![](topics/Concept/Calibration%20and%20Custom%20Likelihoods)
+![[topics/Concept/Hierarchical Models)]]
 
-![](topics/Concept/Hierarchical%20Price%20Elasticity%20Models)
+![[topics/Concept/State Space Models)]]
 
-![](topics/Concept/State%20Space%20Models)
+![[topics/Concept/Availability Constrained TSB Models)]]
 
-![](topics/Library/PyMC)
+![[topics/Concept/Probabilistic Forecasting)]]

@@ -29,4 +29,4 @@ The project also features a Community of Practice for discussions and a monthly 
 
 ## Topics
 
-![](topics/Concept/Green%20Algorithms)
+![[topics/Concept/Green Algorithms)]]

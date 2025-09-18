@@ -24,14 +24,14 @@ This course, offered by Hugging Face, focuses on AI Agents, covering theory, des
 
 ## Topics
 
-![](topics/Concept/Agentic%20RAG)
+![[topics/Concept/LangGraph)]]
 
-![](topics/Concept/Function%20Calling)
+![[topics/Library/LlamaIndex)]]
 
-![](topics/Concept/AI%20Agents)
+![[topics/Concept/Function Calling)]]
 
-![](topics/Library/smolagents)
+![[topics/Concept/AI Agents)]]
 
-![](topics/Library/LlamaIndex)
+![[topics/Library/smolagents)]]
 
-![](topics/Concept/LangGraph)
+![[topics/Concept/Agentic RAG)]]

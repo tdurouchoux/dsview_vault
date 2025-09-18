@@ -30,10 +30,10 @@ Installation is straightforward via pip, with versions available for JupyterLab 
 
 ## Topics
 
-![](topics/Concept/Vector%20Database)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Concept/Embedding%20Model)
+![[topics/Library/LangChain)]]
 
-![](topics/Concept/Retrieval%20Augmented%20Generation)
+![[topics/Concept/Vector Database)]]
 
-![](topics/Concept/LangChain)
+![[topics/Concept/Embedding Models)]]

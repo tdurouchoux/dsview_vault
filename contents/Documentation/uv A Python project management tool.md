@@ -30,4 +30,4 @@ The guide emphasizes the use of uv for managing project dependencies, environmen
 
 ## Topics
 
-![](topics/Tool/uv)
+![[topics/Tool/uv)]]

@@ -22,6 +22,6 @@ The text discusses the evolution of trust in computing, from the infallible "Cal
 
 ## Topics
 
-![](topics/Concept/Retrieval%20Augmented%20Generation)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Concept/Chain%20of%20Thought)
+![[topics/Concept/Chain of Thought Prompting)]]

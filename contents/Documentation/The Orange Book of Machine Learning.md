@@ -84,6 +84,6 @@ Overall, the Orange Book of Machine Learning provides a comprehensive guide to m
 
 ## Topics
 
-![](topics/Concept/AutoML)
+![[topics/Library/DuckDB)]]
 
-![](topics/Library/DuckDB)
+![[topics/Concept/AutoML)]]

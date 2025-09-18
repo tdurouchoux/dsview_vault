@@ -32,10 +32,10 @@ The episode provides insights into Tarush's professional journey, the evolution 
 
 ## Topics
 
-![](topics/Concept/Modern%20Data%20Stack)
+![[topics/Concept/Data Mesh)]]
 
-![](topics/Concept/Data%20Lineage)
+![[topics/Concept/Reverse ETL)]]
 
-![](topics/Concept/Reverse%20ETL)
+![[topics/Concept/Modern Data Stack)]]
 
-![](topics/Concept/Data%20Mesh)
+![[topics/Concept/Provenance Technology)]]

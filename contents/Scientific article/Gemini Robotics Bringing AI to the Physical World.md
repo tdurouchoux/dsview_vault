@@ -23,10 +23,10 @@ Gemini Robotics, a new model from Google DeepMind based on Gemini 2.0, is design
 
 ## Topics
 
-![](topics/Model/Gemini)
+![[topics/Model/Gemini)]]
 
-![](topics/Model/Gemini%20Robotics%20ER)
+![[topics/Model/WeatherNext)]]
 
-![](topics/Model/AlphaFold)
+![[topics/Model/AlphaFold)]]
 
-![](topics/Model/WeatherNext)
+![[topics/Model/Gemini Robotics ER)]]

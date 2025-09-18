@@ -31,10 +31,10 @@ Thepipe uses computer-vision models and heuristics to process content for downst
 
 ## Topics
 
-![](topics/Library/thepipe)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Concept/Vision%20Language%20Models)
+![[topics/Library/thepipe)]]
 
-![](topics/Concept/Chunking)
+![[topics/Concept/Text Chunking)]]
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![[topics/Concept/Vision Language Models)]]

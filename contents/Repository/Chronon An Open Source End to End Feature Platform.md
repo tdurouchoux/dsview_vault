@@ -35,4 +35,4 @@ For more details, refer to the Quickstart Tutorial or the Creating Training Data
 
 ## Topics
 
-![](topics/Platform/Chronon)
+![[topics/Platform/Chronon)]]

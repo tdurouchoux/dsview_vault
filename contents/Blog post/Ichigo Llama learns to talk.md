@@ -56,12 +56,12 @@ The model underwent a three-phase training process:
 
 ## Topics
 
-![](topics/Model/Ichigo)
+![[topics/Library/Torchtune)]]
 
-![](topics/Dataset/AudioBench)
+![[topics/Dataset/AudioBench)]]
 
-![](topics/Concept/Early%20fusion%20Multimodal%20Model)
+![[topics/Model/Ichigo)]]
 
-![](topics/Concept/WhisperVQ)
+![[topics/Concept/WhisperVQ)]]
 
-![](topics/Library/Torchtune)
+![[topics/Concept/Early Fusion)]]

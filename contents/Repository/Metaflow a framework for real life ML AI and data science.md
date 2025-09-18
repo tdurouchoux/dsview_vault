@@ -37,4 +37,4 @@ Metaflow provides extensive resources, including documentation, tutorials, and c
 
 ## Topics
 
-![](topics/Platform/Metaflow)
+![[topics/Platform/Metaflow)]]

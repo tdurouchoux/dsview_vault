@@ -33,16 +33,16 @@ The dataset and analysis code have been open-sourced for further exploration and
 
 ## Topics
 
-![](topics/Concept/Search%20Augmented%20LLM%20Systems)
+![[topics/Concept/Citation Style)]]
 
-![](topics/Concept/Crowdsourced%20Evaluation)
+![[topics/Concept/Citation Count)]]
 
-![](topics/Concept/Human%20Preference)
+![[topics/Concept/Search Augmented LLM Systems)]]
 
-![](topics/Concept/Citation%20Style)
+![[topics/Concept/Human Preference)]]
 
-![](topics/Concept/Bradley%20Terry%20Model)
+![[topics/Concept/Crowdsourced Evaluation)]]
 
-![](topics/Concept/Response%20Length)
+![[topics/Concept/Bradley Terry Model)]]
 
-![](topics/Concept/Citation%20Count)
+![[topics/Concept/Response Length)]]

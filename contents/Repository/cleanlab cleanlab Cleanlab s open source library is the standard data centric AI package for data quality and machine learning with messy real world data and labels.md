@@ -34,4 +34,4 @@ The library is backed by peer-reviewed research and offers example notebooks, a 
 
 ## Topics
 
-![](topics/Library/cleanlab)
+![[topics/Library/cleanlab)]]

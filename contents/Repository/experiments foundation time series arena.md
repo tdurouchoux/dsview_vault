@@ -35,4 +35,4 @@ Overall, this repository is a valuable resource for data scientists and research
 
 ## Topics
 
-![](topics/Concept/Foundation%20Time%20Series%20Arena)
+![[topics/Concept/Foundation Time Series Arena)]]

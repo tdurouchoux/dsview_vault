@@ -28,6 +28,6 @@ The choice between the two depends on specific needs: Pandera is suitable for qu
 
 ## Topics
 
-![](topics/Library/Pandera)
+![[topics/Library/Pandera)]]
 
-![](topics/Library/Great%20Expectations)
+![[topics/Library/Great Expectations)]]

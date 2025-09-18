@@ -32,12 +32,12 @@ Pointblank is licensed under the MIT license and is maintained by Rich Iannone, 
 
 ## Topics
 
-![](topics/Library/Pointblank)
+![[topics/Library/DuckDB)]]
 
-![](topics/Library/polars)
+![[topics/Library/polars)]]
 
-![](topics/Library/Pandas)
+![[topics/Library/Ibis)]]
 
-![](topics/Library/Ibis)
+![[topics/Library/Pandas)]]
 
-![](topics/Library/DuckDB)
+![[topics/Library/Pointblank)]]

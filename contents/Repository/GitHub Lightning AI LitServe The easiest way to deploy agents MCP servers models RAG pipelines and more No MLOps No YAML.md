@@ -23,10 +23,10 @@ LitServe is a deployment tool for AI models and systems, emphasizing simplicity 
 
 ## Topics
 
-![](topics/Tool/LitServe)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Concept/Multi%20GPU%20Autoscaling)
+![[topics/Tool/LitServe)]]
 
-![](topics/Concept/Batching%20and%20Streaming)
+![[topics/Concept/Batching and Streaming)]]
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![[topics/Concept/Multi GPU Autoscaling)]]

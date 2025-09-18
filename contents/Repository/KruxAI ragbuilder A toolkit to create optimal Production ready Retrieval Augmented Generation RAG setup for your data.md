@@ -76,14 +76,14 @@ print(results.summary())
 
 ## Topics
 
-![](topics/Tool/RagBuilder)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Concept/Hyperparameter%20Tuning)
+![[topics/Concept/Text Chunking)]]
 
-![](topics/Concept/Bayesian%20Optimization)
+![[topics/Concept/Bayesian Optimization)]]
 
-![](topics/Concept/Graph%20Retriever)
+![[topics/Tool/RagBuilder)]]
 
-![](topics/Concept/Chunking)
+![[topics/Concept/Hyperparameter Tuning)]]
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![[topics/Concept/Graph Retriever)]]

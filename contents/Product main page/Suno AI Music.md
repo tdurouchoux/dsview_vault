@@ -20,4 +20,4 @@ Suno AI Music is a tool that enables users to create music by describing it in t
 
 ## Topics
 
-![](topics/Concept/AI%20Music)
+![[topics/Concept/AI Music)]]

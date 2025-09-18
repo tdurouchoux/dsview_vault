@@ -42,6 +42,6 @@ In summary, Ibis is a powerful tool for data manipulation and analysis, offering
 
 ## Topics
 
-![](topics/Library/SQLGlot)
+![[topics/Library/Ibis)]]
 
-![](topics/Library/Ibis)
+![[topics/Library/SQLGlot)]]

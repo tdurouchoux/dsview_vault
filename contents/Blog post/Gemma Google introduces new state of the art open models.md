@@ -31,8 +31,8 @@ Google encourages developers and researchers to explore Gemma and looks forward 
 
 ## Topics
 
-![](topics/Model/Gemma)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Concept/Reinforcement%20Learning%20from%20Human%20Feedback%20RLHF)
+![[topics/Concept/Reinforcement Learning from Human Feedback RLHF)]]
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![[topics/Model/Gemma)]]

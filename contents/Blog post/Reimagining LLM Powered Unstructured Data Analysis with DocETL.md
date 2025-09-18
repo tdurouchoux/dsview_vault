@@ -31,4 +31,4 @@ DocETL is available for exploration and contribution via its demo, GitHub reposi
 
 ## Topics
 
-![](topics/Tool/DocETL)
+![[topics/Tool/DocETL)]]

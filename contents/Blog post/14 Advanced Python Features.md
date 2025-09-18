@@ -54,24 +54,24 @@ The article concludes with a reminder that metaclasses are advanced and often un
 
 ## Topics
 
-![](topics/Concept/Typing%20Overloads)
+![[topics/Concept/Context Managers)]]
 
-![](topics/Concept/Keyword%20only%20and%20Positional%20only%20Arguments)
+![[topics/Concept/Typing Overloads)]]
 
-![](topics/Concept/Future%20Annotations)
+![[topics/Concept/Future Annotations)]]
 
-![](topics/Concept/Generics)
+![[topics/Concept/Advanced f string String Formatting)]]
 
-![](topics/Concept/Protocols)
+![[topics/Concept/Keyword only and Positional only Arguments)]]
 
-![](topics/Concept/Context%20Managers)
+![[topics/Concept/Python Slots)]]
 
-![](topics/Concept/Structural%20Pattern%20Matching)
+![[topics/Concept/Python Nitpicks)]]
 
-![](topics/Concept/Python%20Slots)
+![[topics/Concept/Protocols)]]
 
-![](topics/Concept/Python%20Nitpicks)
+![[topics/Concept/Generics)]]
 
-![](topics/Concept/Advanced%20f%20string%20String%20Formatting)
+![[topics/Concept/Cache lru_cache)]]
 
-![](topics/Concept/Cache%20lru_cache)
+![[topics/Concept/Structural Pattern Matching)]]

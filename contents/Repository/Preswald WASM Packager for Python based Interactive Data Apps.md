@@ -52,12 +52,12 @@ Preswald is licensed under the Apache 2.0 License and has a community-driven dev
 
 ## Topics
 
-![](topics/Platform/Preswald)
+![[topics/Library/Matplotlib)]]
 
-![](topics/Concept/Pyodide)
+![[topics/Library/DuckDB)]]
 
-![](topics/Library/DuckDB)
+![[topics/Concept/Pyodide)]]
 
-![](topics/Library/Plotly)
+![[topics/Library/Plotly)]]
 
-![](topics/Library/Matplotlib)
+![[topics/Platform/Preswald)]]

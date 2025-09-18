@@ -32,6 +32,6 @@ The document concludes that while reasoning models are more capable, their CoT o
 
 ## Topics
 
-![](topics/Concept/Chain%20of%20Thought%20CoT%20Reasoning)
+![[topics/Concept/Reward Hacking)]]
 
-![](topics/Concept/Reward%20Hacking)
+![[topics/Concept/Chain of Thought CoT Reasoning)]]

@@ -37,16 +37,16 @@ LDR is open-source under the MIT license and includes comprehensive documentatio
 
 ## Topics
 
-![](topics/Tool/Local%20Deep%20Research)
+![[topics/Concept/Retrieval Augmented Generation RAG)]]
 
-![](topics/Tool/SearXNG)
+![[topics/Library/LangChain)]]
 
-![](topics/Tool/FAISS)
+![[topics/Tool/Ollama)]]
 
-![](topics/Concept/Retrieval%20Augmented%20Generation)
+![[topics/Tool/SearXNG)]]
 
-![](topics/Concept/Focused%20Iteration)
+![[topics/Tool/FAISS)]]
 
-![](topics/Tool/Ollama)
+![[topics/Tool/Local Deep Research)]]
 
-![](topics/Library/LangChain)
+![[topics/Concept/Focused Iteration)]]

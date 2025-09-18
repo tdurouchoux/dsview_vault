@@ -22,22 +22,22 @@ The content discusses advancements in recommendation systems and search, particu
 
 ## Topics
 
-![](topics/Concept/Semantic%20IDs)
+![[topics/Concept/Knowledge Distillation)]]
 
-![](topics/Concept/Multimodal%20Content%20Embeddings)
+![[topics/Concept/PrepRec Pretrained Recommendation)]]
 
-![](topics/Concept/FLIP%20Fine%20Grained%20Alignment%20between%20ID%20Based%20Models%20and%20Pretrained%20Language%20Models)
+![[topics/Concept/beeFormer)]]
 
-![](topics/Concept/beeFormer)
+![[topics/Concept/Scaling Laws in Recommendation Systems)]]
 
-![](topics/Concept/CALRec%20Contrastive%20Alignment%20of%20Generative%20LLMs%20for%20Sequential%20Recommendation)
+![[topics/Concept/Multimodal Content Embeddings)]]
 
-![](topics/Concept/EmbSum%20Embedding%20Summarization)
+![[topics/Concept/FLIP Fine Grained Alignment between ID Based Models and Pretrained Language Models)]]
 
-![](topics/Concept/Scaling%20Laws%20in%20Recommendation%20Systems)
+![[topics/Concept/CALRec Contrastive Alignment of Generative LLMs for Sequential Recommendation)]]
 
-![](topics/Concept/PrepRec%20Pretrained%20Recommendation)
+![[topics/Concept/E CDCTR Efficient Cross Domain Click Through Rate Prediction)]]
 
-![](topics/Concept/E%20CDCTR%20Efficient%20Cross%20Domain%20Click%20Through%20Rate%20Prediction)
+![[topics/Concept/Semantic IDs)]]
 
-![](topics/Concept/Knowledge%20Distillation)
+![[topics/Concept/EmbSum Embedding Summarization)]]

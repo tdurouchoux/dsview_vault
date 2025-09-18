@@ -33,10 +33,10 @@ The document concludes that the era of experience will unlock new capabilities s
 
 ## Topics
 
-![](topics/Concept/World%20Models)
+![[topics/Concept/Reinforcement Learning)]]
 
-![](topics/Concept/Temporal%20Abstraction)
+![[topics/Concept/Temporal Abstraction)]]
 
-![](topics/Concept/Grounded%20Rewards)
+![[topics/Concept/World Models)]]
 
-![](topics/Concept/Reinforcement%20Learning)
+![[topics/Concept/Grounded Rewards)]]

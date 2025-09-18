@@ -30,18 +30,18 @@ The article also briefly mentions the Sciagraph profiler for identifying perform
 
 ## Topics
 
-![](topics/Library/NumPy)
+![[topics/Library/Ruff)]]
 
-![](topics/Library/Scikit%20Learn)
+![[topics/Library/Scikit Learn)]]
 
-![](topics/Library/Scikit%20Image)
+![[topics/Library/Pandas)]]
 
-![](topics/Library/Astropy)
+![[topics/Library/SciPy)]]
 
-![](topics/Library/Sciagraph)
+![[topics/Library/Astropy)]]
 
-![](topics/Library/Pandas)
+![[topics/Library/NumPy)]]
 
-![](topics/Library/SciPy)
+![[topics/Library/Sciagraph)]]
 
-![](topics/Library/Ruff)
+![[topics/Library/Scikit Image)]]

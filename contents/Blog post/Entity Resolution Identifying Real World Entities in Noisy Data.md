@@ -47,4 +47,4 @@ Entity Resolution: Identifying Real-World Entities in Noisy Data
 
 ## Topics
 
-![](topics/Concept/Entity%20Resolution)
+![[topics/Concept/Entity Resolution)]]

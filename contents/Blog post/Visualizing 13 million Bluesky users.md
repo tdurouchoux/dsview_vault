@@ -29,16 +29,16 @@ The visualization is enhanced with color, using k-means clustering and interpola
 
 ## Topics
 
-![](topics/Tool/Andromeda)
+![[topics/Concept/UMAP)]]
 
-![](topics/Concept/Force%20directed%20graph%20layout)
+![[topics/Model/GGVec)]]
 
-![](topics/Concept/Barnes%20Hut%20optimization)
+![[topics/Tool/Andromeda)]]
 
-![](topics/Concept/Node%20Embeddings)
+![[topics/Concept/Natural Slider)]]
 
-![](topics/Concept/Natural%20Slider)
+![[topics/Concept/Force directed graph layout)]]
 
-![](topics/Concept/UMAP)
+![[topics/Concept/Barnes Hut optimization)]]
 
-![](topics/Model/GGVec)
+![[topics/Concept/Node Embeddings)]]

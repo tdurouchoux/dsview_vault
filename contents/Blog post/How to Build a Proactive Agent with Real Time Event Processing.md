@@ -31,12 +31,12 @@ The article emphasizes the efficiency and cost-effectiveness of using streaming 
 
 ## Topics
 
-![](topics/Concept/Proactive%20Agent)
+![[topics/Platform/RisingWave)]]
 
-![](topics/Concept/Real%20Time%20Event%20Processing)
+![[topics/Concept/Materialized View)]]
 
-![](topics/Platform/RisingWave)
+![[topics/Concept/Real Time Event Processing)]]
 
-![](topics/Concept/Event%20Driven%20Architecture)
+![[topics/Concept/Proactive Agent)]]
 
-![](topics/Concept/Materialized%20View)
+![[topics/Concept/Event Driven Architecture)]]

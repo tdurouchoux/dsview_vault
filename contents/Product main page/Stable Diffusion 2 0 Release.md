@@ -33,10 +33,10 @@ The model is optimized to run on a single GPU, promoting accessibility and open-
 
 ## Topics
 
-![](topics/Model/Stable%20Diffusion)
+![[topics/Dataset/LAION 5B)]]
 
-![](topics/Model/depth2img)
+![[topics/Model/CLIP)]]
 
-![](topics/Model/CLIP)
+![[topics/Model/Stable Diffusion)]]
 
-![](topics/Dataset/LAION%205B)
+![[topics/Model/depth2img)]]

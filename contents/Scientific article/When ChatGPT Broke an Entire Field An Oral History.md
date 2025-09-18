@@ -41,14 +41,14 @@ The article concludes with reflections on the future of NLP and AI, highlighting
 
 ## Topics
 
-![](topics/Concept/BERTology)
+![[topics/Model/Transformer)]]
 
-![](topics/Concept/Benchmark%20Boom)
+![[topics/Concept/BERTology)]]
 
-![](topics/Concept/Understanding%20Wars)
+![[topics/Concept/Understanding Wars)]]
 
-![](topics/Concept/API%20Science)
+![[topics/Concept/API Science)]]
 
-![](topics/Concept/LLM%20ology)
+![[topics/Concept/Benchmark Boom)]]
 
-![](topics/Model/Transformer)
+![[topics/Concept/LLM ology)]]

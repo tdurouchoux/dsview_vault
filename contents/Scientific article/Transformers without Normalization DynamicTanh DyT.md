@@ -23,12 +23,12 @@ Key findings include the observation that layer normalization in Transformers ge
 
 ## Topics
 
-![](topics/Concept/Dynamic%20Tanh%20DyT)
+![[topics/Concept/Dynamic Tanh DyT)]]
 
-![](topics/Model/Vision%20Transformer)
+![[topics/Model/Vision Transformer)]]
 
-![](topics/Model/wav2vec%202%200)
+![[topics/Model/wav2vec 2 0)]]
 
-![](topics/Model/Diffusion%20Transformer%20DiT)
+![[topics/Model/LLaMA)]]
 
-![](topics/Model/LLaMA)
+![[topics/Model/Diffusion Transformer DiT)]]

@@ -32,8 +32,8 @@ The model builds on Gemini's strengths, offering improved performance and contex
 
 ## Topics
 
-![](topics/Model/Gemini%202%205)
+![[topics/Concept/Reinforcement Learning)]]
 
-![](topics/Model/Gemini%202%205%20Pro%20Experimental)
+![[topics/Model/Gemini 2 5 Pro Experimental)]]
 
-![](topics/Concept/Reinforcement%20Learning)
+![[topics/Model/Gemini 2 5)]]

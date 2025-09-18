@@ -38,14 +38,14 @@ The article emphasizes the need for better transparency and planning to manage A
 
 ## Topics
 
-![](topics/Concept/AI%20Energy%20Footprint)
+![[topics/Concept/AI Agents)]]
 
-![](topics/Concept/AI%20Inference)
+![[topics/Concept/AI Energy Footprint)]]
 
-![](topics/Concept/AI%20Data%20Centers)
+![[topics/Concept/AI Energy Transparency)]]
 
-![](topics/Concept/AI%20Energy%20Efficiency)
+![[topics/Concept/AI Data Centers)]]
 
-![](topics/Concept/AI%20Energy%20Transparency)
+![[topics/Concept/AI Energy Efficiency)]]
 
-![](topics/Concept/AI%20Agents)
+![[topics/Concept/AI Inference)]]

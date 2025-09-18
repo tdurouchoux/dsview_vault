@@ -36,8 +36,8 @@ Marimo is designed to be a comprehensive tool that replaces multiple existing to
 
 ## Topics
 
-![](topics/Platform/marimo)
+![[topics/Platform/marimo)]]
 
-![](topics/Concept/Reactive%20Programming)
+![[topics/Concept/Dataflow Programming)]]
 
-![](topics/Concept/Dataflow%20Programming)
+![[topics/Concept/Reactive Programming)]]

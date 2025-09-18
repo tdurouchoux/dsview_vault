@@ -23,22 +23,22 @@ In 2024, significant advancements were made in the field of Large Language Model
 
 ## Topics
 
-![](topics/Model/GPT%204)
+![[topics/Concept/Synthetic Data)]]
 
-![](topics/Model/Gemini)
+![[topics/Model/Gemini)]]
 
-![](topics/Model/Claude%203%20Series)
+![[topics/Model/Claude 3 Series)]]
 
-![](topics/Model/Qwen2%205%20Coder%2032B)
+![[topics/Model/DeepSeek v3)]]
 
-![](topics/Model/Llama%203%203%2070B)
+![[topics/Model/GPT 4)]]
 
-![](topics/Model/o1%20Models)
+![[topics/Concept/Slop)]]
 
-![](topics/Model/DeepSeek%20v3)
+![[topics/Model/Qwen2 5 Coder 32B)]]
 
-![](topics/Concept/Inference%20scaling%20reasoning%20models)
+![[topics/Model/Llama 4)]]
 
-![](topics/Concept/Synthetic%20Data)
+![[topics/Concept/Inference scaling reasoning models)]]
 
-![](topics/Concept/Slop)
+![[topics/Model/o1 Models)]]

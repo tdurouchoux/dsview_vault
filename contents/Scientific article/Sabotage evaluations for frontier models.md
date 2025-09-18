@@ -30,12 +30,12 @@ The evaluations are designed to anticipate risks in future, more capable AI mode
 
 ## Topics
 
-![](topics/Concept/Sabotage%20Evaluations)
+![[topics/Concept/Undermining Oversight)]]
 
-![](topics/Concept/Human%20Decision%20Sabotage)
+![[topics/Concept/Sandbagging)]]
 
-![](topics/Concept/Code%20Sabotage)
+![[topics/Concept/Human Decision Sabotage)]]
 
-![](topics/Concept/Sandbagging)
+![[topics/Concept/Code Sabotage)]]
 
-![](topics/Concept/Undermining%20Oversight)
+![[topics/Concept/Sabotage Evaluations)]]
