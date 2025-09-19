@@ -1,0 +1,5 @@
+---
+type: Tool
+---
+
+Bytebot is an open-source AI desktop agent designed to automate tasks by mimicking human interactions with a computer. It operates within a containerized Linux desktop environment, allowing it to use any application, navigate websites, and complete complex multi-step workflows through natural language commands. Bytebot is capable of handling tasks such as financial operations, customer onboarding, HR operations, document processing, quality assurance, data entry, and web automation. It supports multiple AI providers, including Anthropic Claude, OpenAI GPT Models, Google Gemini, and LiteLLM Proxy, and can be integrated with existing automation infrastructure. Bytebot is self-hosted, ensuring data security and control, and can be deployed on various platforms like Docker, Railway, AWS, GCP, and Azure.
