@@ -37,6 +37,6 @@ The initiative is a collaboration between Google DeepMind and Google Research, w
 
 ![[topics/Dataset/FACTS Grounding Dataset]]
 
-![[topics/Concept/Hallucination in LLMs]]
+![[topics/Concept/Hallucination in Language Models]]
 
 ![[topics/Concept/LLM Judges]]
