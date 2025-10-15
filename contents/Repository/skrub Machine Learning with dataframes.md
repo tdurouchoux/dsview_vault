@@ -43,6 +43,6 @@ The library aims to reduce the amount of code needed for data preprocessing and 
 
 ![[topics/Concept/Data Preprocessing]]
 
-![[topics/Concept/Data Exploration]]
+![[topics/Concept/Exploratory Data Analysis EDA]]
 
 ![[topics/Concept/Data Cleaning]]

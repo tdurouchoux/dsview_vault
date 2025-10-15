@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Exploratory Data Analysis (EDA) is a crucial preliminary step in data analysis that involves summarizing the main characteristics of a dataset, often with visual methods. It helps in identifying patterns, spotting anomalies, testing hypotheses, and checking assumptions with the help of summary statistics and graphical representations. In the context of the provided text, EDA is emphasized beyond basic checks to include more in-depth analysis such as train vs. test distribution checks and analyzing the target variable for temporal patterns. These deeper insights are critical for building robust models that perform well in real-world scenarios. This process of analyzing and visualizing data to understand its structure, patterns, and relationships helps in identifying trends, anomalies, and insights that can guide further analysis or modeling.

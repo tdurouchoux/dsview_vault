@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Ensembling is a machine learning technique that combines the predictions of multiple models to improve the overall performance and robustness of the final prediction. The idea is that a group of weak learners can come together to form a strong learner. Techniques like hill climbing, stacking, bagging and boosting are specific methods of ensembling. Hill climbing involves iteratively adding models to an ensemble if they improve validation performance, while stacking involves training a higher-level model on the outputs of base models. Ensembling helps capture complementary strengths across different models, often leading to better performance than any single model. Ensembles are particularly effective when the individual models make uncorrelated errors, leading to better generalization and robustness. They are widely used in time series forecasting and other predictive modeling tasks, and can reduce variance, bias, and improve predictions by leveraging the strengths of different models. Ensembles are particularly useful when dealing with complex datasets and can lead to more robust and accurate predictions.
