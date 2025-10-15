@@ -43,6 +43,6 @@ The author also shares personal reasons for joining Cohere, including the compan
 
 ![[topics/Concept/Red Teaming]]
 
-![[topics/Concept/Pre training]]
+![[topics/Concept/Pretraining]]
 
 ![[topics/Concept/LLM Alignment]]

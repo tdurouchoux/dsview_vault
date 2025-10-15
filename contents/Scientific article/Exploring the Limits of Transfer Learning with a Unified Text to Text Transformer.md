@@ -30,7 +30,7 @@ The text-to-text framework is a simple way to train a single model on a wide var
 
 ![[topics/Concept/Self Attention]]
 
-![[topics/Concept/Pre training]]
+![[topics/Concept/Pretraining]]
 
 ![[topics/Concept/Denoising Objective]]
 

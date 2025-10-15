@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Pretraining or pre-training refers to the initial phase of training a machine learning model, particularly in the context of language models, where the model is trained on a large dataset to learn general patterns and representations. This phase is typically followed by fine-tuning, where the model is further trained on a specific task or dataset to improve its performance. Pretraining helps the model to develop a broad understanding of the language, which can be leveraged for various downstream tasks. In the context of NLP, pre-training has been a significant breakthrough, enabling models to achieve state-of-the-art performance on various tasks. This initial training step is crucial for the subsequent fine-tuning and reinforcement learning stages in RLHF. Pretraining can be done using various objectives, such as next token prediction, and can be fine-tuned on additional data to improve performance on specific tasks.
