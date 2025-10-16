@@ -1,0 +1,5 @@
+---
+type: Library
+---
+
+Reflex is a library to build full-stack web apps in pure Python. It allows developers to write both the frontend and backend of their applications entirely in Python, eliminating the need to learn JavaScript. Reflex is designed to be flexible, scalable, and easy to deploy, making it suitable for a wide range of web development tasks. The library includes over 60 built-in components and supports custom component creation, providing developers with the tools they need to build complex and interactive web applications. ReactPy is a Python package for building user interfaces (UI) without JavaScript. It allows developers to create interfaces using small, reusable components, similar to ReactJS. ReactPy interfaces can be built for various backends, such as Flask, FastAPI, Sanic, Tornado, Django, Jupyter, and Plotly-Dash. Basically, anything you can build in ReactJS can be built in ReactPy. Most of the React features like state management, hooks, components and others are already implemented in ReactPy.
