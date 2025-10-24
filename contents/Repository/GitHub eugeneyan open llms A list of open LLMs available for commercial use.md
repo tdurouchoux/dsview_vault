@@ -26,7 +26,7 @@ The content is a GitHub repository named "open-llms" curated by eugeneyan, which
 
 ![[topics/Concept/Open LLMs]]
 
-![[topics/Concept/Open LLM Datasets]]
+![[topics/Concept/Open Data]]
 
 ![[topics/Concept/Instruction Tuned LLMs]]
 

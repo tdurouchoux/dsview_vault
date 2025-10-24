@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Open Data refers to the practice of making data freely available to the public, without restrictions from copyright, patents, or other control mechanisms. It is often used to promote transparency, accountability, and innovation by allowing individuals and organizations to access, use, and share data for various purposes, including research, development, and decision-making. Open LLM Datasets are collections of data specifically curated and made available for training large language models. These datasets often include a variety of text sources, such as books, articles, websites, and other digital content, to provide a comprehensive and diverse training ground for LLMs. They are released under licenses that allow for open access and use, facilitating the development of new models and research in the field of natural language processing.
