@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+SwiGLU (Swish-Gated Linear Unit) is a variant of the feed-forward module in transformer-based models that combines the Swish activation function with a gated linear unit (GLU) architecture. It replaces the traditional feed-forward layers with a more complex structure involving three fully connected layers. SwiGLU is designed to improve the expressivity of the model by introducing a multiplicative interaction, which can enhance performance. Despite having more layers, SwiGLU typically results in fewer parameters than traditional feed-forward layers because the weight layers are usually chosen to be half the size of the traditional feed-forward layer's weights. This makes SwiGLU more efficient and effective in modern large language models (LLMs). It combines the benefits of the Gated Linear Unit (GLU) with a switch mechanism, allowing the model to dynamically control the flow of information. This can lead to improved performance and efficiency in tasks involving complex data.
