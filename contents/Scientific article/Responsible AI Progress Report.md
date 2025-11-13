@@ -43,7 +43,7 @@ The report concludes with a commitment to continuous improvement and collaborati
 
 ## Topics
 
-![[topics/Concept/Responsible AI]]
+![[topics/Concept/AI Safety]]
 
 ![[topics/Concept/Red Teaming]]
 
