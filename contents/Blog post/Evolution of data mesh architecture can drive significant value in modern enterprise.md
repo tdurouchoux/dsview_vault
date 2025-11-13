@@ -36,7 +36,7 @@ The content discusses the evolution of data mesh architecture and its potential 
 
 ![[topics/Platform/AWS Athena]]
 
-![[topics/Concept/Data Product]]
+![[topics/Concept/Data as a Product]]
 
 ![[topics/Concept/Data Mesh]]
 
