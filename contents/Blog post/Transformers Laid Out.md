@@ -37,6 +37,6 @@ The blog provides a comprehensive guide to understanding and implementing transf
 
 ![[topics/Concept/Layer Normalization]]
 
-![[topics/Concept/Masked Attention]]
+![[topics/Concept/Masked Self Attention]]
 
 ![[topics/Concept/Feed Forward Network]]
