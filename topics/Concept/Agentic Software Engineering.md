@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Agentic software engineering refers to the emerging field where AI systems are not just passive tools but active collaborators in the software development process. These AI agents can plan, execute, and iterate on solutions with increasing autonomy. They can understand tasks, take initiative to solve problems, and even interact with development environments, such as launching browsers, running tests, and implementing fixes. This approach aims to create a symbiotic relationship between human developers and AI, where the AI handles routine and complex tasks while the human focuses on high-level design, quality assurance, and user experience. Agentic coding refers to the use of AI agents to perform coding tasks autonomously or semi-autonomously. These agents can understand and execute coding tasks, interact with development tools, and collaborate with developers to enhance productivity. Agentic coding tools like Claude Code can handle complex codebases, plan code changes, and perform full-stack updates, making them valuable for software development.
