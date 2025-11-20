@@ -32,7 +32,7 @@ Key takeaways:
 
 ## Topics
 
-![[topics/Concept/Nondeterminism in LLM Inference]]
+![[topics/Concept/Nondeterminism in Machine Learning]]
 
 ![[topics/Concept/Floating point non associativity]]
 
