@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+In-context learning (ICL) is a technique that allows models to adapt to new tasks or data without additional training. It involves providing the model with a few examples within the input context, enabling it to learn and generalize from these examples to make predictions or perform tasks. ICL is particularly useful in scenarios where labeled data is scarce or when quick adaptation to new tasks is required. In the context of Chronos-2, ICL enables the model to handle arbitrary forecasting tasks, including univariate, multivariate, and covariate-informed forecasting, without the need for task-specific training. This technique helps models generate more accurate and relevant outputs by leveraging contextual information, such as business-specific examples or SQL dialect-specific examples.

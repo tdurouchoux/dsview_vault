@@ -1,0 +1,5 @@
+---
+type: Model
+---
+
+Time Series Foundation Models (TSFMs) are advanced models trained on large-scale time series data to provide a foundation for various forecasting tasks. Unlike traditional statistical models or task-specific deep learning models, TSFMs are designed to be versatile and applicable across a wide range of forecasting problems. They are trained once on diverse time series data and can then be applied to different forecasting scenarios without the need for task-specific training. TSFMs aim to capture the underlying patterns and dependencies in time series data, enabling accurate and reliable forecasts across various domains and applications. TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. It is designed to handle various forecasting tasks and has undergone several updates, including a reduction in parameters and an increase in context length. The model supports continuous quantile forecasting and has been integrated into Google's BigQuery as an official product.
