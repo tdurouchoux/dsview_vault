@@ -36,7 +36,7 @@ The research underscores the potential of AI in healthcare, emphasizing responsi
 
 ## Topics
 
-![[topics/Model/Gemini 2 5]]
+![[topics/Model/Gemini]]
 
 ![[topics/Model/AMIE]]
 
