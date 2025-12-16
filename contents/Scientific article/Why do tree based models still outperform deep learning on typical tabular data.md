@@ -37,6 +37,6 @@ The document aims to stimulate research and provide a foundation for developing 
 
 ![[topics/Model/XGBoost]]
 
-![[topics/Model/Random Forests]]
+![[topics/Model/Random Forest]]
 
 ![[topics/Concept/Tabular Data]]
