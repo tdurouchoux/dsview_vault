@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Data wrangling is the process of cleaning, structuring, and enriching raw data into a desired format for better decision-making within organizations. It involves transforming messy, complex data into actionable insights. Data wrangling also includes identifying and correcting errors and inconsistencies in a dataset, such as removing duplicates, handling missing values, standardizing formats, and correcting inaccuracies. It is a critical step in the data preparation process, ensuring that the data used for analysis is accurate, consistent, and reliable. Effective data wrangling can significantly improve the quality of the insights derived from the data. It is often labor-intensive and requires a combination of automated tools and human judgment to ensure accuracy and consistency.
