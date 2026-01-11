@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Data leakage is a problem that occurs during the training and evaluation of machine learning models when information from outside the training dataset is used to create the model. This can happen in various ways, such as when the model is trained on data that includes information from the test set, or when the model is trained on data that includes information that would not be available at the time of prediction. Data leakage can lead to overly optimistic estimates of model performance and can result in models that do not generalize well to new, unseen data. To prevent data leakage, it is important to carefully preprocess the data, ensure that the training and test sets are properly separated, and avoid using any information that would not be available at the time of prediction.

@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Upsampling is a technique used in machine learning and signal processing to increase the number of samples in a dataset, particularly in the case of imbalanced datasets. In imbalanced datasets, some classes may have significantly fewer samples than others, which can lead to biased and poor-performing models. Upsampling involves creating new samples from the minority class by replicating existing samples or using more sophisticated techniques, such as interpolation or generative models, to create synthetic samples. The goal of upsampling is to balance the class distribution in the dataset, which can help improve the performance of machine learning models, particularly for the minority class. Upsampling is often used in conjunction with downsampling, which involves reducing the number of samples in the majority class, to achieve a more balanced dataset.

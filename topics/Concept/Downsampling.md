@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Downsampling is a technique used in machine learning and signal processing to reduce the number of samples in a dataset, particularly in the case of imbalanced datasets. In imbalanced datasets, some classes may have significantly more samples than others, which can lead to biased and poor-performing models. Downsampling involves randomly selecting a subset of samples from the majority class to reduce its size and achieve a more balanced class distribution. The goal of downsampling is to prevent the model from being biased towards the majority class and to improve its performance on the minority class. Downsampling is often used in conjunction with upsampling, which involves increasing the number of samples in the minority class, to achieve a more balanced dataset. However, downsampling can result in the loss of potentially useful information, so it should be used with caution and in combination with other techniques, such as cross-validation, to ensure the robustness of the model.

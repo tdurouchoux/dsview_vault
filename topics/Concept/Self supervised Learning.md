@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Self-supervised learning is a type of machine learning where the model trains itself to learn useful representations of the data without the need for explicit human-labeled data. In self-supervised learning, the model generates its own labels from the data itself, typically by using a pretext task that is designed to capture useful structure in the data. For example, in natural language processing, a common pretext task is to predict missing words in a sentence, while in computer vision, it might involve predicting the rotation or colorization of an image. The goal of self-supervised learning is to learn representations that are useful for downstream tasks, such as classification or regression, by leveraging the inherent structure of the data. Self-supervised learning has gained significant attention in recent years due to its ability to learn useful representations from large amounts of unlabeled data, which is often more readily available than labeled data.
