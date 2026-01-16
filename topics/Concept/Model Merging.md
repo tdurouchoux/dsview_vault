@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Model merging involves combining multiple pre-trained models to create a new model without fine-tuning. Techniques like SLERP, DARE, and TIES are used to merge models, leveraging the strengths of each to improve performance and capabilities.
+Model merging is a technique where the layers of different AI models are combined to improve their performance. For example, the weights of the layers of two models can be averaged to create a new model with better performance. Model merging allows to leverage the strengths of several models to create a more robust and performant model. Techniques like SLERP, DARE, and TIES are used to merge models.
