@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Prompt injection is a security vulnerability in which an attacker manipulates the input prompts of an AI system to alter its behavior or extract sensitive information. This can occur when the AI system processes untrusted input data, leading to unintended actions or data breaches. Prompt injection is a growing concern in the field of AI security, as it can compromise the integrity and confidentiality of AI applications. Prompt injection attacks are a type of cyberattack where malicious actors attempt to manipulate AI models by smuggling deceptive instructions into the input prompts. These attacks aim to fool the model into exhibiting harmful or unintended behavior. Claude Opus 4.5 is designed to be robust against such attacks, making it harder to trick the model compared to other frontier models.

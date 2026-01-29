@@ -29,6 +29,6 @@ Claude Opus 4.5, the latest model from Anthropic, is now available and excels in
 
 ![[topics/Concept/Effort Parameter]]
 
-![[topics/Concept/Prompt Injection Attacks]]
+![[topics/Concept/Prompt Injection]]
 
 ![[topics/Tool/Claude Code]]
