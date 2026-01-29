@@ -34,7 +34,7 @@ The content concludes with a disclaimer emphasizing that the models are not inte
 
 ## Topics
 
-![[topics/Model/MedGemma 1 5 4B]]
+![[topics/Model/MedGemma]]
 
 ![[topics/Model/MedASR]]
 
