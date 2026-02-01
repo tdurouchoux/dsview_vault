@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Ethical AI and AI Safety refer to the practice of developing and deploying artificial intelligence systems in a manner that is transparent, fair, and respectful of human rights. This involves considering the ethical implications of AI systems, ensuring that they are designed to minimize harm, and that they are used in a way that respects the dignity and autonomy of individuals. The Caf's approach to the DMDE 2026 model includes a commitment to ethical AI, with a focus on transparency, reducing the risk of bias, and establishing an ethics committee to oversee the use of the model. AI safety and Responsible AI involve the study and implementation of measures to ensure that artificial intelligence systems operate safely, ethically, and reliably. It encompasses risk assessment, mitigation strategies, and the development of guidelines to prevent harm, ensure fairness, and maintain transparency in AI applications. This includes addressing issues such as bias, privacy, security, and the societal impact of AI.
