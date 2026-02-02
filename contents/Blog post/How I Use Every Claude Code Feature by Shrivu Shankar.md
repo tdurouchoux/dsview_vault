@@ -57,7 +57,7 @@ https://blog.sshh.io/p/how-i-use-every-claude-code-feature
 
 ![[topics/Concept/Hooks]]
 
-![[topics/Concept/Skills]]
+![[topics/Concept/Agent Skills]]
 
 ![[topics/Tool/Claude SDK]]
 
