@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Topic modeling is a natural language processing task that involves extracting latent topics from a corpus of text documents. The goal is to identify groups of words that frequently occur together and represent a specific topic. Topic modeling can be used for various applications, such as exploratory data analysis, document classification, and information retrieval. Common algorithms for topic modeling include Latent Dirichlet Allocation (LDA) and BERTopic. Text clustering groups similar documents or text segments together based on their content, while topic modeling identifies abstract topics that occur in a collection of documents. These techniques are used for organizing and understanding large volumes of text data, aiding in tasks like information retrieval, content recommendation, and trend analysis.
