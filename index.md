@@ -1,13 +1,13 @@
 # DSView Vault
 
-Welcome to the **DSView Vault** - a comprehensive knowledge repository dedicated to Data Science, Machine Learning, and Artificial Intelligence. This vault serves as a curated collection of resources, tools, concepts, and insights that span the entire data science ecosystem. The content of this vault has been generated with [dsview](https://github.com/tdurouchoux/dsview) using Mitral LLMs.
+A personnal knowledge repository dedicated to Data Science, Artifical Intellignce, developments tools and anything related to the data landscape. This vault serves as a curated collection of resources, tools, concepts, and insights that span the entire data science ecosystem. The content of this vault has been generated with [dsview](https://github.com/tdurouchoux/dsview) using Mistral LLMs. The actual content is stored in markdown format, and exposed through this interface using [Quartz v4](https://quartz.jzhao.xyz/).
 
 ## 📚 What You'll Find Here
 
 This vault is organized into two main sections:
 
 ### 📖 Contents
-A collection of **400+ carefully curated resources** including:
+A collection of a few hundreds **carefully curated resources** including:
 
 - **📝 Blog Posts** - Latest insights, tutorials, and industry perspectives
 - **🎓 Courses** - From beginner to advanced learning materials
@@ -42,6 +42,8 @@ This vault covers the breadth and depth of modern data science:
 
 Use the sidebar to explore different categories, or leverage the search functionality to find specific topics, tools, or concepts. Each entry includes relevant links, summaries, and contextual information to help you understand and apply the knowledge effectively.
 
+The repository can also be explored using the graph representation (top right corner). On each page the local graph is displayed showing connections between contents and topics (depth set to 2, the main page is not connected to anything else), clicking on it display the full graph (**RAM intensive**).
+
 ---
 
-*This vault is continuously updated with new resources and insights from the rapidly evolving field of data science. Happy exploring!* 🎉
+*This vault is continuously updated with new resources and insights from the rapidly evolving field of data science.
