@@ -1,0 +1,5 @@
+---
+type: Tool
+---
+
+The Tessl Framework is a CLI tool in private beta that supports spec-driven development with a focus on spec-anchored and spec-as-source approaches. It allows users to create workspace and configuration structures for various coding assistants and doubles as an MCP server. Tessl specs are maintained and edited as the primary artifacts, with code generated from these specs. The framework aims to reduce errors by minimizing the steps and interpretations required by the LLM, although it is still experimenting with different versions of this approach. Spec Kit is an open-source toolkit designed to facilitate spec-driven development. It provides a structured process to integrate coding agents like GitHub Copilot, Claude Code, and Gemini CLI into the development workflow. The toolkit helps in generating, testing, and validating code based on detailed specifications, ensuring higher-quality and more reliable code outputs. It emphasizes creating living, executable artifacts that evolve with the project, making the specification the central source of truth.
