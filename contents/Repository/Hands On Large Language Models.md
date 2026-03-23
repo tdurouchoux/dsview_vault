@@ -42,7 +42,7 @@ The repository also includes bonus content such as visual guides to Mamba, Quant
 
 ![[topics/Concept/Prompt Engineering]]
 
-![[topics/Concept/Fine tuning]]
+![[topics/Concept/Fine Tuning]]
 
 ![[topics/Concept/Multimodal Large Language Models]]
 

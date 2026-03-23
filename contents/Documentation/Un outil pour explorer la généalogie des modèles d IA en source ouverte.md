@@ -42,7 +42,7 @@ The content highlights the technical aspects of AI models, their lifecycle, and 
 
 ![[topics/Concept/Régurgitation de données]]
 
-![[topics/Concept/Fine tuning]]
+![[topics/Concept/Fine Tuning]]
 
 ![[topics/Concept/Quantization]]
 

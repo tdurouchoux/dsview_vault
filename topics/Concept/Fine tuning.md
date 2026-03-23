@@ -1,5 +1,0 @@
----
-type: Concept
----
-
-Fine-tuning (or fine-tuning) is a technique used to adapt a pre-trained AI model to a specific task. This involves continuing to train the model on a specific dataset to improve its performance for that particular task. Fine-tuning is commonly used to specialize general models in specific domains. Fine-tuning can enhance the model's accuracy and relevance for specialized applications but requires significant computational resources and data. Supervised Fine-Tuning (SFT) is a process where a pre-trained language model is further trained on a specific dataset with labeled examples. This helps the model to adapt to specific tasks, learn to structure answers, and reactivate a subset of knowledge learned during pre-training. It is crucial for turning base models into helpful assistants. This process leverages the general language understanding of the pre-trained model and fine-tunes it to recognize patterns and features relevant to the classification task at hand.

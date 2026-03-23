@@ -44,7 +44,7 @@ The course also includes a list of notebooks and tools for fine-tuning, quantiza
 
 ![[topics/Concept/Preference Alignment]]
 
-![[topics/Concept/Fine tuning]]
+![[topics/Concept/Fine Tuning]]
 
 ![[topics/Concept/AI Agents]]
 

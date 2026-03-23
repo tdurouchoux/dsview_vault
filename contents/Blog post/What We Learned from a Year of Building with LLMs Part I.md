@@ -59,7 +59,7 @@ The authors emphasize the importance of rigorous evaluation and monitoring, as w
 
 ![[topics/Concept/Prompt Engineering]]
 
-![[topics/Concept/Fine tuning]]
+![[topics/Concept/Fine Tuning]]
 
 ![[topics/Concept/Caching]]
 

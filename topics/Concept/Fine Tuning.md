@@ -1,0 +1,7 @@
+---
+type: Concept
+---
+
+Fine-tuning is a transfer learning technique where a pre-trained neural network or AI model is further trained on a new, typically smaller dataset to adapt it to a specific task. This process involves unfreezing some of the layers of the pre-trained model (usually the higher-level layers) and retraining them with a lower learning rate. Fine-tuning allows the model to leverage the general features learned from the original dataset while adjusting to the specific nuances of the new dataset. It is particularly effective when the new dataset is similar to the original dataset but has unique characteristics that need to be captured. 
+
+Fine-tuning is commonly used to specialize general models in specific domains, enhancing the model's accuracy and relevance for specialized applications. Supervised Fine-Tuning (SFT) is a specific process where a pre-trained language model is further trained on a labeled dataset to adapt to specific tasks, learn to structure answers, and reactivate a subset of knowledge learned during pre-training. This process is crucial for turning base models into helpful assistants and leverages the general language understanding of the pre-trained model to recognize patterns and features relevant to the task at hand.

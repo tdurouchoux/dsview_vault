@@ -41,6 +41,6 @@ The repository is licensed under MIT and includes acknowledgments to various con
 
 ![[topics/Concept/Tokenization]]
 
-![[topics/Concept/Fine tuning]]
+![[topics/Concept/Fine Tuning]]
 
 ![[topics/Concept/Hyperparameter Tuning]]

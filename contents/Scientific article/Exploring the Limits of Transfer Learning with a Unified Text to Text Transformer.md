@@ -26,7 +26,7 @@ The text-to-text framework is a simple way to train a single model on a wide var
 
 ![[topics/Concept/Transfer Learning]]
 
-![[topics/Concept/Fine tuning]]
+![[topics/Concept/Fine Tuning]]
 
 ![[topics/Concept/Self Attention]]
 
