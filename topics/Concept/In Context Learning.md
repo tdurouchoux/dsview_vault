@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+In-context learning (ICL) is a capability and paradigm where large language models or tabular foundation models adapt their behavior or make predictions based on the context provided within the input data, conversation history, or examples in the prompt. This approach allows models to infer tasks and inductive biases from the provided context, enabling them to generalize and perform tasks without the need for traditional training or parameter updates. ICL is particularly useful in scenarios where labeled data is scarce, quick adaptation to new tasks is required, or task-specific training is impractical. For example, it can influence outputs like code generation with type hints, handle arbitrary forecasting tasks, or adapt to business-specific or SQL dialect-specific examples by leveraging contextual information.

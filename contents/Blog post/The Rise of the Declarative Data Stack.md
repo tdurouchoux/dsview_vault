@@ -32,6 +32,6 @@ The article discusses the evolution and benefits of declarative data stacks in t
 
 ![[topics/Concept/Universal Semantic Layer]]
 
-![[topics/Concept/Declarative Data Stack]]
+![[topics/Concept/Declarative Paradigm]]
 
 ![[topics/Concept/Functional Data Engineering]]

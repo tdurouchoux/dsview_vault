@@ -1,0 +1,5 @@
+---
+type: Tool
+---
+
+parquet-linter is a command-line tool designed to analyze and optimize Parquet files by identifying issues related to compression, decompression, and compatibility. It provides suggestions to improve file size and decoding performance based on empirical rules or user-specified trade-offs. The tool operates at three levels: (1) pure gain, where it identifies configurations that universally degrade performance; (2) trade-offs guided, where it aligns optimizations with user priorities (e.g., compression ratio vs. decoding speed); and (3) intelligence, where it leverages models (potentially including large language models) to suggest configurations based on workload features. This tool is particularly useful for data engineers and scientists working with Parquet files in various use cases, such as archival, query performance, and ecosystem compatibility.

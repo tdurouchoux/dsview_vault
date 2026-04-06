@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Agentic feedback and reflexive mechanisms enable AI agents to iteratively refine their reasoning, actions, and performance through self-evaluation, self-correction, and external validation. These mechanisms include reflective feedback (real-time self-correction), parametric adaptation (updating model parameters), and validator-driven feedback (retrying based on external validation). By emulating human trial-and-error learning, they improve reliability, adaptability, and correctness in agentic systems. Reflexive mechanisms, such as self-critique and error correction, allow agents to assess their outputs, identify errors, and adjust their behaviors to enhance future performance. These processes are crucial for ensuring the robustness and accuracy of AI agents, particularly in high-stakes domains, and are key components in frameworks like AgentQ.

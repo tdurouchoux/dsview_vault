@@ -48,7 +48,7 @@ These insights underscore the importance of careful implementation, continuous f
 
 ![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Agentic AI]]
+![[topics/Concept/Agentic AI and Intelligent Delegation]]
 
 ![[topics/Concept/Controller Delegate Pattern]]
 

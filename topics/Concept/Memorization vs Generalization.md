@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Memorization and generalization represent a fundamental tradeoff in machine learning and artificial intelligence. Memorization refers to a model's ability to perfectly fit or store training data, including noise and outliers, which can lead to poor performance on unseen data. Generalization, conversely, involves learning underlying patterns and structures in the data that can be applied to new, unseen situations. This concept is critical in understanding model performance, as it explores the implicit biases in models and optimization processes that favor generalization. It also highlights scenarios where memorization can support generalization, as well as benchmarks like the ARC, which assess a machine's ability to generalize from core knowledge rather than rely on memorization.

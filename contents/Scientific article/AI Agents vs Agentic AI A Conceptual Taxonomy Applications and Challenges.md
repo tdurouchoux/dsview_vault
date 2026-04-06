@@ -20,7 +20,7 @@ The document provides a comprehensive review of AI Agents and Agentic AI, focusi
 
 ## Topics
 
-![[topics/Concept/Agentic AI]]
+![[topics/Concept/Agentic AI and Intelligent Delegation]]
 
 ![[topics/Concept/Generative AI]]
 

@@ -30,7 +30,7 @@ The repository is designed to cater to both beginners and experienced practition
 
 ![[topics/Concept/Generative AI Agents]]
 
-![[topics/Concept/Agentic AI]]
+![[topics/Concept/Agentic AI and Intelligent Delegation]]
 
 ![[topics/Concept/Model Context Protocol MCP]]
 

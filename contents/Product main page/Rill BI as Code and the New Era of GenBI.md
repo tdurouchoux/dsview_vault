@@ -43,7 +43,7 @@ The article concludes by highlighting the potential of GenBI to revolutionize th
 
 ![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Declarative Data Stack]]
+![[topics/Concept/Declarative Paradigm]]
 
 ![[topics/Concept/OLAP Cube]]
 

@@ -32,6 +32,6 @@ Platinum members of the AAIF include AWS, Anthropic, Block, Bloomberg, Cloudflar
 
 ![[topics/Concept/AGENTS md]]
 
-![[topics/Concept/Agentic AI]]
+![[topics/Concept/Agentic AI and Intelligent Delegation]]
 
 ![[topics/Concept/Model Context Protocol MCP]]

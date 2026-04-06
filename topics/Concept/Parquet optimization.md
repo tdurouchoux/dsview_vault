@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Parquet optimization refers to the process of configuring Parquet files to achieve specific performance goals, such as minimizing file size, maximizing decoding speed, or ensuring compatibility across different readers. Parquet, as a flexible file format specification, allows fine-grained control over aspects like compression algorithms, encoding schemes, page and row group sizes, and dictionary encoding. Optimization strategies vary depending on the use case: for long-term archival, minimizing file size is critical; for query performance, reducing decoding time is prioritized; and for ecosystem compatibility, using conservative features supported by all readers is essential. Tools like parquet-linter automate this process by analyzing configurations and suggesting improvements.

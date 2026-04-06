@@ -32,7 +32,7 @@ The AI co-scientist represents a promising advance in AI-assisted technologies f
 
 ## Topics
 
-![[topics/Concept/Agentic AI]]
+![[topics/Concept/Agentic AI and Intelligent Delegation]]
 
 ![[topics/Concept/Inference time scaling]]
 

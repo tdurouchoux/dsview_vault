@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Multi-Agent Systems (MAS) are computational frameworks composed of multiple interacting intelligent agents that collaborate or compete to achieve specific goals. This paradigm includes collective multi-agent reasoning, where agents coordinate roles, share knowledge, and pursue shared goals through role differentiation (e.g., planners, executors, critics), structured communication protocols, and shared memory systems. MAS focus on the orchestration, coordination, and management of agents to handle complex, long-horizon tasks that exceed the capabilities of individual agents, employing coordination protocols, communication strategies, trust mechanisms, and adaptive execution to ensure efficient, reliable, and scalable task completion. This concept is central to achieving artificial collective intelligence and robust problem-solving in decentralized environments.

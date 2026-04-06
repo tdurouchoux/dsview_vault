@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+In-context learning and reasoning refer to the capabilities of models, particularly large language models or tabular foundation models, to adapt their behavior, make predictions, or perform complex decision-making based on the context provided within the input data, conversation history, or examples in the prompt. This paradigm emphasizes dynamic orchestration, adaptive workflow design, and structured decision-making processes such as tree search or workflow decomposition. By leveraging structured prompts, few-shot exemplars, and iterative refinement, models can navigate complex problem spaces, generalize to new tasks, and improve performance without modifying their parameters. These approaches are particularly useful for tasks requiring adaptability, real-time decision-making, or scenarios where labeled data is scarce or task-specific training is impractical.

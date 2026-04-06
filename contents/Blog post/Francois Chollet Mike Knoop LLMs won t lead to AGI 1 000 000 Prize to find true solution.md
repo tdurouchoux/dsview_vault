@@ -38,7 +38,7 @@ The discussion also touches on the importance of open-source research and the po
 
 ![[topics/Concept/Program Synthesis]]
 
-![[topics/Concept/Generalization vs Memorization]]
+![[topics/Concept/Memorization vs Generalization]]
 
 ![[topics/Concept/Discrete Program Search]]
 
