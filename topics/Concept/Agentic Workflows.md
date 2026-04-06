@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Agentic Workflows, also referred to as Agentic Planning, describe automated processes where AI agents independently plan, execute, and complete multi-step tasks without constant user intervention. These workflows involve the agent's ability to decompose goals, generate sequences of actions, and navigate complex environments by breaking down complex requests into actionable steps, interacting with APIs, tools, or systems (e.g., browsing the web, filling forms, running shell commands), and adapting based on feedback or errors. Agentic workflows emphasize adaptability, long-horizon reasoning, and the integration of feedback to refine strategies over time, serving as a core feature of advanced personal AI assistants and autonomous agents operating in dynamic and uncertain environments.
