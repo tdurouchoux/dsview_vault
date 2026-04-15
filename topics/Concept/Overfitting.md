@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Overfitting occurs when a machine learning model learns the training data too well, including its noise and outliers, to the point where it performs poorly on unseen data. This typically happens when the model is too complex relative to the amount of training data. Overfitting is a common challenge in deep learning, and techniques like regularization, dropout, and data augmentation are often used to mitigate it.
+Overfitting is a phenomenon in machine learning where a model learns the training data too well, including its noise and outliers, leading to poor performance on unseen data. This can manifest in various forms, such as validation overfitting, where a model performs well on validation data but poorly on test data due to excessive tuning. Overfitting is a common challenge, particularly in deep learning, and techniques like regularization, dropout, and data augmentation are often used to mitigate it and ensure better generalization.
