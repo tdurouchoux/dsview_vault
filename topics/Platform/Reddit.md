@@ -1,0 +1,5 @@
+---
+type: Platform
+---
+
+Reddit is a massive social media platform organized into topic-specific communities called subreddits, where users contribute unstructured text in the form of posts, comments, and discussions. With over 1 billion monthly active users and 100,000+ active subreddits, Reddit serves as a rich dataset for deanonymization studies, user behavior analysis, and LLM-based research. Key characteristics include pseudonymous participation, temporal and semantic splits for creating known ground-truth pairs, micro-data extraction for matching against candidate profiles, and platform policies for data access. For Data Scientists, Reddit provides a realistic, large-scale dataset for evaluating LLM-based deanonymization pipelines, privacy mitigation strategies, and ethical considerations in social media research.
