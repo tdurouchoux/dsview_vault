@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Task Decomposition is the process of breaking down complex tasks into smaller, more manageable sub-tasks or components. This process is essential for enabling efficient delegation and execution in multi-agent systems. Task decomposition involves evaluating task attributes such as criticality, complexity, resource constraints, and verifiability to determine the optimal granularity and structure of sub-tasks. It ensures that tasks are modular, parallelizable, and aligned with the capabilities of available agents.
+The process of breaking down complex tasks into smaller, more manageable sub-tasks or components, often structured as a detailed checklist or phases. This breakdown serves as a progress tracker, enabling efficient delegation, execution, and monitoring in systems such as multi-agent environments. It involves evaluating task attributes like criticality, complexity, resource constraints, and verifiability to ensure tasks are modular, parallelizable, and systematically addressed.
