@@ -32,6 +32,6 @@ The repository hosts the source code for the Context7 MCP server, while the supp
 
 ## Topics
 
-![[topics/Tool/Context7]]
+![[topics/Tool/Context Hub]]
 
 ![[topics/Concept/Model Context Protocol MCP]]
