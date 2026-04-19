@@ -53,6 +53,6 @@ https://aeturrell.com/blog/posts/the-data-validation-landscape-in-2025/
 
 ![[topics/Library/Pydantic]]
 
-![[topics/Library/jsonschema]]
+![[topics/Tool/JSON Schema Validation]]
 
 ![[topics/Library/Cerberus]]
