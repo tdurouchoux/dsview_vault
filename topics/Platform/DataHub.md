@@ -1,0 +1,5 @@
+---
+type: Platform
+---
+
+DataHub is an open-source metadata platform designed to enable discovery, governance, and observability across an entire data ecosystem. It serves as a central nervous system for data stacks, connecting various tools (e.g., data warehouses, lakes, BI platforms, ML systems) through real-time streaming or batch ingestion to create a unified metadata graph. Unlike static catalogs, DataHub keeps metadata fresh and actionable, supporting both human teams and AI agents. It features real-time metadata updates, AI-ready integrations (e.g., Model Context Protocol), a flexible ingestion architecture with 80+ connectors, and robust APIs (GraphQL, OpenAPI) for developers. DataHub is scalable, enterprise-ready, and supports multiple deployment models (managed SaaS, self-hosted Docker, Kubernetes/Helm).
