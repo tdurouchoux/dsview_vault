@@ -1,0 +1,5 @@
+---
+type: Platform
+---
+
+Langfuse is an open-source platform designed for Large Language Model (LLM) engineering. It provides a unified environment for tracing, debugging, evaluating, and managing prompts, experiments, and human annotations in LLM applications. The platform supports the full development lifecycle, from prototype to production, and enables continuous improvement using production data. Langfuse is built on open standards like OpenTelemetry, ensuring data portability and avoiding vendor lock-in. It is highly scalable, capable of processing billions of observations per month, and supports self-hosting via Docker, Kubernetes, or cloud providers like AWS, GCP, and Azure. Key features include hierarchical trace capture, LLM-as-a-judge evaluations, prompt management, collaborative human-in-the-loop workflows, and cost/latency monitoring.
