@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Recursive Language Models (RLMs) are an advanced inference paradigm where a language model treats its input prompt as an environment that can be programmatically inspected, sliced, and recursively queried. This approach allows the model to decompose complex tasks into smaller subproblems, leveraging test-time compute to improve reasoning and tool-use capabilities. RLMs collapse the traditional separation between reasoning and tool use into a unified abstraction, enabling the model to dynamically allocate computational resources to different parts of the input or problem space. This paradigm has demonstrated state-of-the-art (SOTA) performance on benchmarks like LongCoT, Oolong, and LongMemEval, showcasing its ability to handle long-context reasoning, memory-intensive tasks, and long-horizon chain-of-thought problems.

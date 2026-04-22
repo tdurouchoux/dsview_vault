@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Inference-time compute scaling refers to the practice of allocating additional computational resources during the inference phase of an AI system to enhance its reasoning capabilities and output quality. This includes techniques such as chain-of-thought prompting, self-consistency, tree search, recursive processing, and other search strategies like beam search and majority voting. These methods allow the AI system to spend more time on complex tasks, leading to improved performance and more accurate results, particularly in scenarios requiring detailed and precise outputs. The approach is exemplified by systems that dynamically decompose problems and allocate resources to subproblems, achieving significant gains in reasoning and tool-use capabilities without modifying the underlying model.
