@@ -1,0 +1,5 @@
+---
+type: Tool
+---
+
+Gephi Lite is an open-source web-based application designed for network analysis and visualization. It allows users to import graph data, apply network ranking and layout algorithms, and customize the appearance of graphs for analysis. Gephi Lite operates entirely in the user's browser, ensuring data privacy as no server is involved. It supports dynamic customization of nodes and edges, interactive data exploration through a data table, and seamless integration with web applications via an iFrame or a dedicated JavaScript driver. The tool is responsive, supporting touch and multitouch interactions, and is compatible with desktops, tablets, and mobile devices. Gephi Lite is published under the GPL-3.0 license and is part of the broader Gephi ecosystem, which includes plugins and additional tools like Gephisto.
