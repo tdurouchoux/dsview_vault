@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Agentic self-verification and reflexive mechanisms are processes embedded in AI agents that enable them to evaluate, refine, and improve their own work for correctness, completeness, and adaptability. These mechanisms include self-verification loops (e.g., running test suites, inspecting logs, and self-assessment), reflective feedback (real-time self-correction), parametric adaptation (updating model parameters), and validator-driven feedback (retrying based on external validation). By emulating human trial-and-error learning, these processes reduce errors, enhance reliability, and ensure adherence to predefined standards. They are particularly valuable for long-horizon tasks and high-stakes domains where manual oversight is impractical, and they are key components in frameworks like AgentQ.
