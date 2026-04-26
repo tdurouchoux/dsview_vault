@@ -62,7 +62,7 @@ The guide also includes resources such as reports, training, ebooks, guides, and
 
 ![[topics/Concept/Ensemble Learning]]
 
-![[topics/Concept/Self supervised Learning]]
+![[topics/Concept/Self Supervised Learning]]
 
 ![[topics/Concept/Latent Space]]
 
