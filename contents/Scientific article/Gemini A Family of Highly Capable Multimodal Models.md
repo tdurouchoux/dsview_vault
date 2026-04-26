@@ -34,7 +34,7 @@ The Gemini family of models, developed by Google, represents a significant advan
 
 ![[topics/Concept/Multimodal Large Language Models]]
 
-![[topics/Concept/AI Evaluation Science]]
+![[topics/Concept/AI Evaluation]]
 
 ![[topics/Model/Gemini]]
 

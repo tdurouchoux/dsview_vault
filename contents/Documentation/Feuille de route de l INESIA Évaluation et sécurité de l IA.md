@@ -49,7 +49,7 @@ L’INESIA, créé en 2025, est un institut public français dédié à l’éva
 
 ## Topics
 
-![[topics/Concept/AI Evaluation Science]]
+![[topics/Concept/AI Evaluation]]
 
 ![[topics/Concept/Systemic Risks of AI]]
 
