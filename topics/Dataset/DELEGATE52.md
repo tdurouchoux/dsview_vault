@@ -1,0 +1,5 @@
+---
+type: Dataset
+---
+
+DELEGATE52 is a benchmark dataset designed to evaluate the performance of large language models (LLMs) in long-horizon delegated document editing tasks. It spans 52 professional document domains, including accounting ledgers, music notation, coding files, crystallography, genealogy, and more. The dataset consists of real-world documents and focuses on assessing the ability of LLMs to faithfully edit documents without introducing errors, using round-trip relay simulations. Each task in the dataset involves pairs of forward and backward natural-language editing instructions, representing structural transformations and their inverses. The dataset is structured to include seed documents, edit tasks, distractor context, and metadata, providing a comprehensive evaluation framework for document editing capabilities in AI systems.
