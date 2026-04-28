@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+AI benchmarks are standardized tests or evaluations used to measure the performance of AI models across specific tasks or domains. These benchmarks provide objective criteria for comparing AI systems, tracking progress, and identifying areas for improvement. Examples include SWE-bench Verified for coding, International Mathematical Olympiad (IMO) for mathematical reasoning, OSWorld for testing AI agents on real computer tasks, and the Abstraction and Reasoning Corpus (ARC), which tests machine intelligence through puzzles requiring core knowledge such as elementary physics, objectness, counting, and basic geometry. ARC is designed to be resistant to memorization, requiring machines to reason through novel tasks without relying on pre-existing knowledge, and is used to evaluate the ability of AI models to perform abstract reasoning and problem-solving, making it a significant tool in the assessment of artificial general intelligence (AGI).
