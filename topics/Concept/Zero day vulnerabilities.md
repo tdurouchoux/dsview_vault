@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Zero-day vulnerabilities refer to flaws in software that are unknown to the party responsible for patching or fixing the flaw. These vulnerabilities are exploited by attackers before the developer has had the chance to create a patch or mitigation, hence the term 'zero-day'—indicating that the developers have had zero days to fix the issue. Identifying and patching zero-day vulnerabilities is critical for cybersecurity, as they can be used to gain unauthorized access, execute arbitrary code, or cause denial-of-service attacks.
+Zero-day (or 0-day) vulnerabilities refer to software flaws that are unknown to the parties responsible for patching or fixing them. Exploiting these vulnerabilities allows attackers to gain unauthorized access, execute arbitrary code, or cause denial-of-service attacks before the vendor becomes aware and can release a patch. These vulnerabilities pose significant security risks due to their unknown status and the lack of prepared defenses, making their identification and mitigation critical for cybersecurity.
