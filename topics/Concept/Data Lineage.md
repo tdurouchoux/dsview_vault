@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Data lineage is the process of tracking the lifecycle of data as it moves through an organization, including its origins, transformations, dependencies, and provenance. It provides a visual map of how data flows from source systems to consumption points, enabling impact analysis, debugging, compliance, and ensuring transparency, accountability, and traceability. Data lineage is critical for understanding the relationships between datasets, identifying bottlenecks, ensuring data accuracy, and maintaining data quality and integrity in complex workflows and AI systems.
+Data lineage, also referred to as lineage tracking, is the process of recording and maintaining the origin, transformations, dependencies, and lifecycle of data as it moves through systems or organizations. It provides end-to-end visibility into how data is derived, enabling traceability, debugging, compliance, and impact analysis. Data lineage ensures that every piece of data in a target system can be traced back to its source, helping teams understand data relationships, validate results, and maintain data quality, accuracy, and integrity in complex workflows and AI systems.

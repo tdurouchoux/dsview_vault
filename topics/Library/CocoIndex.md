@@ -1,0 +1,5 @@
+---
+type: Library
+---
+
+CocoIndex is an open-source, incremental data framework designed to provide continuously fresh context for AI agents. It processes various data sources such as codebases, meeting notes, emails, videos, and documents to generate structured, up-to-date context that AI agents can reason over effectively. The framework emphasizes minimal incremental processing, ensuring fresh data is available in real-time or near real-time. It supports parallel processing, declarative pipelines, and Python-native transformations, making it suitable for AI workloads. Key features include incremental processing (only reindexing changes), semantic search, call graphs, symbol tables, and lineage tracking. CocoIndex is designed to keep data fresh, explainable, and aligned with source changes, enabling reliable autonomous operations for long-horizon agents.
