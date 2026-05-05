@@ -51,7 +51,7 @@ Llama Stack aims to reduce friction and complexity, empowering developers to foc
 
 ![[topics/Model/Llama 4]]
 
-![[topics/Concept/Telemetry]]
+![[topics/Concept/Telemetry in AI Systems]]
 
 ![[topics/Concept/API Provider]]
 
