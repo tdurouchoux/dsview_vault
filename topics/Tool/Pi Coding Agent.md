@@ -1,0 +1,5 @@
+---
+type: Tool
+---
+
+Pi is a minimalistic terminal-based coding harness designed to adapt to a user's workflow rather than imposing a rigid structure. It is highly extensible, allowing users to customize it with extensions, skills, prompt templates, and themes. These customizations can be bundled into Pi packages and shared via platforms like npm or GitHub. Pi supports multiple modes, including interactive, print/JSON, RPC, and SDK, catering to different use cases such as scripting, event streaming, and integration into other applications. It enables users to switch models mid-session, manage tree-structured session history, and perform context engineering by controlling what goes into the context window. Pi avoids including built-in features like sub-agents, plan mode, or permission popups, instead allowing users to build or install these capabilities as extensions or packages.
