@@ -1,0 +1,5 @@
+---
+type: Tool
+---
+
+DBML (Database Markup Language) is a domain-specific language (DSL) designed to define, document, and visualize database schemas in a declarative and human-readable format. It simplifies the process of designing, documenting, and maintaining database structures by providing a consistent and database-agnostic syntax. DBML is not used for low-level database operations like physical table creation (which is typically handled by SQL DDL), but rather for high-level database architecting and collaboration. It supports features like table definitions, field types, relationships (e.g., many-to-one, one-to-many), enums, and notes for additional context. DBML is often used alongside tools like dbdiagram.io for visualization, dbdocs.io for documentation, and runsql.com for SQL query testing.
