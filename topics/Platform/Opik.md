@@ -1,0 +1,5 @@
+---
+type: Platform
+---
+
+Opik is an open-source AI observability and evaluation platform designed to monitor, debug, and optimize AI agents and LLM-based systems. It provides comprehensive logging, evaluation, and testing capabilities to ensure consistent performance and reliability across development, testing, and production environments. Key features include trace visualization, automated evaluation metrics (e.g., answer relevance, context precision, hallucination detection), production monitoring, and prompt optimization. Opik also offers tools like Test Suites for defining unit tests, Ollie for automated code fixes, and Agent Playground for end-to-end testing. It supports collaboration, governance, and compliance while enabling developers to iterate efficiently across the AI development lifecycle.

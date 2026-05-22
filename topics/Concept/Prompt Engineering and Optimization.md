@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Prompt Engineering and Optimization refer to the techniques and processes used to refine and improve the prompts provided to large language models (LLMs) to achieve more accurate, consistent, and efficient outputs. This includes crafting specific instructions or examples (Prompt Engineering) as well as systematically refining prompts through methods like rephrasing, leveraging optimization algorithms, and adjusting model parameters (Prompt Optimization). Techniques such as few-shot learning, chain-of-thought prompting, and providing relevant resources are commonly used to enhance model performance. Tools like Opik’s Prompt Optimizer and DSPy automate and optimize prompts based on defined metrics and training data, aiming to close the gap between user intent and model instructions.
