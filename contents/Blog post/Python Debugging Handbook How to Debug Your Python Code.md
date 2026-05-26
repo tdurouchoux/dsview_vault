@@ -45,6 +45,6 @@ Overall, the handbook emphasizes the importance of a systematic approach to debu
 
 ![[topics/Concept/Exception Handling]]
 
-![[topics/Concept/Code Linters and Analyzers]]
+![[topics/Tool/Static Code Analyzers]]
 
 ![[topics/Concept/Interactive Debugger PDB]]

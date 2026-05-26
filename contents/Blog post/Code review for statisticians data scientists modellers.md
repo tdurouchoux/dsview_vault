@@ -32,7 +32,7 @@ Further reading is suggested for more detailed guidance on code review practices
 
 ## Topics
 
-![[topics/Concept/Code Linters and Analyzers]]
+![[topics/Tool/Static Code Analyzers]]
 
 ![[topics/Tool/styler]]
 
