@@ -25,7 +25,7 @@ The post explores making Bayesian model plotting in Python more declarative by c
 
 ![[topics/Library/ArviZ]]
 
-![[topics/Concept/Bayesian models]]
+![[topics/Concept/Bayesian Modeling]]
 
 ![[topics/Concept/Tidy Data]]
 
