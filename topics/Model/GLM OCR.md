@@ -1,0 +1,5 @@
+---
+type: Model
+---
+
+GLM-OCR is a multimodal Optical Character Recognition (OCR) model designed for complex document understanding. It is built on the GLM-V encoder-decoder architecture and incorporates advanced techniques such as Multi-Token Prediction (MTP) loss and stable full-task reinforcement learning to enhance training efficiency, recognition accuracy, and generalization. The model integrates a CogViT visual encoder pre-trained on large-scale image-text data, a lightweight cross-modal connector with efficient token downsampling, and a GLM-0.5B language decoder. Combined with a two-stage pipeline involving layout analysis (PP-DocLayout-V3) and parallel recognition, GLM-OCR delivers robust and high-quality OCR performance across diverse document layouts, including tables, formulas, and code-heavy documents.
