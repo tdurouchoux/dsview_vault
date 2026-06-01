@@ -45,7 +45,7 @@ Works with 50+ integrations (e.g., Gmail, GitHub, Spotify, Hue, Obsidian, Twitte
 
 ![[topics/Concept/AI Agents]]
 
-![[topics/Concept/Agentic Workflows]]
+![[topics/Concept/Agentic and Dynamic Workflows]]
 
 ![[topics/Tool/OpenClaw]]
 
