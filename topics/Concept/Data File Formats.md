@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Data file formats refer to the standardized ways in which data is stored and structured for use in data visualization and analysis. Common formats include CSV, JSON, XML, and Excel files. Each format has specific characteristics in terms of readability, compatibility, and suitability for different types of data and analytical tasks.
+Standardized ways in which data is stored and structured, encompassing a variety of formats such as structured (e.g., CSV, Excel), semi-structured (e.g., JSON, XML), and unstructured (e.g., text, markdown). These formats vary in structure, readability, and compatibility, requiring adaptive processing methods to extract meaningful insights for data visualization and analysis.
