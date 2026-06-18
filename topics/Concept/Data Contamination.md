@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-The presence of benchmark datasets within the training corpora of AI models, which can lead to biased and unreliable evaluations. Data contamination undermines the validity of model assessments and raises concerns about the integrity of AI research and development.
+The presence of benchmark datasets or evaluation-related information within the training corpora or accessible resources of AI models, leading to biased, unreliable, or inflated performance metrics. This contamination undermines the integrity of benchmarking efforts and model assessments, as it may not reflect the true capabilities of the models. Preventing contamination often involves restricting access to specific domains or sources during evaluation to ensure fair and valid assessments.
