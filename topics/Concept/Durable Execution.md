@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Durable Execution is a feature that enables agents to preserve their progress across transient API failures and application errors or restarts. It supports long-running, asynchronous, and human-in-the-loop workflows, ensuring production-grade reliability and robustness.
+A concept encompassing persistent interactions or workflows that survive interruptions, system restarts, or transient failures. It ensures the state of an agent's work (e.g., session history, progress, or instructions) is stored in a retrievable format, enabling resuming, branching, or long-running asynchronous workflows. This feature supports production-grade reliability and robustness, particularly in coding agents or human-in-the-loop systems.
