@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Structured data extraction is the process of converting unstructured or semi-structured data into a structured format, such as tables or databases. This involves identifying and extracting relevant information from the data and organizing it according to a predefined schema. Structured data extraction is essential for data analysis and integration workflows, as it enables easy manipulation, querying, and analysis of the data.
+Structured data extraction, also referred to as table extraction, is the process of identifying, parsing, and organizing unstructured or semi-structured data (e.g., from documents like PDFs or images) into a structured, machine-readable format such as tables, CSV, or JSON. This task is critical for applications requiring precise data retrieval, such as financial reports, scientific papers, or legal documents, and involves handling challenges like merged cells, hierarchical headers, and complex layouts to ensure accurate reconstruction of the original structure. It is essential for data analysis and integration workflows, enabling easy manipulation, querying, and analysis of the data.

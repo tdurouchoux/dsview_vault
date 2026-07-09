@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+AI Agent Workflows, also referred to as Agentic and Dynamic Workflows, are automated processes where AI systems (agents) perform tasks such as document parsing, data extraction, decision-making, and dynamic planning without human intervention. These workflows rely on robust parsing tools and adaptability to ensure structured, accurate, and traceable outputs suitable for autonomous actions. They are designed to handle complex, multi-step tasks—either in parallel or sequentially—such as codebase-wide migrations, security audits, or report generation. Key features include goal decomposition, task coordination, feedback integration for iterative refinement, and the ability to resume progress after interruptions, enabling autonomous operation in dynamic and uncertain environments.
