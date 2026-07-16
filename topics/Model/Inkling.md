@@ -1,0 +1,5 @@
+---
+type: Model
+---
+
+Inkling is a large multimodal language model developed by Thinking Machines, featuring approximately 1 trillion parameters and a context window of up to 1 million tokens. It is designed to natively process and understand multiple modalities, including text, images, and audio, making it highly versatile for tasks requiring cross-modal reasoning. The model is built as a decoder-only Mixture-of-Experts (MoE) architecture with 975 billion total parameters and 41 billion active parameters, enabling efficient inference through sparsity. Key innovations in Inkling include the use of relative attention for positional encoding, hybrid attention mechanisms (combining global and sliding window attention), and short 1D convolutions (SConv) for local representation learning. Additionally, Inkling incorporates speculative multi-token prediction (MTP) layers to accelerate inference without sacrificing performance. The model is optimized for domain adaptation via fine-tuning and supports agentic capabilities, making it suitable for building advanced multimodal reasoning applications.
