@@ -1,0 +1,5 @@
+---
+type: Platform
+---
+
+Unity Catalog is an open, multi-modal catalog designed to unify data and AI assets under a single governance framework. It supports a wide range of data formats (e.g., Delta Lake, Apache Iceberg, Apache Hudi, Apache Parquet, JSON, CSV) and compute engines, enabling interoperability across different systems. Unity Catalog provides unified governance for tabular data, unstructured assets, and AI models, allowing organizations to manage, secure, and govern their data and AI assets centrally. It is designed to be extensible, open-source (under Apache 2.0 license), and compatible with existing APIs like Apache Hive's metastore and Apache Iceberg's REST catalog. The platform is hosted by the LF AI & Data Foundation and is supported by a vibrant ecosystem of industry partners.
