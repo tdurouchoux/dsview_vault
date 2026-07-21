@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+Metrics Standardization and Layer refers to the practice of defining, managing, and centralizing business metrics and key performance indicators (KPIs) in a consistent and reusable manner across an organization. This involves creating a specialized component within the data architecture, known as the metrics layer, which stores metric definitions, formulas, calculations, and business logic. By moving metric definitions from the BI layer to the data modeling layer, organizations ensure consistency, reduce discrepancies, and improve data reliability. The metrics layer also enables self-service access to metrics, aligns different applications and tools, and provides the semantic context required for AI models to understand and generate BI artifacts. This approach enhances the accuracy and alignment of business logic interpretation across the organization.
