@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+A semantic layer is a business representation of data that abstracts the technical complexities of underlying databases and SQL, providing a unified, consistent, and accessible encoding of business logic, metrics, and calculations. It acts as a bridge between raw data and end-user applications, enabling accurate and consistent data interpretation across an organization. A semantic layer can be traditional (tied to specific BI tools) or universal (tool-agnostic), supporting modularity and ensuring a single source of truth for data across the entire data ecosystem. This layer enhances data accessibility, governance, and consistency by providing a declarative framework for defining metrics and dimensions, bridging the gap between data storage, analysis, and visualization.
