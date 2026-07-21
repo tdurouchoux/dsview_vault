@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Distributed computing is a field of computer science that studies distributed systems. A distributed system is a system whose components are located on different networked computers, which communicate and coordinate their actions by passing messages. The components interact with each other in order to achieve a common goal. Three significant characteristics of distributed systems are: concurrency of components, lack of a global clock, and independent failure of components. The components interact with each other through message passing.
+Distributed computing, also referred to as distributed processing, is a field of computer science that studies systems whose components are located on different networked computers. These systems enable the execution of computational tasks across multiple nodes or machines in a cluster, allowing for parallelization, scalability, and coordinated actions through message passing. Key characteristics include concurrency of components, lack of a global clock, and independent failure of components.

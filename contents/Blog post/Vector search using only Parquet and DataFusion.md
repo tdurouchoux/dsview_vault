@@ -34,7 +34,7 @@ Tools/Libraries: Parquet, DataFusion, Rust (`pq-vector` GitHub repo).
 
 ## Topics
 
-![[topics/Library/DataFusion]]
+![[topics/Library/Apache DataFusion]]
 
 ![[topics/Library/pq vector]]
 
