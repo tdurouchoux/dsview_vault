@@ -32,7 +32,7 @@ Agentic reasoning reframes LLMs as autonomous agents capable of planning, tool u
 
 ![[topics/Concept/Multi Agent Systems]]
 
-![[topics/Concept/In Context Learning and Reasoning]]
+![[topics/Concept/In Context Learning ICL]]
 
 ![[topics/Concept/Post Training Reasoning]]
 

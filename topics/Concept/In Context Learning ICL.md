@@ -1,0 +1,5 @@
+---
+type: Concept
+---
+
+In-Context Learning (ICL) is a paradigm in machine learning where pre-trained models, such as large language models or tabular foundation models, adapt to new tasks by leveraging examples, instructions, or context provided directly in the input. This approach enables zero-shot or few-shot prediction, allowing models to generalize to novel tasks without updating their underlying weights. ICL emphasizes dynamic orchestration, adaptive workflow design, and structured decision-making processes, such as tree search or workflow decomposition, to navigate complex problem spaces. It is particularly powerful for tasks where traditional training pipelines are cumbersome, resource-intensive, or impractical, such as scenarios requiring adaptability, real-time decision-making, or scarce labeled data.

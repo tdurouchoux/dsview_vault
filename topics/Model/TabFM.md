@@ -1,0 +1,5 @@
+---
+type: Model
+---
+
+TabFM is a zero-shot foundation model designed for tabular data classification and regression tasks. It leverages in-context learning (ICL) to enable predictions on new, unseen tabular datasets without requiring traditional model training, hyperparameter optimization, or manual feature engineering. TabFM processes entire datasets, including historical training examples and target testing rows, as a unified prompt, allowing it to interpret column and row relationships directly during inference. Its architecture combines alternating row and column attention mechanisms with row compression and efficient Transformer-based in-context learning to handle the two-dimensional, orderless nature of tabular data. TabFM is trained on hundreds of millions of synthetic datasets generated using structural causal models (SCMs) to capture diverse real-world data distributions.
