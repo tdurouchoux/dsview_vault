@@ -49,7 +49,7 @@ The **Cloud and AI Development Act (CADA)** is a proposed EU regulation to stren
 
 ![[topics/Concept/AI Continent Action Plan]]
 
-![[topics/Concept/Technological and AI Sovereignty]]
+![[topics/Concept/Sovereign AI]]
 
 ![[topics/Concept/Cloud and AI Sovereignty Framework]]
 
