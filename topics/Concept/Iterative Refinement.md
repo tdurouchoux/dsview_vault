@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-A process where a solution is continuously improved through multiple iterations. In data science agents, iterative refinement involves planning, coding, executing, verifying, and routing steps that are repeated until the solution meets the desired criteria. This approach ensures that errors are corrected, and the solution is optimized for accuracy and completeness.
+A cyclical process in machine learning and data science where a solution is continuously improved through multiple iterations. This involves designing experiments, tracking progress, running diagnostics, refining based on insights, and repeating steps such as planning, coding, executing, and verifying until the solution meets the desired criteria. This approach ensures continuous improvement, error correction, and optimization of models, pipelines, or solutions for accuracy and completeness.
