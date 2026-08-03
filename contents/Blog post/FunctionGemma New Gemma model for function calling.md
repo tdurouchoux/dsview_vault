@@ -35,7 +35,7 @@ FunctionGemma is ideal for applications with a defined API surface, those ready 
 
 ![[topics/Concept/Edge Computing]]
 
-![[topics/Concept/AI Agents]]
+![[topics/Concept/Agentic AI]]
 
 ![[topics/Concept/Mobile Actions]]
 

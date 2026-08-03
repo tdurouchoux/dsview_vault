@@ -43,7 +43,7 @@ Works with 50+ integrations (e.g., Gmail, GitHub, Spotify, Hue, Obsidian, Twitte
 
 ## Topics
 
-![[topics/Concept/AI Agents]]
+![[topics/Concept/Agentic AI]]
 
 ![[topics/Concept/Agentic and Dynamic Workflows]]
 

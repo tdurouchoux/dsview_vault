@@ -46,6 +46,6 @@ The course also includes a list of notebooks and tools for fine-tuning, quantiza
 
 ![[topics/Concept/Fine Tuning]]
 
-![[topics/Concept/AI Agents]]
+![[topics/Concept/Agentic AI]]
 
 ![[topics/Concept/Model Merging]]

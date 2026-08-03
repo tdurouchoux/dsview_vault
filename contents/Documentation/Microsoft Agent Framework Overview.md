@@ -48,7 +48,7 @@ Quick start examples provided for .NET and Python. Migration guides available fr
 
 ![[topics/Concept/Migration Guide for AI Frameworks]]
 
-![[topics/Concept/AI Agents]]
+![[topics/Concept/Agentic AI]]
 
 ![[topics/Concept/Model Context Protocol MCP]]
 

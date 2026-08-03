@@ -40,7 +40,7 @@ Appendices provide practical examples of agents in customer support and coding, 
 
 ## Topics
 
-![[topics/Concept/AI Agents]]
+![[topics/Concept/Agentic AI]]
 
 ![[topics/Concept/Routing]]
 

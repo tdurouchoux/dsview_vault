@@ -23,7 +23,7 @@ The 2025 AI Index Report from Stanford HAI highlights key trends in AI developme
 
 ![[topics/Concept/HumanEval]]
 
-![[topics/Concept/AI Agents]]
+![[topics/Concept/Agentic AI]]
 
 ![[topics/Model/PaLM]]
 

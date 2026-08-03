@@ -44,7 +44,7 @@ The author shares their experience developing an AI companion app called Dolores
 
 ## Topics
 
-![[topics/Concept/AI Agents]]
+![[topics/Concept/Agentic AI]]
 
 ![[topics/Concept/AI Moderation]]
 

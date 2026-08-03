@@ -24,7 +24,7 @@ The document provides a comprehensive review of AI Agents and Agentic AI, focusi
 
 ![[topics/Concept/Generative AI]]
 
-![[topics/Concept/AI Agents]]
+![[topics/Concept/Agentic AI]]
 
 ![[topics/Concept/Reflexive Mechanisms]]
 

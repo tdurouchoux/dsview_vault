@@ -44,7 +44,7 @@ Enrollment is free via the Hugging Face organization.
 
 ![[topics/Concept/Model Context Protocol MCP]]
 
-![[topics/Concept/AI Agents]]
+![[topics/Concept/Agentic AI]]
 
 ![[topics/Concept/Subagents]]
 

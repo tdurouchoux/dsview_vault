@@ -38,7 +38,7 @@ The article emphasizes the need for better transparency and planning to manage A
 
 ## Topics
 
-![[topics/Concept/AI Agents]]
+![[topics/Concept/Agentic AI]]
 
 ![[topics/Concept/AI Energy Footprint]]
 
