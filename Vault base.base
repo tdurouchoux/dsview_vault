@@ -1,0 +1,39 @@
+formulas:
+  Sans titre: ""
+  Sans titre 2: file.backlinks.length
+  Sans titre 3: |+
+    file.links.latest()
+
+properties:
+  formula.Sans titre 2:
+    displayName: Nombre de contenu liés
+views:
+  - type: table
+    name: Latest content
+    filters:
+      and:
+        - file.folder.startsWith("contents")
+    order:
+      - file.name
+      - upload_date
+      - already_read
+      - read_priority
+      - relevance
+      - link
+    sort:
+      - property: upload_date
+        direction: DESC
+    limit: 50
+  - type: table
+    name: Most common topics
+    filters:
+      and:
+        - file.folder.startsWith("topics")
+    order:
+      - file.name
+      - type
+      - formula.Sans titre 2
+    sort:
+      - property: formula.Sans titre 2
+        direction: DESC
+    limit: 200
