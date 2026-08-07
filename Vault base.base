@@ -1,18 +1,15 @@
+filters:
+  and:
+    - file.folder.startsWith("contents")
+    - file.name != "index"
 formulas:
-  Sans titre: ""
-  Sans titre 2: file.backlinks.length
-  Sans titre 3: |+
-    file.links.latest()
-
+  count_backlinks: file.backlinks.length
 properties:
-  formula.Sans titre 2:
+  formula.count_backlinks:
     displayName: Nombre de contenu liés
 views:
   - type: table
     name: Latest content
-    filters:
-      and:
-        - file.folder.startsWith("contents")
     order:
       - file.name
       - upload_date
@@ -23,17 +20,21 @@ views:
     sort:
       - property: upload_date
         direction: DESC
-    limit: 50
+    limit: 25
   - type: table
-    name: Most common topics
-    filters:
-      and:
-        - file.folder.startsWith("topics")
+    name: Reading priority
     order:
       - file.name
-      - type
-      - formula.Sans titre 2
+      - upload_date
+      - already_read
+      - read_priority
+      - relevance
+      - link
     sort:
-      - property: formula.Sans titre 2
+      - property: read_priority
         direction: DESC
-    limit: 200
+      - property: upload_date
+        direction: DESC
+    limit: 25
+    columnSize:
+      file.name: 345
