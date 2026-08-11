@@ -11,6 +11,7 @@ upload_date: '2024-05-29'
 ---
 
 https://metaflow.org/
+
 ## Summary
 
 Metaflow is an open-source framework designed for real-life machine learning, AI, and data science projects. It simplifies the development, management, and deployment of these projects with several key features:
@@ -27,6 +28,7 @@ Metaflow is built for ML/AI engineers and data scientists, emphasizing human-cen
 Originally developed at Netflix, Metaflow is now used by hundreds of companies across industries. Recent updates include support for recursive and conditional steps, custom decorators, dependency management with uv, one-click local development stack, checkpointing progress, configurable flows, programmable flow execution, new documentation for compute patterns, support for AWS Trainium, and real-time, dynamic cards.
 
 Metaflow provides extensive resources, including documentation, tutorials, and community support, making it a comprehensive tool for managing ML, AI, and data science projects.
+
 ## Links
 
 - [Metaflow - a framework for real-life ML, AI, and data science](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9) : Open-Sourcing Metaflow, a Human-Centric Framework for Data Science
@@ -34,6 +36,7 @@ Metaflow provides extensive resources, including documentation, tutorials, and c
 - [Open-Sourcing a Monitoring GUI for Metaflow, Netflix’s ML Platform](https://netflixtechblog.com/open-sourcing-a-monitoring-gui-for-metaflow-75ff465f0d60) : Open-Sourcing a Monitoring GUI for Metaflow, Netflix’s ML Platform
 - [Supporting content decision makers with machine learning](https://netflixtechblog.com/supporting-content-decision-makers-with-machine-learning-995b7b76006f) : Supporting content decision makers with machine learning
 - [Developing safe and reliable ML products at 23andMe](https://medium.com/23andme-engineering/machine-learning-eeee69d40736) : Developing safe and reliable ML products at 23andMe
+
 
 ## Topics
 

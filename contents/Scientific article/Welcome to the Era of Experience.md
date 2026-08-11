@@ -13,6 +13,7 @@ upload_date: '2025-04-22'
 ---
 
 https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf
+
 ## Summary
 
 The document discusses the transition from human data-centric AI to an era of experience-driven AI, where agents learn predominantly from their own interactions with the environment. Key points include:
@@ -28,7 +29,9 @@ The document discusses the transition from human data-centric AI to an era of ex
 - **Consequences**: The era of experience promises unprecedented capabilities but also presents challenges and risks, including job displacement and safety concerns. However, it also offers potential safety benefits, such as adaptability to environmental changes and incremental correction of misaligned reward functions.
 
 The document concludes that the era of experience will unlock new capabilities surpassing human intelligence, driven by algorithmic advancements in RL and a shift towards experiential learning.
+
 ## Links
+
 
 
 ## Topics

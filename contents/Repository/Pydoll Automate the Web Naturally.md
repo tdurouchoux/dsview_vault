@@ -11,6 +11,7 @@ upload_date: '2025-03-11'
 ---
 
 https://github.com/thalissonvs/pydoll
+
 ## Summary
 
 Pydoll is a Python library designed for automating Chromium-based browsers without the need for a WebDriver, offering realistic interactions. It connects directly to the Chrome DevTools Protocol (CDP), eliminating the need for external drivers and simplifying the automation process. Key features include:
@@ -53,10 +54,12 @@ Pydoll is a Python library designed for automating Chromium-based browsers witho
 - **Support**: Options to support the project, including sponsorship, starring the repository, and sharing on social media.
 
 Pydoll is licensed under the MIT License and aims to make browser automation more efficient and realistic.
+
 ## Links
 
 - [Pydoll Documentation](https://pydoll.tech/) : Official documentation for Pydoll, providing detailed guides, API references, and advanced techniques for browser automation.
 - [GitHub Blog](https://github.blog) : GitHub's official blog featuring updates, announcements, and articles about GitHub features and services.
+
 
 ## Topics
 

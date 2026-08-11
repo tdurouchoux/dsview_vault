@@ -11,6 +11,7 @@ upload_date: '2025-03-19'
 ---
 
 https://www.geteppo.com/blog/bayes-vs-frequentism-can-be-a-big-deal
+
 ## Summary
 
 The content discusses the debate between Bayesian and Frequentist statistical methods, particularly in the context of A/B testing. The author, Demetri Pananos, argues that the differences between these approaches are significant and that oversimplifying them can lead to poor decision-making. Here are the key points:
@@ -32,11 +33,13 @@ The content discusses the debate between Bayesian and Frequentist statistical me
 6. **Subjectivity of Priors**: The author argues that informative priors are not inherently more subjective than other modeling choices in statistical analysis. They emphasize the importance of transparency and justification of assumptions.
 
 In summary, the author argues that the differences between Bayesian and Frequentist methods are significant and that oversimplifying them can lead to poor decision-making. They emphasize the benefits of Bayesian methods, particularly in the context of decision theory.
+
 ## Links
 
 - [Eppo's Bayesian Aggregate Impact Estimator](https://docs.geteppo.com/experiment-analysis/reporting/scorecard/#bayesian-aggregate-impact-estimation) : Eppo's Bayesian Aggregate Impact Estimator documentation.
 - [Hidden Dangers of Non-Informative Priors](https://statmodeling.stat.columbia.edu/2013/11/21/hidden-dangers-noninformative-priors/) : A blog post discussing the hidden dangers of using non-informative priors in Bayesian analysis.
 - [Bayesian Statistics Documentation](https://docs.geteppo.com/experiment-analysis/#bayesian-statistics) : Eppo's documentation on Bayesian statistics, providing insights into Bayesian methods and their applications.
+
 
 ## Topics
 
@@ -48,7 +51,7 @@ In summary, the author argues that the differences between Bayesian and Frequent
 
 ![[topics/Concept/Frequentist Statistics]]
 
-![[topics/Concept/Bayesian Statistics]]
+![[topics/Concept/Bayesian Inference]]
 
 ![[topics/Concept/Posterior Distribution]]
 

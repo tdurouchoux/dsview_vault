@@ -12,6 +12,7 @@ upload_date: '2022-11-17'
 ---
 
 https://jameskle.com/writes/tarush-aggarwal
+
 ## Summary
 
 The podcast episode features Tarush Aggarwal, Founder and CEO of 5x, discussing his journey in data engineering and building data teams. Key points include:
@@ -25,10 +26,12 @@ The podcast episode features Tarush Aggarwal, Founder and CEO of 5x, discussing 
 - **Partnerships**: Collaborates with best-in-class vendors in the modern data stack, aiming to create an app store for data services.
 
 The episode provides insights into Tarush's professional journey, the evolution of data engineering, and the importance of a managed data stack in today's business landscape.
+
 ## Links
 
 - [5x Managed Data Platform](https://5x.co/managed-data-platform/) : The 5x Managed Data Platform is a comprehensive solution that provides a modern data stack out of the box. It is designed to help companies efficiently manage their data infrastructure, allowing them to focus on deriving business value from their data. The platform integrates various data services and provides a talent layer to support companies in their data management needs.
 - [WeWork China Investment](https://www.wework.com/newsroom/investment-to-fuel-growth-of-wework-china) : This link points to an article about WeWork's investment to fuel the growth of its operations in China. It discusses WeWork's strategy and initiatives to expand its presence and services in the Chinese market, highlighting the company's focus on establishing a strong foothold in Asia.
+
 
 ## Topics
 
@@ -38,4 +41,4 @@ The episode provides insights into Tarush's professional journey, the evolution 
 
 ![[topics/Concept/Modern Data Stack]]
 
-![[topics/Concept/Provenance Technology]]
+![[topics/Concept/Data Lineage]]

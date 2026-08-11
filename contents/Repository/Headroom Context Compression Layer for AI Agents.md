@@ -11,6 +11,7 @@ upload_date: '2026-07-22'
 ---
 
 https://github.com/headroomlabs-ai/headroom
+
 ## Summary
 
 Headroom is a **context compression tool** for AI agents/LLMs that reduces token usage by **60-95% for JSON data** and **15-20% for coding agents** while preserving answer accuracy. It supports multiple modes: **library (Python/TypeScript)**, **proxy (zero-code integration)**, **agent wrapping**, and **MCP server**.
@@ -36,6 +37,7 @@ Headroom is a **context compression tool** for AI agents/LLMs that reduces token
 **Tech stack:** Python/Rust backend, TypeScript SDK, HuggingFace model (Kompress-v2-base).
 
 **License:** Apache 2.0. Managed enterprise support available.
+
 ## Links
 
 - [Headroom Documentation - Architecture](https://headroom-docs.vercel.app/docs/architecture) : Detailed documentation explaining the architecture of Headroom, including its components like CacheAligner, ContentRouter, and compression mechanisms.
@@ -44,22 +46,23 @@ Headroom is a **context compression tool** for AI agents/LLMs that reduces token
 - [Headroom Documentation - MCP Tools](https://headroom-docs.vercel.app/docs/mcp) : Documentation for Headroom's MCP (Model Context Protocol) server integration, enabling seamless interaction with MCP-compatible clients.
 - [Headroom Documentation - Benchmarks](https://headroom-docs.vercel.app/docs/benchmarks) : Performance benchmarks showcasing Headroom's token reduction efficiency across various workloads like code search, SRE debugging, and JSON compression.
 
+
 ## Topics
-
-![[topics/Library/headroom]]
-
-![[topics/Concept/Context Compression]]
-
-![[topics/Concept/Reversible Compression CCR]]
-
-![[topics/Concept/Content Aware Compression]]
-
-![[topics/Concept/Cross Agent Memory]]
-
-![[topics/Concept/Output Token Reduction]]
 
 ![[topics/Tool/Model Context Protocol MCP Server]]
 
-![[topics/Concept/Agent Wrapping]]
+![[topics/Library/headroom]]
+
+![[topics/Concept/Output Token Reduction]]
+
+![[topics/Concept/Cross Agent Memory]]
+
+![[topics/Concept/Content Aware Compression]]
+
+![[topics/Concept/Context Compression]]
 
 ![[topics/Concept/Live Zone Compression]]
+
+![[topics/Concept/Reversible Compression CCR]]
+
+![[topics/Concept/Agent Wrapping]]

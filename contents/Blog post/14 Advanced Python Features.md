@@ -11,6 +11,7 @@ upload_date: '2025-04-29'
 ---
 
 https://blog.edward-li.com/tech/advanced-python-features/
+
 ## Summary
 
 Python is widely used but often underappreciated due to its simplicity. The article discusses 14 advanced Python features that are underrated or unique, compiled by Edward Li. These features were originally shared in a 14-day series on X/Twitter.
@@ -44,6 +45,7 @@ Python is widely used but often underappreciated due to its simplicity. The arti
 14. **Metaclasses**: Metaclasses are powerful but complex features that allow customization and modification of class creation. They are rarely needed but can be useful for specific use cases.
 
 The article concludes with a reminder that metaclasses are advanced and often unnecessary, but powerful for unique problems. Real-world examples include Python's ABC and Enum implementations, and usage in libraries like Django and SQLAlchemy.
+
 ## Links
 
 - [Python Type Hints: How to use @overload](https://adamj.eu/tech/2021/05/29/python-type-hints-how-to-use-overload/) : This link provides a detailed guide on how to use the @overload decorator in Python for type hints, which is a feature discussed in the content.
@@ -51,6 +53,7 @@ The article concludes with a reminder that metaclasses are advanced and often un
 - [Python’s Format Mini-Language for Tidy Strings](https://realpython.com/python-format-mini-language/) : This link explains the Format Mini-Language used within f-strings, providing examples and best practices for string formatting in Python.
 - [Python Descriptors: An Introduction](https://realpython.com/python-descriptors/) : This link introduces Python descriptors, which are used in the content to explain how proxy properties work under the hood.
 - [Python Metaclasses](https://realpython.com/python-metaclasses/) : This link provides an in-depth explanation of metaclasses in Python, covering their usage and examples, which is a topic discussed in the content.
+
 
 ## Topics
 

@@ -12,6 +12,7 @@ upload_date: '2025-05-30'
 ---
 
 https://mirascope.com/docs/lilypad
+
 ## Summary
 
 Lilypad is a documentation platform for working with Large Language Models (LLMs). It outlines a typical LLM development flow: Prototype, Vibe Check, Annotate, Analyze, Optimize, and Iterate. Key points include:
@@ -24,9 +25,11 @@ Lilypad is a documentation platform for working with Large Language Models (LLMs
 6. **Iterate**: Repeat the process until the system is deemed satisfactory.
 
 Lilypad provides tools for observability, versioning, and evaluation, addressing gaps in current observability tools by offering a comprehensive data flywheel. It supports tracking, annotating, and comparing LLM function versions, with features like cost and latency monitoring, and comparison of different implementations.
+
 ## Links
 
 - [Lilypad GitHub Repository](https://github.com/Mirascope/lilypad) : The GitHub repository for Lilypad, an open-source tool for LLM observability and management, providing versioning, annotation, and performance tracking for LLM applications.
+
 
 ## Topics
 

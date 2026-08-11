@@ -11,6 +11,7 @@ upload_date: '2024-05-05'
 ---
 
 https://readmedium.com/https://towardsdatascience.com/environmental-implications-of-the-ai-boom-279300a24184
+
 ## Summary
 
 The content discusses the environmental impact of the rapid growth of artificial intelligence (AI). Key points include:
@@ -21,10 +22,12 @@ The content discusses the environmental impact of the rapid growth of artificial
 - **Mitigation Strategies**: Suggestions include improving energy efficiency, using renewable energy sources, and developing more sustainable hardware and algorithms.
 
 The summary highlights the need for awareness and action to mitigate the environmental footprint of AI technologies.
+
 ## Links
 
 - [OpenAI o1 chat](https://openai01.net/) : A link to the OpenAI o1 chat interface, which is a conversational AI model.
 - [OpenAI o1 API](https://openaio1api.com/) : A link to the OpenAI o1 API, which allows developers to integrate the o1 model into their applications.
+
 
 ## Topics
 

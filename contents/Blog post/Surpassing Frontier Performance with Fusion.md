@@ -11,6 +11,7 @@ upload_date: '2026-06-18'
 ---
 
 https://openrouter.ai/blog/announcements/fusion-beats-frontier/
+
 ## Summary
 
 OpenRouter introduces **Fusion**, a tool that synthesizes outputs from multiple models to outperform individual models in deep research tasks. Key findings:
@@ -24,6 +25,7 @@ OpenRouter introduces **Fusion**, a tool that synthesizes outputs from multiple 
 - **Four ways to use Fusion**: Chatroom, model slug, server tool, or plugin.
 
 Fusion is not a drop-in replacement for all tasks (e.g., coding) but excels in complex research. Performance gains come from diversity and synthesis, not just model choice.
+
 ## Links
 
 - [DRACO Benchmark by Perplexity AI](https://www.perplexity.ai/) : The DRACO benchmark, developed by Perplexity AI, is a deep research benchmark used to evaluate the performance of models like Fusion. It tests reasoning, tool usage, and knowledge synthesis across 100 tasks spanning 10 domains. This link points to Perplexity AI, the creator of the DRACO benchmark, which is central to the evaluation methodology discussed in the content.
@@ -31,16 +33,17 @@ Fusion is not a drop-in replacement for all tasks (e.g., coding) but excels in c
 - [Fusion Server Tools Documentation](https://openrouter.ai/docs/guides/features/server-tools/fusion) : This link provides detailed documentation on the Fusion server tools offered by OpenRouter. It explains how Fusion integrates with server tools like web search and web fetch to synthesize responses from multiple models. This is critical for understanding the technical implementation of Fusion.
 - [Exa.ai](https://exa.ai) : Exa.ai is the provider of the web search and fetch tools used by Fusion to gather real-time information from the web. This is a key component of the deep research tasks evaluated in the content, making Exa.ai highly relevant for understanding Fusion's functionality.
 
+
 ## Topics
 
-![[topics/Concept/Model Fusion]]
-
 ![[topics/Concept/Data Contamination]]
-
-![[topics/Dataset/DRACO Benchmark]]
-
-![[topics/Tool/Web Search and Fetch Tools]]
 
 ![[topics/Concept/Judge Model LLM as a Judge]]
 
 ![[topics/Platform/OpenRouter]]
+
+![[topics/Concept/Model Fusion]]
+
+![[topics/Tool/Web Search and Fetch Tools]]
+
+![[topics/Dataset/DRACO Benchmark]]

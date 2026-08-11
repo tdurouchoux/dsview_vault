@@ -12,6 +12,7 @@ upload_date: '2025-05-07'
 ---
 
 https://github.com/turbolytics/sql-flow
+
 ## Summary
 
 SQLFlow is a high-performance stream processing engine that allows users to define data pipelines using SQL. It is built on DuckDB and Apache Arrow for high-speed processing and supports various input sources like Kafka and WebSockets, and output sinks like PostgreSQL, Kafka, and cloud storage in formats such as Parquet and Iceberg.
@@ -32,6 +33,7 @@ The tool supports a range of use cases, including streaming data transformations
 Performance benchmarks show high throughput and efficient memory usage for different test scenarios, such as simple aggregation, enrichment, and CSV joins.
 
 For more detailed information, users can refer to the tutorials and example configurations provided in the repository.
+
 ## Links
 
 - [Apache Arrow](https://arrow.apache.org/) : Apache Arrow is a cross-language development platform for in-memory data. It provides columnar memory format, file format, and processing tools.
@@ -39,6 +41,7 @@ For more detailed information, users can refer to the tutorials and example conf
 - [Apache Kafka](https://kafka.apache.org/) : Apache Kafka is an open-source distributed event streaming platform capable of handling trillions of events a day.
 - [Apache Iceberg](https://py.iceberg.apache.org/) : Apache Iceberg is a table format for huge analytic datasets, with SQL support, designed for large-scale data processing.
 - [PostgreSQL](https://www.postgresql.org/) : PostgreSQL is a powerful, open-source object-relational database system with over 35 years of active development.
+
 
 ## Topics
 
@@ -48,4 +51,4 @@ For more detailed information, users can refer to the tutorials and example conf
 
 ![[topics/Tool/SQLFlow]]
 
-![[topics/Library/Apache Iceberg]]
+![[topics/Platform/Apache Iceberg]]

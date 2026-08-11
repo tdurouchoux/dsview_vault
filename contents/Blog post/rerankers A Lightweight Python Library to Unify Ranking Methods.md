@@ -12,6 +12,7 @@ upload_date: '2024-09-24'
 ---
 
 https://www.answer.ai/posts/2024-09-16-rerankers.html
+
 ## Summary
 
 The blog post introduces rerankers, a lightweight Python library designed to unify various re-ranking methods used in information retrieval pipelines. The library aims to simplify the process of implementing and switching between different re-ranking approaches, which are often complex and scattered across different codebases.
@@ -29,10 +30,12 @@ Key points include:
 5. **Ecosystem Integration**: Rerankers is designed to complement existing retrieval frameworks and aims to preserve the performance of the methods it implements. It is open-source and available on GitHub.
 
 The post concludes with key takeaways, emphasizing the benefits of two-stage pipelines, the variety of re-ranking methods, and the ease of use and extensibility provided by the rerankers library.
+
 ## Links
 
 - [rerankers GitHub Repository](https://github.com/answerdotai/rerankers) : The GitHub repository for the rerankers library, a lightweight Python library to unify ranking methods in data retrieval pipelines.
 - [answer-colbert-small-v1 Model on Hugging Face](https://huggingface.co/answerdotai/answer-colbert-small-v1) : The answer-colbert-small-v1 model on Hugging Face, a re-ranking model mentioned in the content as part of the re-ranking methods discussed.
+
 
 ## Topics
 

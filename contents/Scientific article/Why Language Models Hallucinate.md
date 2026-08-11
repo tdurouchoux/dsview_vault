@@ -13,6 +13,7 @@ upload_date: '2025-09-19'
 ---
 
 https://arxiv.org/pdf/2509.04664
+
 ## Summary
 
 The paper "Why Language Models Hallucinate" by Adam Tauman Kalai, Ofir Nachum, Santosh S. Vempala, and Edwin Zhang explores the reasons behind hallucinations in large language models (LLMs). Hallucinations are defined as plausible yet incorrect statements produced by LLMs, which can undermine their utility and trustworthiness. The authors argue that these hallucinations are not mysterious but originate from natural statistical pressures during training and evaluation.
@@ -45,17 +46,19 @@ The paper "Why Language Models Hallucinate" by Adam Tauman Kalai, Ofir Nachum, S
 
 ### Conclusion:
 The paper demystifies hallucinations in modern language models by analyzing their origins during pretraining and their persistence through post-training. The authors argue that hallucinations are a natural consequence of the training and evaluation processes and propose socio-technical solutions to mitigate them. By modifying evaluation methods to reward appropriate expressions of uncertainty, the field can move towards more trustworthy AI systems.
+
 ## Links
+
 
 
 ## Topics
 
-![[topics/Concept/Hallucination in Language Models]]
+![[topics/Concept/Evaluation Metrics]]
 
-![[topics/Concept/Binary Classification]]
+![[topics/Concept/Prompt Engineering and Optimization]]
+
+![[topics/Concept/Hallucination in Language Models]]
 
 ![[topics/Concept/Calibration]]
 
-![[topics/Concept/Prompt Engineering]]
-
-![[topics/Concept/Evaluation Metrics]]
+![[topics/Concept/Binary Classification]]

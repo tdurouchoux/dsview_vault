@@ -11,6 +11,7 @@ upload_date: '2023-09-21'
 ---
 
 https://codelabs.developers.google.com/tensorflowjs-transfer-learning-teachable-machine
+
 ## Summary
 
 TensorFlow.js is an open-source machine learning library that can run anywhere JavaScript can, including web browsers, servers, IoT devices, desktop apps, and native mobile apps. It supports multiple backends for execution, such as WebGL, Web Assembly, and CPU. Running TensorFlow.js in the web browser offers benefits like privacy, speed, reach, and cost-effectiveness.
@@ -29,12 +30,14 @@ Key steps include:
 7. Implementing a reset button to start over.
 
 The codelab concludes with a recap of what was learned and suggestions for further exploration and sharing projects made with TensorFlow.js.
+
 ## Links
 
 - [TensorFlow.js Official Website](https://www.tensorflow.org/js) : The official website for TensorFlow.js, providing documentation, tutorials, and resources for using TensorFlow.js in web applications.
 - [TensorFlow.js Pre-made Models](https://www.tensorflow.org/js/models) : A collection of pre-made models available for use with TensorFlow.js, including models for image recognition, natural language processing, and more.
 - [TensorFlow.js API](https://js.tensorflow.org/api/latest/) : The official API documentation for TensorFlow.js, providing detailed information on the library's functions, classes, and modules.
 - [TensorFlow.js Show & Tell](https://blog.tensorflow.org/search?label=TensorFlow.js&max-results=20) : A collection of projects and demos created using TensorFlow.js, showcasing the library's capabilities and inspiring new ideas for web-based machine learning applications.
+
 
 ## Topics
 

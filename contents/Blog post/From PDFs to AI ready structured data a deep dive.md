@@ -12,6 +12,7 @@ upload_date: '2024-12-28'
 ---
 
 https://explosion.ai/blog/pdfs-nlp-structured-data
+
 ## Summary
 
 The blog post discusses the challenges and solutions for converting PDFs and similar documents into structured, AI-ready data. Key points include:
@@ -35,6 +36,7 @@ The blog post discusses the challenges and solutions for converting PDFs and sim
 9. **Resources and Tools**: The post provides links to various resources, including spaCy Layout, Docling, Prodigy, and related technical reports and papers.
 
 Overall, the blog post offers a comprehensive guide to processing PDFs and similar documents for AI-ready structured data, highlighting the tools, techniques, and best practices for effective document understanding and information extraction.
+
 ## Links
 
 - [spaCy Layout Documentation](https://github.com/explosion/spacy-layout) : GitHub repository for spaCy Layout, a tool for processing PDFs, Word documents, and other formats with spaCy.
@@ -42,6 +44,7 @@ Overall, the blog post offers a comprehensive guide to processing PDFs and simil
 - [Prodigy Annotation Tool](https://prodi.gy) : A modern, scriptable annotation tool for creating data for machine learning, including PDF annotation workflows.
 - [DocLayNet Dataset](https://dl.acm.org/doi/10.1145/3534678.3539043) : A large human-annotated dataset for document-layout segmentation, used for training layout analysis models.
 - [TableFormer Architecture](https://arxiv.org/abs/2203.01017) : Table Structure Understanding with Transformers, a model developed for table structure recognition in documents.
+
 
 ## Topics
 
@@ -61,4 +64,4 @@ Overall, the blog post offers a comprehensive guide to processing PDFs and simil
 
 ![[topics/Model/TableFormer]]
 
-![[topics/Concept/Layout Analysis]]
+![[topics/Concept/Document Layout Analysis]]

@@ -11,6 +11,7 @@ upload_date: '2026-04-15'
 ---
 
 https://boristane.com/blog/how-i-use-claude-code/
+
 ## Summary
 
 The author outlines a structured workflow for using Claude Code, emphasizing separation of planning and execution to improve code quality and efficiency. Key phases include:
@@ -34,22 +35,24 @@ The author outlines a structured workflow for using Claude Code, emphasizing sep
 - Separate creative (planning) and mechanical (implementation) work.
 
 The workflow prioritizes control, context preservation, and iterative refinement to avoid common pitfalls of AI-assisted coding (e.g., misaligned implementations, scope creep).
+
 ## Links
 
 - [Claude Code Documentation](https://docs.anthropic.com/en/docs/claude-code) : Official documentation for Claude Code, providing detailed information about its features, usage, and capabilities. This is highly relevant as the blog post discusses workflows and best practices for using Claude Code effectively.
 
+
 ## Topics
 
-![[topics/Concept/AI Assisted Development]]
-
-![[topics/Concept/Code Annotation Cycle]]
-
-![[topics/Concept/Persistent Artifact Driven Development]]
-
-![[topics/Concept/Task Decomposition]]
-
-![[topics/Concept/Terse Correction Feedback]]
+![[topics/Tool/Claude Code]]
 
 ![[topics/Concept/Context Window Management]]
 
-![[topics/Tool/Claude Code]]
+![[topics/Concept/AI Assisted Development]]
+
+![[topics/Concept/Task Decomposition]]
+
+![[topics/Concept/Persistent Artifact Driven Development]]
+
+![[topics/Concept/Code Annotation Cycle]]
+
+![[topics/Concept/Terse Correction Feedback]]

@@ -11,6 +11,7 @@ upload_date: '2025-12-31'
 ---
 
 https://fastapi-guard.com/
+
 ## Summary
 
 FastAPI Guard is an enterprise-grade security middleware designed for FastAPI applications. It provides a robust set of features to enhance security, including:
@@ -23,7 +24,9 @@ FastAPI Guard is an enterprise-grade security middleware designed for FastAPI ap
 - **Audit Logging**: Tracks and logs user activities for compliance and monitoring.
 
 The middleware is designed to be easily integrated into existing FastAPI applications, providing a comprehensive security layer with minimal configuration. It is particularly useful for enterprise applications where security and compliance are critical.
+
 ## Links
+
 
 
 ## Topics

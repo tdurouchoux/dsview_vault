@@ -11,6 +11,7 @@ upload_date: '2025-01-24'
 ---
 
 https://github.com/TimelyDataflow/timely-dataflow
+
 ## Summary
 
 Timely Dataflow is a Rust-based implementation of a low-latency cyclic dataflow computational model, inspired by the Naiad system. It aims to provide a modular, expressive, and high-performance framework for distributed data-parallel computations. Key features include:
@@ -36,10 +37,12 @@ Timely Dataflow is a Rust-based implementation of a low-latency cyclic dataflow 
    - Exploring larger themes like rate-controlling output and coarse- vs fine-grained timestamps.
 
 The project is open-source under the MIT license and welcomes contributions from the community to enhance its functionality and performance.
+
 ## Links
 
 - [Timely Dataflow Documentation](https://timelydataflow.github.io/timely-dataflow/) : The official documentation for Timely Dataflow, providing detailed information on how to use the library, its features, and examples.
 - [Timely Dataflow GitHub Repository](https://github.com/timelydataflow/timely-dataflow) : The GitHub repository for Timely Dataflow, containing the source code, issues, and pull requests.
+
 
 ## Topics
 

@@ -13,6 +13,7 @@ upload_date: '2024-10-12'
 ---
 
 https://github.com/Sinaptik-AI/pandas-ai
+
 ## Summary
 
 PandasAI is a Python library that enables natural language interactions with data, facilitating data analysis for both technical and non-technical users. It supports various data formats like SQL, CSV, and parquet. Key features include:
@@ -30,10 +31,12 @@ PandasAI is a Python library that enables natural language interactions with dat
 **License**: MIT expat license, with exceptions for the enterprise edition.
 
 **Community**: Users can contribute, and there are resources like documentation, examples, and a Discord community for support.
+
 ## Links
 
 - [PandasAI Documentation](https://pandas-ai.readthedocs.io/en/latest/) : Comprehensive documentation for PandasAI, detailing its features, installation, and usage.
 - [PandasAI PyPI](https://pypi.org/project/pandasai/) : PandasAI project page on PyPI, providing installation instructions and package details.
+
 
 ## Topics
 

@@ -13,6 +13,7 @@ upload_date: '2022-10-13'
 ---
 
 https://jalammar.github.io/illustrated-stable-diffusion/
+
 ## Summary
 
 The content provides an overview of Stable Diffusion, a versatile AI model for generating images from text descriptions. Key points include:
@@ -38,11 +39,13 @@ The content provides an overview of Stable Diffusion, a versatile AI model for g
    - Future models may use larger language models for improved image quality.
 
 The article concludes with resources for further learning and acknowledges contributions from various individuals and communities.
+
 ## Links
 
 - [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion) : A detailed explanation of the diffusion model, annotated for better understanding.
 - [Stable Diffusion Paper](https://arxiv.org/abs/2205.11487) : The original research paper on Stable Diffusion, providing in-depth technical details.
 - [Lilian Weng's Diffusion Models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) : An in-depth look at the algorithms and math behind diffusion models.
+
 
 ## Topics
 

@@ -11,6 +11,7 @@ upload_date: '2022-09-15'
 ---
 
 https://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+
 ## Summary
 
 The document provides guidelines for machine learning (ML) engineering, focusing on best practices for building and maintaining ML systems. It is structured into several phases, each with specific rules and recommendations.
@@ -80,7 +81,9 @@ The document provides guidelines for machine learning (ML) engineering, focusing
 - The document references various related works and acknowledges contributions from several individuals.
 
 This summary provides a concise overview of the main technical points and key takeaways from the document.
+
 ## Links
+
 
 
 ## Topics
@@ -91,4 +94,4 @@ This summary provides a concise overview of the main technical points and key ta
 
 ![[topics/Concept/Rules of Machine Learning]]
 
-![[topics/Concept/Ensemble Methods]]
+![[topics/Concept/Ensemble Learning]]

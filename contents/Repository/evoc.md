@@ -11,6 +11,7 @@ upload_date: '2026-04-22'
 ---
 
 https://github.com/TutteInstitute/evoc
+
 ## Summary
 
 EVōC (Embedding Vector Oriented Clustering) is a Python library for fast and flexible clustering of high-dimensional embedding vectors (e.g., from CLIP, sentence-transformers, OpenAI, or Cohere). Key features include:
@@ -37,21 +38,23 @@ duplicates = clusterer.duplicates_          # Near-duplicate detection
 **Installation**: `pip install evoc` or from source (`git+https://github.com/TutteInstitute/evoc.git`).
 
 **Citation**: Based on the PLSCAN algorithm (arXiv:2512.16558). License: BSD-2-Clause. Early beta; feedback welcome.
+
 ## Links
 
 - [EVōC Documentation on Read the Docs](https://evoc.readthedocs.io/en/latest/) : This link points to the full documentation of the EVōC library, providing detailed guides, API references, and usage examples for embedding vector clustering.
 - [PLSCAN Paper on arXiv](https://arxiv.org/abs/2512.16558) : This link leads to the arXiv paper titled 'Persistent Multiscale Density-based Clustering,' which is the foundational research paper for the clustering algorithm implemented in EVōC. This paper provides theoretical insights into the clustering methodology used in EVōC.
 
+
 ## Topics
 
-![[topics/Library/evoc]]
-
-![[topics/Concept/Multi granularity clustering]]
-
 ![[topics/Concept/Fuzzy Deduplication]]
+
+![[topics/Concept/Quantization]]
 
 ![[topics/Concept/Hierarchical Clustering]]
 
 ![[topics/Model/PLSCAN]]
 
-![[topics/Concept/Quantization]]
+![[topics/Library/evoc]]
+
+![[topics/Concept/Multi granularity clustering]]

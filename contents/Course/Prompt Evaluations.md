@@ -11,6 +11,7 @@ upload_date: '2024-09-29'
 ---
 
 https://github.com/anthropics/courses/tree/master/prompt_evaluations
+
 ## Summary
 
 The GitHub repository "courses/prompt_evaluations" by anthropics focuses on evaluating prompts, likely in the context of AI or machine learning. Here are the key points:
@@ -21,9 +22,11 @@ The GitHub repository "courses/prompt_evaluations" by anthropics focuses on eval
 - **Technical Focus**: The content is likely technical, focusing on the evaluation metrics, techniques, and frameworks used to assess the quality and effectiveness of prompts in AI applications.
 
 Overall, this repository is a valuable resource for data scientists and AI practitioners interested in prompt evaluation techniques and best practices.
+
 ## Links
 
 - [GitHub Documentation](https://docs.github.com) : GitHub's official documentation, providing detailed information on how to use GitHub's features and services.
 - [GitHub Learning Pathways](https://resources.github.com/learn/pathways) : A collection of learning resources and pathways to help users develop their skills on GitHub.
+
 
 ## Topics

@@ -12,6 +12,7 @@ upload_date: '2024-09-28'
 ---
 
 https://observablehq.com/
+
 ## Summary
 
 Observable is a collaborative data analysis tool designed for teams, enhanced by AI, and supported by a global community of data practitioners. It introduces a collaborative data canvas that allows cross-functional stakeholders to explore data in real-time, fostering increased data literacy and team-based insights. Key features include:
@@ -28,10 +29,12 @@ Observable is a collaborative data analysis tool designed for teams, enhanced by
 10. **Built-in Visualizations**: Includes a variety of chart types like sankeys, beeswarms, bar charts, maps, and histograms.
 
 Observable aims to make data analysis more collaborative, efficient, and accessible, leveraging AI and a supportive community to enhance the data workflow.
+
 ## Links
 
 - [Observable Framework](https://observablehq.com/framework/) : The Observable Framework documentation page, providing insights into the framework used for data visualization and analysis.
 - [D3.js](https://d3js.org/) : The D3.js website, a powerful JavaScript library for producing dynamic, interactive data visualizations in web browsers. It is mentioned in the context of building custom charts and visualizations.
+
 
 ## Topics
 

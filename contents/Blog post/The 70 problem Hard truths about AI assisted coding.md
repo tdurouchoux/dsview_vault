@@ -12,6 +12,7 @@ upload_date: '2025-11-20'
 ---
 
 https://addyo.substack.com/p/the-70-problem-hard-truths-about
+
 ## Summary
 
 The content discusses the impact of AI-assisted coding on software development, highlighting several key points:
@@ -36,26 +37,28 @@ The content discusses the impact of AI-assisted coding on software development, 
 8. **Craft and Quality**: AI-generated MVPs often lack polish and attention to edge cases. The future of software development lies in combining AI's speed with human craftsmanship to create truly user-friendly, self-serve software.
 
 9. **Bottom Line**: AI accelerates iteration and experimentation but does not replace the need for human judgment in designing maintainable, secure, and high-quality software. The goal is to build better software, not just faster.
+
 ## Links
 
 - [JavaScript Enablement](https://enable-javascript.com/) : A guide to enabling JavaScript in your browser, essential for running this site correctly.
 - [Substack Home](https://substack.com) : The homepage of Substack, a platform for independent writers and publishers.
 - [YouTube Video](https://www.youtube.com/watch?v=SpKtpW9TGF0) : A YouTube video likely related to the topic discussed in the article.
 
-## Topics
 
-![[topics/Concept/AI assisted coding]]
+## Topics
 
 ![[topics/Concept/Agentic Software Engineering]]
 
 ![[topics/Concept/The 70 problem]]
 
-![[topics/Concept/The knowledge paradox]]
-
-![[topics/Concept/The two steps back pattern]]
-
-![[topics/Concept/The AI first draft pattern]]
+![[topics/Concept/AI Assisted Development]]
 
 ![[topics/Concept/The constant conversation pattern]]
 
+![[topics/Concept/The AI first draft pattern]]
+
+![[topics/Concept/The two steps back pattern]]
+
 ![[topics/Concept/The trust but verify pattern]]
+
+![[topics/Concept/The knowledge paradox]]

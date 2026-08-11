@@ -11,6 +11,7 @@ upload_date: '2026-06-01'
 ---
 
 https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
+
 ## Summary
 
 Claude Code now supports **dynamic workflows**, enabling AI agents to autonomously handle complex, multi-step tasks end-to-end. Key features:
@@ -28,6 +29,7 @@ Claude Code now supports **dynamic workflows**, enabling AI agents to autonomous
 - Enterprise: Admins must enable (via settings).
 
 **Note**: Higher token usage; start with scoped tasks. Confirmation required for first workflow run.
+
 ## Links
 
 - [Claude Code Dynamic Workflows Documentation](https://code.claude.com/docs/en/workflows) : Official documentation for dynamic workflows in Claude Code, explaining how to use and configure this feature for handling complex tasks.
@@ -35,14 +37,15 @@ Claude Code now supports **dynamic workflows**, enabling AI agents to autonomous
 - [Claude Code Overview](https://code.claude.com/docs/en/overview) : Overview documentation of Claude Code, which likely includes general information about its features and capabilities.
 - [Claude Code API Pricing](http://claude.com/pricing#api) : Information about the pricing for using Claude Code via the API, including details about dynamic workflows availability for Max, Team, and Enterprise plans.
 
+
 ## Topics
-
-![[topics/Concept/Agentic and Dynamic Workflows]]
-
-![[topics/Platform/Microsoft Azure AI Foundry]]
-
-![[topics/Tool/Claude Code]]
 
 ![[topics/Platform/Amazon Bedrock]]
 
 ![[topics/Platform/Vertex AI]]
+
+![[topics/Platform/Microsoft Azure AI Foundry]]
+
+![[topics/Concept/AI Agent Workflows]]
+
+![[topics/Tool/Claude Code]]

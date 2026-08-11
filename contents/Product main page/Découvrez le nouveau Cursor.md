@@ -11,6 +11,7 @@ upload_date: '2026-04-06'
 ---
 
 https://cursor.com/fr/blog/cursor-3
+
 ## Summary
 
 Cursor 3 introduces a unified workspace for AI-assisted software development, shifting from manual file editing to agent-driven workflows. Key updates include:
@@ -22,6 +23,7 @@ Cursor 3 introduces a unified workspace for AI-assisted software development, sh
 - **IDE integration**: Maintains Cursor’s LSP support and file navigation while prioritizing agent collaboration.
 
 Focus: Scaling from individual agent oversight to autonomous agent fleets, with Cursor 3 as a bridge between current IDEs and future agentic development. Access via `Cmd+Shift+P -> Agents Window`.
+
 ## Links
 
 - [Cursor 3 Documentation for Plugins and Team Marketplaces](https://cursor.com/docs/plugins#team-marketplaces) : Documentation for setting up and managing team-specific plugin marketplaces in Cursor 3.
@@ -29,16 +31,17 @@ Focus: Scaling from individual agent oversight to autonomous agent fleets, with 
 - [Cursor 3 Documentation for Browser Tool](https://cursor.com/docs/agent/tools/browser) : Documentation for the integrated browser tool, enabling agents to interact with local websites.
 - [Cursor 3 Marketplace](https://cursor.com/marketplace) : The official marketplace for plugins in Cursor, allowing users to browse and install plugins to enhance agent capabilities.
 
+
 ## Topics
 
-![[topics/Platform/Cursor IDE]]
+![[topics/Concept/Language Server Protocol LSP]]
 
 ![[topics/Concept/Agentic Software Engineering]]
-
-![[topics/Tool/Composer 2]]
 
 ![[topics/Concept/Multi Agent Parallel Execution]]
 
 ![[topics/Concept/Agent Collaboration and Workflow Management]]
 
-![[topics/Concept/Language Server Protocol LSP]]
+![[topics/Tool/Composer 2]]
+
+![[topics/Platform/Cursor IDE]]

@@ -12,6 +12,7 @@ upload_date: '2025-10-04'
 ---
 
 https://blog.langchain.com/how-to-turn-claude-code-into-a-domain-specific-coding-agent/
+
 ## Summary
 
 The content discusses how to transform Claude Code into a domain-specific coding agent, focusing on improving performance with custom libraries, new library versions, internal APIs, or niche frameworks. The authors, developers of LangGraph and LangChain, experimented with various context engineering techniques and share their findings.
@@ -50,20 +51,22 @@ Key points include:
    - Combining Claude.md with MCP tools yields the best results for domain-specific libraries.
 
 The appendix includes detailed results for three specific tasks: Text-to-SQL Agent, Company Researcher, and Categories of Memories, showcasing performance differences across Claude Code configurations and categories.
+
 ## Links
 
 - [Claude.md](http://claude.md/?ref=blog.langchain.com) : Claude.md is a documentation tool used to provide condensed and structured guidance for coding agents, specifically for domain-specific libraries like LangGraph. It includes detailed instructions, common pitfalls, and anti-patterns to help agents write better code.
 - [LangChain Documentation](https://python.langchain.com/docs/get_started/introduction) : The LangChain documentation provides an introduction to LangChain, a framework for developing applications powered by language models. It includes guides, API references, and examples to help developers get started with LangChain.
 - [MCPDoc Server](https://github.com/langchain-ai/mcpdoc?ref=blog.langchain.com) : The MCPDoc server is an open-source tool that provides access to library documentation for coding agents. It exposes tools like list_doc_sources and fetch_docs to help agents retrieve specific documentation as needed.
 
+
 ## Topics
 
-![[topics/Concept/MCPDoc Server]]
-
-![[topics/Concept/Claude md]]
-
-![[topics/Concept/Context Engineering]]
+![[topics/Library/LangChain]]
 
 ![[topics/Concept/LangGraph]]
 
-![[topics/Library/LangChain]]
+![[topics/Concept/Context Window Management]]
+
+![[topics/Concept/Claude md]]
+
+![[topics/Concept/MCPDoc Server]]

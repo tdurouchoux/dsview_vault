@@ -11,6 +11,7 @@ upload_date: '2026-07-17'
 ---
 
 https://github.com/abetlen/llama-cpp-python
+
 ## Summary
 
 llama-cpp-python provides Python bindings for the C++ library llama.cpp, enabling efficient inference for large language models (LLMs) like Llama. Key features include:
@@ -25,6 +26,7 @@ llama-cpp-python provides Python bindings for the C++ library llama.cpp, enablin
 - **Documentation**: Available at [llama-cpp-python.readthedocs.io](https://llama-cpp-python.readthedocs.io/en/latest).
 
 **Use Cases**: Local LLM inference, OpenAI API replacement, LangChain/LlamaIndex integration, and edge deployment. MIT licensed.
+
 ## Links
 
 - [llama.cpp Official Repository](https://github.com/ggerganov/llama.cpp) : The official repository for llama.cpp, the C++ library that provides the foundational inference engine for the Python bindings in `llama-cpp-python`. This repository contains detailed documentation, build instructions, and additional optimizations for various hardware backends like OpenBLAS, CUDA, Metal, and more.
@@ -38,22 +40,23 @@ llama-cpp-python provides Python bindings for the C++ library llama.cpp, enablin
 - [Llama.cpp Python Bindings Low-Level API](https://llama-cpp-python.readthedocs.io/en/latest/api-reference/#low-level-api) : Documentation for the low-level API of `llama-cpp-python`, which provides direct access to the C API of llama.cpp via ctypes. This is useful for users who need fine-grained control over the inference process.
 - [Llama.cpp Python Bindings High-Level API](https://llama-cpp-python.readthedocs.io/en/latest/api-reference/#high-level-api) : Documentation for the high-level API of `llama-cpp-python`, which provides a simple Python interface for text completion, chat completion, and other tasks. This is ideal for users who want to quickly integrate the library into their projects.
 
+
 ## Topics
-
-![[topics/Library/llama cpp python]]
-
-![[topics/Concept/GGUF]]
-
-![[topics/Concept/Hardware Acceleration Backends]]
-
-![[topics/Concept/Multi modal Models]]
 
 ![[topics/Concept/Function Calling]]
 
+![[topics/Concept/GGUF]]
+
 ![[topics/Tool/llama cpp]]
+
+![[topics/Concept/Embeddings]]
+
+![[topics/Concept/Multi modal Models]]
 
 ![[topics/Concept/Speculative Decoding]]
 
 ![[topics/Concept/OpenAI Compatible API]]
 
-![[topics/Concept/Embeddings]]
+![[topics/Library/llama cpp python]]
+
+![[topics/Concept/Hardware Acceleration Backends]]

@@ -11,6 +11,7 @@ upload_date: '2026-04-15'
 ---
 
 https://github.com/dholzmueller/pytabkit
+
 ## Summary
 
 PyTabKit is a Python library providing scikit-learn interfaces for modern tabular data classification and regression models, benchmarked in a NeurIPS 2024 paper. Key features include:
@@ -24,6 +25,7 @@ PyTabKit is a Python library providing scikit-learn interfaces for modern tabula
   - For best results: Use `Ensemble_HPO_Classifier` with full Caruana ensembling or `RealMLP_HPO_Classifier`.
   - AutoGluon is an alternative for top performance (includes RealMLP/TabM).
 - **Citation**: Holzmüller et al., "Better by default: Strong pre-tuned MLPs and boosted trees on tabular data" (NeurIPS 2024).
+
 ## Links
 
 - [NeurIPS 2024 Paper: Better by Default - Strong Pre-Tuned MLPs and Boosted Trees on Tabular Data](https://arxiv.org/abs/2407.04491) : This link points to the arXiv paper titled 'Better by Default: Strong Pre-Tuned MLPs and Boosted Trees on Tabular Data,' which is the foundational research work behind the PyTabKit library. It provides theoretical and empirical insights into the models and benchmarks included in PyTabKit.
@@ -32,13 +34,12 @@ PyTabKit is a Python library providing scikit-learn interfaces for modern tabula
 - [PyTabKit Documentation](https://pytabkit.readthedocs.io/en/latest/) : This link provides access to the official documentation for PyTabKit, including detailed explanations of its features, models, and benchmarking tools. It is a critical resource for users looking to understand how to implement and utilize PyTabKit effectively.
 - [TabArena Benchmark Platform](https://tabarena.ai) : This link leads to TabArena, the benchmarking platform referenced in PyTabKit. It is designed for evaluating tabular data models and is recommended for method evaluation in the PyTabKit ecosystem. The platform provides a standardized environment for comparing model performance.
 
+
 ## Topics
 
-![[topics/Model/TabM]]
+![[topics/Concept/Hyperparameter Optimization HPO]]
 
-![[topics/Model/TabR]]
-
-![[topics/Concept/Tabular Data Benchmarking]]
+![[topics/Concept/Ensemble Learning]]
 
 ![[topics/Concept/Calibration]]
 
@@ -46,6 +47,8 @@ PyTabKit is a Python library providing scikit-learn interfaces for modern tabula
 
 ![[topics/Model/RealMLP]]
 
-![[topics/Concept/Hyperparameter Optimization HPO]]
+![[topics/Model/TabR]]
 
-![[topics/Concept/Ensemble Learning]]
+![[topics/Model/TabM]]
+
+![[topics/Concept/Tabular Data Benchmarking]]

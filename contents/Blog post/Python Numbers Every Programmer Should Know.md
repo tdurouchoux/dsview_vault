@@ -11,6 +11,7 @@ upload_date: '2026-01-24'
 ---
 
 https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/
+
 ## Summary
 
 The content provides a comprehensive overview of performance metrics and memory usage for various Python operations, data structures, and libraries. It is structured into several categories, each highlighting key performance numbers and memory costs.
@@ -59,16 +60,22 @@ The content provides a comprehensive overview of performance metrics and memory 
 - Alternative JSON libraries offer better performance.
 - Async operations have measurable overhead and should be used judiciously.
 - __slots__ can save memory with minimal performance impact.
+
 ## Links
 
 - [Python Numbers Everyone Should Know - Source Code](https://github.com/mikeckennedy/python-numbers-everyone-should-know) : Source code repository for the benchmarks and performance numbers discussed in the article.
 - [Python Numbers Everyone Should Know - Detailed Results](https://github.com/mikeckennedy/python-numbers-everyone-should-know/blob/main/code/basic_ops/vs_dotnet/RESULTS.md) : Detailed results and comparisons of Python performance benchmarks against other technologies.
 
+
 ## Topics
 
-![[topics/Library/orjson]]
+![[topics/Library/Pydantic]]
 
-![[topics/Library/msgspec]]
+![[topics/Library/FastAPI]]
+
+![[topics/Library/Starlette]]
+
+![[topics/Library/orjson]]
 
 ![[topics/Library/ujson]]
 
@@ -76,12 +83,8 @@ The content provides a comprehensive overview of performance metrics and memory 
 
 ![[topics/Library/Flask]]
 
-![[topics/Library/Django]]
+![[topics/Library/msgspec]]
 
 ![[topics/Library/Litestar]]
 
-![[topics/Library/Pydantic]]
-
-![[topics/Library/FastAPI]]
-
-![[topics/Library/Starlette]]
+![[topics/Library/Django]]

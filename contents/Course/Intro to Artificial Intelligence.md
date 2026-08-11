@@ -11,6 +11,7 @@ upload_date: '2024-02-15'
 ---
 
 https://app.lewagon.school/collections
+
 ## Summary
 
 The content appears to be a list of courses offered by Le Wagon, focusing on various data science and technology topics. Here's a concise summary:
@@ -28,8 +29,10 @@ The content appears to be a list of courses offered by Le Wagon, focusing on var
 6. **Intro to Docker**: A free course with 11 lessons, likely covering the basics of Docker, a platform for developing, shipping, and running applications in containers.
 
 These courses cater to different aspects of data science, AI, and related technologies, offering both introductory and more advanced content.
+
 ## Links
 
 - [Le Wagon Enrollment](https://app.emil.school/enrollments) : Link to the enrollment page for Le Wagon courses.
+
 
 ## Topics

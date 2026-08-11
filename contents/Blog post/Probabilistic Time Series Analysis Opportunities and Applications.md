@@ -12,6 +12,7 @@ upload_date: '2025-05-21'
 ---
 
 https://www.pymc-labs.com/blog-posts/probabilistic-forecasting/
+
 ## Summary
 
 The blog post discusses the advantages of probabilistic forecasting models over traditional time series methods in business applications. Key points include:
@@ -29,6 +30,7 @@ The blog post discusses the advantages of probabilistic forecasting models over 
 6. **State Space Models in PyMC**: The PyMC-Extras module provides a flexible framework for building sophisticated forecasting models using state space representations. These models can handle complex dynamics, including time-varying trends, multiple seasonality patterns, and external regressors, while maintaining interpretability.
 
 The post concludes that probabilistic forecasting models offer significant advantages by incorporating business constraints, domain knowledge, and potentially causal relationships, leading to more accurate and actionable forecasts. These models are becoming increasingly accessible and valuable for modern data scientists.
+
 ## Links
 
 - [Nixtla GitHub](https://github.com/Nixtla) : GitHub repository for Nixtla, which develops open-source packages for time series forecasting, including statsforecast and mlforecast.
@@ -36,6 +38,7 @@ The post concludes that probabilistic forecasting models offer significant advan
 - [Hierarchical Modeling Case Study](https://betanalpha.github.io/assets/case_studies/hierarchical_modeling.html) : Detailed write-up on hierarchical modeling, explaining how information sharing across related groups can improve model performance.
 - [Demand Forecasting with Censored Likelihood](https://juanitorduz.github.io/demand/) : Simulation study demonstrating how Bayesian models with censored likelihoods can provide more accurate demand forecasts compared to traditional time series methods.
 - [Availability-Constrained TSB Models](https://juanitorduz.github.io/availability_tsb/) : Case study on extending the TSB model to account for availability constraints in intermittent demand forecasting.
+
 
 ## Topics
 
@@ -49,7 +52,7 @@ The post concludes that probabilistic forecasting models offer significant advan
 
 ![[topics/Concept/Hierarchical Models]]
 
-![[topics/Concept/State Space Models]]
+![[topics/Concept/State Space Model]]
 
 ![[topics/Concept/Availability Constrained TSB Models]]
 

@@ -12,6 +12,7 @@ upload_date: '2025-11-26'
 ---
 
 https://www.anthropic.com/engineering/code-execution-with-mcp
+
 ## Summary
 
 The blog post discusses the Model Context Protocol (MCP), an open standard for connecting AI agents to external systems, and how code execution can enhance agent efficiency. Key points include:
@@ -30,6 +31,7 @@ The blog post discusses the Model Context Protocol (MCP), an open standard for c
 - **Implementation Considerations**: Code execution introduces complexity, requiring secure environments and operational overhead. Benefits should be weighed against these costs.
 
 The post concludes by encouraging the MCP community to share findings and acknowledges contributors.
+
 ## Links
 
 - [Model Context Protocol](https://modelcontextprotocol.io/) : The official website for the Model Context Protocol (MCP), an open standard for connecting AI agents to external systems.
@@ -37,8 +39,9 @@ The post concludes by encouraging the MCP community to share findings and acknow
 - [MCP Servers GitHub Repository](https://github.com/modelcontextprotocol/servers) : The GitHub repository for MCP servers, providing implementations and tools for connecting AI agents to various services.
 - [Agent Skills Overview](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) : Documentation on agent skills, including how to create and use reusable functions and scripts for AI agents.
 
+
 ## Topics
 
-![[topics/Concept/Code Execution with MCP]]
-
 ![[topics/Concept/Model Context Protocol MCP]]
+
+![[topics/Concept/Code Execution with MCP]]

@@ -11,6 +11,7 @@ upload_date: '2025-03-09'
 ---
 
 https://ibis-project.org/posts/does-ibis-understand-sql/
+
 ## Summary
 
 Ibis is a dataframe library that interfaces with databases, allowing users to work with data without writing handcrafted SQL queries. It provides a standardized interface for database operations and supports various backends like ClickHouse, Apache Flink, Starburst Galaxy, and more.
@@ -34,11 +35,13 @@ Ibis is a dataframe library that interfaces with databases, allowing users to wo
 8. **Extending Ibis**: Users can extend Ibis by writing custom functions, using SQL strings, and working with streaming data. The library provides a robust set of APIs for these purposes.
 
 In summary, Ibis is a powerful tool for data manipulation and analysis, offering a high-level interface for working with databases and supporting a wide range of backends. Its integration with SQLGlot enhances its SQL generation capabilities, making it a versatile choice for data scientists and analysts.
+
 ## Links
 
 - [SQLGlot](https://sqlglot.com/sqlglot.html) : SQLGlot is a no-dependency SQL parser, transpiler, optimizer, and engine. It’s a widely-used open-source project that powers the SQL comprehension and generation capabilities of tools like SQLMesh, Apache Superset, and Dagster.
 - [SQLMesh](https://github.com/TobikoData/sqlmesh) : SQLMesh is a data management platform that leverages SQLGlot for SQL comprehension and generation.
 - [Apache Superset](https://github.com/apache/superset) : Apache Superset is a modern data exploration and visualization platform that uses SQLGlot for SQL parsing and transpilation.
+
 
 ## Topics
 

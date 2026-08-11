@@ -11,6 +11,7 @@ upload_date: '2024-10-15'
 ---
 
 https://github.com/Cinnamon/kotaemon
+
 ## Summary
 
 Kotaemon is an open-source RAG (Retrieval-Augmented Generation) tool designed for chatting with documents. It offers a clean, customizable UI for both end users and developers.
@@ -41,12 +42,14 @@ Kotaemon is an open-source RAG (Retrieval-Augmented Generation) tool designed fo
 
 **Links:**
 - Live Demos, User Guide, Developer Guide, and Feedback are available on the project's GitHub page.
+
 ## Links
 
 - [Kotaemon Online Installation Guide](https://cinnamon.github.io/kotaemon/online_install/) : This link points to the online installation guide for Kotaemon, providing instructions on how to set up and use the tool for chatting with documents.
 - [Kotaemon Live Demo](https://huggingface.co/spaces/cin-model/kotaemon) : This link points to a live demo of Kotaemon, allowing users to interact with the tool and see its capabilities in action.
 - [Kotaemon Colab Notebook](https://colab.research.google.com/drive/1eTfieec_UOowNizTJA1NjawBJH9y_1nn) : This link points to a Colab Notebook for Kotaemon, providing a way to run the tool locally for document QA.
 - [Kotaemon Development Guide](https://cinnamon.github.io/kotaemon/development/) : This link points to the development guide for Kotaemon, offering instructions and resources for developers who want to build their own RAG pipeline or contribute to the project.
+
 
 ## Topics
 

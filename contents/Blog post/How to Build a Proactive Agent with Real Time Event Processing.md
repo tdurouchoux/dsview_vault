@@ -12,6 +12,7 @@ upload_date: '2024-12-28'
 ---
 
 https://pub.towardsai.net/how-to-build-a-proactive-agent-with-real-time-event-processing-203859d0b666
+
 ## Summary
 
 The article discusses building proactive agents using real-time event processing and large language models (LLMs). Key points include:
@@ -24,10 +25,12 @@ The article discusses building proactive agents using real-time event processing
 - **Demo**: A practical demo is provided to illustrate how LLMs can leverage streaming databases for event monitoring.
 
 The article emphasizes the efficiency and cost-effectiveness of using streaming databases with LLMs for proactive, event-driven actions.
+
 ## Links
 
 - [Pixabay](https://pixabay.com/) : Pixabay is a website that provides free stock photos, vectors, art illustrations, and videos. It is commonly used by content creators, designers, and businesses to find high-quality visuals for their projects.
 - [Event-Driven Agent Demo](https://github.com/cloudcarver/event-driven-agent-demo) : This link points to a GitHub repository containing a demo of an event-driven agent. The demo likely showcases how to build and implement an event-driven architecture using real-time event processing techniques.
+
 
 ## Topics
 
@@ -37,6 +40,6 @@ The article emphasizes the efficiency and cost-effectiveness of using streaming 
 
 ![[topics/Concept/Real Time Event Processing]]
 
-![[topics/Concept/Proactive Agent]]
+![[topics/Concept/Proactive AI Assistants]]
 
 ![[topics/Concept/Event Driven Architecture]]

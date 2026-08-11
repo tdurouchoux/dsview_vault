@@ -12,6 +12,7 @@ upload_date: '2024-08-08'
 ---
 
 https://www.rungalileo.io/hallucinationindex
+
 ## Summary
 
 Galileo AI is an observability and evaluation platform designed to enhance the reliability of AI systems. It offers several key features:
@@ -24,10 +25,12 @@ Galileo AI is an observability and evaluation platform designed to enhance the r
 6. **Flexible Deployment**: Available as SaaS, cloud, or on-premises solutions to fit various operational needs.
 
 The platform is trusted by enterprises and loved by developers, with testimonials highlighting its effectiveness in improving AI reliability, reducing evaluation costs, and providing end-to-end visibility into agent behavior. Galileo integrates with various technologies and is praised for its ability to enhance AI data flywheels, ensure safety and security, and provide real-time observability.
+
 ## Links
 
 - [Galileo AI Documentation](https://v2docs.galileo.ai/what-is-galileo) : Documentation providing an overview of Galileo AI, its features, and how it works.
 - [Galileo AI Agent Leaderboard](https://huggingface.co/spaces/galileo-ai/agent-leaderboard) : A leaderboard showcasing the performance of various AI agents evaluated using Galileo AI's metrics.
+
 
 ## Topics
 

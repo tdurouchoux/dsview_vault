@@ -11,6 +11,7 @@ upload_date: '2026-04-28'
 ---
 
 https://github.com/h4ckf0r0day/obscura
+
 ## Summary
 
 Obscura is a lightweight, stealthy headless browser engine built in Rust for AI agents and web scraping. Key technical points:
@@ -21,19 +22,21 @@ Obscura is a lightweight, stealthy headless browser engine built in Rust for AI 
 - **CLI**: Commands like `obscura fetch`, `obscura serve`, and `obscura scrape` for scraping, parallel processing, and CDP server.
 - **Benchmarks**: Faster page loads across static HTML, JS+XHR, and dynamic scripts.
 - **License**: Apache 2.0. Requires Rust 1.75+ for building.
+
 ## Links
 
 - [GitHub - Obscura Releases](https://github.com/h4ckf0r0day/obscura/releases) : The official releases page for Obscura, providing downloadable binaries for Linux, macOS, and Windows. Essential for users who want to use the tool without building from source.
 - [Rustup - Install Rust](https://rustup.rs) : The official Rust toolchain installer. Required for building Obscura from source, as it is written in Rust.
 
+
 ## Topics
+
+![[topics/Concept/Stealth Mode Anti Detection]]
+
+![[topics/Concept/Anti Fingerprinting]]
 
 ![[topics/Tool/Obscura]]
 
 ![[topics/Concept/Headless Browser]]
 
 ![[topics/Concept/Chrome DevTools Protocol CDP]]
-
-![[topics/Concept/Stealth Mode Anti Detection]]
-
-![[topics/Concept/Anti Fingerprinting]]

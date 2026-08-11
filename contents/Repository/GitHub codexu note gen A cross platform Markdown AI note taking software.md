@@ -12,6 +12,7 @@ upload_date: '2025-09-18'
 ---
 
 https://github.com/codexu/note-gen
+
 ## Summary
 
 NoteGen is a cross-platform Markdown AI note-taking application designed to bridge recording and writing, organizing fragmented knowledge into readable notes. Key features include:
@@ -26,18 +27,20 @@ NoteGen is a cross-platform Markdown AI note-taking application designed to brid
 - **Other Features**: Global search, image hosting management, themes, internationalization (Chinese and English), and contribution opportunities.
 
 NoteGen is powered by SiliconFlow for AI services and UpgradeLink for installation and upgrade services. It is available for download on Windows, MacOS, and Linux, with iOS and Android support coming soon.
+
 ## Links
 
 - [NoteGen Official Documentation](https://notegen.top/en/) : The official documentation for NoteGen, a cross-platform Markdown AI note-taking software. It provides detailed guides on how to use the application, including features like AI-enhanced note-taking, synchronization, and various recording methods.
 - [NoteGen Download Page](https://notegen.top/en/docs/download#desktop-beta) : This link directs users to the download page for NoteGen, where they can download the application for different operating systems such as Windows, MacOS, and Linux. It also provides information on the current status of the application for Android and iOS.
 - [NoteGen Contribution Guide](https://notegen.top/en/docs/contributing) : This link provides a guide for contributing to the NoteGen project. It includes information on how to submit bugs, improvement suggestions, and other ways to contribute to the development of the software.
 
+
 ## Topics
 
-![](topics/Library/Tauri)
+![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![](topics/Tool/NoteGen)
+![[topics/Concept/SiliconFlow]]
 
-![](topics/Concept/Retrieval%20Augmented%20Generation%20RAG)
+![[topics/Tool/NoteGen]]
 
-![](topics/Concept/SiliconFlow)
+![[topics/Library/Tauri]]

@@ -50,10 +50,10 @@ Gemini Robotics ER 2 is Google’s latest embodied reasoning model for robotics,
 
 ![[topics/Model/Gemini]]
 
-![[topics/Platform/Gemini Enterprise Agent Platform]]
-
 ![[topics/Platform/Google AI Studio]]
 
 ![[topics/Concept/Embodied Reasoning]]
 
 ![[topics/Concept/Vision Language Action VLA Models]]
+
+![[topics/Platform/Gemini Enterprise Agent Platform]]

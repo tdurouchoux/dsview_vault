@@ -11,6 +11,7 @@ upload_date: '2026-06-05'
 ---
 
 https://thedataecosystem.substack.com/p/issue-58-data-strategy-execution
+
 ## Summary
 
 Key takeaways from "Issue #58 – Building a Data Strategy (The Execution)":
@@ -36,22 +37,24 @@ Key takeaways from "Issue #58 – Building a Data Strategy (The Execution)":
 5. **AI Strategy Shift**: AI strategies must be more action-oriented, agile, and implemented quickly, not just theoretical use cases.
 
 6. **Change Management**: Success hinges on bridging the gap between data and strategy, ensuring buy-in, and managing organizational change.
+
 ## Links
 
 - [Issue #57 – Building a Data Strategy (The Direction)](https://thedataecosystem.substack.com/p/issue-57-data-strategy-direction) : This link leads to the preceding article in the series, which focuses on the 'direction setting' phase of a data strategy. It is essential for understanding the foundation upon which the execution phase (discussed in Issue #58) is built, including the Data Vision, Strategic Pillars, and use cases.
 
+
 ## Topics
-
-![[topics/Concept/Data Strategy Execution]]
-
-![[topics/Concept/Capability Assessment]]
-
-![[topics/Concept/Executional Roadmap]]
-
-![[topics/Concept/Data Architecture Evaluation]]
-
-![[topics/Concept/Change Management in Data AI]]
 
 ![[topics/Concept/Data Governance]]
 
 ![[topics/Concept/AI and Value Realization Adoption]]
+
+![[topics/Concept/Change Management in Data AI]]
+
+![[topics/Concept/Capability Assessment]]
+
+![[topics/Concept/Data Strategy Execution]]
+
+![[topics/Concept/Executional Roadmap]]
+
+![[topics/Concept/Data Architecture Evaluation]]

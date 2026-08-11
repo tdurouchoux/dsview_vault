@@ -11,6 +11,7 @@ upload_date: '2026-07-06'
 ---
 
 https://twotimespi.dev/
+
 ## Summary
 
 Tau is a Python-based educational coding agent designed to teach how coding agents are built. It emphasizes transparency by making every component visible and understandable, functioning like a textbook where users can observe model outputs, tool calls, session management, and terminal UI interactions in real-time.
@@ -23,20 +24,22 @@ Key technical points include:
 - **Design Principles**: Events drive teachability, layers are kept small, and documentation evolves with implementation.
 
 Inspired by Pi, Tau avoids hidden machinery, making it a practical tool for learning agent development while functioning as a real terminal agent. Installation via `uv tool install tau-ai` enables hands-on exploration.
+
 ## Links
 
 - [Tau GitHub Repository](https://github.com/alejandro-ao/tau) : Official GitHub repository for Tau, an educational Python coding agent project focused on teaching the architecture, agent loops, and tool integrations of modular coding agents. Contains source code, documentation, and resources for building provider-neutral coding agents.
 
+
 ## Topics
 
+![[topics/Concept/Durable Execution]]
+
 ![[topics/Concept/Agentic Coding]]
+
+![[topics/Concept/Terminal User Interface TUI]]
+
+![[topics/Concept/Agent Loop]]
 
 ![[topics/Library/Textual]]
 
 ![[topics/Concept/Provider Neutral Streaming Interfaces]]
-
-![[topics/Concept/Durable Execution]]
-
-![[topics/Concept/Agent Loop]]
-
-![[topics/Concept/Terminal User Interface TUI]]

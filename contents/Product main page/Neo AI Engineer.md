@@ -11,6 +11,7 @@ upload_date: '2024-11-18'
 ---
 
 https://heyneo.so/blog
+
 ## Summary
 
 Neo AI Engineer is a comprehensive guide for data scientists and AI engineers, covering a wide range of topics from basic to advanced levels. The book is structured into several chapters, each focusing on a specific aspect of AI and data science.
@@ -38,7 +39,9 @@ Key topics include:
 10. **Ethical Considerations**: Addresses the ethical implications of AI, including bias, fairness, and privacy concerns.
 
 The book is designed to be both a tutorial and a reference, with practical examples and case studies to illustrate key concepts. It is suitable for both beginners and experienced practitioners looking to expand their knowledge in the field of AI and data science.
+
 ## Links
+
 
 
 ## Topics

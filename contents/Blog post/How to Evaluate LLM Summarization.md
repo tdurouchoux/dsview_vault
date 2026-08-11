@@ -11,6 +11,7 @@ upload_date: '2025-01-28'
 ---
 
 https://readmedium.com/https://towardsdatascience.com/how-to-evaluate-llm-summarization-18a040c3905d
+
 ## Summary
 
 To evaluate the summarization capabilities of a Large Language Model (LLM), consider the following technical points and key takeaways:
@@ -44,10 +45,12 @@ To evaluate the summarization capabilities of a Large Language Model (LLM), cons
    - Use established benchmarks and datasets to evaluate the model's summarization capabilities.
 
 By considering these factors, you can effectively evaluate the summarization capabilities of an LLM and identify areas for improvement.
+
 ## Links
 
 - [OpenAI o1 chat](https://openai01.net/) : OpenAI o1 chat interface for testing and interacting with the OpenAI API.
 - [OpenAI o1 API](https://openaio1api.com/) : OpenAI o1 API documentation and resources for developers.
+
 
 ## Topics
 

@@ -12,6 +12,7 @@ upload_date: '2025-01-28'
 ---
 
 https://github.com/meta-llama/llama-stack
+
 ## Summary
 
 Llama Stack is a framework designed to simplify the development of AI applications using Llama models. It provides a unified API layer for various functionalities like inference, RAG, agents, tools, safety, evals, and telemetry. Key features include:
@@ -39,11 +40,13 @@ Llama Stack is a framework designed to simplify the development of AI applicatio
 - Guidelines for adding new API providers and contributing to the project are available.
 
 Llama Stack aims to reduce friction and complexity, empowering developers to focus on building transformative generative AI applications.
+
 ## Links
 
 - [Llama Stack Documentation](https://llama-stack.readthedocs.io/en/latest/index.html) : The official documentation for Llama Stack, providing detailed guides and references for developers.
 - [Llama Stack Docker Distribution](https://hub.docker.com/repository/docker/llamastack/distribution-meta-reference-gpu/general) : Docker distribution for Llama Stack, facilitating easy deployment and management of Llama models.
 - [Llama Stack Discord](https://discord.gg/llama-stack) : Discord community for Llama Stack, where developers can discuss, share insights, and get support.
+
 
 ## Topics
 

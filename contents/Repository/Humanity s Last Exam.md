@@ -12,6 +12,7 @@ upload_date: '2025-02-14'
 ---
 
 https://lastexam.ai/
+
 ## Summary
 
 The content introduces Humanity's Last Exam (HLE), a challenging multi-modal benchmark designed to measure the capabilities of large language models (LLMs) at the frontier of human knowledge. Key points include:
@@ -27,10 +28,12 @@ The content introduces Humanity's Last Exam (HLE), a challenging multi-modal ben
 5. **Impact**: HLE serves as a reference point for scientists and policymakers to assess AI progress, discuss development trajectories, and implement governance measures.
 
 The content highlights the importance of HLE in tracking AI advancements and its potential impact on future AI development and policy discussions.
+
 ## Links
 
 - [Humanity's Last Exam Dataset](https://huggingface.co/datasets/cais/hle) : This link provides access to the Humanity's Last Exam (HLE) dataset, which includes 2,500 challenging questions across over a hundred subjects, designed to measure advanced, closed-ended, academic capabilities of AI models.
 - [Humanity's Last Exam Results](https://scale.com/blog/humanitys-last-exam-results) : This link provides the results of the Humanity's Last Exam, showcasing the performance of various frontier models on the challenging benchmark, highlighting their accuracy and calibration error.
+
 
 ## Topics
 

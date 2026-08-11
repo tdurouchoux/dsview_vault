@@ -12,6 +12,7 @@ upload_date: '2025-11-20'
 ---
 
 https://github.blog/news-insights/company-news/welcome-home-agents/
+
 ## Summary
 
 GitHub introduces Agent HQ, a unified platform for orchestrating various AI agents within the GitHub workflow. Key features include:
@@ -27,22 +28,24 @@ GitHub introduces Agent HQ, a unified platform for orchestrating various AI agen
 5. **Enterprise Features**: Granular branch controls, identity features for agent management, and integrations with Slack, Linear, Jira, Microsoft Teams, Azure Boards, and Raycast.
 
 The initiative aims to streamline AI integration into the development workflow, enhancing productivity, security, and governance.
+
 ## Links
 
 - [GitHub Copilot Plans](https://github.com/features/copilot/plans?utm_source=blog-day1-recap-copilot-cta&utm_medium=blog&utm_campaign=universe25) : GitHub Copilot subscription plans and pricing.
 - [GitHub Docs](https://docs.github.com/en/get-started) : GitHub documentation for getting started with GitHub.
 - [GitHub Features](https://github.com/features) : Overview of GitHub features and capabilities.
 
+
 ## Topics
 
+![[topics/Tool/Control Plane]]
+
 ![[topics/Platform/Agent HQ]]
+
+![[topics/Tool/Copilot Metrics Dashboard]]
+
+![[topics/Tool/GitHub Code Quality]]
 
 ![[topics/Tool/Mission Control]]
 
 ![[topics/Concept/Plan Mode]]
-
-![[topics/Tool/GitHub Code Quality]]
-
-![[topics/Tool/Copilot Metrics Dashboard]]
-
-![[topics/Tool/Control Plane]]

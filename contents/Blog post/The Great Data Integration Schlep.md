@@ -13,6 +13,7 @@ upload_date: '2024-10-08'
 ---
 
 https://sarahconstantin.substack.com/p/the-great-data-integration-schlep
+
 ## Summary
 
 The author discusses the challenges of data integration in industrial and manufacturing contexts, highlighting that the buzzwords like "digital transformation" and "Industrial Internet of Things" ultimately mean putting a company's data on computers for analysis. Key points include:
@@ -30,6 +31,7 @@ The author discusses the challenges of data integration in industrial and manufa
 6. **AI's Dependence on Data Integration**: For AI to have a significant economic impact, it needs to integrate with business data, which requires time, effort, and human adaptation. The author compares this process to the gradual adoption of computers in the business world.
 
 The author concludes that while AI has great potential, its implementation and impact will be gradual, moving at the speed of human negotiation and learning.
+
 ## Links
 
 - [Statistical Process Control](https://en.wikipedia.org/wiki/Statistical_process_control) : Wikipedia page on Statistical Process Control, a method used in manufacturing to monitor and control a process to ensure it operates at its full potential.
@@ -37,9 +39,10 @@ The author concludes that while AI has great potential, its implementation and i
 - [The Fourth Industrial Revolution](https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/) : World Economic Forum article explaining the Fourth Industrial Revolution and its implications, focusing on the integration of digital technologies into industries.
 - [What is Industrial IoT](https://www.cisco.com/c/en/us/solutions/internet-of-things/what-is-industrial-iot.html) : Cisco's explanation of the Industrial Internet of Things (IIoT), detailing how it transforms industries by connecting machines and devices to the internet.
 
+
 ## Topics
 
-![[topics/Concept/Data Cleaning]]
+![[topics/Concept/Data Wrangling]]
 
 ![[topics/Concept/Industrial Internet of Things IIoT]]
 

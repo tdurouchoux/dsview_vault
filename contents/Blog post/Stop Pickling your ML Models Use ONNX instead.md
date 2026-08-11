@@ -12,6 +12,7 @@ upload_date: '2022-09-15'
 ---
 
 https://readmedium.com/https://medium.com/@liamwr17/stop-pickling-your-ml-models-use-onnx-instead-983cd4561e3a
+
 ## Summary
 
 The content discusses the advantages of using ONNX (Open Neural Network Exchange) over traditional pickling methods for machine learning models. Key points include:
@@ -27,10 +28,12 @@ The content discusses the advantages of using ONNX (Open Neural Network Exchange
 5. **Ease of Use**: Converting models to ONNX is straightforward, and the format is supported by many popular machine learning frameworks.
 
 The article encourages data scientists to adopt ONNX for better model management, deployment, and performance.
+
 ## Links
 
 - [OpenAI o1 Chat](https://openai01.net/) : OpenAI o1 Chat is a free chat service provided by OpenAI.
 - [OpenAI o1 API](https://openaio1api.com/) : OpenAI o1 API is an API service provided by OpenAI.
+
 
 ## Topics
 

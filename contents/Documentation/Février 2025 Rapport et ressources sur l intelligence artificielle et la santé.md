@@ -11,6 +11,7 @@ upload_date: '2025-02-14'
 ---
 
 https://sante.gouv.fr/IMG/pdf/etat_des_lieux_ia_en_sante.pdf
+
 ## Summary
 
 The content appears to be a collection of resources and links related to digital health, artificial intelligence (AI) in healthcare, and regulatory frameworks. Here are the key technical points and takeaways:
@@ -48,7 +49,9 @@ The content appears to be a collection of resources and links related to digital
     - The content discusses the reimbursement of digital therapies by the French National Health Insurance within the framework of the Prise en charge anticipée numérique (PECAN).
 
 Overall, the content provides a comprehensive overview of the current trends, regulatory frameworks, and initiatives in the field of digital health and AI in healthcare.
+
 ## Links
+
 
 
 ## Topics

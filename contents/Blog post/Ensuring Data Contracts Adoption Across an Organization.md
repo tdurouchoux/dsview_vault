@@ -12,6 +12,7 @@ upload_date: '2025-04-19'
 ---
 
 https://cleandataarchitecture.substack.com/p/ensuring-data-contracts-adoption
+
 ## Summary
 
 The article discusses the importance of data contracts in ensuring data quality and reliability within an organization, using a real-world example of a data science team's forecasting error due to lack of communication about changes in data calculation rules.
@@ -31,9 +32,11 @@ Key points include:
 - **Conclusion**: Data contracts governance and adoption is a journey that requires balance between structure and flexibility, control and autonomy, and investment in the human aspect as much as technical excellence.
 
 The article emphasizes the importance of creating a data culture where quality and reliability are everyone's business.
+
 ## Links
 
 - [Author's Profile - Pierre-Yves Bonnefoy](https://substack.com/@pierreyvesbonnefoy) : Profile of Pierre-Yves Bonnefoy, co-author of the article on data contracts adoption.
+
 
 ## Topics
 

@@ -11,6 +11,7 @@ upload_date: '2024-12-28'
 ---
 
 https://github.com/microsoft/markitdown
+
 ## Summary
 
 MarkItDown is a Python tool developed by Microsoft for converting various file formats and office documents to Markdown. It is designed to preserve important document structure and content, making it suitable for use with LLMs and text analysis pipelines. The tool supports a wide range of file formats, including PDF, PowerPoint, Word, Excel, images, audio, HTML, text-based formats, ZIP files, YouTube URLs, and EPubs.
@@ -26,11 +27,13 @@ Key features and usage include:
 - **Docker**: Provides Docker support for easy deployment and usage.
 
 The tool is open-source under the MIT license and welcomes contributions and suggestions. It includes a Contributor License Agreement (CLA) and follows the Microsoft Open Source Code of Conduct. The project is actively maintained with regular updates and a growing community of contributors.
+
 ## Links
 
 - [MarkItDown PyPI](https://pypi.org/project/markitdown/) : PyPI page for MarkItDown, providing installation and usage details for the Python package.
 - [Azure Document Intelligence Guide](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/create-document-intelligence-resource?view=doc-intel-4.0.0) : Guide on setting up Azure Document Intelligence for document conversion.
 - [Microsoft Trademark Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general) : Microsoft's guidelines for the use of their trademarks and logos.
+
 
 ## Topics
 

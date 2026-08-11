@@ -11,6 +11,7 @@ upload_date: '2026-05-27'
 ---
 
 https://thedatavist.substack.com/p/dead-on-arrival-the-ai-dashboard
+
 ## Summary
 
 AI-generated dashboards risk filling the "Dashboard Graveyard" if users skip fundamental design principles. Three iterations of dashboard generation using Claude Design revealed key pitfalls:
@@ -25,6 +26,7 @@ AI-generated dashboards risk filling the "Dashboard Graveyard" if users skip fun
 - AI accelerates dashboard creation but amplifies the need for human judgment in briefing, data validation, and contextual review.
 - Fundamentals (audience alignment, decision focus, trustworthiness) remain critical; AI polish can mask shallow analysis.
 - Analysts must validate AI outputs against domain knowledge and decision needs, ensuring dashboards serve as tools for interrogation, not just presentation.
+
 ## Links
 
 - [Anthropic's Claude Design Overview](https://www.anthropic.com/news/claude-design-anthropic-labs) : Official information about Claude Design, the AI tool used to generate dashboards in the article, including its capabilities and limitations.
@@ -33,18 +35,19 @@ AI-generated dashboards risk filling the "Dashboard Graveyard" if users skip fun
 - [The Context Your BI Tool Can’t Model](https://superdatablog.substack.com/p/the-context-your-bi-tool-cant-model) : An article by Ryan Dolley exploring the three-layer context (data, knowledge, and decision) required for effective BI tools, emphasizing human judgment.
 - [LEGO Sets Data Playground](https://mavenanalytics.io/data-playground/lego-sets) : Access to the LEGO Sets dataset used in the experiments described in the article, providing context for the analysis.
 
+
 ## Topics
 
-![[topics/Concept/Dashboard Design Fundamentals]]
+![[topics/Concept/Dashboard Development Cycle]]
 
 ![[topics/Concept/Action Oriented Dashboards]]
-
-![[topics/Concept/Mailbox Dashboard Syndrome]]
 
 ![[topics/Concept/Visual Analytics Governance]]
 
 ![[topics/Tool/Claude Design]]
 
+![[topics/Concept/Dashboard Design Fundamentals]]
+
 ![[topics/Concept/Trustworthiness in Visualization]]
 
-![[topics/Concept/Dashboard Development Cycle]]
+![[topics/Concept/Mailbox Dashboard Syndrome]]

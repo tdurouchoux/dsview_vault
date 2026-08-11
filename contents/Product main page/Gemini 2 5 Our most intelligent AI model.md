@@ -11,6 +11,7 @@ upload_date: '2025-03-30'
 ---
 
 https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/
+
 ## Summary
 
 Gemini 2.5 is Google's latest AI model, designed for complex problem-solving with enhanced reasoning capabilities. Key points include:
@@ -22,6 +23,7 @@ Gemini 2.5 is Google's latest AI model, designed for complex problem-solving wit
 - **Availability**: Currently available in Google AI Studio and the Gemini app, with Vertex AI integration coming soon.
 
 The model builds on Gemini's strengths, offering improved performance and context-aware capabilities for developers and enterprises.
+
 ## Links
 
 - [Gemini 2.5 Pro Experimental](http://aistudio.google.com/app/prompts/new_chat?model=gemini-2.5-pro-exp-03-25) : Link to the Gemini 2.5 Pro Experimental model in Google AI Studio.
@@ -30,10 +32,11 @@ The model builds on Gemini's strengths, offering improved performance and contex
 - [Vertex AI Studio](https://console.cloud.google.com/freetrial?redirectPath=/vertex-ai/studio) : Link to the Vertex AI Studio, where Gemini 2.5 Pro will be available soon.
 - [Gemini Flash Thinking](https://deepmind.google/technologies/gemini/flash-thinking/) : Link to the Gemini Flash Thinking page, explaining the thinking capabilities of Gemini models.
 
+
 ## Topics
 
 ![[topics/Concept/Reinforcement Learning]]
 
 ![[topics/Model/Gemini 2 5 Pro Experimental]]
 
-![[topics/Model/Gemini 2 5]]
+![[topics/Model/Gemini]]

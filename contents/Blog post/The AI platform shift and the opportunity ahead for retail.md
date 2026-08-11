@@ -12,6 +12,7 @@ upload_date: '2026-01-28'
 ---
 
 https://blog.google/company-news/inside-google/message-ceo/nrf-2026-remarks/
+
 ## Summary
 
 Sundar Pichai's remarks at the 2026 National Retail Federation highlight Google's initiatives to enhance the retail experience using AI. Key points include:
@@ -23,11 +24,13 @@ Sundar Pichai's remarks at the 2026 National Retail Federation highlight Google'
 5. **Partnerships**: Google collaborates with retailers like Shopify, Etsy, Wayfair, Target, and Walmart to develop and implement these AI-driven solutions.
 
 The focus is on creating a seamless, AI-powered shopping experience that benefits both retailers and customers.
+
 ## Links
 
 - [Google Research Blog](https://research.google/blog/) : The official blog of Google Research, featuring the latest advancements and breakthroughs in AI and machine learning research.
 - [Google Cloud Blog](https://cloud.google.com/blog) : The official blog of Google Cloud, featuring updates, tutorials, and insights on cloud computing and related technologies.
 - [Google Developers Blog](https://developers.googleblog.com/) : The official blog for Google Developers, providing updates, tutorials, and resources for developers using Google technologies.
+
 
 ## Topics
 

@@ -12,6 +12,7 @@ upload_date: '2026-03-14'
 ---
 
 https://mindfulmodeler.substack.com/p/how-pfns-make-tabular-foundation
+
 ## Summary
 
 The content discusses the concept of Prior-Data Fitted Networks (PFNs) and their role in enabling tabular foundation models (TFMs) to work effectively. Here are the key points:
@@ -34,19 +35,21 @@ The content discusses the concept of Prior-Data Fitted Networks (PFNs) and their
 7. **General Framework**: PFNs provide a general framework for pre-training tabular foundation models, with variations like TabPFN and TabICL differing in their priors, architectural choices, and pre- and post-processing steps.
 
 The content concludes by hinting at a future deep dive into the architecture of TabPFN.
+
 ## Links
 
 - [TabPFN Paper](https://arxiv.org/abs/2112.10510) : The original research paper introducing Prior-Data Fitted Networks (PFNs), which is the foundation for TabPFN and other tabular foundation models.
 - [TabPFN v2 Paper](https://arxiv.org/abs/2207.01848) : The research paper introducing TabPFN v2, which is an improved version of the TabPFN model.
 
+
 ## Topics
 
-![[topics/Concept/Prior Data Fitted Networks PFNs]]
+![[topics/Concept/In Context Learning ICL]]
 
-![[topics/Concept/Tabular Foundation Models TFMs]]
-
-![[topics/Concept/In context learning]]
+![[topics/Library/TabPFN Tabular Prior data Fitted Networks]]
 
 ![[topics/Concept/Posterior Predictive Distribution]]
 
-![[topics/Concept/Structural Causal Models]]
+![[topics/Concept/Tabular Foundation Models TFMs]]
+
+![[topics/Concept/Structural Causal Models SCMs]]

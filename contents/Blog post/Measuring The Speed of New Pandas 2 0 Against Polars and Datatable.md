@@ -12,6 +12,7 @@ upload_date: '2023-04-20'
 ---
 
 https://readmedium.com/https://towardsdatascience.com/measuring-the-speed-of-new-pandas-2-0-against-polars-and-datatable-still-not-good-enough-e44dc78f6585
+
 ## Summary
 
 The content compares the performance of Pandas 2.0 against Polars and Datatable, focusing on speed and efficiency. Key takeaways include:
@@ -22,14 +23,16 @@ The content compares the performance of Pandas 2.0 against Polars and Datatable,
 - **Conclusion**: While Pandas 2.0 shows progress, it may not yet match the performance of newer libraries like Polars and Datatable.
 
 The summary suggests that Data Scientists should consider these performance differences when choosing a data manipulation library for their projects.
+
 ## Links
 
 - [OpenAI o1 chat](https://openai01.net/) : OpenAI o1 chat interface for testing the new model.
 - [OpenAI o1 API](https://openaio1api.com/) : OpenAI o1 API for developers to integrate the new model into their applications.
 
+
 ## Topics
 
-![[topics/Library/polars]]
+![[topics/Library/Polars]]
 
 ![[topics/Library/Pandas]]
 

@@ -11,6 +11,7 @@ upload_date: '2024-06-12'
 ---
 
 https://readmedium.com/https://medium.com/@ignacio.de.gregorio.noblejas/the-kan-revolution-arriving-at-ai-a13ff540d4e0
+
 ## Summary
 
 The KAN Revolution discusses the emergence of Knowledge-Augmented Networks (KANs), a new paradigm in AI that integrates external knowledge sources with neural networks to enhance performance and interpretability. Key points include:
@@ -24,9 +25,11 @@ The KAN Revolution discusses the emergence of Knowledge-Augmented Networks (KANs
 4. **Challenges**: Implementing KANs involves addressing issues like knowledge representation, integration with neural networks, and ensuring the reliability of external knowledge sources.
 
 The content highlights the potential of KANs to revolutionize AI by making it more knowledgeable, efficient, and transparent.
+
 ## Links
 
 - [OpenAI o1 Chat](https://openai01.net/) : The link to the OpenAI o1 chat interface, a tool mentioned in the article for generating or interacting with AI models.
+
 
 ## Topics
 

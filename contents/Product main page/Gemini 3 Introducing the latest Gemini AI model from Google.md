@@ -11,6 +11,7 @@ upload_date: '2025-12-09'
 ---
 
 https://blog.google/products/gemini/gemini-3/
+
 ## Summary
 
 Google introduces Gemini 3, its most advanced AI model, enhancing reasoning, multimodality, and coding capabilities. Key points include:
@@ -23,6 +24,7 @@ Google introduces Gemini 3, its most advanced AI model, enhancing reasoning, mul
 - **Future Plans**: More models in the Gemini 3 series will be released soon.
 
 Gemini 3 aims to assist users in learning, building, and planning by leveraging its advanced capabilities.
+
 ## Links
 
 - [Gemini 3 Pro: the frontier of vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/) : This link points to an article discussing the advancements and capabilities of Gemini 3 Pro in the field of vision AI, highlighting its state-of-the-art reasoning and multimodal understanding.
@@ -30,12 +32,13 @@ Gemini 3 aims to assist users in learning, building, and planning by leveraging 
 - [Gemini 3 Pro Evaluation Methodology](http://deepmind.google/models/evals-methodology/gemini-3-pro) : This link points to the evaluation methodology used for Gemini 3 Pro, detailing the benchmarks and tests conducted to assess the model's performance and capabilities.
 - [Gemini 3 Pro: Vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/) : This link points to an article discussing the advancements and capabilities of Gemini 3 Pro in the field of vision AI, highlighting its state-of-the-art reasoning and multimodal understanding.
 
+
 ## Topics
 
 ![[topics/Model/Gemini]]
 
-![[topics/Model/Gemini 3 Pro]]
-
 ![[topics/Model/Gemini 3 Deep Think]]
+
+![[topics/Model/Gemini 3 Pro]]
 
 ![[topics/Platform/Google Antigravity]]

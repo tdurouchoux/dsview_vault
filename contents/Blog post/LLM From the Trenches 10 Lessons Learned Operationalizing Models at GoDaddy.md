@@ -12,6 +12,7 @@ upload_date: '2024-10-07'
 ---
 
 https://www.godaddy.com/resources/news/llm-from-the-trenches-10-lessons-learned-operationalizing-models-at-godaddy
+
 ## Summary
 
 GoDaddy's experience with operationalizing large language models (LLMs) highlights several key lessons:
@@ -37,12 +38,14 @@ GoDaddy's experience with operationalizing large language models (LLMs) highligh
 10. **Testing**: Testing is labor-intensive and more difficult than building an LLM integration. Leveraging LLMs to test other LLMs and building reporting systems for human review are essential. Multidisciplinary review teams can help detect and fix problems quickly.
 
 These insights underscore the importance of careful implementation, continuous fine-tuning, and thorough testing when operationalizing LLMs.
+
 ## Links
 
 - [Sparse Priming Representations](https://github.com/daveshap/SparsePrimingRepresentations) : GitHub repository for Sparse Priming Representations (SPRs), a technique to summarize content for better LLM performance.
 - [BOLAA](https://github.com/salesforce/BOLAA) : GitHub repository for Salesforce's BOLAA paper, which inspired GoDaddy's multi-agent architecture.
 - [LangChain](https://python.langchain.com/) : LangChain library for memory management in LLMs, including techniques like buffers, summarization, and entity recognition.
 - [LLM Agents](https://promptengineering.org/what-are-large-language-model-llm-agents/) : Explanation of LLM Agents, which pair prompts with actions (tools) to improve conversation flow.
+
 
 ## Topics
 

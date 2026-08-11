@@ -12,6 +12,7 @@ upload_date: '2024-06-05'
 ---
 
 https://readmedium.com/https://medium.com/cuenex/pandas-2-0-vs-polars-the-ultimate-battle-a378eb75d6d1
+
 ## Summary
 
 Pandas 2.0, the latest version of the popular data manipulation library, and Polars, a newer Rust-based alternative, both offer powerful tools for data analysis. Pandas 2.0 introduces several performance improvements, such as enhanced indexing and better handling of large datasets, while maintaining its familiar API. It also includes new features like string manipulation functions and improved support for missing data.
@@ -24,13 +25,15 @@ Key takeaways:
 - Pandas 2.0 offers performance improvements and new features while maintaining compatibility.
 - Polars provides high performance and modern features but may have a steeper learning curve.
 - Polars is generally faster for large datasets, while Pandas 2.0 is more user-friendly and widely supported.
+
 ## Links
 
 - [OpenAI o1 chat](https://openai01.net/) : A link to the OpenAI o1 chat service, which is a conversational AI model.
 - [OpenAI o1 API](https://openaio1api.com/) : A link to the OpenAI o1 API service, which allows developers to integrate the OpenAI o1 model into their applications.
 
+
 ## Topics
 
-![[topics/Library/polars]]
+![[topics/Library/Polars]]
 
 ![[topics/Library/Pandas]]

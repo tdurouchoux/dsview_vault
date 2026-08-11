@@ -13,6 +13,7 @@ upload_date: '2026-01-12'
 ---
 
 https://www.ibm.com/think/machine-learning
+
 ## Summary
 
 The 2026 Guide to Machine Learning by IBM is a comprehensive resource for machine learning knowledge and hands-on tutorials. It covers a wide range of topics, including:
@@ -43,29 +44,31 @@ The 2026 Guide to Machine Learning by IBM is a comprehensive resource for machin
 - **Computer Vision**: Overview, image classification, object detection, image segmentation (instance segmentation, semantic segmentation), optical character recognition, image recognition, and visual inspection.
 
 The guide also includes resources such as reports, training, ebooks, guides, and AI models like IBM Granite. It highlights related solutions like IBM watsonx Orchestrate, AI for developers, and AI consulting and services. The guide aims to help practitioners create standardized processes for building and running ML models and provides hands-on labs, courses, guided projects, and trials to build skills.
+
 ## Links
 
 - [IBM Granite](https://www.ibm.com/granite) : IBM® Granite™ is our family of open, performant and trusted AI models, tailored for business and optimized to scale your AI applications. Explore language, code, time series and guardrail options.
 - [IBM watsonx Orchestrate](https://www.ibm.com/products/watsonx-orchestrate) : Easily design scalable AI assistants and agents, automate repetitive tasks and simplify complex processes with IBM® watsonx Orchestrate™.
 
+
 ## Topics
 
-![[topics/Concept/State Space Model]]
+![[topics/Concept/Latent Space]]
+
+![[topics/Concept/Reinforcement Learning from Human Feedback RLHF]]
+
+![[topics/Concept/Synthetic Data]]
 
 ![[topics/Concept/Vector Embedding]]
 
-![[topics/Concept/Data Leakage]]
+![[topics/Concept/Ensemble Learning]]
+
+![[topics/Concept/State Space Model]]
 
 ![[topics/Concept/Upsampling]]
 
 ![[topics/Concept/Downsampling]]
 
-![[topics/Concept/Ensemble Learning]]
-
 ![[topics/Concept/Self Supervised Learning]]
 
-![[topics/Concept/Latent Space]]
-
-![[topics/Concept/Synthetic Data]]
-
-![[topics/Concept/Reinforcement Learning from Human Feedback RLHF]]
+![[topics/Concept/Data Leakage]]

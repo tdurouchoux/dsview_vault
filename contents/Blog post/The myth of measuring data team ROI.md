@@ -11,6 +11,7 @@ upload_date: '2025-03-09'
 ---
 
 https://hex.tech/blog/myth-of-data-team-roi/
+
 ## Summary
 
 The article discusses the challenges of measuring the ROI of data teams and argues that it's not a quantifiable metric. Key points include:
@@ -24,9 +25,11 @@ The article discusses the challenges of measuring the ROI of data teams and argu
 4. **Future Impact**: To gain budget and support, data teams should focus on making their impact clear to stakeholders, rather than relying on spreadsheets to tell their story.
 
 The article concludes that data teams should aim to make their impact so obvious that stakeholders advocate for them, negating the need for ROI justification.
+
 ## Links
 
 - [Glue Work](https://locallyoptimistic.com/post/glue-work/) : An article discussing the concept of 'glue work' in data teams, which aligns with the content's discussion on the challenges of measuring the impact of data work.
+
 
 ## Topics
 

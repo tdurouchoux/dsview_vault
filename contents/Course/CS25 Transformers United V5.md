@@ -12,6 +12,7 @@ upload_date: '2023-03-02'
 ---
 
 https://web.stanford.edu/class/cs25/index.html
+
 ## Summary
 
 CS25: Transformers United V5 is a popular Stanford course featuring leading researchers in Transformers and AI. The course covers recent breakthroughs in AI, including large language models, applications in various fields, and current challenges. Key topics include:
@@ -27,6 +28,7 @@ CS25: Transformers United V5 is a popular Stanford course featuring leading rese
 - **Transformers in Diffusion Models**: Applications in image and video generation.
 
 The course is open to the public, with lectures available in-person and via Zoom. It also has an active Discord community for discussions.
+
 ## Links
 
 - [Stanford CS25: Transformers United V5 Lecture Videos](https://web.stanford.edu/class/cs25/recordings/) : Lecture videos for the CS25: Transformers United V5 course at Stanford, featuring talks by leading researchers in the field of Transformers and AI.
@@ -34,6 +36,7 @@ The course is open to the public, with lectures available in-person and via Zoom
 - [Stanford CS25: Transformers United V5 Slides](https://docs.google.com/presentation/d/16tMMBUjPnqw-PvxF8xzu2m1Epdo1fH7nXWlt3mt2q5w/edit?usp=sharing) : Slides for the introductory lecture on Transformers, covering the history, functionality, and impact of Transformers in AI and NLP.
 - [Stanford CS25: Transformers United V5 Zoom Link](https://stanford.zoom.us/j/91661468474?pwd=Vo3qciJI6gWLoA8cFaSbhbYpBXs1lQ.1) : Zoom link for attending the CS25: Transformers United V5 lectures virtually.
 - [Stanford CS25: Transformers United V5 Slido](https://app.sli.do/event/xwQWZ8J6LWQRsT6sKqPko4) : Slido event for the CS25: Transformers United V5 course, used for interactive Q&A during lectures.
+
 
 ## Topics
 

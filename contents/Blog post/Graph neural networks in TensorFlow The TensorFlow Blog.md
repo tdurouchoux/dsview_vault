@@ -12,6 +12,7 @@ upload_date: '2025-05-03'
 ---
 
 https://blog.tensorflow.org/2024/02/graph-neural-networks-in-tensorflow.html
+
 ## Summary
 
 The article introduces TensorFlow GNN 1.0 (TF-GNN), a library for building graph neural networks (GNNs) at scale. GNNs leverage both graph connectivity and node/edge features to make predictions about graphs, nodes, or edges. TF-GNN supports heterogeneous graphs, where types and relations are represented by distinct sets of nodes and edges.
@@ -25,6 +26,7 @@ Key features of TF-GNN include:
 5. **Training Orchestration**: TF-GNN includes a Runner for orchestrating the training of Keras models, supporting distributed training, multi-task learning, and model attribution using integrated gradients.
 
 The article concludes by encouraging users to try the Colab demo, browse user guides, and read the paper for more details. The development of TF-GNN 1.0 involved collaboration between Google Research, Google Core ML, and Google DeepMind.
+
 ## Links
 
 - [TensorFlow Guide to Keras](https://www.tensorflow.org/guide/keras) : Official TensorFlow guide to Keras, a high-level API for building and training deep learning models.
@@ -32,6 +34,7 @@ The article concludes by encouraging users to try the Colab demo, browse user gu
 - [Node2Vec](https://snap.stanford.edu/node2vec/) : Node2Vec is an algorithm for learning continuous feature representations for nodes in graphs.
 - [In-Memory Sampler Guide](https://github.com/tensorflow/gnn/blob/main/tensorflow_gnn/docs/guide/inmemory_sampler.md) : Guide on using the in-memory sampler for graph neural networks in TensorFlow GNN.
 - [Apache Beam](https://beam.apache.org/) : Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines.
+
 
 ## Topics
 

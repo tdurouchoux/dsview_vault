@@ -12,6 +12,7 @@ upload_date: '2025-05-22'
 ---
 
 https://deepmind.google/models/veo/
+
 ## Summary
 
 Google DeepMind's Veo is a state-of-the-art video generation model designed to empower filmmakers and storytellers. The latest version, Veo 3, introduces several new features and improvements:
@@ -31,6 +32,7 @@ Google DeepMind's Veo is a state-of-the-art video generation model designed to e
 7. **Benchmarks**: Veo has achieved state-of-the-art results in head-to-head comparisons of outputs by human raters over top video generation models.
 
 8. **Acknowledgements**: The development of Veo 3 was made possible by key research and engineering contributions from a large team of individuals across Google DeepMind and its partners at Google.
+
 ## Links
 
 - [Veo 3 Model Card](https://storage.googleapis.com/deepmind-media/Model-Cards/Veo-3-Model-Card.pdf) : This link provides the model card for Veo 3, detailing its capabilities, benchmarks, and safety measures.
@@ -39,13 +41,14 @@ Google DeepMind's Veo is a state-of-the-art video generation model designed to e
 - [Fal.ai Showcase](http://ai.google.dev/showcase/fal) : This link showcases how developers on Fal.ai are using Veo to create new types of creative tools.
 - [Google DeepMind Homepage](https://deepmind.google) : This link takes you to the homepage of Google DeepMind, where you can explore their latest AI breakthroughs and projects.
 
-## Topics
 
-![[topics/Model/Gemini]]
+## Topics
 
 ![[topics/Model/Gemma]]
 
 ![[topics/Model/AlphaFold]]
+
+![[topics/Model/Gemini]]
 
 ![[topics/Model/AlphaGenome]]
 

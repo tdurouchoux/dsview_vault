@@ -13,6 +13,7 @@ upload_date: '2025-06-03'
 ---
 
 https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/
+
 ## Summary
 
 The article from MIT Technology Review explores the energy consumption and carbon footprint of AI, focusing on the growing impact of AI queries and data centers. Key points include:
@@ -30,11 +31,13 @@ The article from MIT Technology Review explores the energy consumption and carbo
 6. **Economic Impact**: The costs of the AI revolution may be transferred to consumers through higher electricity bills, as utility companies make deals with data centers that could raise rates for average residential ratepayers.
 
 The article emphasizes the need for better transparency and planning to manage AI's growing energy demands and environmental impact.
+
 ## Links
 
 - [AI’s Energy Demand Methodology](https://www.technologyreview.com/2025/05/20/1116331/ai-energy-demand-methodology/) : This link provides a detailed methodology for estimating AI’s energy demand, offering insights into the calculations and assumptions used in the main article.
 - [AI’s Energy Use Optimism](https://www.technologyreview.com/2025/05/20/1116337/ai-energy-use-optimism/) : This link discusses the optimistic perspectives on AI’s energy usage, highlighting potential solutions and positive outcomes despite the growing energy demands.
 - [AI’s Emissions Are About to Skyrocket](https://www.technologyreview.com/2024/12/13/1108719/ais-emissions-are-about-to-skyrocket-even-further/) : This link explores the projected increase in AI’s emissions, discussing the environmental impact and the urgent need for sustainable practices in the AI industry.
+
 
 ## Topics
 

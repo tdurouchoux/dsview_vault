@@ -11,6 +11,7 @@ upload_date: '2025-12-31'
 ---
 
 https://rohaquinlop.github.io/complexipy/
+
 ## Summary
 
 **complexipy** is a tool for measuring cognitive complexity in Python code, focusing on human understanding rather than machine readability. It helps identify complex code that needs refactoring, improving code reviews and maintenance.
@@ -33,11 +34,13 @@ https://rohaquinlop.github.io/complexipy/
 - Code reviews to identify complex code.
 - Maintaining clean and understandable codebases.
 - Integrating into CI/CD pipelines for automated complexity checks.
+
 ## Links
 
 - [Complexipy Documentation](https://rohaquinlop.github.io/complexipy/) : Official documentation for Complexipy, providing detailed information on installation, usage, and configuration.
 - [Complexipy PyPI](https://pypi.org/project/complexipy) : PyPI page for Complexipy, where you can find installation instructions and package details.
 - [Cognitive Complexity Research](https://www.sonarsource.com/resources/cognitive-complexity/) : Research paper on Cognitive Complexity by SonarSource, which inspired the development of Complexipy.
+
 
 ## Topics
 

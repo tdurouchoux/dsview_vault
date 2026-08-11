@@ -11,6 +11,7 @@ upload_date: '2024-01-25'
 ---
 
 https://github.com/cxli233/FriendsDontLetFriends
+
 ## Summary
 
 The content is an opinionated essay on good and bad practices in data visualization, authored by Chenxin Li, Ph.D. It provides examples and explanations of common data visualization mistakes and offers better alternatives. The essay is structured into several sections, each addressing a specific type of visualization issue:
@@ -33,6 +34,7 @@ The content is an opinionated essay on good and bad practices in data visualizat
 16. **Using Boxplots for Bimodal Data**: Boxplots cannot handle bimodal data. Plot all data points using geom_quasirandom() from the ggbeeswarm package for small to moderate sample sizes.
 
 The essay concludes by encouraging readers to stay tuned for more examples and updates. The content is accompanied by R scripts that generate the graphics shown in the essay, requiring R, RStudio, and the rmarkdown package.
+
 ## Links
 
 - [R Download](https://cran.r-project.org/bin/) : R is a programming language and environment for statistical computing and graphics. It is widely used by statisticians, data analysts, and data scientists for data manipulation, calculation, and graphical display.
@@ -40,6 +42,7 @@ The essay concludes by encouraging readers to stay tuned for more examples and u
 - [ggbeeswarm](https://github.com/eclarke/ggbeeswarm) : ggbeeswarm is an extension to ggplot2 for creating bee swarm plots, which are a one-dimensional representation of data where points do not overlap.
 - [Viridis Color Scales](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) : Viridis is a color scale that is both colorblind-friendly and grey scale-safe. It is often used as an alternative to rainbow color scales.
 - [PLOS Biology Article on Bar Graphs](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128) : This article discusses the limitations of bar graphs and provides insights into better practices for data visualization.
+
 
 ## Topics
 

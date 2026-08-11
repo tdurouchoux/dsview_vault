@@ -11,6 +11,7 @@ upload_date: '2026-07-06'
 ---
 
 https://www.plakar.io/
+
 ## Summary
 
 Plakar is an open-source backup and restore standard designed for efficiency, security, and autonomy. Key technical highlights include:
@@ -26,24 +27,26 @@ Plakar is an open-source backup and restore standard designed for efficiency, se
 **Recent updates**: v1.1.3 (faster restores, new terminal UI) and a free Control Plane plan for self-hosted management.
 
 **Community-driven**: Open-source, transparent, and trusted for critical infrastructure.
+
 ## Links
 
 - [Plakar GitHub Repository](https://github.com/PlakarKorp/plakar) : Official GitHub repository for Plakar, containing the open-source codebase, documentation, and contributions from the community. This is a critical resource for developers and users looking to explore, contribute, or deploy Plakar.
 - [Plakar Status Page](https://status.plakar.io) : A status page providing real-time updates on the availability and operational status of Plakar's services. Useful for monitoring service health and incident reports.
 - [Plakar Reddit Community](https://www.reddit.com/r/plakar) : A community-driven subreddit for discussions, questions, and user experiences related to Plakar. This is a valuable resource for peer support and community insights.
 
+
 ## Topics
-
-![[topics/Tool/Plakar]]
-
-![[topics/Concept/Zero trust Backup]]
-
-![[topics/Concept/Resilience as Code]]
-
-![[topics/Platform/Plakar Control Plane]]
 
 ![[topics/Concept/Immutable Backups]]
 
+![[topics/Tool/Plakar]]
+
+![[topics/Platform/Plakar Control Plane]]
+
+![[topics/Concept/Zero trust Backup]]
+
 ![[topics/Library/S3 compatible Storage]]
+
+![[topics/Concept/Resilience as Code]]
 
 ![[topics/Concept/AI ready Primitives]]

@@ -11,6 +11,7 @@ upload_date: '2024-02-22'
 ---
 
 https://github.com/enjalot/latent-scope
+
 ## Summary
 
 Latent Scope is a tool designed for exploring and visualizing datasets through latent spaces. It simplifies the process of embedding unstructured data into high-dimensional vectors, reducing dimensionality, clustering, labeling clusters with an LLM, and exploring the annotated data via an interactive visualization.
@@ -26,10 +27,12 @@ Key features include:
 The tool is designed to be part of a larger research and exploration process, making it easy to get data in and useful data out. It is built with a React frontend and a Python server backend, and supports several popular open-source embedding models.
 
 Examples of use cases include analyzing survey responses, clustering GitHub issues and PRs, and exploring US Federal laws. The repository includes detailed documentation and notebooks for getting started and using the Python interface.
+
 ## Links
 
 - [Latent Scope Documentation](https://enjalot.github.io/latent-scope/) : The official documentation for Latent Scope, providing detailed guides and examples for using the tool.
 - [Latent Scope PyPI](https://pypi.org/project/latentscope/) : The PyPI page for Latent Scope, where you can find installation instructions and package details.
+
 
 ## Topics
 

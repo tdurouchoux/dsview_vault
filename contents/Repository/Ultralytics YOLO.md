@@ -12,6 +12,7 @@ upload_date: '2024-10-01'
 ---
 
 https://github.com/ultralytics/ultralytics
+
 ## Summary
 
 Ultralytics YOLO is a cutting-edge, state-of-the-art (SOTA) computer vision and AI framework that offers fast, accurate, and easy-to-use models for various tasks such as object detection, tracking, instance segmentation, image classification, and pose estimation. The framework is constantly updated for performance and flexibility.
@@ -35,11 +36,13 @@ Ultralytics YOLO is a cutting-edge, state-of-the-art (SOTA) computer vision and 
 - **Support**: Issues can be reported on GitHub, and discussions can be joined on Discord, Reddit, and the Ultralytics Community Forums.
 
 Ultralytics YOLO is designed to be user-friendly and highly performant, making it suitable for a wide range of applications in computer vision and AI.
+
 ## Links
 
 - [Ultralytics Documentation](https://docs.ultralytics.com/) : The official documentation for Ultralytics, providing comprehensive guides and resources for using their YOLO models.
 - [Ultralytics Hub](https://hub.ultralytics.com/) : The Ultralytics Hub platform for data visualization, training YOLO models, and deployment without needing to code.
 - [Ultralytics GitHub Repository](https://github.com/ultralytics) : The GitHub repository for Ultralytics, containing the source code, issues, and other resources related to their YOLO models.
+
 
 ## Topics
 

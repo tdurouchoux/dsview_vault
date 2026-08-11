@@ -11,6 +11,7 @@ upload_date: '2024-07-10'
 ---
 
 https://carl-mcbride-ellis.github.io/TOBoML/TOBoML.pdf
+
 ## Summary
 
 The Orange Book of Machine Learning (free version) is a comprehensive guide to making predictions using supervised regression and classification for tabular data. The book is structured into several chapters, each focusing on different aspects of machine learning.
@@ -79,7 +80,9 @@ The Orange Book of Machine Learning (free version) is a comprehensive guide to m
 The book provides a list of recommended reading and packages for further exploration, including books on statistical learning, pattern recognition, and machine learning, as well as packages such as scikit-learn, XGBoost, LightGBM, CatBoost, and TensorFlow.
 
 Overall, the Orange Book of Machine Learning provides a comprehensive guide to making predictions using supervised regression and classification for tabular data, covering essential statistical concepts, data cleaning techniques, cross-validation, regression, classification, ensemble estimators, hyperparameter optimization, feature engineering and selection, and the limitations of neural networks and deep learning.
+
 ## Links
+
 
 
 ## Topics

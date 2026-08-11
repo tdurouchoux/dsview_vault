@@ -11,6 +11,7 @@ upload_date: '2026-05-19'
 ---
 
 https://github.com/unum-cloud/usearch
+
 ## Summary
 
 USearch is a high-performance, open-source similarity search and clustering engine supporting vectors and arbitrary objects across multiple languages (C++, Python, JavaScript, Java, Rust, etc.). Key technical highlights:
@@ -31,6 +32,7 @@ matches = index.search([0.2, 0.6, 0.4], 10)
 ```
 
 Licensed under Apache-2.0. GitHub: [unum-cloud/USearch](https://github.com/unum-cloud/USearch).
+
 ## Links
 
 - [USearch Python Documentation - User-Defined Metrics and JIT Compilation](https://unum-cloud.github.io/USearch/python#user-defined-metrics-and-jit-in-python) : Focuses on advanced Python-specific features like user-defined metrics and JIT compilation, which are critical for customizing USearch in Python applications.
@@ -39,22 +41,23 @@ Licensed under Apache-2.0. GitHub: [unum-cloud/USearch](https://github.com/unum-
 - [USearch Rust Documentation](https://unum-cloud.github.io/USearch/rust) : Covers Rust-specific API usage and examples, valuable for Rust developers integrating USearch.
 - [USearch Performance Benchmarks and Hardware Acceleration](https://ashvardanian.com/posts/gcc-12-vs-avx512fp16/) : Discusses performance benchmarks and hardware acceleration techniques, critical for optimizing USearch deployments.
 
+
 ## Topics
 
-![[topics/Library/USearch]]
+![[topics/Concept/Quantization]]
+
+![[topics/Concept/Clustering]]
+
+![[topics/Concept/Semantic Search]]
 
 ![[topics/Concept/Approximate Nearest Neighbor ANN]]
 
 ![[topics/Concept/Hierarchical Navigable Small World HNSW]]
 
+![[topics/Concept/Multi Index Lookups]]
+
 ![[topics/Concept/User Defined Metrics]]
-
-![[topics/Concept/Quantization]]
-
-![[topics/Concept/Semantic Search]]
 
 ![[topics/Concept/Fuzzy Search]]
 
-![[topics/Concept/Multi Index Lookups]]
-
-![[topics/Concept/Clustering]]
+![[topics/Library/USearch]]

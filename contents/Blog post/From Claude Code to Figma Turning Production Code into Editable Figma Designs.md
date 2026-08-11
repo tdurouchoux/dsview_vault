@@ -11,6 +11,7 @@ upload_date: '2026-04-04'
 ---
 
 https://www.figma.com/blog/introducing-claude-code-to-figma/
+
 ## Summary
 
 Figma now integrates with Claude Code to convert production UI code into editable Figma frames, bridging code-first and design-first workflows. Key technical points:
@@ -25,22 +26,24 @@ Figma now integrates with Claude Code to convert production UI code into editabl
 - **Goal**: Reduce friction between prototyping (code) and exploration (design), enabling faster iteration and better product decisions.
 
 *Context*: Part of Figma’s broader MCP (Model Context Protocol) ecosystem to unify AI-powered tools (e.g., Figma Make) with code workflows.
+
 ## Links
 
 - [Figma MCP Server Documentation](https://developers.figma.com/docs/figma-mcp-server/tools-and-prompts/#generate_figma_design) : Detailed documentation on the Figma MCP server, which enables design-informed code generation and facilitates roundtrip workflows between code and design.
 
+
 ## Topics
 
-![[topics/Platform/Figma]]
-
-![[topics/Tool/Figma MCP Server]]
-
-![[topics/Concept/Agentic Systems]]
-
-![[topics/Tool/Figma Make]]
-
-![[topics/Concept/Code to Design Workflows]]
+![[topics/Concept/Model Context Protocol MCP]]
 
 ![[topics/Tool/Claude Code]]
 
-![[topics/Concept/Model Context Protocol MCP]]
+![[topics/Concept/Agentic Systems]]
+
+![[topics/Platform/Figma]]
+
+![[topics/Tool/Figma Make]]
+
+![[topics/Tool/Figma MCP Server]]
+
+![[topics/Concept/Code to Design Workflows]]

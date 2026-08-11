@@ -11,6 +11,7 @@ upload_date: '2025-05-03'
 ---
 
 https://arxiv.org/pdf/2504.20879
+
 ## Summary
 
 The document discusses the challenges and issues with the Chatbot Arena, a platform for evaluating AI models. Key points include:
@@ -33,7 +34,9 @@ The document discusses the challenges and issues with the Chatbot Arena, a platf
 4. **Limitations and Future Work**: The study acknowledges limitations such as lack of access to raw data and the need for further investigation into adversarial voting and other evaluation challenges.
 
 5. **Conclusion**: The document emphasizes the need for scientific integrity and fairness in AI progress, urging the community to demand better practices and transparency.
+
 ## Links
+
 
 
 ## Topics

@@ -11,6 +11,7 @@ upload_date: '2026-05-27'
 ---
 
 https://www.datagibberish.com/p/stop-starting-data-projects
+
 ## Summary
 
 The article outlines a practical process for managing data projects effectively, emphasizing stakeholder engagement and iterative delivery. Key points include:
@@ -32,13 +33,15 @@ The article outlines a practical process for managing data projects effectively,
 8. **Scope Management**: Avoid scope creep by deferring additional requests to future iterations. Clearly define when a project is complete to prevent over-engineering.
 
 The process emphasizes communication, early validation, and stakeholder involvement to ensure technical work is adopted and valued. The author argues that success in data projects hinges on non-technical rigor as much as technical skill.
+
 ## Links
 
 - [McKinsey Research on Delivering Large-Scale IT Projects](https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value) : This link points to a McKinsey article discussing the challenges and best practices for delivering large-scale IT projects on time, on budget, and on value. It aligns with the content's focus on project management and avoiding common pitfalls in data projects.
 
+
 ## Topics
 
-![[topics/Concept/Minimum Viable Process for Data Projects]]
+![[topics/Concept/Feedback Loops]]
 
 ![[topics/Concept/Stakeholder Management in Data Projects]]
 
@@ -46,8 +49,8 @@ The process emphasizes communication, early validation, and stakeholder involvem
 
 ![[topics/Concept/Minimum Viable Product MVP in Data Projects]]
 
-![[topics/Concept/Scope Creep in Data Projects]]
-
 ![[topics/Concept/RACI Matrix]]
 
-![[topics/Concept/Feedback Loops]]
+![[topics/Concept/Minimum Viable Process for Data Projects]]
+
+![[topics/Concept/Scope Creep in Data Projects]]

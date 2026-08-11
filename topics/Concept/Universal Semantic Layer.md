@@ -1,5 +1,0 @@
----
-type: Concept
----
-
-A universal semantic layer extends the concept of a traditional semantic layer by aiming to provide a unified, consistent, and accessible encoding of business logic that can be used by any downstream analytical application. Unlike traditional semantic layers that are often tied to specific BI tools, a universal semantic layer is designed to be tool-agnostic, allowing different BI tools and applications to query and utilize the same underlying business logic and metrics. This approach supports modularity, enabling organizations to mix and match BI tools while maintaining a single source of truth for their data. The goal is to enhance data accessibility, governance, and consistency across the entire data ecosystem. A Semantic Layer serves as an intermediary between data storage and data visualization, providing a unified view of metrics and dimensions. It allows for the declarative definition of metrics and dimensions, enabling consistent and reusable definitions across different tools and platforms. This layer helps bridge the gap between data storage, analysis, and visualization in a unified, declarative framework.

@@ -12,6 +12,7 @@ upload_date: '2024-10-29'
 ---
 
 https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/evaluation/list-of-eval-metrics
+
 ## Summary
 
 The article discusses various evaluation metrics for Large Language Model (LLM)-generated content, categorizing them into reference-based, reference-free, and LLM-based evaluators.
@@ -40,15 +41,17 @@ The article discusses various evaluation metrics for Large Language Model (LLM)-
 - **Retrieval-related metrics:** Context Relevancy, Context Recall.
 
 The article also mentions implementations like Azure Machine Learning prompt flow, OpenAI Evals, and RAGAS for evaluating LLMs.
+
 ## Links
 
 - [BERTScore GitHub Repository](https://github.com/Tiiiger/bert_score) : GitHub repository for BERTScore, a metric for evaluating the performance of text generation models using BERT embeddings.
 - [OpenAI Evals](https://github.com/openai/evals) : An open-source framework for evaluating large language models (LLMs) and an open-source registry of benchmarks.
 - [RAGAS Faithfulness Metric](https://github.com/explodinggradients/ragas/blob/main/src/ragas/metrics/_faithfulness.py) : GitHub repository for the RAGAS framework, specifically the faithfulness metric used to evaluate the factual consistency of generated answers against given context.
 
+
 ## Topics
 
-![[topics/Concept/Rule based Metrics]]
+![[topics/Concept/Rule Based Evaluation]]
 
 ![[topics/Concept/Reference free Metrics]]
 

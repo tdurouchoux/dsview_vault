@@ -12,6 +12,7 @@ upload_date: '2022-12-07'
 ---
 
 https://eugeneyan.com/writing/text-to-image/
+
 ## Summary
 
 The content discusses the rapid advancements in text-to-image generation, focusing on key concepts like diffusion, text conditioning, guidance, and latent space.
@@ -25,6 +26,7 @@ The content discusses the rapid advancements in text-to-image generation, focusi
 **Latent Space** involves applying diffusion on image embeddings instead of image pixels. Stable Diffusion compresses images into a lower-dimensional latent representation using a variational autoencoder (VAE), reducing computation and memory requirements. This allows for faster training and sampling, making text-to-image generation accessible on consumer-grade hardware.
 
 The content highlights the rapid progress in text-to-image generation, with recent developments like NVIDIA's eDiff-I and advancements in text-to-video and text-to-3D generation. The fundamentals discussed provide a foundation for understanding current and future advances in text-to-media generation.
+
 ## Links
 
 - [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585) : The paper that introduced the concept of diffusion in the context of deep learning, inspired by non-equilibrium statistical physics.
@@ -32,6 +34,7 @@ The content highlights the rapid progress in text-to-image generation, with rece
 - [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2102.12092) : A paper that introduces the concept of Contrastive Language-Image Pre-training (CLIP), which embeds text and image in the same space via a projection layer.
 - [Zero-Shot Text-to-Image Generation (DALL·E)](https://openai.com/blog/dall-e/) : A blog post that introduces DALL·E, one of the first text-to-image generation models open to the public.
 - [High-Resolution Image Synthesis with Latent Diffusion Models (Stable Diffusion)](https://arxiv.org/abs/2112.10741) : A paper that introduces the concept of latent diffusion, which applies diffusion on image embeddings instead of image pixels.
+
 
 ## Topics
 

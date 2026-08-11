@@ -13,6 +13,7 @@ upload_date: '2025-11-13'
 ---
 
 https://netflixtechblog.medium.com/data-as-a-product-applying-a-product-mindset-to-data-at-netflix-4a4d1287a31d
+
 ## Summary
 
 The Netflix Technology Blog post "Data as a Product: Applying a Product Mindset to Data at Netflix" advocates for treating data with the same care and intentionality as a consumer-facing product. Key points include:
@@ -29,9 +30,11 @@ The Netflix Technology Blog post "Data as a Product: Applying a Product Mindset 
   - **Trust and Reliability**: Ensure data products are dependable and transparent to earn user trust.
 
 By adopting this framework, Netflix aims to elevate data to a first-class entity, ensuring it is valuable, trusted, and aligned with strategic goals.
+
 ## Links
 
 - [Tomasz Magdanski LinkedIn Profile](https://www.linkedin.com/in/tmagdanski/) : LinkedIn profile of Tomasz Magdanski, the author of the article.
+
 
 ## Topics
 

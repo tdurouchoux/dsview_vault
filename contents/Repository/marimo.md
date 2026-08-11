@@ -11,6 +11,7 @@ upload_date: '2024-10-26'
 ---
 
 https://docs.marimo.io/
+
 ## Summary
 
 Marimo is an open-source, reactive Python notebook environment designed to address common issues with traditional notebooks. It offers a range of features including:
@@ -26,6 +27,7 @@ Marimo is an open-source, reactive Python notebook environment designed to addre
 - **Modern Editor**: Includes features like GitHub Copilot, AI assistants, and variable explorers.
 
 Marimo is designed to be a comprehensive tool that replaces multiple existing tools like Jupyter, Streamlit, and Papermill, offering a streamlined and powerful environment for data science and interactive programming.
+
 ## Links
 
 - [marimo GitHub Repository](https://github.com/marimo-team/marimo) : The GitHub repository for marimo, an open-source reactive Python notebook.
@@ -33,6 +35,7 @@ Marimo is designed to be a comprehensive tool that replaces multiple existing to
 - [marimo Documentation - AI Completion](https://docs.marimo.io/guides/editor_features/ai_completion/) : Guide on using AI completion features within the marimo editor.
 - [marimo Documentation - Generate with AI](https://docs.marimo.io/guides/generate_with_ai/) : Guide on generating notebooks and code with AI assistance in marimo.
 - [marimo Documentation - Text to Notebook](https://docs.marimo.io/guides/generate_with_ai/text_to_notebook/) : Guide on generating entire notebooks from text using AI in marimo.
+
 
 ## Topics
 

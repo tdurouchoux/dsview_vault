@@ -12,6 +12,7 @@ upload_date: '2024-02-15'
 ---
 
 https://www.freecodecamp.org/news/python-debugging-handbook/
+
 ## Summary
 
 The handbook covers fundamental and advanced debugging techniques for Python code. It begins by discussing common error messages such as SyntaxError, IndentationError, NameError, and others, providing insights into their causes and solutions.
@@ -25,9 +26,11 @@ Performance debugging is addressed through the use of code linters and analyzers
 Additional tips for efficient debugging include leveraging version control systems, writing well-documented code, breaking down complex problems, taking breaks, and employing rubber duck debugging. The handbook also provides strategies for searching for solutions to bugs and errors, emphasizing the importance of understanding error messages, using descriptive keywords, and leveraging web resources like GitHub, Stack Overflow, and developer communities.
 
 Overall, the handbook emphasizes the importance of a systematic approach to debugging, combining various techniques and tools to identify and resolve issues effectively, ultimately enhancing the quality and reliability of Python programs.
+
 ## Links
 
 - [Logging in Python](https://www.samyakinfo.tech/blog/logging-in-python) : A blog post explaining logging in Python, which is mentioned in the content as a useful resource for learning more about logging and loggers in Python.
+
 
 ## Topics
 

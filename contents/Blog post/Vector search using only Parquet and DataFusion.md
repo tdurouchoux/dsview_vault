@@ -11,6 +11,7 @@ upload_date: '2026-03-31'
 ---
 
 https://blog.xiangpeng.systems/posts/vector-search-with-parquet-datafusion/
+
 ## Summary
 
 The post explores implementing efficient vector search directly in Parquet files using the `pq-vector` library, avoiding traditional vector databases.
@@ -24,6 +25,7 @@ Key technical points:
 - **Limitations**: Early-stage prototype; plans include HNSW support, multi-Parquet indexing, and improved filter integration.
 
 Tools/Libraries: Parquet, DataFusion, Rust (`pq-vector` GitHub repo).
+
 ## Links
 
 - [DataFusion User-Defined Parquet Indexes](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/) : A blog post explaining how to implement user-defined indexes for Parquet files in DataFusion, demonstrating its extensibility for custom indexing solutions.
@@ -32,16 +34,17 @@ Tools/Libraries: Parquet, DataFusion, Rust (`pq-vector` GitHub repo).
 - [Apache Parquet WriterProperties Documentation](https://docs.rs/parquet/latest/parquet/file/properties/struct.WriterPropertiesBuilder.html) : Documentation for Parquet's WriterPropertiesBuilder, which is used to configure Parquet files for optimal random access, a key technique in enabling efficient vector search.
 - [Milvus Vector Database](https://milvus.io/) : Official website for Milvus, an open-source vector database, providing context for alternative solutions discussed in the blog post.
 
+
 ## Topics
 
-![[topics/Library/Apache DataFusion]]
+![[topics/Concept/Inverted File IVF Index]]
+
+![[topics/Concept/Parquet Row Group and Page Size Tuning]]
 
 ![[topics/Library/pq vector]]
 
 ![[topics/Concept/Zero copy Vector Indexing]]
 
-![[topics/Concept/Inverted File IVF Index]]
-
-![[topics/Concept/Parquet Page Size Tuning]]
-
 ![[topics/Concept/In Place Index Creation]]
+
+![[topics/Library/Apache DataFusion]]

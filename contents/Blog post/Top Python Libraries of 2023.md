@@ -12,6 +12,7 @@ upload_date: '2024-01-04'
 ---
 
 https://tryolabs.com/blog/top-python-libraries-2023
+
 ## Summary
 
 The article presents the top Python libraries of 2023, highlighting tools that have gained prominence or been launched in the past year, with a focus on libraries aligned with the trend of Generative AI and Large Language Models (LLMs). The selection criteria include being well-maintained, innovative, and diverse in application. Here are the main technical points and key takeaways:
@@ -37,6 +38,7 @@ The article presents the top Python libraries of 2023, highlighting tools that h
 10. **Temporian**: A library for preprocessing and feature engineering of temporal data. It introduces the EventSet concept for handling multivariate time-series and time-sequences, and offers a Python API backed by a C++ implementation for fast speeds.
 
 The article also mentions several runners-up and hidden gems, each with unique capabilities and cutting-edge features. These libraries are categorized into various domains such as causal inference, CLI LLM tools, computer vision, data and features, data visualization, embeddings and vector DBs, federated learning, generative AI, LLM accuracy enhancements, LLM app building, LLM code tools, LLM development, LLM experimentation, LLM metrics, LLM serving, LLM tools, MLOps, LLMOps, DevOps, multimodal AI tools, Python ML, performance and scalability, Python programming, optimization/math, reinforcement learning, and video processing.
+
 ## Links
 
 - [LiteLLM](https://github.com/BerriAI/litellm) : LiteLLM is a library that allows calling any LLM using OpenAI format, providing seamless integration with various models and features like streaming responses, cost tracking, and load balancing.
@@ -44,6 +46,7 @@ The article also mentions several runners-up and hidden gems, each with unique c
 - [Taipy](https://github.com/Avaiga/taipy) : Taipy is a low-code Python library that enables data scientists to build interactive Web UIs for their machine learning products without needing to master web stack tools.
 - [MLX](https://github.com/ml-explore/mlx) : MLX is an array framework specifically designed for machine learning on Apple silicon, offering a NumPy-like API and innovative features like composable function transformations and lazy computation.
 - [Unstructured](https://github.com/Unstructured-IO/unstructured) : Unstructured is a comprehensive solution for text preprocessing, capable of handling various document formats and offering functions for partitioning, cleaning, staging, extraction, chunking, and embedding text data.
+
 
 ## Topics
 

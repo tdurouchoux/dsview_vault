@@ -11,6 +11,7 @@ upload_date: '2024-10-16'
 ---
 
 https://github.com/posit-dev/positron
+
 ## Summary
 
 Positron is a next-generation data science IDE developed by Posit PBC. It is designed as an extensible, polyglot tool for writing code and exploring data, providing a familiar environment for reproducible authoring and publishing. Key features include:
@@ -22,11 +23,13 @@ Positron is a next-generation data science IDE developed by Posit PBC. It is des
 - **Reproducible Authoring and Publishing**: Facilitates the creation and sharing of reproducible data science work.
 
 The project is open-source and licensed under the Elastic License 2.0. It encourages community involvement through contributions, feedback, and discussions on GitHub. The repository includes detailed documentation on installation, troubleshooting, and usage, as well as guidelines for contributing and reporting issues.
+
 ## Links
 
 - [Positron Official Website](https://positron.posit.co/) : The official website for Positron, providing detailed information about the next-generation data science IDE, including features, downloads, and FAQs.
 - [Positron Download Page](https://positron.posit.co/download) : The download page for Positron, where you can get the latest release for macOS, Windows, and Linux desktops.
 - [VS Code Documentation](https://code.visualstudio.com/docs) : Documentation for Visual Studio Code, which Positron is built on. It covers basic features like commands, settings, and using source control.
+
 
 ## Topics
 

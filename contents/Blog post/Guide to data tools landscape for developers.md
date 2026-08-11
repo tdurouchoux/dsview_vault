@@ -11,6 +11,7 @@ upload_date: '2026-07-22'
 ---
 
 https://sinja.io/blog/data-landscape-guide-for-developers
+
 ## Summary
 
 This guide provides a comprehensive overview of the data tools landscape for developers unfamiliar with data science workflows. It covers key concepts, tools, and processes across the data lifecycle, structured into four main sections:
@@ -44,6 +45,7 @@ This guide provides a comprehensive overview of the data tools landscape for dev
 - Data as a product (e.g., selling access to curated datasets).
 
 The guide emphasizes the importance of understanding the data ecosystem, even for developers without a data background, to collaborate effectively with data teams. It avoids deep dives into tool-specific setups but provides a high-level map of the landscape.
+
 ## Links
 
 - [Apache Parquet](https://en.wikipedia.org/wiki/Apache_Parquet) : Apache Parquet is a columnar storage file format optimized for use with big data processing frameworks. It is widely used in data lakes and warehouses for efficient data storage and retrieval.
@@ -52,24 +54,25 @@ The guide emphasizes the importance of understanding the data ecosystem, even fo
 - [dbt (data build tool)](https://docs.getdbt.com/docs/introduction#dbt-core-engine) : dbt is a tool that enables data teams to transform raw data in their data warehouses into the desired shape for analysis. It allows for modular, SQL-based transformations and supports collaboration and documentation.
 - [Apache Iceberg](https://iceberg.apache.org/) : Apache Iceberg is an open table format for huge analytic datasets. It brings reliability and simplicity to data lakes by providing ACID transactions, schema evolution, and time travel capabilities.
 
+
 ## Topics
+
+![[topics/Concept/Reverse ETL]]
+
+![[topics/Concept/Data Lineage]]
+
+![[topics/Concept/Data Observability]]
+
+![[topics/Concept/Lakehouse]]
+
+![[topics/Concept/Data Lake]]
 
 ![[topics/Concept/ETL Extract Transform Load]]
 
 ![[topics/Concept/ELT Extract Load Transform]]
 
-![[topics/Concept/Data Warehouse]]
-
-![[topics/Concept/Lakehouse]]
-
-![[topics/Concept/Medallion Architecture]]
-
 ![[topics/Concept/Dimensional Modeling]]
 
-![[topics/Concept/Data Lake]]
+![[topics/Concept/Data Warehouse]]
 
-![[topics/Concept/Reverse ETL]]
-
-![[topics/Concept/Data Observability]]
-
-![[topics/Concept/Data Lineage]]
+![[topics/Concept/Medallion Architecture]]

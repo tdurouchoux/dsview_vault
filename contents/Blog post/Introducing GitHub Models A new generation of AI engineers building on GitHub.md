@@ -12,6 +12,7 @@ upload_date: '2024-08-08'
 ---
 
 https://github.blog/news-insights/product-news/introducing-github-models/
+
 ## Summary
 
 GitHub has introduced GitHub Models, a platform designed to enable developers to become AI engineers by providing access to industry-leading AI models. Key features include:
@@ -23,11 +24,13 @@ GitHub has introduced GitHub Models, a platform designed to enable developers to
 5. **Creator Network**: GitHub aims to democratize AI access, fostering a community of developers to build and collaborate on AI projects.
 
 The platform is currently in limited public beta, with plans to add more models and features in the future. GitHub Models is part of a broader initiative to integrate AI into the developer workflow, alongside tools like GitHub Copilot.
+
 ## Links
 
 - [How AI code generation works](https://github.blog/ai-and-ml/generative-ai/how-ai-code-generation-works/) : Explore the capabilities and benefits of AI code generation and how it can improve your developer experience.
 - [How enterprise engineering teams can successfully adopt AI](https://resources.github.com/artificial-intelligence/how-enterprise-engineering-teams-can-successfully-adopt-ai/) : Learn how to bring AI to your engineering teams and maximize the value that you get from it.
 - [Unlocking the power of unstructured data with RAG](https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/) : Learn how to use retrieval-augmented generation (RAG) to capture more insights.
+
 
 ## Topics
 

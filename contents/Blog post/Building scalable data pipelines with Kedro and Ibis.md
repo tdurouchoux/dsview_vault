@@ -12,6 +12,7 @@ upload_date: '2024-09-25'
 ---
 
 https://kedro.org/blog/building-scalable-data-pipelines-with-kedro-and-ibis
+
 ## Summary
 
 The article discusses integrating Kedro, a Python framework for building data pipelines, with Ibis, a Python library that provides a unified interface for data manipulation across various query engines. The main points include:
@@ -29,11 +30,13 @@ The article discusses integrating Kedro, a Python framework for building data pi
 6. **Future Considerations**: The article mentions potential future work, such as implementing validations and exploring materialized views, and encourages feedback on the tutorial and pipeline productionization experience.
 
 The article concludes by providing resources for further exploration and encouraging readers to share their thoughts and ideas.
+
 ## Links
 
 - [Kedro Documentation](https://docs.kedro.org/en/stable/) : Official documentation for Kedro, providing comprehensive guides and references for using the Kedro framework.
 - [Ibis Project GitHub](https://github.com/ibis-project/ibis) : GitHub repository for the Ibis project, a Python library that provides a lightweight, universal interface for data wrangling.
 - [dbt Documentation](https://docs.getdbt.com/docs/build/materializations) : Documentation for dbt (data build tool), focusing on materializations, which is relevant for data transformation workflows.
+
 
 ## Topics
 

@@ -13,6 +13,7 @@ upload_date: '2026-02-03'
 ---
 
 https://www.darioamodei.com/essay/the-adolescence-of-technology
+
 ## Summary
 
 Dario Amodei's essay "The Adolescence of Technology" explores the risks and challenges posed by advanced AI, focusing on the need for careful management to ensure beneficial outcomes. Key points include:
@@ -36,16 +37,18 @@ Dario Amodei's essay "The Adolescence of Technology" explores the risks and chal
 9. **Call to Action**: Amodei emphasizes the need for humanity to step up its efforts to address these risks, advocating for truth-telling, courage, and a collective commitment to ensuring that AI is developed and used responsibly.
 
 The essay concludes with a call for humanity to pass this critical test, emphasizing the need for courage, nobility, and a collective commitment to ensuring that AI is developed and used responsibly.
+
 ## Links
 
 - [AI Safety Institute](https://www.aisi.gov.uk/) : The AI Safety Institute is a UK-based organization focused on ensuring the safe and responsible development of artificial intelligence. It provides research, guidance, and resources to help mitigate risks associated with advanced AI systems.
 - [Anthropic Claude 4 System Card](https://www.anthropic.com/claude-4-system-card) : The system card for Anthropic's Claude 4 model, detailing its capabilities, limitations, and safety measures. This document provides insights into how the model is designed to handle various tasks and potential risks.
 
+
 ## Topics
 
-![[topics/Concept/AI Adolescence]]
-
 ![[topics/Concept/AI Safety]]
+
+![[topics/Concept/AI Adolescence]]
 
 ![[topics/Concept/AI Alignment]]
 

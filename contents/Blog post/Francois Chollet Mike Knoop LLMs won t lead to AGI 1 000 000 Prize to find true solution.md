@@ -12,6 +12,7 @@ upload_date: '2024-07-03'
 ---
 
 https://www.dwarkeshpatel.com/p/francois-chollet
+
 ## Summary
 
 The podcast features a discussion between Dwarkesh Patel, Francois Chollet, and Mike Knoop about the ARC benchmark and the $1 million prize for solving it. The ARC benchmark is designed to test machine intelligence's ability to reason and solve novel puzzles without relying on memorization. Chollet argues that current AI models, particularly large language models (LLMs), struggle with ARC because they lack the ability to synthesize new programs on the fly, a key aspect of human intelligence.
@@ -25,12 +26,14 @@ Key points include:
 5. **ARC Prize**: A $1 million prize is offered for solving the ARC benchmark, aiming to encourage new ideas and approaches in AI research.
 
 The discussion also touches on the importance of open-source research and the potential for current AI models to be enhanced with program synthesis capabilities.
+
 ## Links
 
 - [ARC Benchmark](https://www.dwarkeshpatel.com/i/145543832/the-arc-benchmark) : Explanation of the ARC benchmark, a test designed to measure machine intelligence by evaluating the ability to solve novel puzzles without relying on memorization.
 - [Why LLMs Struggle with ARC](https://www.dwarkeshpatel.com/i/145543832/why-llms-struggle-with-arc) : Discussion on why large language models (LLMs) struggle with the ARC benchmark, focusing on their limitations in handling novel tasks and the need for program synthesis.
 - [Future of AI Progress: Deep Learning + Program Synthesis](https://www.dwarkeshpatel.com/i/145543832/future-of-ai-progress-deep-learning-program-synthesis) : Exploration of the future of AI progress, combining deep learning with program synthesis to achieve more general and adaptable intelligence.
 - [Possible Solutions to ARC Prize](https://www.dwarkeshpatel.com/i/145543832/possible-solutions-to-arc-prize) : Analysis of potential solutions to the ARC Prize, including the use of program synthesis and other innovative approaches to improve AI performance on the ARC benchmark.
+
 
 ## Topics
 
@@ -42,7 +45,7 @@ The discussion also touches on the importance of open-source research and the po
 
 ![[topics/Concept/Discrete Program Search]]
 
-![[topics/Concept/ARC Benchmark]]
+![[topics/Concept/AI Benchmarks]]
 
 ![[topics/Concept/Core Knowledge]]
 

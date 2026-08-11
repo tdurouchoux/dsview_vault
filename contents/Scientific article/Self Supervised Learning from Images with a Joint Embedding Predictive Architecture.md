@@ -11,6 +11,7 @@ upload_date: '2026-04-26'
 ---
 
 https://arxiv.org/pdf/2301.08243
+
 ## Summary
 
 I-JEPA (Image-based Joint-Embedding Predictive Architecture) introduces a self-supervised learning method for images that avoids hand-crafted data augmentations by predicting representations of target blocks from a single context block. Key technical points include:
@@ -25,25 +26,27 @@ I-JEPA (Image-based Joint-Embedding Predictive Architecture) introduces a self-s
 - **Scalability**: Benefits from larger models and datasets, with improved performance on diverse downstream tasks.
 
 The paper contrasts I-JEPA with invariance-based (e.g., SimCLR, DINO) and generative (e.g., MAE, BEiT) self-supervised methods, highlighting its efficiency and semantic representation quality without relying on augmentations.
+
 ## Links
+
 
 
 ## Topics
 
-![[topics/Concept/Self Supervised Learning]]
-
-![[topics/Concept/Joint Embedding Predictive Architecture JEPA]]
+![[topics/Concept/Contrastive Learning]]
 
 ![[topics/Model/Vision Transformer ViT]]
 
+![[topics/Concept/Self Supervised Learning]]
+
 ![[topics/Concept/Masked Autoencoders MAE]]
 
-![[topics/Concept/Representation Collapse]]
-
 ![[topics/Concept/Energy Based Models EBMs]]
+
+![[topics/Concept/Joint Embedding Predictive Architecture JEPA]]
 
 ![[topics/Concept/Non Parametric Instance Discrimination]]
 
 ![[topics/Concept/Predictive Coding]]
 
-![[topics/Concept/Contrastive Learning]]
+![[topics/Concept/Representation Collapse]]

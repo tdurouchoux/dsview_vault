@@ -11,6 +11,7 @@ upload_date: '2024-10-18'
 ---
 
 https://homebrew.ltd/blog/llama-learns-to-talk
+
 ## Summary
 
 🍓 Ichigo is an early-fusion, audio and text, multimodal model based on Llama3-s, inspired by the Chameleon and Llama Herd papers. It is designed to listen to human speech and respond in real-time. The research is conducted openly with open-source code, data, and weights.
@@ -46,6 +47,7 @@ The model underwent a three-phase training process:
 **Open Call:**
 - Invites LLM researchers and audio experts to collaborate and experiment with Ichigo.
 - Encourages open research to accelerate progress in the field.
+
 ## Links
 
 - [Ichigo-llama3.1-s-instruct-v0.3-phase-3](https://huggingface.co/homebrewltd/Ichigo-llama3.1-s-instruct-v0.3-phase-3) : Hugging Face model card for Ichigo-llama3.1-s-instruct-v0.3-phase-3, a multimodal model that learns to talk.
@@ -53,6 +55,7 @@ The model underwent a three-phase training process:
 - [llama3-s-instruct-v0.2](https://huggingface.co/homebrewltd/llama3-s-instruct-v0.2) : Hugging Face model card for llama3-s-instruct-v0.2, a multimodal model that learns to talk.
 - [llama3-s-instruct-v0.3-checkpoint-last](https://huggingface.co/jan-hq/llama3-s-instruct-v0.3-checkpoint-last) : Hugging Face model card for llama3-s-instruct-v0.3-checkpoint-last, a multimodal model that learns to talk.
 - [Ichigo-llama3.1-s-instruct](https://huggingface.co/spaces/jan-hq/Ichigo-llama3.1-s-instruct) : Hugging Face Space for Ichigo-llama3.1-s-instruct, a demo of a multimodal model that learns to talk.
+
 
 ## Topics
 

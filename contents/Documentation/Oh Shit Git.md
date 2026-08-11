@@ -11,6 +11,7 @@ upload_date: '2025-04-27'
 ---
 
 https://ohshitgit.com/
+
 ## Summary
 
 The content is a guide to help users recover from common Git mistakes. It provides plain English solutions to various "Oh shit" scenarios, such as:
@@ -26,10 +27,12 @@ The content is a guide to help users recover from common Git mistakes. It provid
 9. **Reset Repository**: Use `git fetch origin`, `git reset --hard origin/master`, and `git clean -d --force` to reset the repository state.
 
 The guide emphasizes that these solutions are based on practical experience and may not cover all theoretical scenarios. It also includes translations and credits to contributors.
+
 ## Links
 
 - [Oh Shit, Git! Repository](https://github.com/ksylor/ohshitgit) : The GitHub repository for the Oh Shit, Git! website, providing practical solutions to common Git problems.
 - [Dangitgit](https://dangitgit.com/en) : The same content as Oh Shit, Git! but without swears, providing a more professional tone for the same Git solutions.
+
 
 ## Topics
 

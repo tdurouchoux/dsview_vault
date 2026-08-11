@@ -12,6 +12,7 @@ upload_date: '2025-05-22'
 ---
 
 https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/
+
 ## Summary
 
 GitHub has introduced a new coding agent for GitHub Copilot, which operates directly within GitHub and VS Code. This agent can be assigned tasks or issues, and it works in the background using GitHub Actions to create a secure and customizable development environment. The agent excels at low-to-medium complexity tasks such as adding features, fixing bugs, extending tests, refactoring code, and improving documentation.
@@ -25,11 +26,13 @@ Key features include:
 5. **Review and Collaboration**: The agent tags developers for review, incorporates feedback, and follows repository instructions.
 
 The agent is designed to handle routine tasks, allowing developers to focus on more complex and creative work. It is available to Copilot Enterprise and Copilot Pro+ customers, with usage tracked via premium requests. The agent integrates with various IDEs, including Xcode, Eclipse, Jetbrains, and Visual Studio.
+
 ## Links
 
 - [GitHub Copilot Documentation](https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot/using-copilot-coding-agent-to-work-on-tasks/about-assigning-tasks-to-copilot) : Official documentation on using GitHub Copilot coding agent to assign tasks and work on them.
 - [GitHub Copilot Features](https://github.com/features/copilot?utm_source=Blog&utm_medium=GitHub&utm_campaign=buildblogtop) : Learn more about the features of GitHub Copilot.
 - [GitHub Copilot and AI Code Generation](https://github.blog/ai-and-ml/generative-ai/how-ai-code-generation-works/) : Explore how AI code generation works and its benefits.
+
 
 ## Topics
 

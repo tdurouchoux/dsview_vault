@@ -12,6 +12,7 @@ upload_date: '2026-01-24'
 ---
 
 https://simonwillison.net/2025/Dec/31/the-year-in-llms/
+
 ## Summary
 
 The article summarizes key trends and developments in the field of Large Language Models (LLMs) for the year 2025. Here are the main technical points and key takeaways:
@@ -47,26 +48,28 @@ The article summarizes key trends and developments in the field of Large Languag
 15. **Neologisms**: The article introduces several new terms, such as "the lethal trifecta" for prompt injection attacks that exfiltrate private data, and "vibe engineering" as a more professional approach to AI-assisted programming.
 
 Overall, 2025 was a year of rapid advancements and growing pains in the LLM space, with significant improvements in model capabilities, new applications, and increasing awareness of the associated risks and challenges.
+
 ## Links
 
 - [DeepSeek AI Models](https://huggingface.co/deepseek-ai) : DeepSeek AI models on Hugging Face, including DeepSeek 3 and DeepSeek R1, which are notable for their performance and impact on the AI and semiconductor markets.
 - [Qwen Models](https://huggingface.co/Qwen) : Qwen models on Hugging Face, including Qwen-Image generation model and Qwen-Image-Edit, which are notable for their performance and impact on the AI and semiconductor markets.
 - [Gemini Live API](https://ai.google.dev/gemini-api/docs/live-guide) : Gemini Live API documentation, providing insights into Google's advancements in AI, particularly in the context of reasoning models and their applications.
 
+
 ## Topics
+
+![[topics/Concept/Context Rot]]
 
 ![[topics/Concept/Reinforcement Learning from Verifiable Rewards RLVR]]
 
-![[topics/Concept/Coding Agents]]
-
-![[topics/Concept/Asynchronous Coding Agents]]
-
-![[topics/Concept/YOLO Mode]]
-
 ![[topics/Concept/Normalization of Deviance]]
+
+![[topics/Concept/Agentic Coding]]
 
 ![[topics/Concept/Vibe Coding]]
 
-![[topics/Concept/Conformance Suites]]
+![[topics/Concept/YOLO Mode]]
 
-![[topics/Concept/Context Rot]]
+![[topics/Concept/Asynchronous Coding Agents]]
+
+![[topics/Concept/Conformance Suites]]

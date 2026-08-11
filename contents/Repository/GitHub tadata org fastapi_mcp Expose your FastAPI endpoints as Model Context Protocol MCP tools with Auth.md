@@ -11,6 +11,7 @@ upload_date: '2025-09-17'
 ---
 
 https://github.com/tadata-org/fastapi_mcp
+
 ## Summary
 
 The repository fastapi_mcp by tadata-org allows users to expose FastAPI endpoints as Model Context Protocol (MCP) tools with built-in authentication. Key features include:
@@ -47,10 +48,12 @@ This makes the auto-generated MCP server available at `https://app.base.url/mcp`
 - Contributions are welcome; see the Contribution Guide for details.
 
 **License**: MIT License.
+
 ## Links
 
 - [FastAPI-MCP Documentation](https://fastapi-mcp.tadata.com/) : Official documentation for FastAPI-MCP, providing detailed information on features, installation, and usage.
 - [PyPI - fastapi-mcp](https://pypi.org/project/fastapi-mcp/) : PyPI page for fastapi-mcp, where you can find installation instructions and package details.
+
 
 ## Topics
 

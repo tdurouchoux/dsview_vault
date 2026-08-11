@@ -11,6 +11,7 @@ upload_date: '2024-05-23'
 ---
 
 https://developer.chrome.com/blog/speculation-rules-improvements
+
 ## Summary
 
 The Chrome team has introduced improvements to the Speculation Rules API, aimed at enhancing navigation performance through prefetching and prerendering. Key updates include:
@@ -34,10 +35,12 @@ The Chrome team has introduced improvements to the Speculation Rules API, aimed 
 9. **Demo and Debugging**: A demo and debugging tools are available to help developers understand and implement speculation rules effectively.
 
 The goal is to encourage wider adoption of the Speculation Rules API, leading to better performance for end users. The Chrome team also hints at future opportunities, such as combining prerendering with View Transitions for enhanced user experiences.
+
 ## Links
 
 - [Speculation Rules API on Akamai](https://discuss.akamai.com/t/speculation-rules-api-on-akamai/1242) : Discussion on implementing the Speculation Rules API with Akamai, a leading CDN provider.
 - [Speculation Rules API Documentation](https://uxify.com/blog/post/speculation-rules-api) : Documentation on Uxify's implementation of the Speculation Rules API, focusing on predictive navigation.
+
 
 ## Topics
 

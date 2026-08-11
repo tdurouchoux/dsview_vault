@@ -11,6 +11,7 @@ upload_date: '2025-05-08'
 ---
 
 https://mistral.ai/news/mistral-medium-3
+
 ## Summary
 
 Mistral AI introduces Mistral Medium 3, a new language model that balances state-of-the-art performance with significantly lower cost and simpler enterprise deployments. Key highlights include:
@@ -24,10 +25,12 @@ Mistral AI introduces Mistral Medium 3, a new language model that balances state
 - **Availability**: The Mistral Medium 3 API is available on Mistral La Plateforme and Amazon Sagemaker, with upcoming availability on IBM WatsonX, NVIDIA NIM, Azure AI Foundry, and Google Cloud Vertex.
 
 Mistral AI hints at an upcoming "large" model, suggesting continued innovation and improvements in their model offerings.
+
 ## Links
 
 - [Mistral AI Platform](https://console.mistral.ai/) : Mistral AI Platform, where users can access and utilize Mistral AI's services and models, including the newly announced Mistral Medium 3.
 - [Mistral AI Documentation](https://docs.mistral.ai/) : Mistral AI Documentation, providing detailed information on how to use Mistral AI's models and services, including deployment and customization options for Mistral Medium 3.
+
 
 ## Topics
 

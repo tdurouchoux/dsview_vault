@@ -13,6 +13,7 @@ upload_date: '2024-04-29'
 ---
 
 https://mini-gemini.github.io/
+
 ## Summary
 
 Mini-Gemini is a framework designed to enhance multi-modality Vision Language Models (VLMs). It addresses the performance gap between current VLMs and advanced models like GPT-4 and Gemini by focusing on three key aspects: high-resolution visual tokens, high-quality data, and VLM-guided generation.
@@ -24,6 +25,7 @@ Key technical points:
 4. **LLM Integration**: Utilizes Large Language Models (LLMs) to marry text with images for both comprehension and generation simultaneously.
 
 Mini-Gemini supports a range of LLMs from 2B to 34B and has demonstrated leading performance in several zero-shot benchmarks, even surpassing some developed private models. The framework is conceptually simple yet effective in enhancing the capabilities of VLMs.
+
 ## Links
 
 - [Mini-Gemini GitHub Repository](https://github.com/dvlab-research/MiniGemini) : The GitHub repository for Mini-Gemini, containing the source code and implementation details of the Mini-Gemini framework.
@@ -31,6 +33,7 @@ Mini-Gemini supports a range of LLMs from 2B to 34B and has demonstrated leading
 - [Mini-Gemini Paper](https://arxiv.org/abs/2403.18814) : The research paper detailing the Mini-Gemini framework, published on arXiv.
 - [Mini-Gemini Models on Hugging Face](https://huggingface.co/collections/YanweiLi/mini-gemini-6603c50b9b43d044171d0854) : Collection of Mini-Gemini models available on Hugging Face, providing access to pre-trained models for various applications.
 - [Mini-Gemini Data on Hugging Face](https://huggingface.co/collections/YanweiLi/mini-gemini-data-660463ea895a01d8f367624e) : Dataset used for training and evaluating the Mini-Gemini framework, available on Hugging Face.
+
 
 ## Topics
 

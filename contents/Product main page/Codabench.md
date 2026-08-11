@@ -11,6 +11,7 @@ upload_date: '2026-04-24'
 ---
 
 https://www.codabench.org/
+
 ## Summary
 
 Codabench is an open-source platform for organizing AI benchmarks and competitions, evolved from CodaLab (launched 2013 by Microsoft/Stanford). Key features:
@@ -28,6 +29,7 @@ Codabench is an open-source platform for organizing AI benchmarks and competitio
 
 **Partners**: Includes Chasuite, Chahub, and Chagrade.
 **Citation**: Xu et al. (2022) in *Patterns* (DOI: 10.1016/j.patter.2022.100543).
+
 ## Links
 
 - [CodaLab Competitions Public Competitions](https://www.codabench.org/competitions/public/?page=1) : Access to public competitions hosted on Codabench for exploring and participating in AI and machine learning challenges.
@@ -36,14 +38,15 @@ Codabench is an open-source platform for organizing AI benchmarks and competitio
 - [Codabench Newsletter Archive (2025)](https://docs.codabench.org/dev/Newsletters_Archive/CodaLab-in-2025/) : Access to the Codabench newsletter for 2025, summarizing key updates, competitions, and platform developments.
 - [Codabench Paper on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2666389922001465) : Academic paper published in *Patterns* journal, detailing the features, architecture, and purpose of the Codabench platform.
 
+
 ## Topics
+
+![[topics/Concept/Reproducibility]]
 
 ![[topics/Platform/Codabench]]
 
 ![[topics/Platform/CodaLab Competitions]]
 
-![[topics/Concept/Inverted Benchmarks]]
-
 ![[topics/Concept/Compute Workers]]
 
-![[topics/Concept/Reproducibility]]
+![[topics/Concept/Inverted Benchmarks]]

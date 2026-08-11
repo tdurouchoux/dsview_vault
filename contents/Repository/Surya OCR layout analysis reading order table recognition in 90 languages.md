@@ -12,6 +12,7 @@ upload_date: '2024-10-16'
 ---
 
 https://github.com/VikParuchuri/surya
+
 ## Summary
 
 Surya is a document OCR toolkit that offers the following features:
@@ -43,6 +44,7 @@ Key takeaways:
 - The toolkit is designed to be user-friendly, with an interactive app and detailed documentation
 - Surya is open-source and free for research, personal use, and startups, with commercial licensing available
 - The toolkit's performance can be further optimized with provided tips and finetuned on custom data.
+
 ## Links
 
 - [Surya OCR Toolkit](https://www.datalab.to?utm_source=gh-surya) : The official website for Surya, a document OCR toolkit that supports OCR, layout analysis, reading order detection, and table recognition in over 90 languages.
@@ -50,6 +52,7 @@ Key takeaways:
 - [DocLayNet Benchmark Dataset](https://huggingface.co/datasets/vikp/doclaynet_bench) : A benchmark dataset for evaluating text line detection performance across a variety of document images.
 - [EfficientViT Architecture](https://github.com/mit-han-lab/efficientvit) : The GitHub repository for EfficientViT, a semantic segmentation architecture used in training the text detection model.
 - [Donut Model](https://github.com/clovaai/donut) : The GitHub repository for the Donut model, a transformer-based model used in training the text recognition model.
+
 
 ## Topics
 

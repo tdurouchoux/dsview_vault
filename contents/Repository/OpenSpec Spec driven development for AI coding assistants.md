@@ -11,6 +11,7 @@ upload_date: '2026-07-22'
 ---
 
 https://github.com/Fission-AI/OpenSpec/
+
 ## Summary
 
 OpenSpec is a spec-driven development (SDD) framework for AI coding assistants, emphasizing fluid, iterative, and scalable workflows. It enables structured collaboration between humans and AI by defining requirements in plain Markdown before coding begins. Key features include:
@@ -25,20 +26,22 @@ OpenSpec is a spec-driven development (SDD) framework for AI coding assistants, 
 - **Telemetry**: Anonymous usage stats collected (opt-out available).
 
 Docs cover setup, workflows, and advanced features like multi-language support and customization. The project is MIT-licensed and encourages contributions via PRs for small fixes or proposals for larger changes.
+
 ## Links
 
 - [OpenSpec Official Website](https://openspec.dev/) : The official website for OpenSpec, providing comprehensive documentation, guides, and resources about Spec-driven development (SDD) for AI coding assistants.
 - [Spec Kit by GitHub](https://github.com/github/spec-kit) : A GitHub repository for Spec Kit, which provides tools and extensions for specification-driven development. This is directly compared to OpenSpec in the content.
 - [NPM Package for OpenSpec](https://www.npmjs.com/package/@fission-ai/openspec) : The NPM package page for OpenSpec, which allows users to install and use OpenSpec in their projects.
 
+
 ## Topics
 
 ![[topics/Concept/AI Assisted Development]]
+
+![[topics/Concept/Spec Driven Development SDD]]
 
 ![[topics/Tool/OpenSpec]]
 
 ![[topics/Concept/Context Engineering]]
 
 ![[topics/Platform/Stores OpenSpec Stores]]
-
-![[topics/Concept/Spec Driven Development SDD]]

@@ -11,6 +11,7 @@ upload_date: '2026-06-05'
 ---
 
 https://arxiv.org/pdf/2509.21825
+
 ## Summary
 
 DS-STAR is a specialized agent designed to automate data science workflows, addressing two key limitations of existing LLM-based agents: handling heterogeneous data formats and generating comprehensive research reports for open-ended queries. It operates through a multi-agent framework with distinct roles:
@@ -37,27 +38,29 @@ DS-STAR is a specialized agent designed to automate data science workflows, addr
 **Limitations & Future Work:**
 - Current focus is on fully automated frameworks; extending to human-in-the-loop settings could enhance performance.
 - The framework's effectiveness depends on the underlying LLM's capabilities, though it shows promising results with both proprietary and open-source models.
+
 ## Links
+
 
 
 ## Topics
 
 ![[topics/Concept/Multi Agent Systems]]
 
-![[topics/Concept/Text to Python]]
+![[topics/Concept/Judge Model LLM as a Judge]]
+
+![[topics/Concept/Data Science Agent]]
 
 ![[topics/Concept/Data File Formats]]
 
 ![[topics/Concept/Iterative Refinement]]
 
-![[topics/Concept/Data File Analyzer]]
-
 ![[topics/Concept/Plan Verification]]
 
 ![[topics/Concept/Open Ended Queries]]
 
+![[topics/Concept/Data File Analyzer]]
+
+![[topics/Concept/Text to Python]]
+
 ![[topics/Concept/Data Retrieval]]
-
-![[topics/Concept/Data Science Agent]]
-
-![[topics/Concept/LLM as a Judge]]

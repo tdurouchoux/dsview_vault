@@ -11,6 +11,7 @@ upload_date: '2026-07-07'
 ---
 
 https://docs.ray.io/en/latest/serve/index.html
+
 ## Summary
 
 Ray Serve is a scalable, framework-agnostic model serving library built on Ray, designed for deploying ML models (PyTorch, TensorFlow, Scikit-Learn, etc.) and arbitrary Python logic as production-ready APIs. Key features include:
@@ -43,6 +44,7 @@ serve.run(MyModel.bind(), route_prefix="/")
 - [Examples](https://docs.ray.io/en/latest/serve/examples.html) (LLMs, FastAPI, model composition).
 - [Production Guide](https://docs.ray.io/en/latest/serve/production-guide/index.html) (Kubernetes, fault tolerance).
 - [Benchmarks](https://docs.ray.io/en/latest/serve/benchmarks.html) and [troubleshooting](https://docs.ray.io/en/latest/serve/troubleshooting.html).
+
 ## Links
 
 - [ONNX Runtime Documentation](https://onnxruntime.ai/) : Official documentation for ONNX Runtime, a high-performance inference engine for machine learning models. This is relevant for understanding how Ray Serve can integrate with ONNX-optimized models for scalable serving.
@@ -51,18 +53,19 @@ serve.run(MyModel.bind(), route_prefix="/")
 - [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/index) : Official documentation for Hugging Face Transformers, a library for state-of-the-art natural language processing (NLP) models. This is highly relevant as Ray Serve supports serving Hugging Face models for NLP tasks.
 - [Machine Learning Serving Patterns Blog Post](https://www.anyscale.com/blog/serving-ml-models-in-production-common-patterns) : A blog post discussing common patterns for serving machine learning models in production. This is relevant for understanding best practices and real-world use cases of Ray Serve in production environments.
 
+
 ## Topics
-
-![[topics/Library/Ray Serve]]
-
-![[topics/Concept/Model Composition]]
-
-![[topics/Concept/Dynamic Request Batching]]
-
-![[topics/Concept/Fractional GPU Serving]]
 
 ![[topics/Platform/KubeRay]]
 
 ![[topics/Concept/Multi Model Serving]]
 
+![[topics/Concept/Dynamic Request Batching]]
+
 ![[topics/Concept/FastAPI Integration]]
+
+![[topics/Library/Ray Serve]]
+
+![[topics/Concept/Fractional GPU Serving]]
+
+![[topics/Concept/Model Composition]]

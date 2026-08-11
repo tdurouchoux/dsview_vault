@@ -48,12 +48,12 @@ Shieldstral is a 3B open-weights multimodal safety classifier that outperforms l
 
 ## Topics
 
+![[topics/Concept/AI Moderation]]
+
 ![[topics/Model/Shieldstral]]
 
 ![[topics/Platform/Forge]]
 
 ![[topics/Concept/Policy adaptive safety classification]]
-
-![[topics/Concept/AI Moderation]]
 
 ![[topics/Concept/Open Secure AI Alliance]]

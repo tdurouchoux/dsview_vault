@@ -11,6 +11,7 @@ upload_date: '2025-05-14'
 ---
 
 https://github.com/koaning/flowshow
+
 ## Summary
 
 Flowshow is a lightweight Python library designed to track and visualize the execution of Python functions as a flow. It provides a `@task` decorator and a `span` context manager to help monitor and log the execution of tasks. Key features include:
@@ -23,9 +24,11 @@ Flowshow is a lightweight Python library designed to track and visualize the exe
 - **Interactive Notebooks**: Works well with interactive notebooks for better visualization and debugging.
 
 The library is easy to install via `uv pip install flowshow` and integrates seamlessly into existing Python code. It is particularly useful for tracking the execution flow of complex tasks and debugging purposes.
+
 ## Links
 
 - [Flowshow Documentation](https://koaning.github.io/flowshow/) : Documentation for flowshow, a thin wrapper for Python tasks that form a flow, providing task tracking and visualization.
+
 
 ## Topics
 

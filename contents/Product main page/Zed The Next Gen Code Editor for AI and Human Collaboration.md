@@ -11,6 +11,7 @@ upload_date: '2024-02-08'
 ---
 
 https://zed.dev/
+
 ## Summary
 
 Zed is a next-generation code editor designed for high-performance collaboration with humans and AI. Key features include:
@@ -29,10 +30,12 @@ Zed is a next-generation code editor designed for high-performance collaboration
 - **Extensions**: A growing ecosystem of extensions for various languages, themes, and more.
 
 Zed aims to advance the state of the art in code editing, with a focus on human-AI collaboration. It is backed by industry-leading teams and has received positive feedback from notable developers.
+
 ## Links
 
 - [Zed Industries](https://zedindustries.creator-spring.com/) : Zed Industries is the company behind the Zed code editor. This link likely points to their official website or a specific page related to their work and vision.
 - [Zed Documentation on AI](https://zed.dev/docs/ai/overview) : This link points to the documentation section of the Zed website, specifically focusing on AI features and integrations within the Zed editor.
+
 
 ## Topics
 
@@ -44,4 +47,4 @@ Zed aims to advance the state of the art in code editing, with a focus on human-
 
 ![[topics/Concept/Agentic Editing]]
 
-![[topics/Concept/Language Server Protocol]]
+![[topics/Concept/Language Server Protocol LSP]]

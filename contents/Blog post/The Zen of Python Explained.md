@@ -11,6 +11,7 @@ upload_date: '2023-09-21'
 ---
 
 https://inventwithpython.com/blog/2018/08/17/the-zen-of-python-explained/
+
 ## Summary
 
 The Zen of Python, authored by Tim Peters, comprises 20 guidelines for Python language design. These principles, accessible via the `import this` command, emphasize aesthetics, explicitness, simplicity, readability, and practicality in coding. Key points include:
@@ -25,12 +26,14 @@ The Zen of Python, authored by Tim Peters, comprises 20 guidelines for Python la
 - **Namespaces**: Use namespaces to prevent naming conflicts, but avoid unnecessary categorization.
 
 The guidelines are subjective and may contradict each other, requiring experience to navigate effectively. The content also promotes Al Sweigart's books and courses on Python programming.
+
 ## Links
 
 - [Automate the Boring Stuff with Python](https://nostarch.com/automate-boring-stuff-python-3rd-edition) : A book that offers a guide to automating tasks with Python, likely covering practical applications and scripts.
 - [The Recursive Book of Recursion](https://nostarch.com/recursive-book-recursion) : A book that delves into the concept of recursion in Python, providing exercises and explanations.
 - [The Big Book of Small Python Projects](https://nostarch.com/big-book-small-python-projects) : A collection of small Python projects that can be used to practice and improve coding skills.
 - [Beyond the Basic Stuff with Python](https://nostarch.com/beyond-basic-stuff-python) : An advanced guide for those who have mastered the basics of Python and are looking to expand their knowledge.
+
 
 ## Topics
 

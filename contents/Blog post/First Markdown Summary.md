@@ -13,6 +13,7 @@ upload_date: '2025-11-13'
 ---
 
 https://www.mattturck.com/mad2025
+
 ## Summary
 
 Matt Turck's content typically focuses on trends in data science, artificial intelligence, and related technologies. Here are the key points and takeaways from his insights:
@@ -45,6 +46,7 @@ Matt Turck's content typically focuses on trends in data science, artificial int
    - **Scalability**: Ensuring that models and systems can scale effectively is crucial for real-world deployment.
 
 In summary, Matt Turck's insights highlight the rapid evolution of data science and AI, emphasizing the importance of staying updated with emerging tools, ethical considerations, and practical applications across various industries.
+
 ## Links
 
 - [FirstMark Capital](https://www.firstmarkcap.com/) : FirstMark Capital is a venture capital firm that invests in early-stage technology startups. They are likely mentioned in the context of being one of the sponsors of the event described in the HTML content.
@@ -53,10 +55,11 @@ In summary, Matt Turck's insights highlight the rapid evolution of data science 
 - [Pony.ai](https://www.pony.ai/) : Pony.ai is likely a company or project related to data science or machine learning, as indicated by its mention in the context of the HTML content.
 - [Data Council](https://www.datacouncil.ai/) : Data Council is probably an organization or event related to data science and machine learning, as suggested by its mention in the context of the HTML content.
 
-## Topics
 
-![[topics/Concept/AI Safety]]
+## Topics
 
 ![[topics/Concept/Generative AI]]
 
-![[topics/Concept/AI Agents]]
+![[topics/Concept/AI Safety]]
+
+![[topics/Concept/Agentic AI]]

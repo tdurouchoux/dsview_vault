@@ -11,6 +11,7 @@ upload_date: '2026-04-27'
 ---
 
 https://arxiv.org/pdf/2604.01193
+
 ## Summary
 
 Simple self-distillation (SSD) improves code generation by training a model on its own raw outputs. Key points:
@@ -22,25 +23,27 @@ Simple self-distillation (SSD) improves code generation by training a model on i
   - Training and evaluation temperatures compose multiplicatively, and truncation raises the achievable pass@1 within that band.
   - SSD does not collapse diversity; gains are often larger at pass@5 than at pass@1, indicating preserved generation diversity.
   - Even with poor-quality training data (e.g., high-temperature sampling without truncation), SSD can still improve the model, suggesting that the benefits come from distributional reshaping rather than raw program correctness.
+
 ## Links
+
 
 
 ## Topics
 
-![[topics/Concept/Self Distillation]]
+![[topics/Library/vLLM]]
 
 ![[topics/Concept/Precision Exploration Conflict]]
-
-![[topics/Concept/Support Compression]]
-
-![[topics/Concept/Within Support Reshaping]]
-
-![[topics/Concept/Effective Temperature]]
-
-![[topics/Concept/Lock and Fork Contexts]]
 
 ![[topics/Platform/LiveCodeBench]]
 
 ![[topics/Dataset/rSTARcoder]]
 
-![[topics/Library/vLLM]]
+![[topics/Concept/Self Distillation]]
+
+![[topics/Concept/Effective Temperature]]
+
+![[topics/Concept/Lock and Fork Contexts]]
+
+![[topics/Concept/Within Support Reshaping]]
+
+![[topics/Concept/Support Compression]]

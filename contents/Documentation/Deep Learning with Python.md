@@ -11,6 +11,7 @@ upload_date: '2023-04-13'
 ---
 
 https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf
+
 ## Summary
 
 The book "Deep Learning with Python" by François Chollet provides a comprehensive introduction to deep learning using the Keras library. Here's a concise summary of its key technical points and takeaways:
@@ -61,19 +62,21 @@ The book "Deep Learning with Python" by François Chollet provides a comprehensi
 - **Generative Models:** Enable the creation of new data samples, useful for tasks like image and text generation.
 
 This book is a practical guide for data scientists and engineers looking to apply deep learning techniques to real-world problems using Keras.
+
 ## Links
+
 
 
 ## Topics
 
-![[topics/Concept/Feature Extraction]]
-
 ![[topics/Concept/Fine Tuning]]
-
-![[topics/Concept/Data Augmentation]]
-
-![[topics/Concept/Overfitting]]
 
 ![[topics/Concept/Convolutional Neural Networks CNN]]
 
+![[topics/Concept/Overfitting]]
+
 ![[topics/Model/VGG16]]
+
+![[topics/Concept/Data Augmentation]]
+
+![[topics/Concept/Feature Extraction]]

@@ -12,6 +12,7 @@ upload_date: '2024-01-11'
 ---
 
 https://blog.duy-huynh.com/build-your-own-rag-and-run-them-locally/
+
 ## Summary
 
 This guide provides a step-by-step process to build and run a Retrieval Augmented Generation (RAG) application locally using Langchain, Ollama, and Streamlit. The application allows users to upload a PDF document and ask questions about it through a simple UI.
@@ -32,6 +33,7 @@ This guide provides a step-by-step process to build and run a Retrieval Augmente
 - Experiment with other LLM models and enhance the RAG pipeline for improved results.
 
 The full source code for the project is available on GitHub. The guide also provides resources for learning more about RAG and LLM applications.
+
 ## Links
 
 - [Langchain Documentation](https://python.langchain.com/docs/get_started/introduction?ref=blog.duy.dev) : Langchain documentation, a library used for building the RAG pipeline.
@@ -39,6 +41,7 @@ The full source code for the project is available on GitHub. The guide also prov
 - [Ollama Documentation](https://ollama.ai/?ref=blog.duy.dev) : Ollama documentation, a library used for running the LLM server.
 - [Chroma Documentation](https://github.com/chroma-core/chroma?ref=blog.duy.dev) : Chroma documentation, a library used for vector storage.
 - [FastEmbed Documentation](https://github.com/qdrant/fastembed/?ref=blog.duy.dev) : FastEmbed documentation, a library used for vectorizing the document chunks.
+
 
 ## Topics
 
@@ -52,7 +55,7 @@ The full source code for the project is available on GitHub. The guide also prov
 
 ![[topics/Library/Chroma]]
 
-![[topics/Model/Mistral 7B]]
+![[topics/Model/Mistral 3]]
 
 ![[topics/Tool/Ollama]]
 

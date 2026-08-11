@@ -11,6 +11,7 @@ upload_date: '2025-01-14'
 ---
 
 https://huyenchip.com//2025/01/07/agents.html
+
 ## Summary
 
 The content discusses the concept of AI agents, their capabilities, and their potential applications. Key points include:
@@ -25,11 +26,13 @@ The content discusses the concept of AI agents, their capabilities, and their po
 - **Evaluation**: Agents should be evaluated for planning validity, tool use accuracy, and efficiency, with metrics comparing AI agents to human baselines.
 
 The post concludes by emphasizing the importance of tools in enhancing agent capabilities and the need for further exploration of agent frameworks and memory systems.
+
 ## Links
 
 - [Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) : Anthropic's blog post on building effective agents, focusing on isolated patterns and their application.
 - [Chameleon: Interactive Agents with Memory and Multi-Modal Models](https://arxiv.org/abs/2305.15334) : Research paper on Chameleon, an agent framework that uses a set of tools to outperform baseline models on various benchmarks.
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) : Research paper introducing ReAct, a framework that interleaves reasoning and acting in language models to improve task performance.
+
 
 ## Topics
 
@@ -41,9 +44,9 @@ The post concludes by emphasizing the importance of tools in enhancing agent cap
 
 ![[topics/Concept/Write actions]]
 
-![[topics/Concept/Reflexive Mechanisms]]
+![[topics/Concept/AI Verification and Self Correction Mechanisms]]
 
-![[topics/Concept/Planning]]
+![[topics/Concept/AI Agent Workflows]]
 
 ![[topics/Concept/Knowledge augmentation]]
 

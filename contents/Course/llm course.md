@@ -11,6 +11,7 @@ upload_date: '2024-01-04'
 ---
 
 https://github.com/mlabonne/llm-course
+
 ## Summary
 
 The LLM course is structured into three main parts: LLM Fundamentals, LLM Scientist, and LLM Engineer.
@@ -22,6 +23,7 @@ The LLM course is structured into three main parts: LLM Fundamentals, LLM Scient
 **LLM Engineer** covers deploying LLM-powered applications. Topics include running LLMs, building vector storage, retrieval augmented generation (RAG), advanced RAG techniques, agents, inference optimization, deploying LLMs, and securing LLMs. It offers practical tutorials and resources for each subject.
 
 The course also includes a list of notebooks and tools for fine-tuning, quantization, and other tasks related to LLMs. Additionally, it mentions the LLM Engineer's Handbook, a detailed book covering end-to-end LLM application development.
+
 ## Links
 
 - [LLM Course by Maxime Labonne](https://mlabonne.github.io/blog/) : The blog of Maxime Labonne, where he shares insights, tutorials, and updates related to Large Language Models (LLMs).
@@ -29,6 +31,7 @@ The course also includes a list of notebooks and tools for fine-tuning, quantiza
 - [Fine-tune Llama 3.1 with Unsloth](https://mlabonne.github.io/blog/posts/2024-07-29_Finetune_Llama31.html) : A tutorial on how to fine-tune a Llama 3.1 model using Unsloth.
 - [4-bit Quantization with GPTQ](https://mlabonne.github.io/blog/4bit_quantization/) : A tutorial on how to quantize an LLM using the GPTQ algorithm with AutoGPTQ.
 - [Merge LLMs with MergeKit](https://mlabonne.github.io/blog/posts/2024-01-08_Merge_LLMs_with_mergekit.html) : A tutorial on how to merge LLMs using MergeKit.
+
 
 ## Topics
 

@@ -12,6 +12,7 @@ upload_date: '2026-01-16'
 ---
 
 https://cnil-genmod.hf.space/static/notice/notice.pdf
+
 ## Summary
 
 The content discusses the exploration of the genealogy of open-source AI models, focusing on their definition, training, usage, and derivatives. Key points include:
@@ -31,21 +32,23 @@ The content discusses the exploration of the genealogy of open-source AI models,
 - **Privacy Concerns**: AI models can memorize and regurgitate training data, raising privacy issues. The European Data Protection Committee and CNIL have clarified that GDPR applies to AI models trained on personal data, granting individuals rights over their data.
 
 The content highlights the technical aspects of AI models, their lifecycle, and the role of open-source platforms in fostering innovation while addressing privacy concerns.
+
 ## Links
+
 
 
 ## Topics
 
-![[topics/Concept/Généalogie des modèles d IA]]
+![[topics/Concept/Quantization]]
+
+![[topics/Concept/Fine Tuning]]
+
+![[topics/Concept/Model Merging]]
 
 ![[topics/Platform/Hugging Face]]
 
 ![[topics/Concept/Régurgitation de données]]
 
-![[topics/Concept/Fine Tuning]]
-
-![[topics/Concept/Quantization]]
-
 ![[topics/Concept/Adaptation]]
 
-![[topics/Concept/Model Merging]]
+![[topics/Concept/Généalogie des modèles d IA]]

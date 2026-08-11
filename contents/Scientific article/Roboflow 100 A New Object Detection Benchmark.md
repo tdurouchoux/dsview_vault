@@ -11,6 +11,7 @@ upload_date: '2022-12-07'
 ---
 
 https://www.rf100.org/
+
 ## Summary
 
 Roboflow 100 is a new object detection benchmark introduced in November 2022 and presented at CVPR in June 2023. It aims to advance the state-of-the-art in object recognition by providing a diverse set of datasets across various domains.
@@ -24,11 +25,13 @@ Key points:
 - **Organizers and Sponsors**: The benchmark was organized by a team of researchers and is sponsored by Intel.
 
 The Roboflow 100 benchmark provides a more comprehensive evaluation of object detection models' performance across a wide range of tasks and domains.
+
 ## Links
 
 - [Roboflow 100 GitHub Repository](https://github.com/roboflow/roboflow-100-benchmark) : The GitHub repository for the Roboflow 100 benchmark, providing details on how to use and contribute to the project.
 - [Roboflow 100 Paper with Code](https://paperswithcode.com/dataset/rf100) : The Roboflow 100 dataset page on Papers With Code, providing access to the paper and evaluation metrics.
 - [Roboflow 100 Blog Post](https://blog.roboflow.com/roboflow-100/) : A blog post announcing the Roboflow 100 benchmark, discussing the data collection method and what's included in the dataset.
+
 
 ## Topics
 

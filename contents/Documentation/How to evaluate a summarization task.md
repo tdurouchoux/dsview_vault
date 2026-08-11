@@ -11,6 +11,7 @@ upload_date: '2024-10-13'
 ---
 
 https://cookbook.openai.com/examples/evaluation/how_to_eval_abstractive_summarization
+
 ## Summary
 
 The content discusses various methods for evaluating abstractive summarization tasks, focusing on traditional metrics like ROUGE and BERTScore, as well as a novel approach using Large Language Models (LLMs) such as GPT-4.
@@ -40,11 +41,13 @@ The content discusses various methods for evaluating abstractive summarization t
 - BERTScore: Evaluating Text Generation with BERT
 - ROUGE: A Package for Automatic Evaluation of Summaries
 - SummEval: Re-evaluating Summarization Evaluation
+
 ## Links
 
 - [G-EVAL: NLG Evaluation Using GPT-4 with Better Human Alignment](https://arxiv.org/pdf/2303.16634.pdf) : This paper introduces G-EVAL, a framework for evaluating natural language generation using GPT-4, aiming to achieve better alignment with human evaluation standards.
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675) : This paper presents BERTScore, a metric for evaluating text generation using BERT embeddings, focusing on semantic similarity between generated and reference texts.
 - [ROUGE: A Package for Automatic Evaluation of Summaries](https://aclanthology.org/P02-1040.pdf) : This paper introduces ROUGE, a package for automatic evaluation of summaries, focusing on recall-oriented metrics for summarization tasks.
+
 
 ## Topics
 

@@ -12,6 +12,7 @@ upload_date: '2025-09-19'
 ---
 
 https://jax-ml.github.io/scaling-book/gpus/
+
 ## Summary
 
 The content provides a comprehensive overview of GPUs, focusing on their architecture, networking, and their application in scaling large language models (LLMs). Here are the key technical points and takeaways:
@@ -48,6 +49,7 @@ The content provides a comprehensive overview of GPUs, focusing on their archite
    - The content acknowledges contributions from various experts and provides references to further reading on GPU architecture, networking, and LLM training.
 
 In summary, the content provides a detailed technical overview of GPUs, their networking, and their application in scaling LLMs, with a focus on understanding the rooflines and trade-offs involved in different parallelism strategies.
+
 ## Links
 
 - [NVIDIA H100 GPU Architecture and Performance Analysis](https://chipsandcheese.com/p/nvidias-h100-funny-l2-and-tons-of-bandwidth) : An in-depth analysis of the NVIDIA H100 GPU architecture, focusing on its L2 cache and bandwidth capabilities.
@@ -56,22 +58,23 @@ In summary, the content provides a detailed technical overview of GPUs, their ne
 - [NVIDIA Megatron-LM Repository](https://github.com/NVIDIA/Megatron-LM) : The GitHub repository for NVIDIA's Megatron-LM, a large-scale transformer language model.
 - [NVIDIA NVSwitch HotChips 2022 Presentation](https://hc34.hotchips.org/assets/program/conference/day2/Network%20and%20Switches/NVSwitch%20HotChips%202022%20r5.pdf) : A presentation on NVIDIA's NVSwitch technology, detailing its architecture and performance benefits.
 
+
 ## Topics
 
-![[topics/Concept/GPU]]
-
-![[topics/Concept/Streaming Multiprocessors SMs]]
-
-![[topics/Concept/Tensor Core]]
-
-![[topics/Concept/CUDA Core]]
-
-![[topics/Concept/High Bandwidth Memory HBM]]
+![[topics/Concept/Model Parallelism]]
 
 ![[topics/Concept/NVLink]]
 
 ![[topics/Concept/InfiniBand]]
 
+![[topics/Concept/GPU]]
+
+![[topics/Concept/Streaming Multiprocessors SMs]]
+
 ![[topics/Concept/Collective Communication]]
 
-![[topics/Concept/Model Parallelism]]
+![[topics/Concept/High Bandwidth Memory HBM]]
+
+![[topics/Concept/CUDA Core]]
+
+![[topics/Concept/Tensor Core]]

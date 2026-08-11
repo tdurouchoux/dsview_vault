@@ -12,6 +12,7 @@ upload_date: '2025-04-21'
 ---
 
 https://www.deeplearning.ai/short-courses/building-ai-browser-agents/
+
 ## Summary
 
 This course, "Building AI Browser Agents," is designed to teach learners how to create AI agents that can interact with websites. The course is taught by Div Garg and Naman Garg, co-founders of AGI Inc, and is structured into 8 video lessons with 3 code examples.
@@ -25,17 +26,19 @@ Key topics covered include:
 5. **Future of AI Agents**: Discussing the current state and future directions of AI agents, including key factors like hardware, algorithms, and data availability.
 
 The course is ideal for learners with basic Python skills who want to explore building autonomous web agents. It provides hands-on experience and a deeper understanding of making AI agents more robust and reliable. The course is currently available for free during the DeepLearning.AI learning platform beta.
+
 ## Links
 
 - [Naman Garg LinkedIn](https://www.linkedin.com/in/namangarg20/) : Naman Garg is a Co-founder of AGI Inc and instructor of the course.
 - [AGI Inc](https://theagi.company/) : AGI Inc is the company behind the AgentQ framework, which is used to teach agents to self-correct. It is co-founded by Div Garg and Naman Garg.
 - [Div Garg LinkedIn](https://www.linkedin.com/in/div99/) : Div Garg is a Co-founder of AGI Inc and instructor of the course.
 
+
 ## Topics
 
 ![[topics/Concept/Direct Preference Optimization DPO]]
 
-![[topics/Concept/Reflexive Mechanisms]]
+![[topics/Concept/AI Verification and Self Correction Mechanisms]]
 
 ![[topics/Concept/Monte Carlo Tree Search MCTS]]
 

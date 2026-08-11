@@ -11,6 +11,7 @@ upload_date: '2026-02-03'
 ---
 
 https://blog.modelcontextprotocol.io/posts/2026-01-26-mcp-apps/
+
 ## Summary
 
 MCP Apps, now live as an official MCP extension, enable tools to return interactive UI components like dashboards, forms, and visualizations directly in conversations. This extension builds on the work of MCP-UI and OpenAI Apps SDK, creating an open standard for UI components in MCP clients.
@@ -25,6 +26,7 @@ Key features include:
 The App API allows developers to build new MCP Apps using the @modelcontextprotocol/ext-apps package. The future of agentic UI frameworks includes continued support and development from the community, with MCP-UI and OpenAI Apps SDK pioneering the patterns now standardized by MCP Apps.
 
 Resources for getting started include documentation, quickstart guides, SDKs, and example repositories. Feedback and contributions are encouraged from the community.
+
 ## Links
 
 - [MCP Apps Quickstart Guide](https://modelcontextprotocol.github.io/ext-apps/api/documents/Quickstart.html) : Quickstart guide for getting started with MCP Apps, providing initial steps and examples.
@@ -33,18 +35,19 @@ Resources for getting started include documentation, quickstart guides, SDKs, an
 - [OpenAI Apps SDK](https://developers.openai.com/apps-sdk/) : The OpenAI Apps SDK, enabling developers to build interactive applications that go beyond text in their interactions with Large Language Models.
 - [MCP Apps Examples Repository](https://github.com/modelcontextprotocol/ext-apps/tree/main/examples) : A repository containing various examples of MCP Apps, including 3D visualization, interactive maps, document viewing, real-time dashboards, and music notation.
 
+
 ## Topics
 
-![[topics/Concept/MCP Apps]]
-
-![[topics/Concept/Agentic UI Frameworks]]
-
-![[topics/Concept/MCP UI]]
-
-![[topics/Concept/OpenAI Apps SDK]]
+![[topics/Concept/Model Context Protocol MCP]]
 
 ![[topics/Concept/JSON RPC]]
 
+![[topics/Concept/Agentic UI Frameworks]]
+
 ![[topics/Concept/Sandboxed Iframe]]
 
-![[topics/Concept/Model Context Protocol MCP]]
+![[topics/Concept/MCP Apps]]
+
+![[topics/Concept/OpenAI Apps SDK]]
+
+![[topics/Concept/MCP UI]]

@@ -12,6 +12,7 @@ upload_date: '2026-01-04'
 ---
 
 https://blog.modelcontextprotocol.io/posts/2025-11-25-first-mcp-anniversary/
+
 ## Summary
 
 The Model Context Protocol (MCP) celebrates its one-year anniversary with the release of the November 2025 specification. Over the past year, MCP has grown from an open-source experiment to the de-facto standard for connecting data and applications to Large Language Models (LLMs). The ecosystem has flourished, with thousands of active MCP servers and a vibrant community contributing to its development.
@@ -37,22 +38,24 @@ The community's role in MCP's success is highlighted, with contributions from de
 Looking ahead, MCP aims to enable new categories of AI-powered applications, with a focus on reliability, observability, server composition, and security. The community's creativity and real-world feedback will continue to shape the protocol's evolution.
 
 To get started with the latest MCP specification release, resources include the changelog, documentation, and engagement through GitHub and Discord.
+
 ## Links
 
 - [Model Context Protocol Documentation](https://modelcontextprotocol.io/docs) : The official documentation for the Model Context Protocol, providing detailed information on the protocol's specifications, tutorials, and guides.
 - [GitHub Repository for Model Context Protocol](https://github.com/modelcontextprotocol/modelcontextprotocol) : The GitHub repository for the Model Context Protocol, where you can find the source code, issues, and contributions related to the protocol.
 - [Hugging Face MCP Server](https://huggingface.co/) : Hugging Face's MCP server for model management and dataset search, making it easier to integrate models and datasets with the Model Context Protocol.
 
+
 ## Topics
 
-![[topics/Concept/Task based Workflows]]
-
-![[topics/Concept/Authorization Extensions]]
+![[topics/Concept/Model Context Protocol MCP]]
 
 ![[topics/Concept/URL Mode Elicitation]]
+
+![[topics/Concept/Task based Workflows]]
 
 ![[topics/Concept/Sampling with Tools]]
 
 ![[topics/Concept/MCP Registry]]
 
-![[topics/Concept/Model Context Protocol MCP]]
+![[topics/Concept/Authorization Extensions]]

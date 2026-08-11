@@ -11,6 +11,7 @@ upload_date: '2026-03-31'
 ---
 
 https://github.com/buva7687/sql-crack
+
 ## Summary
 
 **SQL Crack** is a VS Code extension that visualizes SQL queries as interactive execution flow diagrams, aiding in understanding complex queries, tracking data lineage, and identifying optimization opportunities. Key features include:
@@ -37,6 +38,7 @@ https://github.com/buva7687/sql-crack
 **Contributions**: Open to community contributions via pull requests.
 
 **Tech Stack**: TypeScript-based, leveraging tools like `node-sql-parser` and `dagre` for parsing and graph layout.
+
 ## Links
 
 - [SQL Crack on Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=buvan.sql-crack) : Official Visual Studio Marketplace page for the SQL Crack extension, providing installation instructions, features, and user reviews.
@@ -45,24 +47,25 @@ https://github.com/buva7687/sql-crack
 - [node-sql-parser](https://github.com/taozhi8833998/node-sql-parser) : GitHub repository for node-sql-parser, the SQL parsing library used by SQL Crack, relevant for developers interested in its technical implementation.
 - [dagre.js](https://github.com/dagrejs/dagre) : GitHub repository for dagre.js, a JavaScript library for directed graph layout used by SQL Crack to render SQL query flow diagrams.
 
+
 ## Topics
 
-![[topics/Tool/SQL Crack]]
-
-![[topics/Library/node sql parser]]
-
-![[topics/Library/dagre]]
-
-![[topics/Platform/Visual Studio Code VS Code]]
-
-![[topics/Concept/SQL Query Visualization]]
-
-![[topics/Concept/Data Lineage and Provenance]]
+![[topics/Concept/Data Lineage]]
 
 ![[topics/Concept/Query Optimization]]
 
+![[topics/Platform/Visual Studio Code VS Code]]
+
+![[topics/Library/dagre]]
+
 ![[topics/Concept/Workspace Dependency Analysis]]
+
+![[topics/Library/node sql parser]]
+
+![[topics/Tool/SQL Crack]]
 
 ![[topics/Concept/CTE Common Table Expression Expansion]]
 
 ![[topics/Concept/AST Abstract Syntax Tree]]
+
+![[topics/Concept/SQL Query Visualization]]

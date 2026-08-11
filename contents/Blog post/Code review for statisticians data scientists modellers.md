@@ -12,6 +12,7 @@ upload_date: '2024-09-24'
 ---
 
 https://jcken95.github.io/projects/code_review.html
+
 ## Summary
 
 This content discusses the importance and process of code review for statisticians, data scientists, and modellers, emphasizing the adoption of software development best practices. Key points include:
@@ -24,11 +25,13 @@ This content discusses the importance and process of code review for statisticia
 - **Resolving Stalemates**: Strategies include accepting imperfect PRs, indicating the criticality of changes, and bringing in additional reviewers if necessary.
 
 Further reading is suggested for more detailed guidance on code review practices.
+
 ## Links
 
 - [Tidyverse Style Guide](https://style.tidyverse.org/) : The Tidyverse Style Guide provides guidelines for writing clean, consistent, and readable R code. It covers various aspects of code styling, including naming conventions, indentation, and best practices for writing functions and scripts.
 - [GitLab Blog on Code Review](https://about.gitlab.com/topics/version-control/what-is-code-review/) : This article from the GitLab blog explains what code review is, why it's important, and how it can be effectively implemented in a team setting. It covers the benefits of code review, such as improved code quality, knowledge sharing, and early bug detection.
 - [Google's Engineering Practices for Code Review](https://google.github.io/eng-practices/review/reviewer/looking-for.html) : Google's engineering practices for code review provide a comprehensive guide on what reviewers should look for during a code review. It includes checklists and best practices to ensure that the code is maintainable, efficient, and free of bugs.
+
 
 ## Topics
 

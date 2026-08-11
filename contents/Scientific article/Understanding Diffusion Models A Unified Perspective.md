@@ -11,6 +11,7 @@ upload_date: '2022-09-15'
 ---
 
 https://arxiv.org/abs/2208.11970
+
 ## Summary
 
 The paper "Understanding Diffusion Models: A Unified Perspective" by Calvin Luo provides a comprehensive review and unification of diffusion models from both variational and score-based perspectives. Key points include:
@@ -27,6 +28,7 @@ The paper "Understanding Diffusion Models: A Unified Perspective" by Calvin Luo 
 4. **Conditional Distribution Learning**: The paper also covers how to learn conditional distributions using diffusion models via guidance.
 
 The paper aims to demystify and unify the understanding of diffusion models, making it a valuable resource for those interested in generative models and their applications.
+
 ## Links
 
 - [Cornell University](https://www.cornell.edu/) : Cornell University's official website, which hosts arXiv, a preprint server for research papers in various fields, including computer science and machine learning.
@@ -34,6 +36,7 @@ The paper aims to demystify and unify the understanding of diffusion models, mak
 - [NASA ADS](https://ui.adsabs.harvard.edu/abs/arXiv:2208.11970) : NASA ADS (Astrophysics Data System) provides a comprehensive bibliographic database of research papers in astronomy and physics, including this paper on diffusion models.
 - [DagsHub](https://dagshub.com/) : DagsHub is a platform for hosting and collaborating on data science and machine learning projects, including version control and experiment tracking.
 - [Google Scholar](https://scholar.google.com/scholar_lookup?arxiv_id=2208.11970) : Google Scholar is a widely-used search engine for scholarly literature across various disciplines, including this paper on diffusion models.
+
 
 ## Topics
 

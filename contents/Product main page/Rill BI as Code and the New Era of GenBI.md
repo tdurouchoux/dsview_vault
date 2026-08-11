@@ -12,6 +12,7 @@ upload_date: '2024-11-09'
 ---
 
 https://www.rilldata.com/blog/bi-as-code-and-the-new-era-of-genbi
+
 ## Summary
 
 The article discusses the emergence of Generative Business Intelligence (GenBI), a new era in business intelligence driven by AI and BI-as-Code. GenBI enables users to interact with data through natural language, generating dashboards, metrics, and data models based on declarative definitions. The key points include:
@@ -33,11 +34,13 @@ The article discusses the emergence of Generative Business Intelligence (GenBI),
 8. **Future of GenBI**: The future of GenBI holds the promise of faster time-to-insight and democratized access to data analytics. As AI technologies continue to evolve, GenBI is expected to play a significant role in the next generation of business intelligence tools.
 
 The article concludes by highlighting the potential of GenBI to revolutionize the way businesses interact with data, making analytics more accessible and efficient.
+
 ## Links
 
 - [One-Click Dashboards with Generative AI and BI-as-Code](https://www.rilldata.com/blog/one-click-dashboards-with-generative-ai-and-bi-as-code) : This article discusses how generative AI and BI-as-Code enable the creation of dashboards with a single click, streamlining the process of data visualization and business intelligence.
 - [The Metrics Layer](https://www.ssp.sh/brain/metrics-layer/) : This resource explains the concept of the metrics layer in data management, which is crucial for defining and maintaining business metrics and their relationships within a data model.
 - [Information Dashboard Design](https://www.amazon.com/Information-Dashboard-Design-Effective-Communication/dp/0596100167) : A book by Stephen Few that provides guidelines and best practices for creating effective and clear data visualizations in dashboards.
+
 
 ## Topics
 
@@ -47,9 +50,9 @@ The article concludes by highlighting the potential of GenBI to revolutionize th
 
 ![[topics/Concept/OLAP Cube]]
 
-![[topics/Concept/Metrics Layer]]
+![[topics/Concept/Metrics Standardization and Layer]]
 
-![[topics/Concept/Generative Business Intelligence GenBI]]
+![[topics/Concept/Conversational and Generative Business Intelligence]]
 
 ![[topics/Concept/Master Data Management MDM]]
 

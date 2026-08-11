@@ -12,6 +12,7 @@ upload_date: '2025-09-17'
 ---
 
 https://www.anthropic.com/news/claude-for-financial-services
+
 ## Summary
 
 Anthropic introduces a comprehensive financial analysis solution leveraging Claude's AI capabilities. Key features include:
@@ -36,10 +37,12 @@ Anthropic introduces a comprehensive financial analysis solution leveraging Clau
 - Custom applications via API for underwriting, compliance automation, customer experience, and back office transformation.
 - Modernize code with Claude Code.
 - Available on AWS Marketplace, with Google Cloud Marketplace availability coming soon.
+
 ## Links
 
 - [Anthropic Documentation](https://docs.anthropic.com/) : Anthropic's official documentation, providing detailed information on their products, APIs, and services.
 - [Vals AI Finance Agent Benchmark](https://www.vals.ai/fab/benchmark-card.pdf) : Benchmark results showing Claude 4 models outperforming other frontier models in financial tasks.
+
 
 ## Topics
 
@@ -47,7 +50,7 @@ Anthropic introduces a comprehensive financial analysis solution leveraging Clau
 
 ![[topics/Platform/Snowflake]]
 
-![[topics/Concept/Monte Carlo Simulations]]
+![[topics/Concept/Monte Carlo Method]]
 
 ![[topics/Platform/Google Cloud Marketplace]]
 

@@ -11,6 +11,7 @@ upload_date: '2023-11-30'
 ---
 
 https://pub.aimind.so/statistical-concepts-that-every-data-scientist-should-know-478b90a997ad
+
 ## Summary
 
 The article emphasizes the importance of statistical concepts in data science, highlighting how they contribute to various stages of the data science workflow. Key statistical concepts covered include:
@@ -28,10 +29,12 @@ The article emphasizes the importance of statistical concepts in data science, h
 6. **Statistical Evaluation on Model**: Metrics like accuracy, mean absolute error (MAE), mean squared error (MSE), root mean squared error (RMSE), R-squared (R²), ROC AUC, confusion matrix, precision, recall, and F1-score are used to evaluate the performance of models.
 
 The article underscores the foundational role of statistics in data science, providing the tools and principles necessary for data exploration, analysis, and decision-making.
+
 ## Links
 
 - [Author's LinkedIn Profile](https://www.linkedin.com/in/dhilip-kumar-ds/) : LinkedIn profile of the author, Dhilip Kumar, providing professional details and portfolio.
 - [Author's Portfolio](https://dhilipmaharish-szed.onrender.com/) : Portfolio of Dhilip Maharish, showcasing his work and projects.
+
 
 ## Topics
 

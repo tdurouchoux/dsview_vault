@@ -11,6 +11,7 @@ upload_date: '2022-09-29'
 ---
 
 https://dipranjan.github.io/dsinterviewqns/contents/MLFramework/PyCaret.html
+
 ## Summary
 
 PyCaret is an open-source, low-code machine learning library in Python that automates workflows, speeding up the experiment cycle. It's a wrapper around libraries like scikit-learn, XGBoost, LightGBM, and others.
@@ -24,9 +25,11 @@ PyCaret is an open-source, low-code machine learning library in Python that auto
 3. **Predict & Deploy**: Generates predictions, monitors data drift, and supports deployment on GCP, AWS, and Azure.
 
 PyCaret supports various tasks including Regression, Classification, Clustering, Anomaly Detection, NLP, Association Rule Mining, and Time Series.
+
 ## Links
 
 - [PyCaret Documentation](https://pycaret.gitbook.io/docs/) : The official documentation for PyCaret, providing detailed information on how to use the library for machine learning tasks.
+
 
 ## Topics
 

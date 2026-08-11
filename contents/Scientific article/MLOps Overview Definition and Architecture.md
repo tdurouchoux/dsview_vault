@@ -13,6 +13,7 @@ upload_date: '2022-12-07'
 ---
 
 https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf
+
 ## Summary
 
 The paper discusses the challenges in bringing machine learning (ML) projects into production and introduces the concept of Machine Learning Operations (MLOps) to address these issues. MLOps aims to automate and operationalize ML products, drawing from principles of DevOps, which emphasizes collaboration, communication, and automation in software development.
@@ -24,7 +25,9 @@ Key principles of MLOps include CI/CD automation, workflow orchestration, reprod
 The paper also outlines necessary roles for successful MLOps implementation, including business stakeholders, solution architects, data scientists, data engineers, software engineers, DevOps engineers, and ML engineers/MLOps engineers. The authors present a generalized MLOps end-to-end architecture and workflow, providing guidance for ML researchers and practitioners.
 
 In conclusion, the paper aims to support a common understanding of MLOps and its associated concepts, assisting researchers and professionals in setting up successful ML projects. The authors hope to facilitate more robust predictions in real-world environments by addressing the challenges in automating and operating ML systems.
+
 ## Links
+
 
 
 ## Topics
@@ -35,15 +38,15 @@ In conclusion, the paper aims to support a common understanding of MLOps and its
 
 ![[topics/Concept/Reproducibility]]
 
-![[topics/Concept/Continuous monitoring]]
+![[topics/Concept/ML Model Monitoring]]
 
-![[topics/Concept/Collaboration]]
+![[topics/Concept/Collaborative Data Science]]
 
 ![[topics/Concept/Versioning]]
 
 ![[topics/Concept/DevOps]]
 
-![[topics/Concept/Feedback loops]]
+![[topics/Concept/Feedback Loops]]
 
 ![[topics/Concept/Continuous ML training evaluation]]
 

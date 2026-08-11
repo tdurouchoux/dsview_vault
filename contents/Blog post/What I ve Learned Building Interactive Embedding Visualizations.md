@@ -12,6 +12,7 @@ upload_date: '2024-05-29'
 ---
 
 https://cprimozic.net/blog/building-embedding-visualizations-from-user-profiles/
+
 ## Summary
 
 The author shares their experience and process for building interactive embedding visualizations, which are tools for exploring and understanding entity relationships. Embeddings represent entities as points in N-dimensional space, with similar entities placed nearby. The author's projects include Spotify Music Galaxy, Anime Atlas, and osu! Beatmap Atlas, each built using a refined process.
@@ -25,6 +26,7 @@ Key steps in the process include:
 6. **Building the Visualization UI**: Develop a web-based UI using WebGL or WebGPU for rendering, ensuring performance and interactivity.
 
 The author emphasizes the importance of experimenting with parameters and algorithms to achieve the best results. They conclude by summarizing the process and encouraging others to try building their own embedding visualizations.
+
 ## Links
 
 - [PyMDE](https://pymde.org/) : PyMDE is a Python library implementing an algorithm called Minimum Distortion Embedding. It's the main workhorse of the embedding-generation process and very powerful + versatile. It can embed high-dimensional vectors or graphs natively, the latter of which we'll be using.
@@ -33,9 +35,10 @@ The author emphasizes the importance of experimenting with parameters and algori
 - [Pixi.JS](https://pixijs.com/) : Pixi is a library that I've used on several projects in the past with great success every time. It exposes a nice high-level API for rendering 2D graphics and uses WebGL or WebGPU to do it. It takes care of all the hard parts like scene layering, hit testing, animation, zooming/panning, etc. and lets you focus on building your tool
 - [regl](https://github.com/regl-project/regl) : regl is a lightweight WebGL wrapper library used to render the embedding as native gl.POINTS. It allows to write a vertex and fragment shader from scratch to style them.
 
+
 ## Topics
 
-![[topics/Concept/Text Embeddings]]
+![[topics/Concept/Vector Embedding]]
 
 ![[topics/Concept/Co Occurrence Matrix]]
 

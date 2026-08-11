@@ -11,6 +11,7 @@ upload_date: '2026-07-22'
 ---
 
 https://datafusion.apache.org/
+
 ## Summary
 
 Apache DataFusion is a Rust-based, extensible query engine using Apache Arrow for in-memory operations. It provides SQL and DataFrame APIs, supports CSV/Parquet/JSON/Avro, and offers performance optimizations via columnar, streaming, multi-threaded execution. Key features include customization of data sources, functions, and operators, plus a full query planner.
@@ -21,6 +22,7 @@ Subprojects:
 - **Python/Java**: Language bindings for SQL/DataFrame queries.
 
 Documentation covers user guides (setup, features), library extensions, contributor guides, and subproject details. Designed for building fast, feature-rich analytics systems with strong community support.
+
 ## Links
 
 - [DataFusion GitHub Repository](https://github.com/apache/datafusion) : The official GitHub repository for Apache DataFusion, containing the source code, examples, and issue tracker for the project.
@@ -29,20 +31,21 @@ Documentation covers user guides (setup, features), library extensions, contribu
 - [DataFusion Python Bindings](https://datafusion.apache.org/python/) : Documentation and resources for using DataFusion's Python bindings, enabling Python-based SQL and DataFrame queries.
 - [DataFusion Java Bindings](https://datafusion.apache.org/java/) : Documentation and resources for using DataFusion's Java bindings, enabling Java-based SQL and DataFrame queries.
 
+
 ## Topics
-
-![[topics/Library/Apache DataFusion]]
-
-![[topics/Tool/DataFusion CLI]]
 
 ![[topics/Concept/Vectorized Processing]]
 
 ![[topics/Concept/Distributed Computing]]
 
-![[topics/Library/DataFusion Ballista]]
-
-![[topics/Tool/Apache DataFusion Comet]]
-
 ![[topics/Library/Apache Arrow]]
 
 ![[topics/Concept/Query Planner]]
+
+![[topics/Library/Apache DataFusion]]
+
+![[topics/Tool/Apache DataFusion Comet]]
+
+![[topics/Library/DataFusion Ballista]]
+
+![[topics/Tool/DataFusion CLI]]

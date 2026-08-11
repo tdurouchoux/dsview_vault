@@ -12,6 +12,7 @@ upload_date: '2022-10-13'
 ---
 
 https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor
+
 ## Summary
 
 AlphaTensor, developed by DeepMind, is an AI system designed to discover novel, efficient, and provably correct algorithms for fundamental tasks like matrix multiplication. Here are the key points:
@@ -31,10 +32,12 @@ AlphaTensor, developed by DeepMind, is an AI system designed to discover novel, 
 7. **Future Applications**: AlphaTensor's flexibility in optimizing different objectives could lead to new applications in energy usage, numerical stability, and other fields, inspiring further AI-driven algorithmic discovery.
 
 The paper emphasizes the transformative potential of AI in solving fundamental problems in mathematics and beyond, building on the success of AlphaZero in game-playing domains.
+
 ## Links
 
 - [AlphaTensor GitHub Repository](https://github.com/deepmind/alphatensor) : The GitHub repository for AlphaTensor, providing access to the code and resources related to the AI system for discovering novel algorithms for matrix multiplication.
 - [Nature Article on AlphaTensor](https://www.nature.com/articles/s41586-022-05172-4) : The Nature article detailing the research and findings of AlphaTensor, including its discovery of new algorithms for matrix multiplication.
+
 
 ## Topics
 

@@ -12,6 +12,7 @@ upload_date: '2025-01-01'
 ---
 
 https://tryolabs.com/blog/top-python-libraries-2024
+
 ## Summary
 
 The content presents the top Python libraries of 2024, categorized into General Use and AI/ML/Data. The selection is based on relevance, practical utility, novelty, and a "coolness factor." The libraries are chosen for their innovation and impact on solving real-world problems. The list is divided into main picks and runners-up, with a new structure separating General Use libraries from AI/ML/Data libraries to better cater to different audiences.
@@ -47,6 +48,7 @@ The content presents the top Python libraries of 2024, categorized into General 
 The content also includes runners-up and a long list of other notable libraries, categorized by their primary use case, such as AI agents, AI security, AI toolkits, asynchronous tools, command-line tools, data handling, data processing, data visualization, dataframe tools, database extensions, date and time utilities, desktop applications, Jupyter tools, knowledge graphs, LLM interfaces, ML development, ML testing & evaluation, NLP, niche tools, reactive programming & state management, testing, debugging & profiling, visualization, web crawling & scraping, and web development.
 
 The content aims to provide a comprehensive overview of the most innovative and impactful Python libraries of 2024, helping data scientists and developers stay up-to-date with the latest trends and tools.
+
 ## Links
 
 - [uv - the new standard package and project manager](https://github.com/astral-sh/uv) : A lightning-fast Python package and project manager that replaces pip, poetry, pyenv, and more, with an active and passionate community driving its rapid development.
@@ -54,6 +56,7 @@ The content aims to provide a comprehensive overview of the most innovative and 
 - [Whenever - an intuitive datetime library](https://github.com/ariebovenberg/whenever) : A groundbreaking library for typed, DST-safe datetime operations that helps developers write correct, type-checked datetime code effortlessly.
 - [WAT - examine any Python object](https://github.com/igrek51/wat) : A tool designed to transform confusion into clarity when inspecting Python objects, helping you dive deep into any object’s type, attributes, methods, parent types, and even its source code.
 - [peepDB - peek at your database](https://github.com/PeepDB-dev/peepdb) : An open-source command-line tool and Python library simplifies database exploration for MySQL, PostgreSQL, and MariaDB users, eliminating the need to write tedious or bespoke SQL queries.
+
 
 ## Topics
 

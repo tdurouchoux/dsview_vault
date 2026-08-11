@@ -11,6 +11,7 @@ upload_date: '2026-03-23'
 ---
 
 https://github.com/pydantic/monty
+
 ## Summary
 
 Monty is a minimal, secure Python interpreter written in Rust, designed for AI agents to safely execute LLM-generated Python code. Key features include:
@@ -28,6 +29,7 @@ Monty is a minimal, secure Python interpreter written in Rust, designed for AI a
 - **YOLO Python**: Fast but insecure.
 
 **Use Case**: Ideal for AI agents generating code (e.g., Pydantic AI’s CodeMode), avoiding sandbox overhead. Example: LLM writes Python calling tools, Monty executes it safely.
+
 ## Links
 
 - [Cloudflare's Code Mode](https://blog.cloudflare.com/code-mode/) : A Cloudflare blog post explaining their Code Mode, which enables AI-driven code execution similar to Monty.
@@ -36,16 +38,17 @@ Monty is a minimal, secure Python interpreter written in Rust, designed for AI a
 - [Smol Agents from Hugging Face](https://github.com/huggingface/smolagents) : Hugging Face's Smol Agents framework for building AI agents that execute code, aligning with Monty's purpose.
 - [Pydantic AI Documentation](https://github.com/pydantic/pydantic-ai) : The Pydantic AI repository, where Monty powers code-mode for secure Python code execution in AI agents.
 
-## Topics
 
-![[topics/Tool/Monty]]
+## Topics
 
 ![[topics/Concept/AI Sandboxing]]
 
-![[topics/Concept/Iterative Code Execution]]
+![[topics/Tool/Monty]]
+
+![[topics/Concept/Resource Usage Control]]
 
 ![[topics/Concept/Code Serialization]]
 
-![[topics/Concept/Resource Usage Control]]
+![[topics/Concept/Iterative Code Execution]]
 
 ![[topics/Concept/External Function Integration]]

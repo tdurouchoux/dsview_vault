@@ -12,9 +12,11 @@ upload_date: '2025-02-04'
 ---
 
 https://db.cs.cmu.edu/seminar2025/
+
 ## Summary
 
 The SQL or Death? Seminar Series, organized by Carnegie Mellon University's Database Research Group, explores the future of SQL, which, despite its age and initial drawbacks, remains dominant in the database world. The series features talks on either optimizing SQL or replacing it with better alternatives. The seminars are held online via Zoom and are open to the public. Key topics include TypeScript stored procedures, query language sanity, query optimizers for various databases, and new query languages like Malloy, PRQL, and Gel. The series is organized by Andy Pavlo, Jignesh Patel, and Sam Madden, with talks scheduled for Mondays at 4:30pm ET.
+
 ## Links
 
 - [CMU Database Group YouTube Channel](https://www.youtube.com/c/CMUDatabaseGroup) : The YouTube channel for the Carnegie Mellon University Database Group, where videos of the SQL or Death? Seminar Series talks will be posted.
@@ -22,6 +24,7 @@ The SQL or Death? Seminar Series, organized by Carnegie Mellon University's Data
 - [Malloy Data](https://www.malloydata.dev/) : Malloy is a modern open-source language for analyzing, transforming, and modeling data, presented by Lloyd Tabb in the seminar series.
 - [PRQL](https://prql-lang.org/) : PRQL (Pipelined Relational Query Language) is a modern language for working with data, presented by Tobias Brandt in the seminar series.
 - [StarRocks](https://www.starrocks.io/) : StarRocks is a high-performance, real-time analytics database. It is designed for sub-second OLAP queries on large-scale datasets.
+
 
 ## Topics
 

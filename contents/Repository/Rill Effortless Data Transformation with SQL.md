@@ -12,6 +12,7 @@ upload_date: '2025-09-17'
 ---
 
 https://github.com/rilldata/rill
+
 ## Summary
 
 Rill is a tool for transforming datasets into powerful, opinionated dashboards using SQL, following a BI-as-code approach. It is designed for rapid, self-service dashboards built directly on raw data lakes, eliminating traditional BI complexity. Key features include:
@@ -36,11 +37,13 @@ Rill is a tool for transforming datasets into powerful, opinionated dashboards u
 - Kitchen-sink example
 
 Rill is developed and maintained by Rill Data, Inc., and is licensed under the Apache License 2.0.
+
 ## Links
 
 - [Rill Documentation](https://docs.rilldata.com/home/install) : Official documentation for Rill, providing installation instructions and guides.
 - [Rill Quickstart Guide](https://docs.rilldata.com/get-started/quickstart) : A quickstart guide to help users get started with Rill.
 - [Rill Guides](https://docs.rilldata.com/guides) : Comprehensive guides on using Rill for various data analysis tasks.
+
 
 ## Topics
 
@@ -48,7 +51,7 @@ Rill is developed and maintained by Rill Data, Inc., and is licensed under the A
 
 ![[topics/Concept/Agentic AI]]
 
-![[topics/Concept/Metrics Layer]]
+![[topics/Concept/Metrics Standardization and Layer]]
 
 ![[topics/Concept/BI as Code]]
 

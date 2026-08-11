@@ -11,6 +11,7 @@ upload_date: '2026-04-05'
 ---
 
 https://arxiv.org/pdf/2601.12538
+
 ## Summary
 
 Agentic reasoning reframes LLMs as autonomous agents capable of planning, tool use, search, feedback, memory, and collaboration across three layers: foundational, self-evolving, and collective. Key technical points include:
@@ -21,27 +22,29 @@ Agentic reasoning reframes LLMs as autonomous agents capable of planning, tool u
 - **Applications**: Math/code agents, scientific discovery, embodied robotics, healthcare, and autonomous web/GUI research agents.
 - **Benchmarks**: Mechanism-focused (tool use, search, memory, multi-agent systems) and application-level (embodied, scientific, medical, web agents).
 - **Open Problems**: Personalization, long-horizon interaction, world modeling, scalable multi-agent training, and governance frameworks for real-world deployment.
+
 ## Links
+
 
 
 ## Topics
 
-![[topics/Concept/Agentic Systems]]
-
-![[topics/Concept/Self Evolving Agents]]
-
 ![[topics/Concept/Multi Agent Systems]]
 
-![[topics/Concept/In Context Learning ICL]]
+![[topics/Concept/AI Verification and Self Correction Mechanisms]]
 
-![[topics/Concept/Post Training Reasoning]]
-
-![[topics/Concept/Agentic Memory]]
-
-![[topics/Concept/Agentic Feedback and Reflexive Mechanisms]]
+![[topics/Concept/AI Agent Workflows]]
 
 ![[topics/Concept/Agentic Search]]
 
+![[topics/Concept/Agentic Systems]]
+
+![[topics/Concept/In Context Learning ICL]]
+
 ![[topics/Concept/Agentic Tool Use]]
 
-![[topics/Concept/Agentic Planning]]
+![[topics/Concept/Post Training Reasoning]]
+
+![[topics/Concept/Self Evolving Agents]]
+
+![[topics/Concept/Agentic Memory and Continual Learning]]

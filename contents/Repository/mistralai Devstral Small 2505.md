@@ -12,11 +12,13 @@ upload_date: '2025-05-30'
 ---
 
 https://huggingface.co/mistralai/Devstral-Small-2505
+
 ## Summary
 
 Devstral Small 1.0 is an agentic LLM designed for software engineering tasks, developed through a collaboration between Mistral AI and All Hands AI. It is fine-tuned from Mistral-Small-3.1, featuring a 128k token context window and a compact size of 24 billion parameters, making it suitable for local deployment. Key features include agentic coding capabilities, a lightweight architecture, an Apache 2.0 license, and a 128k context window with a 131k vocabulary size tokenizer.
 
 The model achieves a score of 46.8% on SWE-Bench Verified, outperforming prior open-source state-of-the-art models by 6%. It is recommended to use Devstral with the OpenHands scaffold, which can be accessed via an API or deployed locally using various libraries such as vLLM, Mistral-inference, Transformers, LMStudio, llama.cpp, and Ollama. The model can be used to build applications like a To-Do list app and analyze test coverage in repositories. Detailed instructions are provided for setting up and using the model with each of these libraries.
+
 ## Links
 
 - [Mistral AI Official Website](https://mistral.ai/) : The official website of Mistral AI, providing information about the company, its models, and other resources.
@@ -25,13 +27,14 @@ The model achieves a score of 46.8% on SWE-Bench Verified, outperforming prior o
 - [vLLM GitHub Repository](https://github.com/vllm-project/vllm) : The GitHub repository for vLLM, a library for efficient inference with large language models.
 - [OpenHands GitHub Repository](https://github.com/All-Hands-AI/OpenHands/tree/main) : The GitHub repository for OpenHands, a scaffold for using Devstral and other models for software engineering tasks.
 
+
 ## Topics
 
 ![[topics/Library/vLLM]]
 
 ![[topics/Tool/Ollama]]
 
-![[topics/Concept/Agentic Coding]]
+![[topics/Concept/Agentic Software Engineering]]
 
 ![[topics/Tool/OpenHands]]
 

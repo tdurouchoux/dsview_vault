@@ -12,6 +12,7 @@ upload_date: '2023-10-12'
 ---
 
 https://www.jpmorgan.com/technology/technology-blog/evolution-of-data-mesh-architecture
+
 ## Summary
 
 The content discusses the evolution of data mesh architecture and its potential to drive significant value in modern enterprises. Key points include:
@@ -24,9 +25,11 @@ The content discusses the evolution of data mesh architecture and its potential 
 - **Control and Visibility**: The data mesh allows for granular access control and provides cross-enterprise visibility of data consumption through a cloud-based Mesh Catalog.
 - **Example**: The architecture enables reporting teams to find and request lake-based data, with the mesh catalog allowing auditing of data flows.
 - **Conclusion**: JPMorganChase's data mesh architecture aligns data technology solutions with their data product strategy, enabling data sharing while giving data owners the control and visibility they need.
+
 ## Links
 
 - [JPMorganChase Homepage](https://www.jpmorgan.com) : The homepage of JPMorganChase, providing an overview of the company's services, news, and other relevant information.
+
 
 ## Topics
 

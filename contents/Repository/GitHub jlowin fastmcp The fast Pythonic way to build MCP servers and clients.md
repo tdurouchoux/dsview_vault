@@ -11,6 +11,7 @@ upload_date: '2025-04-20'
 ---
 
 https://github.com/jlowin/fastmcp
+
 ## Summary
 
 FastMCP is a Python framework for building servers and clients for the Model Context Protocol (MCP), a standardized way to provide context and tools to large language models (LLMs). It simplifies the process of creating MCP servers and clients with minimal boilerplate, offering a high-level, Pythonic interface.
@@ -24,6 +25,7 @@ Key features include:
 - **Advanced Features**: Proxy servers, server composition, OpenAPI & FastAPI generation, and authentication & security.
 
 FastMCP aims to be fast, simple, Pythonic, and complete, providing a comprehensive platform for all MCP use cases, from development to production. The framework is actively maintained and includes a complete toolkit for working with the MCP ecosystem, including deployment, authentication, clients, server proxying, and more.
+
 ## Links
 
 - [FastMCP Documentation](https://gofastmcp.com) : The official documentation for FastMCP, providing detailed guides, API references, and advanced patterns for building MCP servers and clients.
@@ -32,14 +34,15 @@ FastMCP aims to be fast, simple, Pythonic, and complete, providing a comprehensi
 - [FastMCP Clients](https://gofastmcp.com/clients/client) : Guide on interacting with MCP servers programmatically using the FastMCP Client.
 - [FastMCP on PyPI](https://pypi.org/project/fastmcp) : The PyPI page for FastMCP, providing package details and installation instructions.
 
+
 ## Topics
 
 ![[topics/Concept/Model Context Protocol MCP]]
 
 ![[topics/Tool/FastMCP]]
 
-![[topics/Concept/MCP Clients]]
+![[topics/Concept/MCP Client]]
 
-![[topics/Concept/MCP Servers]]
+![[topics/Tool/Model Context Protocol MCP Server]]
 
 ![[topics/Concept/MCP Tools]]

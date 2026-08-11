@@ -12,6 +12,7 @@ upload_date: '2025-05-05'
 ---
 
 https://research.google/blog/amie-gains-vision-a-research-ai-agent-for-multi-modal-diagnostic-dialogue/
+
 ## Summary
 
 The content introduces a multimodal conversational AI agent called AMIE, designed for medical diagnostic dialogues. AMIE is an advancement of the previously text-based Articulate Medical Intelligence Explorer, now capable of intelligently requesting, interpreting, and reasoning about visual medical information during clinical conversations. The system integrates multimodal perception and reasoning through the use of Gemini models and a state-aware reasoning framework.
@@ -26,6 +27,7 @@ Key technical points include:
 6. **Limitations and Future Directions**: The study highlights the need for real-world validation, the importance of real-time audio-video interaction, and the ongoing evolution of the AMIE system to incorporate new capabilities.
 
 The research underscores the potential of AI in healthcare, emphasizing responsible innovation and rigorous evaluations for real-world applicability and safety.
+
 ## Links
 
 - [Objective Structured Clinical Examination](https://en.wikipedia.org/wiki/Objective_structured_clinical_examination) : Wikipedia page about Objective Structured Clinical Examination.
@@ -33,6 +35,7 @@ The research underscores the potential of AI in healthcare, emphasizing responsi
 - [Multimodal AMIE Paper](https://www.nature.com/articles/s41586-025-08866-7) : Paper about multimodal AMIE published in Nature.
 - [Multimodal AMIE PDF](https://www.gstatic.com/amie/multimodal_amie.pdf) : PDF about multimodal AMIE.
 - [Gemini Flash](https://deepmind.google/technologies/gemini/flash/) : Gemini Flash page.
+
 
 ## Topics
 

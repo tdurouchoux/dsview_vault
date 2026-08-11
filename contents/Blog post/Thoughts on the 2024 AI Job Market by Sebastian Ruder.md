@@ -12,6 +12,7 @@ upload_date: '2024-02-22'
 ---
 
 https://newsletter.ruder.io/p/thoughts-on-the-2024-ai-job-market
+
 ## Summary
 
 The author reflects on the evolving AI and NLP job market, highlighting several key trends:
@@ -27,11 +28,13 @@ The author reflects on the evolving AI and NLP job market, highlighting several 
 5. **More Opportunities**: The advent of LLMs has led to a wave of new companies and opportunities. However, many research challenges remain, and effectively using LLMs for business use cases requires addressing various issues.
 
 The author also shares personal reasons for joining Cohere, including the company's commitment to openness, mature startup environment, support for remote work, alignment with societal goals, and strong team culture. The post concludes with advice on assessing a company's culture and considering career options in the AI field.
+
 ## Links
 
 - [NLP Research in the Era of LLMs](https://newsletter.ruder.io/p/nlp-research-in-the-era-of-llms) : An article discussing the evolution of NLP research in the era of large language models (LLMs), highlighting key trends and challenges.
 - [The Economic Potential of Generative AI](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#key-insights) : A McKinsey report estimating the economic impact of generative AI, highlighting its potential to add trillions of dollars to the global economy.
 - [Cohere Careers](https://cohere.com/careers) : Career opportunities at Cohere, a company focused on developing AI models in a responsible manner.
+
 
 ## Topics
 
@@ -41,7 +44,7 @@ The author also shares personal reasons for joining Cohere, including the compan
 
 ![[topics/Concept/Preference Alignment]]
 
-![[topics/Concept/Red Teaming]]
+![[topics/Concept/Red Teaming AI]]
 
 ![[topics/Concept/Pretraining]]
 

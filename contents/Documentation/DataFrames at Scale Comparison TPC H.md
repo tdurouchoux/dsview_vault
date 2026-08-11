@@ -12,6 +12,7 @@ upload_date: '2024-09-04'
 ---
 
 https://docs.coiled.io/blog/tpch.html
+
 ## Summary
 
 The document presents a comprehensive comparison of DataFrame projects (Apache Spark, Dask, DuckDB, and Polars) using TPC-H benchmarks across various scales and hardware architectures. Key findings include:
@@ -44,6 +45,7 @@ The document presents a comprehensive comparison of DataFrame projects (Apache S
    - The benchmarks are hardware-specific, and results may vary based on the environment.
 
 Overall, the document provides a detailed analysis of the performance and suitability of different DataFrame projects for various use cases and scales.
+
 ## Links
 
 - [Polars Benchmarks](https://pola.rs/posts/benchmarks/) : Polars benchmarks for the latest performance details.
@@ -52,11 +54,12 @@ Overall, the document provides a detailed analysis of the performance and suitab
 - [Polars TPC-H Reference Implementations](https://github.com/pola-rs/tpch/tree/c306449be4cbf81506ef3845aef98897206190f7) : Reference implementations of TPC-H queries in Polars.
 - [DuckDB TPC-H Extension](https://duckdb.org/docs/extensions/tpch.html) : DuckDB extension for generating TPC-H data.
 
+
 ## Topics
 
 ![[topics/Library/DuckDB]]
 
-![[topics/Library/polars]]
+![[topics/Library/Polars]]
 
 ![[topics/Library/Apache Spark]]
 

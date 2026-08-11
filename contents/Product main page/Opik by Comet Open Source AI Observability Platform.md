@@ -11,6 +11,7 @@ upload_date: '2026-05-22'
 ---
 
 https://www.comet.com/site/products/opik/
+
 ## Summary
 
 Opik by Comet is an open-source AI observability platform designed for agentic AI systems. Key features include:
@@ -24,6 +25,7 @@ Opik by Comet is an open-source AI observability platform designed for agentic A
 - **Open-source core**: Free core features with scalable enterprise options; integrates with GitHub.
 
 Opik supports the full agent development lifecycle, from prototype to production, with collaboration tools for governance and debugging. Free tier available.
+
 ## Links
 
 - [Opik Documentation - Tracing and Debugging Agents](https://www.comet.com/docs/opik/latest/tracing/debug-agents) : Documentation for tracing and debugging AI agents using Opik, covering how to capture, visualize, and debug agent actions.
@@ -32,18 +34,19 @@ Opik supports the full agent development lifecycle, from prototype to production
 - [Opik GitHub Repository](https://github.com/comet-ml/opik) : The open-source GitHub repository for Opik, where users can download the code and run it locally.
 - [Deep Learning Weekly Newsletter](https://www.deeplearningweekly.com/) : A newsletter providing updates on trends and tools in the field of Data Science, useful for staying informed about the latest developments.
 
+
 ## Topics
-
-![[topics/Platform/Opik]]
-
-![[topics/Concept/Observability in AI Systems]]
 
 ![[topics/Concept/Prompt Engineering and Optimization]]
 
-![[topics/Tool/Ollie Coding Harness]]
-
-![[topics/Tool/Test Suites]]
+![[topics/Concept/Agentic Systems]]
 
 ![[topics/Concept/AI Agent Evaluation]]
 
-![[topics/Concept/Agentic Systems]]
+![[topics/Concept/Observability in AI Systems]]
+
+![[topics/Platform/Opik]]
+
+![[topics/Tool/Test Suites]]
+
+![[topics/Tool/Ollie Coding Harness]]

@@ -12,6 +12,7 @@ upload_date: '2025-02-14'
 ---
 
 https://ai.google/static/documents/ai-responsibility-update-published-february-2025.pdf
+
 ## Summary
 
 The report outlines Google's approach to responsible AI, structured around the NIST AI Risk Management Framework: Govern, Map, Measure, and Manage.
@@ -38,16 +39,18 @@ The report outlines Google's approach to responsible AI, structured around the N
 - The broader ecosystem is supported with research funding, tools, and standards.
 
 The report concludes with a commitment to continuous improvement and collaboration to ensure AI is developed and used responsibly, benefiting society and upholding core values.
+
 ## Links
+
 
 
 ## Topics
 
 ![[topics/Concept/AI Safety]]
 
-![[topics/Concept/Red Teaming]]
+![[topics/Concept/Red Teaming AI]]
 
-![[topics/Concept/Provenance Technology]]
+![[topics/Concept/Data Lineage]]
 
 ![[topics/Concept/SynthID]]
 

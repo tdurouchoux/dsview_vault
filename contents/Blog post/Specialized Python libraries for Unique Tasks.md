@@ -11,6 +11,7 @@ upload_date: '2024-02-15'
 ---
 
 https://dev.to/taipy/specialized-python-libraries-for-unique-tasks-5dgm
+
 ## Summary
 
 The content discusses specialized Python libraries for unique tasks, highlighting their functionalities and uniqueness. Key libraries mentioned include:
@@ -27,6 +28,7 @@ The content discusses specialized Python libraries for unique tasks, highlightin
 10. **Pyjokes.es**: Generates one-liner jokes for added humor.
 
 The article concludes by emphasizing Python's versatility and its growing capability to cater to specific needs. A comment recommends using a fork of Whoosh for better maintenance and updates.
+
 ## Links
 
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) : PyAutoGUI is a Python library that allows you to control the mouse and keyboard, automate repetitive tasks, and interact with other applications.
@@ -34,6 +36,7 @@ The article concludes by emphasizing Python's versatility and its growing capabi
 - [Whoosh Reloaded](https://github.com/Sygil-Dev/whoosh-reloaded) : Whoosh Reloaded is a fork of the Whoosh search engine library, aiming to revive and update the original project with new features and bug fixes.
 - [PyJokes](https://github.com/pyjokes/pyjokes) : PyJokes is a Python library that generates one-liner jokes on command, adding a bit of humor to your day.
 - [TQDM](https://github.com/tqdm/tqdm) : TQDM is a Python library that adds progress bars to your iterative processes, enhancing user experience with appealing and informative progress bars.
+
 
 ## Topics
 

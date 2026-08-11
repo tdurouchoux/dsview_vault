@@ -11,6 +11,7 @@ upload_date: '2026-05-06'
 ---
 
 https://learn.microsoft.com/en-us/agent-framework/overview/
+
 ## Summary
 
 Microsoft Agent Framework provides two core capabilities: **agents** (individual LLM-based agents for tasks like tool use and multi-turn conversations) and **workflows** (graph-based orchestration for multi-step processes with type safety and human-in-the-loop support). It includes foundational components like model clients, session management, context providers, middleware, and MCP clients for tool integration.
@@ -25,6 +26,7 @@ Use cases:
 - **Workflows**: Well-defined multi-step processes with explicit control.
 
 Quick start examples provided for .NET and Python. Migration guides available from AutoGen/Semantic Kernel. Note: Third-party integrations are at the user's risk; responsible AI practices are required.
+
 ## Links
 
 - [AutoGen GitHub Repository](https://github.com/microsoft/autogen) : Official GitHub repository for AutoGen, a framework for building AI agents. Mentioned as a predecessor to the Microsoft Agent Framework.
@@ -32,24 +34,25 @@ Quick start examples provided for .NET and Python. Migration guides available fr
 - [Semantic Kernel Documentation for Agent Framework](https://github.com/MicrosoftDocs/semantic-kernel-docs/blob/main/agent-framework/overview/index.md) : Documentation for the Agent Framework within the Semantic Kernel repository, providing additional context and details.
 - [Agent Framework Transparency FAQ](https://github.com/microsoft/agent-framework/blob/main/TRANSPARENCY_FAQs.md) : FAQ document for the Agent Framework, focusing on transparency and responsible AI usage.
 
+
 ## Topics
-
-![[topics/Library/Microsoft Agents AI Foundry]]
-
-![[topics/Concept/Graph based Workflows]]
-
-![[topics/Concept/State Management]]
-
-![[topics/Concept/Middleware in AI Agents]]
-
-![[topics/Concept/Telemetry in AI Systems]]
-
-![[topics/Concept/Type Safety]]
-
-![[topics/Concept/Migration Guide for AI Frameworks]]
-
-![[topics/Concept/Agentic AI]]
 
 ![[topics/Concept/Model Context Protocol MCP]]
 
+![[topics/Concept/Agentic AI]]
+
+![[topics/Concept/Telemetry in AI Systems]]
+
 ![[topics/Concept/Human in the Loop]]
+
+![[topics/Concept/Type Safety]]
+
+![[topics/Concept/Graph based Workflows]]
+
+![[topics/Concept/Migration Guide for AI Frameworks]]
+
+![[topics/Concept/Middleware in AI Agents]]
+
+![[topics/Concept/State Management in AI Agents]]
+
+![[topics/Library/Microsoft Agents AI Foundry]]

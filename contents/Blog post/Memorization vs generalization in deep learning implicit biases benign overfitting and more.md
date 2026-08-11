@@ -11,6 +11,7 @@ upload_date: '2026-04-04'
 ---
 
 https://infinitefaculty.substack.com/p/memorization-vs-generalization-in
+
 ## Summary
 
 The article explores the nuanced relationship between memorization and generalization in deep learning, challenging the classical tradeoff perspective. Key points include:
@@ -37,6 +38,7 @@ The article explores the nuanced relationship between memorization and generaliz
    - Emerging theories (e.g., compression-based capacity measures) aim to reconcile theory with deep learning’s empirics but remain incomplete.
 
 **Takeaway**: Memorization and generalization are not inherently opposed; implicit biases in architecture and optimization, along with benign forms of memorization, enable deep learning models to generalize effectively despite memorizing training data.
+
 ## Links
 
 - [Implicit Bias in Deep Learning: A Survey of Generalization and Memorization](https://arxiv.org/abs/1906.11300) : This paper explores the implicit biases in deep learning models that favor simpler functions, which can lead to better generalization. It aligns with the discussion on architectural and optimization biases in the provided content.
@@ -45,18 +47,19 @@ The article explores the nuanced relationship between memorization and generaliz
 - [VC Dimension and Classical Learning Theory](https://en.wikipedia.org/wiki/Vapnik%E2%80%93Chervonenkis_dimension#In_statistical_learning_theory) : This Wikipedia page provides an overview of VC dimension, a fundamental concept in classical learning theory that captures the tradeoff between memorization capacity and generalization. It is referenced in the content to explain classical perspectives on overfitting and generalization.
 - [Stochastic Parrots: The Dangers of Language Models Memorizing Training Data](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web) : This New Yorker article by Ted Chiang critiques language models as 'blurry JPEGs of the web,' emphasizing their reliance on memorization. It is relevant to the content's discussion on language models and their generalization capabilities.
 
+
 ## Topics
 
 ![[topics/Concept/Memorization vs Generalization]]
 
 ![[topics/Concept/Benign Overfitting]]
 
-![[topics/Concept/Implicit Biases in Machine Learning]]
-
-![[topics/Concept/Neural Race Reduction]]
-
 ![[topics/Concept/Architectural Biases in Neural Networks]]
 
 ![[topics/Concept/Optimization Biases]]
+
+![[topics/Concept/Implicit Biases in Machine Learning]]
+
+![[topics/Concept/Neural Race Reduction]]
 
 ![[topics/Concept/Episodic Recall in Machine Learning]]

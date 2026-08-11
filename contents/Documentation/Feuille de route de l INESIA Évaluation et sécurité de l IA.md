@@ -11,6 +11,7 @@ upload_date: '2026-04-02'
 ---
 
 https://www.sgdsn.gouv.fr/files/files/Nos_missions/Feuille%20de%20route%20INESIA%202026-2027.pdf
+
 ## Summary
 
 L’INESIA, créé en 2025, est un institut public français dédié à l’évaluation et à la sécurité de l’IA, regroupant l’ANSSI, Inria, le LNE et le PEReN. Sa mission est de structurer une capacité souveraine d’évaluation des IA avancées, en appui à la régulation (RIA), à la maîtrise des risques systémiques et à la performance des modèles.
@@ -44,25 +45,27 @@ L’INESIA, créé en 2025, est un institut public français dédié à l’éva
 - Construire une démarche scientifique et stratégique pour l’évaluation de l’IA.
 - Structurer une capacité souveraine et interopérable avec les initiatives européennes et internationales.
 - Fédérer les acteurs publics, académiques et industriels pour une innovation responsable.
+
 ## Links
+
 
 
 ## Topics
 
-![[topics/Concept/AI Evaluation]]
-
-![[topics/Concept/Systemic Risks of AI]]
-
 ![[topics/Concept/AI Safety]]
 
-![[topics/Concept/Cybersecurity of AI Systems]]
-
-![[topics/Concept/AI Agent Evaluation]]
+![[topics/Concept/AI Evaluation]]
 
 ![[topics/Concept/AI Governance and Regulation]]
 
+![[topics/Platform/AI Evaluation Platforms]]
+
+![[topics/Concept/Systemic Risks of AI]]
+
 ![[topics/Concept/AI Generated Content Detection]]
+
+![[topics/Concept/AI Agent Evaluation]]
 
 ![[topics/Concept/AI Robustness and Resilience]]
 
-![[topics/Platform/AI Evaluation Platforms]]
+![[topics/Concept/Cybersecurity of AI Systems]]

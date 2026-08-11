@@ -11,6 +11,7 @@ upload_date: '2026-01-03'
 ---
 
 https://research.google/blog/ds-star-a-state-of-the-art-versatile-data-science-agent/
+
 ## Summary
 
 DS-STAR is a state-of-the-art data science agent designed to automate a wide range of tasks, including statistical analysis, visualization, and data wrangling across various data types. It excels in handling diverse and heterogeneous data formats, addressing limitations of current data science agents that primarily rely on well-structured data like CSV files.
@@ -29,19 +30,21 @@ Evaluation results show that DS-STAR outperforms existing state-of-the-art metho
 Ablation studies confirmed the effectiveness of DS-STAR’s components, such as the Data File Analyzer and Router agent, and showed the framework's generalizability across different LLMs. The analysis also revealed that difficult tasks require more iterations, with hard tasks needing an average of 5.6 rounds compared to 3.0 rounds for easy tasks.
 
 In conclusion, DS-STAR automates complex data science tasks, making data science more accessible and driving innovation across various fields.
+
 ## Links
 
 - [DS-STAR Framework](https://arxiv.org/pdf/2506.23719) : This link points to the research paper detailing the DS-STAR framework, which is the main subject of the provided content. It includes the technical details, methodology, and results of the DS-STAR agent.
 - [DABStep Benchmark](https://huggingface.co/spaces/adyen/DABstep) : This link points to the DABStep benchmark, which is mentioned in the content as one of the benchmarks where DS-STAR achieved top-ranking performance. It provides more information about the benchmark and its tasks.
 
-## Topics
 
-![[topics/Concept/Data Science Agent]]
+## Topics
 
 ![[topics/Concept/Data Wrangling]]
 
-![[topics/Concept/Data Mining Modeling]]
-
 ![[topics/Concept/Machine Intelligence]]
+
+![[topics/Concept/Data Science Agent]]
+
+![[topics/Concept/Data Mining]]
 
 ![[topics/Concept/Natural Language Processing]]

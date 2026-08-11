@@ -11,6 +11,7 @@ upload_date: '2025-04-19'
 ---
 
 https://github.com/LearningCircuit/local-deep-research
+
 ## Summary
 
 Local Deep Research (LDR) is an AI-powered research assistant designed for deep, iterative research. It achieves ~95% accuracy on the SimpleQA benchmark using GPT-4.1-mini and supports both local and cloud-based large language models (LLMs) like Ollama, Google, and Anthropic. LDR can search over 10 sources, including arXiv, PubMed, web, and private documents, all while maintaining a local focus.
@@ -27,6 +28,7 @@ Key features include:
 - **Supported LLMs**: Local models via Ollama (Llama 3, Mistral, Gemma, DeepSeek) and cloud models (OpenAI, Anthropic, Google).
 
 LDR is open-source under the MIT license and includes comprehensive documentation and community support.
+
 ## Links
 
 - [Local Deep Research PyPI](https://pypi.org/project/local-deep-research/) : The PyPI page for Local Deep Research, providing installation and usage details for the Python package.
@@ -34,6 +36,7 @@ LDR is open-source under the MIT license and includes comprehensive documentatio
 - [Ollama AI](https://ollama.ai) : The official website for Ollama, a platform for running local large language models.
 - [Local Deep Research Docker Hub](https://hub.docker.com/r/localdeepresearch/local-deep-research) : The Docker Hub page for Local Deep Research, providing containerized deployment options.
 - [FAISS GitHub Repository](https://github.com/facebookresearch/faiss) : The GitHub repository for FAISS, a library for efficient similarity search and clustering of dense vectors.
+
 
 ## Topics
 

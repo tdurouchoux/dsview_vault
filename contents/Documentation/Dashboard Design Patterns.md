@@ -11,6 +11,7 @@ upload_date: '2022-11-17'
 ---
 
 https://dashboarddesignpatterns.github.io/
+
 ## Summary
 
 This content discusses dashboard design patterns, which are collected to aid in the design and creative exploration of dashboards. The patterns are derived from research published in the IEEE VIS Conference/Journal of Transactions on Visualization and Computer Graphics (TVCG) in 2023.
@@ -30,10 +31,12 @@ This content discusses dashboard design patterns, which are collected to aid in 
   The research and patterns are developed by a team from various universities, including the University of Edinburgh, University of Glasgow, King’s College London, University of Warwick, and University of Oxford.
 
 The content also provides downloadable cheatsheets for the design patterns and information on the hosting platform (GitHub Pages).
+
 ## Links
 
 - [Dashboard Design Patterns Cheatsheet (compact version)](https://github.com/dashboarddesignpatterns/dashboarddesignpatterns.github.io/raw/main/docs/assets/Cheatsheet-compact.png) : A compact version of the cheatsheet for dashboard design patterns, providing a quick reference for designers.
 - [Dashboard Design Patterns Cheatsheet (vertical version)](https://github.com/dashboarddesignpatterns/dashboarddesignpatterns.github.io/raw/main/docs/assets/Cheatsheet-vertical.png) : A vertical version of the cheatsheet for dashboard design patterns, offering an alternative layout for easy reference.
+
 
 ## Topics
 

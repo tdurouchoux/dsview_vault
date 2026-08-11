@@ -12,6 +12,7 @@ upload_date: '2025-05-28'
 ---
 
 https://dynomight.net/numpy/
+
 ## Summary
 
 The author expresses a love-hate relationship with NumPy, a popular Python library for array computations, highlighting its elegance for simple tasks but criticizing its complexity and lack of clarity for more intricate operations. The main issues discussed include:
@@ -25,11 +26,13 @@ The author expresses a love-hate relationship with NumPy, a popular Python libra
 4. **Self-Attention Example**: The author provides an example of implementing self-attention, a core component of modern language models, highlighting the complexity and lack of readability in NumPy's approach compared to a hypothetical loop-based implementation.
 
 The author concludes by suggesting that NumPy's design flaws stem from its reliance on broadcasting and the removal of indices, which leads to a lack of clarity and usability. They hint at having a better solution but defer discussing it to a future post.
+
 ## Links
 
 - [NumPy einsum documentation](https://numpy.org/doc/stable/reference/generated/numpy.einsum.html) : Documentation for the NumPy einsum function, which is used for Einstein summation.
 - [NumPy broadcasting documentation](https://numpy.org/doc/stable/user/basics.broadcasting.html) : Documentation for NumPy broadcasting, which is a powerful mechanism for vectorizing array operations, as discussed in the article.
 - [NumPy tensordot documentation](https://numpy.org/doc/stable/reference/generated/numpy.tensordot.html) : Documentation for the NumPy tensordot function, which is used for tensor contractions.
+
 
 ## Topics
 

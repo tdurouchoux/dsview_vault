@@ -12,6 +12,7 @@ upload_date: '2024-04-10'
 ---
 
 https://python.plainenglish.io/top-5-python-frontend-libraries-for-data-science-part-2-4d07a48d2fde
+
 ## Summary
 
 The article discusses five Python frontend libraries for data science, focusing on their applications and key features.
@@ -27,6 +28,7 @@ The article discusses five Python frontend libraries for data science, focusing 
 5. **Plotly Dash**: A powerful framework for creating production-ready, customizable, and interactive web applications. It's highly popular with extensive resources but may require a commercial license for enterprise projects and has a learning curve, especially without React.js experience.
 
 The choice of library depends on the project's needs, complexity, and desired customization level. The article concludes by recommending specific libraries for different use cases.
+
 ## Links
 
 - [Voila Documentation](https://voila.readthedocs.io/en/stable/) : Official documentation for Voila, a library for turning Jupyter notebooks into standalone web applications.
@@ -34,6 +36,7 @@ The choice of library depends on the project's needs, complexity, and desired cu
 - [Panel Dashboard Tutorial](https://panel.holoviz.org/tutorials/basic/build_dashboard.html) : Tutorial on building dashboards with Panel, a library for developing robust dashboards and tools.
 - [PyWebIO Documentation](https://pywebio.readthedocs.io/en/latest/) : Documentation for PyWebIO, a library for building simple web applications or browser-based GUI applications.
 - [Dash Gallery](https://dash.gallery/Portal/) : Gallery showcasing various examples of Dash applications, a framework for building analytical web applications.
+
 
 ## Topics
 

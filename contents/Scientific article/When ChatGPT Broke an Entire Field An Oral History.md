@@ -12,6 +12,7 @@ upload_date: '2025-05-07'
 ---
 
 https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/
+
 ## Summary
 
 The article discusses the transformative impact of large language models (LLMs) on the field of natural language processing (NLP). Key points include:
@@ -31,6 +32,7 @@ The article discusses the transformative impact of large language models (LLMs) 
 7. **Future Perspectives**: Opinions vary on whether LLMs represent a paradigm shift. Some see it as a significant change, while others view it as an evolution of existing principles.
 
 The article concludes with reflections on the future of NLP and AI, highlighting the ongoing debates and the need for rigorous scientific inquiry.
+
 ## Links
 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) : The original paper introducing the transformer architecture, which revolutionized the field of natural language processing.
@@ -38,6 +40,7 @@ The article concludes with reflections on the future of NLP and AI, highlighting
 - [OpenAI GPT-3](https://openai.com/index/language-models-are-few-shot-learners/) : Information about GPT-3, a large language model developed by OpenAI that has significantly impacted the field of natural language processing.
 - [On the Dangers of Stochastic Parrots](https://dl.acm.org/doi/10.1145/3442188.3445922) : A critical paper discussing the potential risks and ethical concerns associated with large language models.
 - [OLMo](https://allenai.org/blog/olmo-open-language-model-87ccfc95f580) : An open-source language model developed by the Allen Institute for AI, providing an alternative to proprietary models.
+
 
 ## Topics
 

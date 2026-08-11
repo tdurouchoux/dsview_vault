@@ -12,6 +12,7 @@ upload_date: '2025-09-17'
 ---
 
 https://ai.meta.com/blog/dinov3-self-supervised-vision-model/
+
 ## Summary
 
 - **Introduction of DINOv3**: Meta AI Research introduces DINOv3, a self-supervised learning model for vision that achieves state-of-the-art performance across diverse domains like web and satellite imagery.
@@ -33,11 +34,13 @@ https://ai.meta.com/blog/dinov3-self-supervised-vision-model/
 - **Community and Future**:
   - Encourages community involvement and continuous iteration based on feedback.
   - Releases training code, pre-trained backbones, and evaluation heads to foster innovation.
+
 ## Links
 
 - [DINOv3 GitHub Repository](https://github.com/facebookresearch/dinov3) : The GitHub repository for DINOv3, where you can find the training code and pre-trained backbones released under a commercial license.
 - [DINOv3 Research Paper](https://arxiv.org/abs/2405.01469) : The research paper detailing the architecture, training process, and performance benchmarks of DINOv3.
 - [World Resources Institute (WRI) Use Case](http://ai.meta.com/blog/world-resources-institute-dinov3) : An article explaining how WRI uses DINOv3 for monitoring deforestation and supporting ecosystem restoration through satellite imagery analysis.
+
 
 ## Topics
 

@@ -11,6 +11,7 @@ upload_date: '2024-09-24'
 ---
 
 https://github.com/rio-labs/rio
+
 ## Summary
 
 Rio is a Python-based framework for creating web applications without requiring HTML, CSS, or JavaScript. It offers a modern, declarative UI framework with over 50 built-in components for common UI elements. Key features include:
@@ -37,11 +38,13 @@ Rio is a Python-based framework for creating web applications without requiring 
 
 **Topics**:
 - Python, App, Data Science, Machine Learning, GUI, Framework, Web, Data Visualization, Developer Tools, Data Analysis, CRUD Application.
+
 ## Links
 
 - [Rio Labs GitHub Repository](https://github.com/rio-labs/rio) : The GitHub repository for Rio, a framework for creating web apps in pure Python without needing HTML, CSS, or JavaScript.
 - [Rio Documentation](https://rio.dev/docs?s=t9s) : Official documentation for Rio, providing detailed guides and references for using the Rio framework.
 - [Rio Examples](https://rio.dev/examples?s=g8r) : A collection of examples demonstrating how to use the Rio framework to build various web applications.
+
 
 ## Topics
 

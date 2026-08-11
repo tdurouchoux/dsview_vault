@@ -12,6 +12,7 @@ upload_date: '2024-04-29'
 ---
 
 https://github.com/pytorch/torchtune
+
 ## Summary
 
 Torchtune is a PyTorch library designed for post-training large language models (LLMs). It offers hackable training recipes for various tasks such as supervised fine-tuning (SFT), knowledge distillation, direct preference optimization (DPO), proximal policy optimization (PPO), generative reinforcement learning (GRPO), and quantization-aware training. The library supports a wide range of state-of-the-art models like Llama, Gemma, Mistral, Phi, and Qwen, among others.
@@ -23,6 +24,7 @@ Key features include:
 - **Community and Integrations**: Integrates with popular tools like Hugging Face Hub, EleutherAI's LM Eval Harness, PyTorch FSDP2, and Weights & Biases for logging and tracking.
 
 The library is actively maintained, with recent updates adding support for new models like Qwen3, Llama4, and multi-node training capabilities. It is released under the BSD 3 license and encourages community contributions.
+
 ## Links
 
 - [PyTorch TorchTune Installation Guide](https://pytorch.org/torchtune/main/install.html) : This link provides detailed instructions on how to install the TorchTune library, including both stable and nightly releases. It also covers installation from source and verification of the installation.
@@ -30,6 +32,7 @@ The library is actively maintained, with recent updates adding support for new m
 - [TorchTune Memory Optimizations](https://pytorch.org/torchtune/main/tutorials/memory_optimizations.html) : This link provides tutorials on memory optimizations and performance improvements for training large language models with TorchTune, including techniques like activation checkpointing, packed datasets, and lower precision optimizers.
 - [Hugging Face Hub Documentation](https://huggingface.co/docs/hub/en/index) : This link directs to the Hugging Face Hub documentation, which is relevant for accessing model weights and datasets used in TorchTune.
 - [Llama Model Documentation](https://www.llama.com/docs/model-cards-and-prompt-formats/llama3_2) : This link provides documentation for the Llama models, including model cards and prompt formats, which are supported and used in TorchTune for finetuning and other post-training tasks.
+
 
 ## Topics
 

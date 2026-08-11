@@ -11,6 +11,7 @@ upload_date: '2026-07-22'
 ---
 
 https://github.com/unitycatalog/unitycatalog
+
 ## Summary
 
 Unity Catalog is an open-source, multi-modal catalog for data and AI assets, supporting formats like Delta Lake, Apache Iceberg, Apache Hudi, Parquet, JSON, and CSV. It offers multi-engine compatibility via open APIs and supports governance for tabular data, unstructured assets, and AI models. Licensed under Apache 2.0, it is compatible with Apache Hive and Iceberg REST APIs, and is a sandbox project under LF AI & Data Foundation.
@@ -32,6 +33,7 @@ Build & deploy:
 - Supports Java 17+ and IDE integration (IntelliJ recommended).
 
 Ecosystem: Backed by major companies (AWS, Google Cloud, NVIDIA, etc.). Roadmap and docs available at [unitycatalog.io](https://unitycatalog.io/). APIs are evolving and not yet stable.
+
 ## Links
 
 - [Unity Catalog Official Documentation](https://docs.unitycatalog.io/) : Official documentation for Unity Catalog, providing detailed guides, API references, and usage instructions for the open, multi-modal catalog for data and AI.
@@ -40,18 +42,19 @@ Ecosystem: Backed by major companies (AWS, Google Cloud, NVIDIA, etc.). Roadmap 
 - [DuckDB Installation Guide](https://duckdb.org/docs/installation/) : Official installation guide for DuckDB, a high-performance in-process analytical database that can interact with Unity Catalog for querying data.
 - [LF AI & Data Foundation Projects](https://lfaidata.foundation/projects) : Overview of projects hosted under the LF AI & Data Foundation, including Unity Catalog, which is a sandbox project within this foundation. Provides context about its governance and ecosystem.
 
+
 ## Topics
 
-![[topics/Platform/Unity Catalog]]
-
-![[topics/Concept/Multi modal Data Catalog]]
+![[topics/Concept/Data Governance]]
 
 ![[topics/Tool/UniForm]]
 
 ![[topics/Library/Delta Kernel]]
 
-![[topics/Concept/OpenAPI Specification]]
-
 ![[topics/Tool/UC CLI]]
 
-![[topics/Concept/Data Governance]]
+![[topics/Concept/Multi modal Data Catalog]]
+
+![[topics/Concept/OpenAPI Specification]]
+
+![[topics/Platform/Unity Catalog]]

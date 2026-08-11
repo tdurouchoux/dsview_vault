@@ -12,6 +12,7 @@ upload_date: '2024-10-02'
 ---
 
 https://data-people-group.github.io/blogs/2024/09/24/docetl/
+
 ## Summary
 
 DocETL is an open-source system designed to simplify the creation of LLM-powered data processing pipelines for unstructured documents. It addresses challenges in processing complex, large-scale documents by offering declarative operators that enable powerful optimization. Key features include:
@@ -23,11 +24,13 @@ DocETL is an open-source system designed to simplify the creation of LLM-powered
 5. **Future Vision**: Aims to develop a no-code, interactive system with fast, transparent optimization processes and reliable LLM agents.
 
 DocETL is available for exploration and contribution via its demo, GitHub repository, and Discord community.
+
 ## Links
 
 - [DocETL Documentation](https://ucbepic.github.io/docetl/) : Official documentation for DocETL, providing detailed information on how to use the system for LLM-powered data processing pipelines.
 - [DocETL GitHub Repository](https://github.com/ucbepic/docetl) : The GitHub repository for DocETL, where you can find the source code, contribute to the project, and stay updated on its development.
 - [DocETL Demo](https://www.docetl.com/) : A live demo of DocETL, showcasing its capabilities in analyzing unstructured data, specifically focusing on US presidential debates.
+
 
 ## Topics
 

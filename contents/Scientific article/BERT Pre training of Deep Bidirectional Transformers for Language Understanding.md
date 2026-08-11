@@ -12,6 +12,7 @@ upload_date: '2025-02-20'
 ---
 
 https://arxiv.org/pdf/1810.04805
+
 ## Summary
 
 The paper introduces BERT (Bidirectional Encoder Representations from Transformers), a new language representation model designed to pre-train deep bidirectional representations from unlabeled text. Unlike previous models, BERT jointly conditions on both left and right context in all layers, allowing it to be fine-tuned with minimal task-specific architecture modifications for a wide range of tasks.
@@ -33,7 +34,9 @@ Key points and takeaways:
 6. **Comparison with ELMo and OpenAI GPT**: BERT is compared with ELMo and OpenAI GPT, highlighting the differences in architecture, pre-training tasks, and fine-tuning procedures. The paper argues that the bidirectional pre-training and the two pre-training tasks account for the majority of the empirical improvements.
 
 In summary, BERT is a powerful and versatile language representation model that achieves state-of-the-art results on a wide range of NLP tasks. Its bidirectional pre-training and the use of two unsupervised tasks make it particularly effective for fine-tuning on downstream tasks.
+
 ## Links
+
 
 
 ## Topics

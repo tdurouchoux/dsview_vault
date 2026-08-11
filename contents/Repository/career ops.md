@@ -11,6 +11,7 @@ upload_date: '2026-04-27'
 ---
 
 https://github.com/santifer/career-ops
+
 ## Summary
 
 **Career-Ops** is an open-source, AI-powered job search system built on **Claude Code** and **Gemini CLI**, designed to automate and optimize the job application process. It evaluates job offers using a structured **A-F scoring system** (10 weighted dimensions), generates **ATS-optimized PDF resumes**, scans job portals (e.g., Greenhouse, Ashby, Lever), and processes applications in **batch mode**.
@@ -51,6 +52,7 @@ https://github.com/santifer/career-ops
 - **No guarantees**: AI may hallucinate; always review outputs.
 
 **GitHub**: [santifer/career-ops](https://github.com/santifer/career-ops) | **License**: MIT
+
 ## Links
 
 - [Gemini CLI Repository](https://github.com/google-gemini/gemini-cli) : Official repository for Google's Gemini CLI, which can be used as an alternative AI-powered CLI tool for running Career-Ops.
@@ -58,20 +60,21 @@ https://github.com/santifer/career-ops
 - [Career-Ops Official Website](https://career-ops.org) : Official website for Career-Ops, providing additional details, documentation, and updates about the project.
 - [Santifer's Personal Website](https://santifer.io) : Personal website of Santiago, the creator of Career-Ops, featuring career-related tools and projects.
 
+
 ## Topics
 
-![[topics/Tool/Playwright]]
-
-![[topics/Platform/ATS Applicant Tracking System]]
-
-![[topics/Library/Bubble Tea]]
-
-![[topics/Library/Lipgloss]]
-
-![[topics/Concept/Terminal User Interface TUI]]
-
-![[topics/Tool/Go]]
+![[topics/Concept/AI Agent Workflows]]
 
 ![[topics/Tool/Claude Code]]
 
-![[topics/Concept/Agentic Workflows]]
+![[topics/Library/Bubble Tea]]
+
+![[topics/Tool/Go]]
+
+![[topics/Tool/Playwright]]
+
+![[topics/Concept/Terminal User Interface TUI]]
+
+![[topics/Library/Lipgloss]]
+
+![[topics/Platform/ATS Applicant Tracking System]]

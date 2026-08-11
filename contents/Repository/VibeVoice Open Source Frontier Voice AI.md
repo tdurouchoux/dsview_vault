@@ -11,6 +11,7 @@ upload_date: '2026-04-29'
 ---
 
 https://github.com/microsoft/VibeVoice
+
 ## Summary
 
 VibeVoice is Microsoft's open-source frontier voice AI framework, offering **Text-to-Speech (TTS)** and **Automatic Speech Recognition (ASR)** models. Key innovations include **continuous speech tokenizers (7.5 Hz frame rate)** and a **next-token diffusion framework** combining LLMs for context and diffusion heads for high-fidelity audio.
@@ -44,6 +45,7 @@ VibeVoice is Microsoft's open-source frontier voice AI framework, offering **Tex
 - **Docs**: [Project Page](https://microsoft.github.io/VibeVoice/)
 - **Playground**: [ASR Demo](https://huggingface.co/spaces/microsoft/VibeVoice-ASR-Playground)
 - **Code**: [GitHub](https://github.com/microsoft/VibeVoice) (MIT License).
+
 ## Links
 
 - [VibeVoice Project Page](https://microsoft.github.io/VibeVoice) : The official project page for VibeVoice, providing detailed information, demos, and examples of the open-source Frontier Voice AI models, including ASR, TTS, and Realtime models.
@@ -52,7 +54,10 @@ VibeVoice is Microsoft's open-source frontier voice AI framework, offering **Tex
 - [VibeVoice-ASR Colab Demo](https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/VibeVoice_colab.ipynb) : A Google Colab notebook demonstrating the usage of VibeVoice-ASR for long-form speech recognition, allowing users to try the model interactively.
 - [VibeVoice ASR Technique Report (ArXiv)](https://arxiv.org/pdf/2601.18184) : The technical report for VibeVoice-ASR, detailing the methodology, innovations, and performance metrics of the model.
 
+
 ## Topics
+
+![[topics/Platform/Hugging Face]]
 
 ![[topics/Model/VibeVoice ASR]]
 
@@ -60,12 +65,10 @@ VibeVoice is Microsoft's open-source frontier voice AI framework, offering **Tex
 
 ![[topics/Model/VibeVoice Realtime 0 5B]]
 
-![[topics/Concept/Continuous Speech Tokenizers]]
-
-![[topics/Concept/Next Token Diffusion Framework]]
-
-![[topics/Platform/Hugging Face]]
-
 ![[topics/Concept/Structured Transcription]]
 
+![[topics/Concept/Continuous Speech Tokenizers]]
+
 ![[topics/Concept/Customized Hotwords]]
+
+![[topics/Concept/Next Token Diffusion Framework]]

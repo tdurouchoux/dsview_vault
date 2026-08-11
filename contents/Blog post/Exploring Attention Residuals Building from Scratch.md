@@ -11,6 +11,7 @@ upload_date: '2026-04-28'
 ---
 
 https://www.evanlin.ca/writing/exploring-attnres
+
 ## Summary
 
 The post details a hands-on exploration of the **Attention Residuals** paper (Kimi Team, 2026) by reimplementing it from scratch in PyTorch. Key technical takeaways:
@@ -35,24 +36,26 @@ The post details a hands-on exploration of the **Attention Residuals** paper (Ki
    - Notes limitations like the "useless" first alpha gate (queries only the embedding) and suggests future work (e.g., Block AttnRes, RoPE).
 
 **Why It Matters**: The exercise bridges theory and practice, revealing implementation nuances critical for debugging, hardware design, or novel architectures. Full code is available in the linked repository.
+
 ## Links
 
 - [Attention Residuals Paper (Kimi Team, 2026)](https://arxiv.org/abs/2603.15031) : This is the original research paper titled 'Attention Residuals' by the Kimi Team (2026). It introduces the concept of attention residuals, a mechanism that enables layers in a transformer to directly query and route information from previous layers, improving gradient flow and reducing the dilution of early-layer signals. The paper is the primary source of inspiration for the content discussed in the provided text.
 - [GitHub Repository for Toy Attention Residuals](https://github.com/eevaain/toy-attention-residuals) : This GitHub repository contains the full implementation of the 'Attention Residuals' concept as reimplemented from scratch in PyTorch. It includes the code, training logs, and other artifacts referenced in the provided content. The repository is a practical resource for understanding the implementation details and experimenting with the architecture.
 - [YouTube Video on Attention Mechanisms](https://www.youtube.com/watch?v=LSHTkbnmzy4) : This YouTube video provided initial intuition about attention mechanisms and how they route information in transformers. It served as a foundational resource for the author before diving into the reimplementation of the 'Attention Residuals' paper. The video likely explains attention in a more accessible way, helping bridge the gap between abstract math and practical implementation.
 
+
 ## Topics
-
-![[topics/Concept/Attention Residuals]]
-
-![[topics/Concept/Alpha Gate]]
-
-![[topics/Concept/History Database]]
-
-![[topics/Concept/Gradient Highways]]
-
-![[topics/Concept/Pre norms and Routing Norms]]
 
 ![[topics/Concept/FlashAttention]]
 
 ![[topics/Concept/Memory Bandwidth Bottleneck]]
+
+![[topics/Concept/Alpha Gate]]
+
+![[topics/Concept/Attention Residuals]]
+
+![[topics/Concept/History Database]]
+
+![[topics/Concept/Pre norms and Routing Norms]]
+
+![[topics/Concept/Gradient Highways]]

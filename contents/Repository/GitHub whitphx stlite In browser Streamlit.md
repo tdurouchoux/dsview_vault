@@ -11,6 +11,7 @@ upload_date: '2025-01-02'
 ---
 
 https://github.com/whitphx/stlite
+
 ## Summary
 
 Stlite is a project that enables Streamlit, a Python web app framework for data apps, to run entirely in a web browser using Pyodide and WebAssembly. Key points include:
@@ -28,16 +29,18 @@ Stlite is a project that enables Streamlit, a Python web app framework for data 
 - **Top-level Await**: Supports top-level await for async operations, useful for non-blocking operations like `asyncio.sleep()` and `pyodide.http.pyfetch()`.
 
 Stlite is open-source under the Apache-2.0 license and has a community of contributors. It is sponsored by Streamlit (Snowflake), Hal9, and RAKUDEJI Inc.
+
 ## Links
 
 - [Streamlit meets WebAssembly - stlite](https://onlyweb.hashnode.dev/is-this-the-easiest-way-to-build-your-streamlit-app) : A blog post covering technical surveys and usages of the online editor Stlite Sharing, self-hosting apps, and the desktop app bundler.
 - [Streamlit Community](https://discuss.streamlit.io/t/new-library-stlite-a-port-of-streamlit-to-wasm-powered-by-pyodide/25556) : The Stlite thread at the Streamlit online forum.
 - [Streamlit](https://streamlit.io/) : Streamlit is a Python web app framework for the fast development of data apps.
 
+
 ## Topics
 
 ![[topics/Concept/Pyodide]]
 
-![[topics/Concept/WebAssembly]]
+![[topics/Concept/WebAssembly WASM]]
 
 ![[topics/Library/Stlite]]

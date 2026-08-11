@@ -13,6 +13,7 @@ upload_date: '2025-04-29'
 ---
 
 https://www.promptingguide.ai/fr/introduction
+
 ## Summary
 
 Prompt engineering is a new discipline focused on developing and optimizing prompts to effectively use language models (LMs) across various applications and research areas. It helps understand the capabilities and limitations of large language models (LLMs). Researchers and developers use prompt engineering to enhance LLM performance on tasks like question answering and arithmetic reasoning.
@@ -74,17 +75,19 @@ The guide covers prompt basics, including:
 
 **Tools and Resources**:
 - **Notebooks, Datasets, Papers, Guides, and Courses** on prompt engineering and related topics.
+
 ## Links
 
 - [Prompt Engineering Guide GitHub Repository](https://github.com/dair-ai/Prompt-Engineering-Guide) : The GitHub repository for the Prompt Engineering Guide, containing the source code and documentation for the guide.
+
 
 ## Topics
 
 ![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Prompt Engineering]]
+![[topics/Concept/Prompt Engineering and Optimization]]
 
-![[topics/Concept/Chain of Thought Prompting]]
+![[topics/Concept/Chain of Thought]]
 
 ![[topics/Concept/Few shot Prompting]]
 

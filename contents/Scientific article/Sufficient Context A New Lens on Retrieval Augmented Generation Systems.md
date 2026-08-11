@@ -11,6 +11,7 @@ upload_date: '2025-05-30'
 ---
 
 https://arxiv.org/pdf/2411.06037
+
 ## Summary
 
 The paper introduces a new concept of "sufficient context" to analyze Retrieval Augmented Generation (RAG) systems, aiming to understand whether errors arise from insufficient context or the model's inability to utilize the context. The authors develop a method to classify instances based on whether the context provides enough information to answer the query, using an LLM-based autorater. Key findings include:
@@ -24,7 +25,9 @@ The paper introduces a new concept of "sufficient context" to analyze Retrieval 
 4. **Fine-Tuning Limitations**: Fine-tuning open-source models with sufficient context information does not easily reduce the hallucination rate and may lead to higher abstention rates at the cost of fewer correct answers.
 
 The paper concludes by discussing the limitations and future work, such as extending the definition of sufficient context to multi-modal RAG settings and developing a fine-grained sufficient context autorater. The study provides insights into the behavior of RAG systems and offers practical methods to improve their performance.
+
 ## Links
+
 
 
 ## Topics

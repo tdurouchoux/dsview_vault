@@ -11,6 +11,7 @@ upload_date: '2024-10-29'
 ---
 
 https://github.com/microsoft/data-formulator
+
 ## Summary
 
 Data Formulator is an AI-powered tool from Microsoft Research designed to expedite data visualization by leveraging large language models. It combines user interface interactions with natural language inputs, making it easier for users to create rich visualizations. Key features include:
@@ -28,6 +29,7 @@ Data Formulator is an AI-powered tool from Microsoft Research designed to expedi
 6. **Research Backing**: The tool is supported by research papers published in arXiv and IEEE Transactions on Visualization and Computer Graphics.
 
 Overall, Data Formulator aims to simplify the data visualization process by integrating AI-driven data transformation with user-friendly interface interactions.
+
 ## Links
 
 - [Data Formulator 0.1.6 release notes](https://github.com/microsoft/data-formulator/releases/tag/0.1.6) : Release notes for Data Formulator version 0.1.6, highlighting new features and improvements.
@@ -35,6 +37,7 @@ Overall, Data Formulator aims to simplify the data visualization process by inte
 - [Data Formulator 0.2 release notes](https://github.com/microsoft/data-formulator/releases/tag/0.2) : Release notes for Data Formulator version 0.2, focusing on working with large data and improved system performance.
 - [Data Formulator Research Paper](https://arxiv.org/abs/2408.16119) : Research paper titled 'Data Formulator 2: Iteratively Creating Rich Visualizations with AI' published on arXiv.
 - [Data Formulator Blog Post](https://www.microsoft.com/en-us/research/blog/data-formulator-exploring-how-ai-can-help-analysts-create-rich-data-visualizations/) : Blog post exploring how AI can help analysts create rich data visualizations using Data Formulator.
+
 
 ## Topics
 

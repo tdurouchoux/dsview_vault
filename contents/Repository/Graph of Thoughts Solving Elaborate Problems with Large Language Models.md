@@ -12,6 +12,7 @@ upload_date: '2023-09-14'
 ---
 
 https://github.com/spcl/graph-of-thoughts
+
 ## Summary
 
 The "Graph of Thoughts" (GoT) framework is designed to solve complex problems by modeling them as a Graph of Operations (GoO), executed using a Large Language Model (LLM) as the engine. This approach is flexible and extensible, allowing for the implementation of various problem-solving strategies, including Chain of Thought (CoT) and Tree of Thought (ToT).
@@ -26,9 +27,11 @@ Key points include:
 - **Citations**: The repository encourages users to cite the associated paper if they find the framework valuable.
 
 The framework is well-documented, with a focus on making it easy for users to understand and extend its functionality.
+
 ## Links
 
 - [Graph of Thoughts Research Paper](https://arxiv.org/pdf/2308.09687.pdf) : This link points to the research paper titled 'Graph of Thoughts: Solving Elaborate Problems with Large Language Models' which is the foundation of the project. It provides detailed insights into the methodology and theoretical framework behind the Graph of Thoughts approach.
+
 
 ## Topics
 

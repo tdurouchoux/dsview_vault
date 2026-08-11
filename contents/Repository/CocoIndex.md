@@ -11,6 +11,7 @@ upload_date: '2026-05-02'
 ---
 
 https://cocoindex.io/
+
 ## Summary
 
 CocoIndex is an open-source incremental data framework designed to provide continuously fresh context for AI agents by processing only the delta (changes) in data sources like codebases, meeting notes, emails, videos, etc. Key technical features include:
@@ -34,6 +35,7 @@ CocoIndex is an open-source incremental data framework designed to provide conti
 - Mental model: "React for data engineering" (declarative state sync).
 
 **Adoption**: Production-ready in ~10 minutes; praised for optimizations (incremental processing, parallelism) and community.
+
 ## Links
 
 - [CocoIndex Documentation](https://cocoindex.io/docs/) : Official documentation for CocoIndex, including guides, API references, and setup instructions for using the framework.
@@ -42,22 +44,23 @@ CocoIndex is an open-source incremental data framework designed to provide conti
 - [CocoIndex Code Repository](https://github.com/cocoindex-io/cocoindex) : The official GitHub repository for CocoIndex, where users can access the source code, contribute to the project, and explore advanced configurations.
 - [Real-Time Codebase Indexing Example](https://github.com/cocoindex-io/realtime-codebase-indexing) : A practical example of using CocoIndex for real-time indexing of codebases, providing a template for similar implementations.
 
+
 ## Topics
-
-![[topics/Library/CocoIndex]]
-
-![[topics/Concept/Incremental Data Processing]]
-
-![[topics/Concept/Call Graphs]]
 
 ![[topics/Concept/Knowledge Graph]]
 
-![[topics/Concept/Pipeline Catalog]]
-
 ![[topics/Concept/Data Lineage]]
-
-![[topics/Concept/Memoization]]
 
 ![[topics/Platform/PostgreSQL]]
 
-![[topics/Concept/Semantic Indexing]]
+![[topics/Concept/Semantic Search]]
+
+![[topics/Concept/Incremental Data Processing]]
+
+![[topics/Concept/Memoization]]
+
+![[topics/Concept/Pipeline Catalog]]
+
+![[topics/Concept/Call Graphs]]
+
+![[topics/Library/CocoIndex]]

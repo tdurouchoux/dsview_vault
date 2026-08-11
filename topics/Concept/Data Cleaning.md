@@ -1,5 +1,0 @@
----
-type: Concept
----
-
-Data cleaning and wrangling is the process of identifying and correcting errors and inconsistencies in a dataset. It involves tasks such as removing duplicates, handling missing values, standardizing formats, and correcting inaccuracies. Data cleaning and wrangling is a critical step in the data preparation process, as it ensures that the data used for analysis is accurate, consistent, and reliable. Effective data cleaning and wrangling can significantly improve the quality of the insights derived from the data. Data cleaning and wrangling is often labor-intensive and requires a combination of automated tools and human judgment to ensure accuracy and consistency. This involves transforming raw data into a more usable format, often by combining, reshaping, and cleaning data.

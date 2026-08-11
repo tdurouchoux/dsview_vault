@@ -12,6 +12,7 @@ upload_date: '2025-03-04'
 ---
 
 https://posit-dev.github.io/pointblank/
+
 ## Summary
 
 Pointblank is a Python data validation framework designed to ensure data quality through comprehensive checks and interactive reports. It features a chainable API for quick validation and supports YAML configuration for portable, version-controlled workflows. Key functionalities include:
@@ -25,16 +26,18 @@ Pointblank is a Python data validation framework designed to ensure data quality
 - **Roadmap**: Ongoing enhancements include additional validation methods, advanced logging, messaging actions, and expanded backend support.
 
 Pointblank is licensed under the MIT license and is maintained by Rich Iannone, with contributions from the community.
+
 ## Links
 
 - [Pointblank GitHub Repository](https://github.com/posit-dev/pointblank) : The GitHub repository for Pointblank, a data validation framework for Python. It includes the source code, documentation, and other resources related to the project.
 - [Pointblank for R](https://github.com/rstudio/pointblank) : The GitHub repository for the R version of Pointblank, which has been around since 2017 and is widely used in the R community.
 
+
 ## Topics
 
 ![[topics/Library/DuckDB]]
 
-![[topics/Library/polars]]
+![[topics/Library/Polars]]
 
 ![[topics/Library/Ibis]]
 

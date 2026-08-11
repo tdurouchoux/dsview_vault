@@ -11,6 +11,7 @@ upload_date: '2026-07-22'
 ---
 
 https://docs.getdbt.com/docs/use-dbt-semantic-layer/dbt-sl
+
 ## Summary
 
 The **dbt Semantic Layer**, powered by **MetricFlow**, centralizes metric definitions in the modeling layer (dbt project) to ensure consistency across tools. Key features include:
@@ -34,6 +35,7 @@ The **dbt Semantic Layer**, powered by **MetricFlow**, centralizes metric defini
 - Integrations with BI tools (e.g., Tableau, Looker).
 
 **Goal**: Unify metric definitions for reliable, self-service analytics.
+
 ## Links
 
 - [dbt Certification](https://www.getdbt.com/dbt-certification) : Official certification program for dbt, which can help data professionals validate their skills in using dbt tools, including the Semantic Layer.
@@ -42,14 +44,15 @@ The **dbt Semantic Layer**, powered by **MetricFlow**, centralizes metric defini
 - [dbt Webinars](https://www.getdbt.com/resources/webinars) : A collection of webinars hosted by dbt Labs, which may cover topics related to the dbt Semantic Layer, its implementation, and use cases.
 - [dbt Community Forum](https://discourse.getdbt.com/) : An online community forum where users can discuss dbt-related topics, ask questions, and share knowledge about the dbt Semantic Layer and other features. This is a valuable resource for troubleshooting and learning from other practitioners.
 
+
 ## Topics
 
-![[topics/Tool/dbt Semantic Layer]]
-
-![[topics/Library/MetricFlow]]
+![[topics/Concept/Metrics Standardization and Layer]]
 
 ![[topics/Platform/dbt Data Build Tool]]
 
-![[topics/Concept/Metrics Standardization and Layer]]
+![[topics/Library/MetricFlow]]
+
+![[topics/Tool/dbt Semantic Layer]]
 
 ![[topics/Concept/Self Service Data Access]]

@@ -11,6 +11,7 @@ upload_date: '2024-12-28'
 ---
 
 https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/
+
 ## Summary
 
 The content introduces FACTS Grounding, a new benchmark developed by Google DeepMind to evaluate the factual accuracy and grounding of large language models (LLMs). The benchmark aims to address the issue of LLMs hallucinating false information, which can erode trust and limit their real-world applications.
@@ -26,10 +27,12 @@ Key points include:
 4. **Future Plans**: The benchmark will evolve to keep pace with progress, with the aim of continually raising the bar for factuality and grounding in LLMs.
 
 The initiative is a collaboration between Google DeepMind and Google Research, with contributions from various researchers and acknowledgments to supporting teams.
+
 ## Links
 
 - [FACTS Grounding Dataset](http://www.kaggle.com/datasets/deepmind/facts-grounding-examples) : The FACTS Grounding dataset, comprising 1,719 examples, is designed to evaluate the factuality and grounding of large language models (LLMs). It includes diverse documents and user requests across various domains, aiming to assess the models' ability to generate accurate and well-grounded responses.
 - [FACTS Leaderboard](http://www.kaggle.com/facts-leaderboard) : The FACTS Leaderboard on Kaggle tracks the performance of leading LLMs using the FACTS Grounding benchmark. It provides a measure of how accurately LLMs ground their responses in provided source material and avoid hallucinations, with scores based on both public and private evaluation sets.
+
 
 ## Topics
 

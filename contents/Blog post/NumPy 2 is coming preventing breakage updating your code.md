@@ -12,6 +12,7 @@ upload_date: '2024-01-18'
 ---
 
 https://pythonspeed.com/articles/numpy-2/
+
 ## Summary
 
 NumPy 2 is an upcoming major release with backward-incompatible changes, which may impact scientific and data science Python code. The article outlines steps to prevent breakage and update code:
@@ -24,9 +25,11 @@ NumPy 2 is an upcoming major release with backward-incompatible changes, which m
 6. **Be Prepared**: Regularly update dependencies and consider pre-emptive version limitations for libraries using semantic versioning.
 
 The article also briefly mentions the Sciagraph profiler for identifying performance and memory bottlenecks in data processing code, and a newsletter for learning practical tools and techniques in Python performance and Docker packaging.
+
 ## Links
 
 - [NumPy 2.0 Migration Guide](https://numpy.org/devdocs/numpy_2_0_migration_guide.html) : This link points to the official NumPy 2.0 migration guide, which provides detailed instructions on how to update your code to be compatible with NumPy 2.0. It includes information on deprecated APIs and how to replace them.
+
 
 ## Topics
 

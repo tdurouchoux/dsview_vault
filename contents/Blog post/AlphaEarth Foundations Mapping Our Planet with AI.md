@@ -12,6 +12,7 @@ upload_date: '2025-09-17'
 ---
 
 https://deepmind.google/discover/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/
+
 ## Summary
 
 AlphaEarth Foundations is an AI model developed by Google DeepMind that integrates vast amounts of Earth observation data to create a unified digital representation of the planet's terrestrial land and coastal waters. This model addresses the challenges of data overload and inconsistency by combining information from various sources, such as optical satellite images, radar, 3D laser mapping, and climate simulations. It analyzes the world in 10x10 meter squares, providing a detailed and consistent view of the planet's evolution.
@@ -24,6 +25,7 @@ Key features of AlphaEarth Foundations include:
 4. **Applications**: The Satellite Embedding dataset, powered by AlphaEarth Foundations, is used by organizations worldwide for tasks like classifying unmapped ecosystems, monitoring agricultural and environmental changes, and improving the accuracy and speed of mapping work.
 
 The model's capabilities are being explored further, with potential future applications in combining with general reasoning LLM agents like Gemini to enhance its time-based capabilities. The work is a collaboration between teams at Google DeepMind and Google Earth Engine.
+
 ## Links
 
 - [Google Earth Engine](https://earthengine.google.com/) : A platform for planetary-scale geospatial analysis and data visualization.
@@ -31,11 +33,12 @@ The model's capabilities are being explored further, with potential future appli
 - [Google Earth Engine Blog](https://medium.com/google-earth/ai-powered-pixels-introducing-googles-satellite-embedding-dataset-31744c1f4650) : Blog post introducing Google's Satellite Embedding dataset and its applications.
 - [Google Earth AI](http://blog.google/technology/ai/google-earth-ai) : A collection of geospatial models and datasets to help tackle the planet’s most critical needs.
 
+
 ## Topics
 
-![[topics/Model/Gemini]]
-
 ![[topics/Model/Gemma]]
+
+![[topics/Model/Gemini]]
 
 ![[topics/Model/Imagen]]
 

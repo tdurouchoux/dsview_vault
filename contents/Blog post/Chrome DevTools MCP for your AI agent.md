@@ -11,6 +11,7 @@ upload_date: '2025-10-04'
 ---
 
 https://developer.chrome.com/blog/chrome-devtools-mcp
+
 ## Summary
 
 The Chrome DevTools Model Context Protocol (MCP) server is introduced to enhance AI coding assistants by enabling them to debug web pages directly in Chrome. This protocol addresses the limitation of AI agents not being able to see the real-time effects of the code they generate.
@@ -24,13 +25,15 @@ Key points:
 - **Community Involvement**: The project is in its public preview phase, and feedback from developers and vendors is encouraged to shape future capabilities.
 
 For more details, refer to the Chrome DevTools MCP documentation on GitHub.
+
 ## Links
 
 - [Model Context Protocol (MCP) documentation](https://modelcontextprotocol.io/docs/getting-started/intro) : Documentation for the Model Context Protocol (MCP), an open-source standard for connecting large language models (LLMs) to external tools and data sources.
 - [Chrome DevTools MCP documentation](https://github.com/ChromeDevTools/chrome-devtools-mcp/blob/main/docs/tool-reference.md) : Tool reference documentation for the Chrome DevTools MCP server, providing a list of all available tools and their usage.
 
+
 ## Topics
 
-![[topics/Tool/Chrome DevTools Model Context Protocol MCP server]]
-
 ![[topics/Concept/Model Context Protocol MCP]]
+
+![[topics/Tool/Chrome DevTools Model Context Protocol MCP server]]

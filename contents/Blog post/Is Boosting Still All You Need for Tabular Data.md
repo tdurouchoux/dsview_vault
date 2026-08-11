@@ -11,6 +11,7 @@ upload_date: '2026-04-15'
 ---
 
 https://m-clark.github.io/posts/2026-03-01-dl-for-tabular-foundational/
+
 ## Summary
 
 Key takeaways:
@@ -19,6 +20,7 @@ Key takeaways:
 - **DL excels in small/medium datasets (<100k rows) or when performance is critical**, but **boosting still dominates for large datasets (>1M rows)** due to scalability and inference efficiency.
 - **Foundation models** (pre-trained on synthetic/real tabular data) show promise but are limited by compute costs and dataset size constraints.
 - **Practical guidance**: Start with boosting; experiment with DL if resources permit, but weigh performance gains against training time and complexity. Data nuances (size, target type, feature characteristics) heavily influence model choice.
+
 ## Links
 
 - [TabArena Leaderboard](https://huggingface.co/spaces/TabArena/leaderboard) : A public leaderboard for evaluating and comparing state-of-the-art models on tabular data tasks, providing standardized datasets, consistent evaluation metrics, and transparency in preprocessing and hyperparameter choices.
@@ -27,20 +29,21 @@ Key takeaways:
 - [Better by Default: Strong Pre-Tuned MLPs and Boosted Trees on Tabular Data (arXiv)](https://arxiv.org/abs/2407.04491) : A research paper discussing pre-tuned machine learning models (MLPs) and boosted trees for tabular data, highlighting their strong performance and practicality.
 - [TabICLv2 Paper (arXiv)](https://arxiv.org/abs/2602.11139) : A research paper introducing TabICLv2, a scalable and open tabular foundation model that leverages in-context learning for improved performance on tabular data tasks.
 
+
 ## Topics
+
+![[topics/Library/AutoGluon]]
+
+![[topics/Concept/Diminishing Returns and Improvability in Model Scaling]]
+
+![[topics/Concept/Elo Rating System for Model Evaluation]]
+
+![[topics/Library/TabPFN Tabular Prior data Fitted Networks]]
+
+![[topics/Concept/Tabular Foundation Models TFMs]]
 
 ![[topics/Library/pytabkit]]
 
 ![[topics/Platform/TabArena]]
 
-![[topics/Concept/Tabular Foundation Models TFMs]]
-
 ![[topics/Model/RealMLP]]
-
-![[topics/Model/TabPFN Prior Data Fitted Networks]]
-
-![[topics/Concept/Elo Rating System for Model Evaluation]]
-
-![[topics/Concept/Diminishing Returns and Improvability in Model Scaling]]
-
-![[topics/Library/AutoGluon]]

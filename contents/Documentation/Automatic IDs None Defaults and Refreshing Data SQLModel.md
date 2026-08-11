@@ -12,6 +12,7 @@ upload_date: '2024-11-10'
 ---
 
 https://sqlmodel.tiangolo.com/tutorial/automatic-id-none-refresh/
+
 ## Summary
 
 The content discusses the behavior of SQLModel, a Python library for interacting with databases, focusing on automatic IDs, None defaults, and refreshing data. Here are the key points:
@@ -31,9 +32,11 @@ The content discusses the behavior of SQLModel, a Python library for interacting
 - **Recap**: The content emphasizes understanding the interaction between Python objects, the session, and the database, highlighting the importance of data synchronization and the role of the session in managing this process.
 
 The tutorial provides a comprehensive overview of how SQLModel handles data persistence and synchronization, with practical examples and detailed explanations.
+
 ## Links
 
 - [SQLModel GitHub Repository](https://github.com/fastapi/sqlmodel) : The GitHub repository for SQLModel, a library that combines SQLAlchemy for database operations and Pydantic for data validation, providing an easy way to interact with databases in Python.
+
 
 ## Topics
 

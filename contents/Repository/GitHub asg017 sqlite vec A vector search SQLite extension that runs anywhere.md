@@ -11,6 +11,7 @@ upload_date: '2025-05-03'
 ---
 
 https://github.com/asg017/sqlite-vec
+
 ## Summary
 
 sqlite-vec is a lightweight, vector search SQLite extension designed for versatility and performance. Key features include:
@@ -23,6 +24,7 @@ sqlite-vec is a lightweight, vector search SQLite extension designed for versati
 - **Sponsorship**: Supported by Mozilla Builders, Fly.io, Turso, SQLite Cloud, and Shinkai.
 
 The extension is pre-v1, so breaking changes are expected. It is part of the sqlite-ecosystem and is designed to be a successor to sqlite-vss.
+
 ## Links
 
 - [sqlite-vec Python Bindings](https://alexgarcia.xyz/sqlite-vec/python.html) : Documentation for using sqlite-vec with Python.
@@ -30,6 +32,7 @@ The extension is pre-v1, so breaking changes are expected. It is part of the sql
 - [sqlite-vec Node.js Bindings](https://www.npmjs.com/package/sqlite-vec) : Node.js package for sqlite-vec, allowing integration with JavaScript projects.
 - [sqlite-vec GitHub Repository](https://github.com/asg017/sqlite-vec) : The main GitHub repository for sqlite-vec, containing the source code and additional resources.
 - [sqlite-vec Rust Bindings](https://crates.io/crates/sqlite-vec) : Rust crate for sqlite-vec, enabling the use of the extension in Rust projects.
+
 
 ## Topics
 

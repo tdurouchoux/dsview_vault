@@ -11,6 +11,7 @@ upload_date: '2026-01-06'
 ---
 
 https://mindfulmodeler.substack.com/p/making-classifier-evaluation-less
+
 ## Summary
 
 The content discusses the evaluation of machine learning classifiers, highlighting the confusion that arises from various metrics and their interpretations. It categorizes evaluation metrics into four main groups:
@@ -24,20 +25,22 @@ The content discusses the evaluation of machine learning classifiers, highlighti
 4. **Calibration Metrics**: These evaluate probabilistic scorers to check if the predicted probabilities reflect the true frequencies in the data distribution. Calibration is an auxiliary metric and does not stand alone for evaluating decision performance.
 
 The post emphasizes the importance of understanding these categories to avoid confusion and make informed decisions when evaluating classifiers. The author also mentions working on a book that delves deeper into these concepts.
+
 ## Links
 
 - [Elements of ML Algorithms](https://christophmolnar.com/books/elements-of-ml.html) : A book that provides a comprehensive overview of machine learning algorithms, offering insights into the fundamental building blocks of ML.
 
+
 ## Topics
+
+![[topics/Concept/Calibration]]
 
 ![[topics/Concept/Classifier]]
 
-![[topics/Concept/Confusion Matrix]]
-
 ![[topics/Concept/ROC Curve]]
 
-![[topics/Concept/Log Loss]]
+![[topics/Concept/Confusion Matrix]]
 
 ![[topics/Concept/Brier Score]]
 
-![[topics/Concept/Calibration]]
+![[topics/Concept/Log Loss]]

@@ -12,6 +12,7 @@ upload_date: '2024-07-03'
 ---
 
 https://readmedium.com/enhancing-language-model-performance-insights-into-rag-and-chunking-augmentation-techniques-897ba15a04d6
+
 ## Summary
 
 The article explores techniques to enhance the performance of Large Language Models (LLMs) using Retrieval-Augmented Generation (RAG) and chunking augmentation. Key areas of focus include embedding models (E5, BGE, Solon), chunking techniques, and reranking methodologies.
@@ -44,6 +45,7 @@ The article explores techniques to enhance the performance of Large Language Mod
 - Future research could explore additional chunking techniques, such as one-sentence chunking and selective chunking of potential questions, to further refine the understanding of their effectiveness.
 
 The article provides insights into enhancing language model performance through RAG and chunking techniques, offering practical recommendations for improving information retrieval accuracy.
+
 ## Links
 
 - [Chunk Visualizer](https://huggingface.co/spaces/m-ric/chunk_visualizer) : A tool for visualizing text chunking, demonstrating how text is divided into smaller meaningful units.
@@ -51,6 +53,7 @@ The article provides insights into enhancing language model performance through 
 - [E5 Embedding Model](https://huggingface.co/intfloat/multilingual-e5-large) : A text embedding model developed by Microsoft for generating high-quality embeddings for various NLP tasks.
 - [BGE Embedding Model](https://huggingface.co/BAAI/bge-m3) : A multilingual text embedding model developed by BAAI, supporting over 100 languages and handling long input sequences.
 - [Solon Embedding Model](https://huggingface.co/OrdalieTech/Solon-embeddings-large-0.1) : A state-of-the-art open-source French embedding model used for text representation and retrieval tasks.
+
 
 ## Topics
 

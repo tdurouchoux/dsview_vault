@@ -12,6 +12,7 @@ upload_date: '2025-05-09'
 ---
 
 https://alibaba-nlp.github.io/ZeroSearch/
+
 ## Summary
 
 ZeroSearch is a reinforcement learning (RL) framework designed to enhance the search capabilities of large language models (LLMs) without the need for real search engine interactions during training. The key challenges addressed are the uncontrolled document quality and high API costs associated with real search engines.
@@ -34,11 +35,13 @@ ZeroSearch is a reinforcement learning (RL) framework designed to enhance the se
 - The framework effectively incentivizes the model’s search capabilities, as evidenced by multi-turn search behaviors in case studies.
 
 Overall, ZeroSearch provides a cost-effective and scalable alternative to real search engines for enhancing the search capabilities of LLMs.
+
 ## Links
 
 - [ZeroSearch Dataset](https://huggingface.co/datasets/sunhaonlp/ZeroSearch_dataset) : This link points to the dataset used in the ZeroSearch project, which is hosted on Hugging Face Datasets. The dataset likely contains the data used for training and evaluating the ZeroSearch model.
 - [ZeroSearch GitHub Repository](https://github.com/Alibaba-nlp/ZeroSearch) : This link points to the GitHub repository of the ZeroSearch project. It likely contains the source code, models, and additional resources related to the ZeroSearch framework.
 - [ZeroSearch Paper](https://arxiv.org/pdf/2505.04588) : This link points to the research paper detailing the ZeroSearch framework. It provides an in-depth explanation of the methodology, experiments, and results of the ZeroSearch project.
+
 
 ## Topics
 

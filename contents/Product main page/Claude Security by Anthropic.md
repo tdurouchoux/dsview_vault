@@ -11,6 +11,7 @@ upload_date: '2026-05-01'
 ---
 
 https://claude.com/product/claude-security
+
 ## Summary
 
 Claude Security, now in public beta for **Claude Enterprise**, automates security scanning, validation, and patching of codebases. Key features:
@@ -22,6 +23,7 @@ Claude Security, now in public beta for **Claude Enterprise**, automates securit
 - **Transparency**: Details vulnerabilities, impact, and fixes for each finding.
 
 **Limitations**: Users must review patches, especially for critical systems. Focuses on high-severity issues. Compatible with existing security tools. Access expands to **Team/Max plans** post-beta.
+
 ## Links
 
 - [Evaluating and Mitigating the Growing Risk of LLM-Discovered 0-Days](https://red.anthropic.com/2026/zero-days/) : This blog post discusses the risks associated with vulnerabilities discovered by large language models (LLMs) and provides insights into mitigating these risks, which aligns with the security-focused content of the provided text.
@@ -30,11 +32,12 @@ Claude Security, now in public beta for **Claude Enterprise**, automates securit
 - [Anthropic News and Updates](https://www.anthropic.com/news) : This page contains the latest news and updates from Anthropic, which may include announcements related to security tools, features, or best practices.
 - [Anthropic Research Publications](https://www.anthropic.com/research) : This link leads to Anthropic's research publications, which could provide deeper insights into the methodologies and technologies behind tools like Claude Security.
 
+
 ## Topics
 
-![[topics/Tool/Claude Security]]
+![[topics/Concept/Zero day Vulnerabilities and Exploits]]
 
-![[topics/Concept/Zero day vulnerabilities]]
+![[topics/Tool/Claude Security]]
 
 ![[topics/Concept/Code modernization]]
 

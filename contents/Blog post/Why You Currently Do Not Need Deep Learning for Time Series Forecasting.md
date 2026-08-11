@@ -12,6 +12,7 @@ upload_date: '2024-07-03'
 ---
 
 https://readmedium.com/en/why-you-currently-do-not-need-deep-learning-for-time-series-forecasting-0de57f2bc0ed
+
 ## Summary
 
 The article argues that deep learning is not currently necessary for time series forecasting, highlighting several key points based on the Makridakis M5 competitions and the 2023 Kaggle AI report:
@@ -29,17 +30,19 @@ The article argues that deep learning is not currently necessary for time series
 6. **Iteration and Cross-Validation**: Fast iteration and robust cross-validation strategies are essential for identifying the best features and models. Each problem requires a unique approach tailored to its specific characteristics.
 
 The article concludes that deep learning is not yet practical for real-world time series forecasting, emphasizing the importance of ML models, feature engineering, and domain-specific solutions.
+
 ## Links
 
 - [N-BEATS — The First Interpretable Deep Learning Model That Worked for Time Series Forecasting](https://towardsdatascience.com/n-beats-the-first-interpretable-deep-learning-model-that-worked-for-time-series-forecasting-06920daadac2) : An easy-to-understand deep dive into how N-BEATS works and how you can use it.
 - [N-HiTS — Making Deep Learning for Time Series Forecasting More Efficient](https://towardsdatascience.com/n-hits-making-deep-learning-for-time-series-forecasting-more-efficient-d00956fc3e93) : A deep dive into how N-HiTS works and how you can use it
 - [Why You Should Always Start With a Baseline Model](https://pub.towardsai.net/why-you-should-always-start-with-a-baseline-model-95d78c70941c) : A baseline model takes 10 % of the time to develop but gets us 90 % of the way to achieve reasonable results.
 
+
 ## Topics
 
 ![[topics/Concept/Feature Engineering]]
 
-![[topics/Concept/Ensemble Methods]]
+![[topics/Concept/Ensemble Learning]]
 
 ![[topics/Model/XGBoost]]
 
@@ -51,4 +54,4 @@ The article concludes that deep learning is not yet practical for real-world tim
 
 ![[topics/Concept/Cross Validation]]
 
-![[topics/Model/Gradient Boosting Machines GBMs]]
+![[topics/Concept/Gradient Boosted Decision Trees GBDTs]]

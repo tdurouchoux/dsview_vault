@@ -12,6 +12,7 @@ upload_date: '2025-09-17'
 ---
 
 https://github.blog/changelog/2025-07-23-github-spark-in-public-preview-for-copilot-pro-subscribers/
+
 ## Summary
 
 GitHub Spark is now in public preview for Copilot Pro+ subscribers. It enables users to build and deploy full-stack intelligent apps using natural language, with no setup required. Key features include:
@@ -25,10 +26,12 @@ GitHub Spark is now in public preview for Copilot Pro+ subscribers. It enables u
 - **Expand with Copilot agents**: Iterate with Copilot agent mode or assign issues to Copilot coding agent.
 
 Spark is available for Copilot Pro+ users, with rollout to additional customers coming soon. Users can visit github.com/spark to build their first app or sign up for a Pro+ account to access Spark. The UI for features in public preview is subject to change.
+
 ## Links
 
 - [GitHub Spark Product Page](https://www.github.com/features/spark) : The product page for GitHub Spark, providing detailed information about the features and capabilities of the platform.
 - [GitHub Spark Documentation](https://docs.github.com/en/copilot/tutorials/building-ai-app-prototypes) : Documentation for GitHub Spark, offering guides and tutorials on how to use the platform effectively.
+
 
 ## Topics
 

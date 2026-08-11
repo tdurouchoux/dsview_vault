@@ -11,6 +11,7 @@ upload_date: '2026-01-15'
 ---
 
 https://mistral.ai/news/mistral-ocr-3
+
 ## Summary
 
 Mistral OCR 3 is a new document processing tool that offers significant improvements in accuracy and efficiency. It achieves a 74% overall win rate over its predecessor, Mistral OCR 2, and outperforms both enterprise and AI-native OCR solutions. Key features include:
@@ -23,10 +24,12 @@ Mistral OCR 3 is a new document processing tool that offers significant improvem
 - **Self-Hosting Option**: For organizations with strict data privacy requirements, ensuring compliance with regulatory standards.
 
 Mistral OCR 3 is designed for high-volume enterprise pipelines and interactive document workflows, making it ideal for extracting text and images, automating document parsing, and digitizing historical documents. Early adopters are using it for invoicing, archiving, and enhancing enterprise search capabilities. The tool is available today through Mistral AI Studio, with full backward compatibility with Mistral OCR 2.
+
 ## Links
 
 - [Mistral AI Documentation](https://docs.mistral.ai/) : The official documentation for Mistral AI, providing detailed information on their products and services.
 - [Mistral AI Console](https://console.mistral.ai/) : The console for Mistral AI, where users can access and manage their AI models and services.
+
 
 ## Topics
 

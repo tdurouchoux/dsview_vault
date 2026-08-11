@@ -11,6 +11,7 @@ upload_date: '2025-05-28'
 ---
 
 https://www.inference.vc/discrete-diffusion-continuous-time-markov-chains/
+
 ## Summary
 
 The blog post discusses continuous-time Markov chains (CTMCs), a less commonly known concept in machine learning compared to discrete-time Markov chains. The author aims to build intuition about how CTMCs work, as they are featured in recent work on discrete diffusion models.
@@ -32,11 +33,13 @@ Key points include:
 7. **Non-Homogeneous Markov Chains**: The post hints at the complexity of extending these concepts to non-homogeneous chains, where the rate matrix changes over time, and suggests this as a topic for further exploration.
 
 The author summarizes the key ideas, emphasizing the memory-less property, the role of exponential distributions, and the connection between Markov chains and point processes. The post aims to provide intuition and different representations of CTMCs, highlighting their relevance in discrete diffusion models.
+
 ## Links
 
 - [Lou et al. (2023) - arXiv](https://arxiv.org/abs/2310.16834?ref=inference.vc) : A research paper on discrete diffusion models, likely referenced in the article for its contributions to the field.
 - [Sahoo et al. (2024) - arXiv](https://arxiv.org/abs/2406.04329?ref=inference.vc) : A research paper on discrete diffusion models, likely referenced in the article for its contributions to the field.
 - [Shi et al. (2024) - arXiv](https://arxiv.org/pdf/2406.07524?ref=inference.vc) : A research paper on discrete diffusion models, likely referenced in the article for its contributions to the field.
+
 
 ## Topics
 

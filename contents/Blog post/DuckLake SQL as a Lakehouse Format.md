@@ -12,6 +12,7 @@ upload_date: '2025-05-28'
 ---
 
 https://duckdb.org/2025/05/27/ducklake.html
+
 ## Summary
 
 DuckLake is a new open table format that simplifies Lakehouses by using a standard SQL database for metadata management, while storing data in open formats like Parquet. This approach makes it more reliable, faster, and easier to manage compared to existing formats like Iceberg and Delta Lake.
@@ -36,19 +37,21 @@ Key points:
 7. **Press Inquiries**: For press inquiries, contact Gabor Szarnyas.
 
 The article concludes by encouraging readers to try DuckLake for simple, scalable, and fast Lakehouse data management. The ducklake extension is currently experimental, and users are encouraged to report any bugs.
+
 ## Links
 
 - [DuckLake Manifesto](https://ducklake.select/manifesto) : The manifesto of DuckLake, explaining the vision and principles behind the project.
 - [DuckDB GitHub Repository](https://github.com/duckdb/duckdb) : The official GitHub repository for DuckDB, where you can find the source code, issues, and contributions.
 
+
 ## Topics
 
 ![[topics/Concept/Parquet]]
 
-![[topics/Library/Apache Iceberg]]
+![[topics/Platform/Apache Iceberg]]
 
 ![[topics/Concept/Lakehouse]]
 
-![[topics/Concept/Delta Lake]]
+![[topics/Tool/Delta Lake]]
 
 ![[topics/Tool/DuckLake]]

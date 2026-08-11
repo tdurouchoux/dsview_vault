@@ -11,6 +11,7 @@ upload_date: '2026-07-30'
 ---
 
 https://github.com/probabl-ai/skills
+
 ## Summary
 
 The **probabl-ai/skills** repository provides a set of **Data Science Skills for AI agents** (e.g., Claude Code) to streamline ML experimentation. Key features include:
@@ -30,6 +31,7 @@ The **probabl-ai/skills** repository provides a set of **Data Science Skills for
 4. **API References** (Python package navigation).
 
 Works with agents like **Claude Code, Cursor, GitHub Copilot** and models such as **Claude Opus, Qwen 3.6 30B, DeepSeek v4 Flash**.
+
 ## Links
 
 - [Skore Hub Official Website](https://skore.probabl.ai/) : The official website for Skore Hub, a platform mentioned in the content as a tool for coupling with the skills repository to get a comprehensive view of experiments and their results. It likely provides detailed information about its features and integration capabilities.
@@ -38,16 +40,17 @@ Works with agents like **Claude Code, Cursor, GitHub Copilot** and models such a
 - [Claude Code Plugin Marketplaces Documentation](https://docs.claude.com/en/docs/claude-code/plugin-marketplaces) : Documentation for the Claude Code plugin marketplaces, which is relevant as the skills repository can be used as a plugin for Claude Code, as mentioned in the content.
 - [GitHub Blog - Changelog](https://github.blog/changelog) : The GitHub blog's changelog, which may provide updates and announcements related to tools and features that could be relevant for users of the skills repository, such as updates to GitHub Copilot or other AI-powered tools.
 
+
 ## Topics
 
 ![[topics/Platform/Skore]]
 
+![[topics/Concept/Iterative Refinement]]
+
 ![[topics/Library/skore cli]]
 
-![[topics/Concept/ML pipeline lifecycle]]
+![[topics/Concept/Workspace organization for ML]]
 
 ![[topics/Concept/AI agents for ML experimentation]]
 
-![[topics/Concept/Iterative Refinement]]
-
-![[topics/Concept/Workspace organization for ML]]
+![[topics/Concept/ML pipeline lifecycle]]

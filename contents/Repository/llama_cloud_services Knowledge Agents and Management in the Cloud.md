@@ -12,6 +12,7 @@ upload_date: '2024-09-25'
 ---
 
 https://github.com/run-llama/llama_parse
+
 ## Summary
 
 The repository "llama_cloud_services" provides SDKs and clients for interacting with LlamaCloud, focusing on knowledge agents and management in the cloud. Key components include:
@@ -34,10 +35,12 @@ The repository "llama_cloud_services" provides SDKs and clients for interacting 
 **Additional Information**:
 - Terms of Service and contact information are provided.
 - The repository is licensed under MIT and has contributions from 45 contributors, with code primarily in TypeScript and Python.
+
 ## Links
 
 - [Llama Cloud Services Documentation](https://docs.cloud.llamaindex.ai/) : Official documentation for Llama Cloud Services, including SDK and API details for LlamaParse, LlamaExtract, and LlamaCloud Index.
 - [Llama Cloud Services PyPI](https://pypi.org/project/llama-cloud-services/) : PyPI page for Llama Cloud Services, providing installation and usage information for the package.
+
 
 ## Topics
 

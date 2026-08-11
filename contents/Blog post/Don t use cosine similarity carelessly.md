@@ -12,6 +12,7 @@ upload_date: '2025-01-22'
 ---
 
 https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity
+
 ## Summary
 
 The blog post discusses the pitfalls of using cosine similarity carelessly in data science, particularly with embeddings from Large Language Models (LLMs). Key points include:
@@ -40,6 +41,7 @@ The blog post discusses the pitfalls of using cosine similarity carelessly in da
    - To use vector similarity effectively, consider training custom embeddings, engineering prompts, or cleaning and standardizing text.
 
 The post emphasizes the importance of understanding the limitations of cosine similarity and exploring alternative methods for more accurate and meaningful similarity measures.
+
 ## Links
 
 - [OpenAI Embedding Models and API Updates](https://openai.com/index/new-embedding-models-and-api-updates/) : This link points to the OpenAI blog post about new embedding models and API updates, which is relevant to the content discussing embeddings and cosine similarity.
@@ -48,13 +50,14 @@ The post emphasizes the importance of understanding the limitations of cosine si
 - [GLove Embeddings](https://nlp.stanford.edu/projects/glove/) : This link points to the GLove embeddings project, which is relevant to the content discussing the use of embeddings and cosine similarity.
 - [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance) : This link points to the Wikipedia page for Levenshtein distance, which is relevant to the content discussing string similarity and its limitations.
 
+
 ## Topics
 
 ![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Text Embeddings]]
+![[topics/Concept/Vector Embedding]]
 
-![[topics/Concept/Prompt Engineering]]
+![[topics/Concept/Prompt Engineering and Optimization]]
 
 ![[topics/Concept/Cosine Similarity]]
 

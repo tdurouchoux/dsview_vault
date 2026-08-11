@@ -12,6 +12,7 @@ upload_date: '2025-11-20'
 ---
 
 https://www.distributedthoughts.org/will-i-make-it-to-the-restaurant-before-the-soup-dumplings-get-cold-and-other-problems-in-machine-learning/
+
 ## Summary
 
 The content discusses the issue of nondeterminism in machine learning, particularly in large language models (LLMs), and presents a solution developed by Thinking Machines Lab. The main points are:
@@ -31,19 +32,21 @@ The content discusses the issue of nondeterminism in machine learning, particula
 7. **Future Outlook**: The authors expect batch-invariant kernels to become standard in major inference engines and cloud providers' serving infrastructure, similar to how HTTPS and Unicode support became ubiquitous.
 
 The content emphasizes the importance of solving foundational problems in infrastructure to enable systematic progress in machine learning.
+
 ## Links
 
 - [Defeating Nondeterminism in LLM Inference](https://arxiv.org/abs/2310.16834?ref=distributedthoughts.org) : The full paper on defeating nondeterminism in LLM inference, including technical details, benchmarks, and ablation studies.
 - [Batch-Invariant Ops on GitHub](https://github.com/thinking-machines-lab/batch-invariant-ops?ref=distributedthoughts.org) : The GitHub repository for batch-invariant kernel implementations, related to the paper on defeating nondeterminism in LLM inference.
 
+
 ## Topics
-
-![[topics/Concept/Nondeterminism in Machine Learning]]
-
-![[topics/Concept/Batch Invariant Kernels]]
-
-![[topics/Concept/On Policy vs Off Policy Reinforcement Learning]]
 
 ![[topics/Concept/Reinforcement Learning from Human Feedback RLHF]]
 
 ![[topics/Concept/FlexAttention]]
+
+![[topics/Concept/Nondeterminism in Machine Learning]]
+
+![[topics/Concept/On Policy vs Off Policy Reinforcement Learning]]
+
+![[topics/Concept/Batch Invariant Kernels]]

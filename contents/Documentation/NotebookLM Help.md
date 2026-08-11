@@ -11,6 +11,7 @@ upload_date: '2025-03-20'
 ---
 
 https://support.google.com/notebooklm/answer/16070070
+
 ## Summary
 
 NotebookLM is a Google service that integrates AI-powered features into a notebook-like interface. Key functionalities include:
@@ -27,9 +28,11 @@ NotebookLM is a Google service that integrates AI-powered features into a notebo
 - **Support and Feedback**: Options to report problems and provide feedback.
 
 The service is designed to enhance productivity and organization through AI-driven tools and collaborative features.
+
 ## Links
 
 - [NotebookLM](https://notebooklm.google/) : NotebookLM is a Google service for creating and managing notes, with features like chat, notebook creation, and public notebooks.
+
 
 ## Topics
 

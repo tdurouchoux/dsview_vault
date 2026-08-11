@@ -11,6 +11,7 @@ upload_date: '2026-05-31'
 ---
 
 https://arxiv.org/pdf/2604.22750
+
 ## Summary
 
 Agentic coding tasks consume **1000–3500x more tokens** than single-turn code reasoning or chat, primarily due to **input token accumulation** (even with caching). Key findings:
@@ -23,23 +24,25 @@ Agentic coding tasks consume **1000–3500x more tokens** than single-turn code 
 **Cost drivers**: Cache-read input tokens dominate expenses across all phases, with spikes from tool calls (e.g., file views, test execution). **Action redundancy** (repeated file edits/views) inflates costs without improving outcomes.
 
 **Implications**: Current pricing models lack transparency; pre-execution cost prediction remains an unsolved challenge despite attempts at self-prediction. Efficiency gaps stem from model-specific behaviors rather than task difficulty.
+
 ## Links
+
 
 
 ## Topics
 
-![[topics/Concept/Token Consumption in AI Agents]]
-
-![[topics/Concept/Agentic Coding]]
-
-![[topics/Concept/Token Efficiency in Models]]
-
-![[topics/Concept/Pre Execution Token Consumption Prediction]]
-
-![[topics/Concept/Cache Aware Token Pricing]]
-
-![[topics/Concept/Inverse Test Time Scaling]]
+![[topics/Concept/SWE bench Verified]]
 
 ![[topics/Tool/OpenHands]]
 
-![[topics/Concept/SWE bench Verified]]
+![[topics/Concept/Agentic Coding]]
+
+![[topics/Concept/Inverse Test Time Scaling]]
+
+![[topics/Concept/Cache Aware Token Pricing]]
+
+![[topics/Concept/Pre Execution Token Consumption Prediction]]
+
+![[topics/Concept/Token Consumption in AI Agents]]
+
+![[topics/Concept/Token Efficiency in Models]]

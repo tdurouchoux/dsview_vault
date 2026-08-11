@@ -12,6 +12,7 @@ upload_date: '2024-11-01'
 ---
 
 https://skrub-data.org/stable/
+
 ## Summary
 
 skrub is a Python library designed to simplify preprocessing and feature engineering for tabular machine learning, with a focus on integrating database tables directly into the machine learning workflow. It is compatible with scikit-learn and supports heterogeneous Pandas and Polars dataframes, including numeric, categorical, dates, and text data.
@@ -29,9 +30,11 @@ Key features of skrub include:
 5. **Community and Contribution**: skrub is powered by a global community of contributors, and users are encouraged to join and contribute to the project.
 
 The library aims to reduce the amount of code needed for data preprocessing and feature engineering, making it easier to get insights and build machine learning models.
+
 ## Links
 
 - [skrub GitHub Repository](https://github.com/skrub-data/skrub/) : The GitHub repository for skrub, where you can find the source code, contribute to the project, and access the latest updates.
+
 
 ## Topics
 
@@ -45,4 +48,4 @@ The library aims to reduce the amount of code needed for data preprocessing and 
 
 ![[topics/Concept/Exploratory Data Analysis EDA]]
 
-![[topics/Concept/Data Cleaning]]
+![[topics/Concept/Data Wrangling]]

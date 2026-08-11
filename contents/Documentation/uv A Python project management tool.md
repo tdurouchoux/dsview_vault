@@ -11,6 +11,7 @@ upload_date: '2024-12-14'
 ---
 
 https://docs.astral.sh/uv/guides/projects/
+
 ## Summary
 
 The content provides a guide on managing Python projects using uv, a tool for dependency management and project environment handling. Key points include:
@@ -23,10 +24,12 @@ The content provides a guide on managing Python projects using uv, a tool for de
 - **Next Steps**: Further details can be found in the projects concept page and command reference.
 
 The guide emphasizes the use of uv for managing project dependencies, environments, and commands, ensuring reproducibility and consistency across different machines.
+
 ## Links
 
 - [Pyproject.toml Guide](https://packaging.python.org/en/latest/guides/writing-pyproject-toml/) : Official guide on writing pyproject.toml files for Python projects.
 - [uv on PyPI](https://pypi.org/project/uv/) : The uv project page on PyPI, providing package details and installation instructions.
+
 
 ## Topics
 

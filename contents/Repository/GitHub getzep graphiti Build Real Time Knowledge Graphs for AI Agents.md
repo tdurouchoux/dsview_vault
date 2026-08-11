@@ -12,6 +12,7 @@ upload_date: '2025-05-07'
 ---
 
 https://github.com/getzep/graphiti
+
 ## Summary
 
 Graphiti is a framework for building and querying temporally-aware knowledge graphs tailored for AI agents in dynamic environments. It integrates user interactions, structured and unstructured data, and external information into a coherent, queryable graph, supporting incremental updates, efficient retrieval, and precise historical queries without full graph recomputation.
@@ -23,10 +24,12 @@ The framework is part of Zep's Context Engineering Platform, offering agent memo
 Graphiti's installation and configuration are detailed, with support for different database backends and LLM providers. The framework includes a MCP server for AI assistant interaction and a REST service for API interactions. Telemetry is enabled by default but can be disabled, collecting anonymous usage statistics to improve the framework.
 
 The project is open-source under the Apache-2.0 license, with active development and contributions encouraged. Detailed documentation, guides, and API references are available to support users in implementing and customizing Graphiti for their specific needs.
+
 ## Links
 
 - [Zep Documentation](https://help.getzep.com/graphiti) : Official documentation for Graphiti, providing detailed guides and API references for building and querying knowledge graphs.
 - [Zep Blog](https://blog.getzep.com/state-of-the-art-agent-memory/) : Blog post discussing the state-of-the-art agent memory capabilities of Zep, which utilizes Graphiti for advanced knowledge graph functionalities.
+
 
 ## Topics
 
@@ -36,10 +39,10 @@ The project is open-source under the Apache-2.0 license, with active development
 
 ![[topics/Concept/Knowledge Graph]]
 
-![[topics/Concept/Context Engineering]]
+![[topics/Concept/Context Window Management]]
 
 ![[topics/Concept/Bi Temporal Data Model]]
 
-![[topics/Concept/Real Time Incremental Updates]]
+![[topics/Concept/Incremental Data Processing]]
 
-![[topics/Concept/Hybrid Retrieval]]
+![[topics/Concept/Hybrid Search]]

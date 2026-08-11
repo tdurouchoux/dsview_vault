@@ -11,6 +11,7 @@ upload_date: '2026-04-20'
 ---
 
 https://github.com/datahub-project/datahub
+
 ## Summary
 
 DataHub is an open-source metadata platform for data discovery, governance, and observability, originally built at LinkedIn. It acts as a central metadata hub for fragmented data stacks, supporting real-time updates and AI agent integrations via Model Context Protocol (MCP).
@@ -23,6 +24,7 @@ Key features:
 - **Developer tools**: Python/Java SDKs, GraphQL/REST APIs, and CLI.
 
 Use cases include data discovery, impact analysis, governance, and AI agent context management. Trusted by 3,000+ organizations (e.g., Netflix, Visa, Optum). Apache 2.0 licensed. Docs: [datahub.com/docs](https://docs.datahub.com).
+
 ## Links
 
 - [DataHub Official Documentation](https://docs.datahub.com) : Comprehensive documentation for DataHub, including architecture, APIs, installation guides, and feature details.
@@ -31,22 +33,23 @@ Use cases include data discovery, impact analysis, governance, and AI agent cont
 - [DataHub Metadata Ingestion Guide](https://docs.datahub.com/docs/metadata-ingestion) : Guide on how to ingest metadata from various sources (e.g., Snowflake, BigQuery) into DataHub, including configuration examples and expected outputs.
 - [DataHub Lineage Feature Guide](https://docs.datahub.com/docs/features/feature-guides/lineage) : Documentation on DataHub's lineage capabilities, including how to query and visualize upstream/downstream dependencies for datasets.
 
+
 ## Topics
-
-![[topics/Platform/DataHub]]
-
-![[topics/Concept/Metadata Management]]
-
-![[topics/Concept/Data Lineage]]
-
-![[topics/Concept/Data Discovery]]
-
-![[topics/Library/acryl datahub]]
-
-![[topics/Concept/Metadata Graph]]
-
-![[topics/Concept/Data Governance]]
 
 ![[topics/Concept/Model Context Protocol MCP]]
 
+![[topics/Concept/Data Governance]]
+
+![[topics/Concept/Data Lineage]]
+
 ![[topics/Concept/Data Contracts]]
+
+![[topics/Library/acryl datahub]]
+
+![[topics/Platform/DataHub]]
+
+![[topics/Concept/Metadata Graph]]
+
+![[topics/Concept/Metadata Management]]
+
+![[topics/Concept/Data Discovery]]

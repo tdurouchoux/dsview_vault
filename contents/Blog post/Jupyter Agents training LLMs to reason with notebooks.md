@@ -12,6 +12,7 @@ upload_date: '2025-09-19'
 ---
 
 https://huggingface.co/blog/jupyter-agent-2
+
 ## Summary
 
 The article discusses the development of Jupyter Agents, which are designed to enhance the capabilities of large language models (LLMs) by enabling them to execute code directly within Jupyter notebooks. The goal is to create more autonomous and capable agents for data analysis and data science tasks.
@@ -33,23 +34,27 @@ Key points include:
 7. **Next Steps**: Future directions include generating more challenging questions, scaling up training data, exploring knowledge distillation, and building an RL environment for further improvements.
 
 The article concludes by encouraging the community to experiment with the provided dataset and codebase to continue advancing the capabilities of Jupyter Agents.
+
 ## Links
 
 - [Jupyter Agent Dataset](https://huggingface.co/datasets/jupyter-agent/jupyter-agent-dataset) : Dataset used for training and evaluating the Jupyter Agent model.
 - [Qwen3-4B-Thinking-2507](https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507) : Model used for generating synthetic QA pairs and traces for the Jupyter Agent dataset.
 - [Qwen3-Coder-480B-A35B-Instruct](https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct) : Model used for generating synthetic QA pairs and traces for the Jupyter Agent dataset.
 
+
 ## Topics
-
-![[topics/Tool/Jupyter Agent]]
-
-![[topics/Tool/Smolagents]]
 
 ![[topics/Library/DataTrove]]
 
-![[topics/Tool/KaggleHub]]
+![[topics/Concept/SmolAgents]]
+
+![[topics/Platform/E2B]]
 
 ![[topics/Tool/TRL]]
+
+![[topics/Model/Qwen 3 Coder]]
+
+![[topics/Tool/KaggleHub]]
 
 ![[topics/Dataset/Kaggle Notebooks Dataset]]
 
@@ -57,6 +62,4 @@ The article concludes by encouraging the community to experiment with the provid
 
 ![[topics/Dataset/Jupyter Agent Dataset]]
 
-![[topics/Model/Qwen 3 Coder]]
-
-![[topics/Platform/E2B]]
+![[topics/Tool/Jupyter Agent]]

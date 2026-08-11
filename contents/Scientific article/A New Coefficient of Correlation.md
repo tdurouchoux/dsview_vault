@@ -11,6 +11,7 @@ upload_date: '2024-05-05'
 ---
 
 https://readmedium.com/https://towardsdatascience.com/a-new-coefficient-of-correlation-64ae4f260310
+
 ## Summary
 
 The content discusses the introduction of a new coefficient of correlation in the field of data science. This new coefficient aims to improve upon existing correlation measures by addressing their limitations. The key takeaways include:
@@ -26,10 +27,12 @@ The content discusses the introduction of a new coefficient of correlation in th
 5. **Practical Implications**: The new coefficient could lead to more accurate modeling, better predictive analytics, and improved decision-making in data-driven applications.
 
 The summary focuses on the main technical points and key takeaways, providing a concise overview of the content.
+
 ## Links
 
 - [OpenAI o1 chat](https://openai01.net/) : OpenAI o1 chat interface.
 - [OpenAI o1 API](https://openaio1api.com/) : OpenAI o1 API documentation.
+
 
 ## Topics
 

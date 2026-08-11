@@ -12,6 +12,7 @@ upload_date: '2025-09-17'
 ---
 
 https://github.com/google/langextract
+
 ## Summary
 
 LangExtract is a Python library designed for extracting structured information from unstructured text using large language models (LLMs). It offers precise source grounding, reliable structured outputs, and interactive visualization. Key features include:
@@ -24,6 +25,7 @@ LangExtract is a Python library designed for extracting structured information f
 - **Adaptable to Any Domain**: Can be used for various domains without requiring model fine-tuning.
 
 The library supports custom model providers and offers detailed examples for tasks such as extracting information from literary texts, medical records, and radiology reports. Installation is straightforward via PyPI, and the library includes comprehensive documentation and community support.
+
 ## Links
 
 - [PyPI Project Page](https://pypi.org/project/langextract/) : The PyPI project page for LangExtract, providing installation instructions and package details.
@@ -31,6 +33,7 @@ The library supports custom model providers and offers detailed examples for tas
 - [Ollama](https://ollama.com/) : Ollama's website, which provides information on running local LLMs without API keys, supported by LangExtract.
 - [Gemini API Rate Limits](https://ai.google.dev/gemini-api/docs/rate-limits#tier-2) : Documentation on Gemini API rate limits, relevant for users of LangExtract who need to manage API usage.
 - [Vertex AI Generative AI Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions) : Google Cloud's documentation on Vertex AI Generative AI, useful for setting up and using Gemini models with LangExtract.
+
 
 ## Topics
 
@@ -42,4 +45,4 @@ The library supports custom model providers and offers detailed examples for tas
 
 ![[topics/Library/LangExtract]]
 
-![[topics/Concept/Source Grounding]]
+![[topics/Concept/Grounding]]

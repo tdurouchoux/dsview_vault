@@ -12,6 +12,7 @@ upload_date: '2024-09-30'
 ---
 
 https://www.anthropic.com/news/contextual-retrieval
+
 ## Summary
 
 Anthropic introduces Contextual Retrieval, a method to improve Retrieval-Augmented Generation (RAG) by enhancing the retrieval step. Traditional RAG systems often fail to retrieve relevant information due to context loss during encoding. Contextual Retrieval addresses this by using two sub-techniques: Contextual Embeddings and Contextual BM25. These methods reduce failed retrievals by 49% and, when combined with reranking, by 67%.
@@ -26,6 +27,7 @@ Key points:
 - Performance improvements are significant, with Contextual Embeddings reducing the top-20-chunk retrieval failure rate by 35%, and combining Contextual Embeddings and Contextual BM25 reducing it by 49%.
 - Further performance improvements can be achieved by combining Contextual Retrieval with reranking, reducing the top-20-chunk retrieval failure rate by 67%.
 - Developers can use a cookbook to implement Contextual Retrieval and experiment with these approaches to unlock new levels of performance.
+
 ## Links
 
 - [Voyage Reranker Documentation](https://docs.voyageai.com/docs/reranker) : Documentation on Voyage reranker, which is mentioned as a tool for boosting performance.
@@ -33,6 +35,7 @@ Key points:
 - [Evaluating Chunking Strategies](https://research.trychroma.com/evaluating-chunking) : Research on evaluating different chunking strategies for document processing.
 - [Gemini Embeddings Documentation](https://ai.google.dev/gemini-api/docs/embeddings) : Documentation on Gemini embeddings, which are mentioned as effective in the content.
 - [Cohere Reranker](https://cohere.com/rerank) : Documentation on Cohere reranker, which is mentioned as a tool for boosting performance.
+
 
 ## Topics
 

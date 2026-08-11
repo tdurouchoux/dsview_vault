@@ -11,6 +11,7 @@ upload_date: '2026-06-01'
 ---
 
 https://github.com/zai-org/GLM-OCR
+
 ## Summary
 
 GLM-OCR is a multimodal OCR model for complex document understanding, built on the GLM-V encoder-decoder architecture with Multi-Token Prediction (MTP) loss and reinforcement learning. Key features include:
@@ -28,6 +29,7 @@ GLM-OCR is a multimodal OCR model for complex document understanding, built on t
 **Architecture**: Modular (PageLoader, OCRClient, PPDocLayoutDetector, ResultFormatter) for customization. Supports CLI, Python API, and Flask service.
 
 **License**: Apache 2.0 (code), MIT (model). Integrates PP-DocLayout-V3 (Apache 2.0). Citation available for research.
+
 ## Links
 
 - [GLM-OCR Technical Report on arXiv](https://arxiv.org/abs/2603.10910) : The official technical report for GLM-OCR, providing detailed insights into its architecture, methodology, performance metrics, and research contributions.
@@ -36,22 +38,23 @@ GLM-OCR is a multimodal OCR model for complex document understanding, built on t
 - [GLM-OCR API Documentation](https://docs.z.ai/guides/vlm/glm-ocr) : Official API documentation for GLM-OCR, detailing how to use the model via API calls, including authentication, endpoints, and example requests.
 - [PP-DocLayoutV3 on Hugging Face](https://huggingface.co/PaddlePaddle/PP-DocLayoutV3) : The Hugging Face repository for PP-DocLayoutV3, a key component of GLM-OCR's pipeline for document layout analysis.
 
+
 ## Topics
 
-![[topics/Model/GLM OCR]]
-
-![[topics/Concept/Multi Token Prediction MTP]]
-
-![[topics/Tool/SGLang]]
-
-![[topics/Concept/Document Layout Analysis]]
-
-![[topics/Library/PP DocLayout V3]]
-
-![[topics/Tool/GLM OCR SDK]]
+![[topics/Concept/Reinforcement Learning from Human Feedback RLHF]]
 
 ![[topics/Library/vLLM]]
 
 ![[topics/Tool/Ollama]]
 
-![[topics/Concept/Reinforcement Learning from Human Feedback RLHF]]
+![[topics/Concept/Document Layout Analysis]]
+
+![[topics/Concept/Multi Token Prediction MTP]]
+
+![[topics/Tool/SGLang]]
+
+![[topics/Library/PP DocLayout V3]]
+
+![[topics/Model/GLM OCR]]
+
+![[topics/Tool/GLM OCR SDK]]

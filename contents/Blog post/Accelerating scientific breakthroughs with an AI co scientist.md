@@ -13,6 +13,7 @@ upload_date: '2025-02-20'
 ---
 
 https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/
+
 ## Summary
 
 The content introduces an AI co-scientist, a multi-agent AI system built with Gemini 2.0, designed to assist scientists in generating novel hypotheses and research proposals, and accelerating scientific and biomedical discoveries. The AI co-scientist is intended to function as a collaborative tool, using a coalition of specialized agents inspired by the scientific method to iteratively generate, evaluate, and refine hypotheses. The system is designed to parse research goals into plans, scale compute flexibly, and improve scientific reasoning through self-improving cycles.
@@ -24,18 +25,20 @@ Key features include:
 - **Limitations and outlook**: The report addresses limitations and opportunities for improvement, including enhanced literature reviews, factuality checking, and larger-scale evaluations.
 
 The AI co-scientist represents a promising advance in AI-assisted technologies for scientists, demonstrating potential to accelerate discovery and address grand challenges in science and medicine. A Trusted Tester Program will enable research organizations to evaluate the system's strengths and limitations.
+
 ## Links
 
 - [AI co-scientist paper](https://storage.googleapis.com/coscientist_paper/ai_coscientist.pdf) : The paper detailing the AI co-scientist system, its architecture, and its applications in scientific research.
 - [Gene transfer discovery paper](https://storage.googleapis.com/coscientist_paper/penades2025ai.pdf) : A paper discussing the discovery of gene transfer mechanisms related to antimicrobial resistance, validated through laboratory experiments.
 - [Transfer re-discovery paper](https://www.biorxiv.org/content/10.1101/2025.02.11.637232v1) : A paper detailing the re-discovery of a novel gene transfer mechanism using the AI co-scientist system.
 
+
 ## Topics
 
 ![[topics/Concept/Agentic AI and Intelligent Delegation]]
 
-![[topics/Concept/Inference time scaling]]
+![[topics/Concept/Inference Time Compute Scaling]]
 
 ![[topics/Concept/AI co scientist]]
 
-![[topics/Concept/Elo auto evaluation metric]]
+![[topics/Concept/Elo Rating System for Model Evaluation]]

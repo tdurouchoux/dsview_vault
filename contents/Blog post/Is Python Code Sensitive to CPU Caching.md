@@ -12,6 +12,7 @@ upload_date: '2025-05-26'
 ---
 
 https://lukasatkinson.de/2024/python-cpu-caching/
+
 ## Summary
 
 The blog post explores whether Python code is sensitive to CPU caching effects, despite being a high-level language with less control over memory layout compared to languages like C++ or Rust. The author conducts experiments to compare sequential and random access patterns in Python lists, using CPython 3.12 on an x86-64 architecture with a Zen 2 microarchitecture CPU.
@@ -28,12 +29,14 @@ Key points include:
 - **Conclusion**: The experiments demonstrate that CPU caching effects are measurable in Python code. Random access is significantly slower, especially as problem sizes increase. While the practical impact may be negligible for typical Python code, optimizing access patterns can be beneficial for CPU-bound Python code.
 
 - **Further Reading**: The author suggests additional resources for understanding microarchitecture details, cache latencies, and performance optimization.
+
 ## Links
 
 - [Hyperfine GitHub Repository](https://github.com/sharkdp/hyperfine) : The GitHub repository for Hyperfine, a command-line benchmarking tool used in the experiments to measure the performance of Python code with different access patterns.
 - [Agner Fog's Optimization Manuals](https://agner.org/optimize/) : A collection of manuals by Agner Fog providing detailed information on microarchitecture details, cache latencies, and optimization techniques for C++ and assembly.
 - [Norvig's Latencies Every Programmer Should Know](https://norvig.com/21-days.html#answers) : A resource by Peter Norvig that provides an overview of various latencies that every programmer should be aware of, including CPU cache effects and memory access times.
 - [Sirupsen's Napkin Math Collection](https://github.com/sirupsen/napkin-math) : A collection of performance-related resources and tables by Sirupsen, focusing on system performance and providing up-to-date information on latencies and performance optimization.
+
 
 ## Topics
 

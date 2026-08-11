@@ -12,6 +12,7 @@ upload_date: '2025-11-15'
 ---
 
 https://geoutil.com/
+
 ## Summary
 
 GeoUtil is a browser-based, free toolkit for working with geographic data, offering a range of functionalities without requiring server uploads or sign-ups. Key features include:
@@ -55,9 +56,11 @@ GeoUtil is a browser-based, free toolkit for working with geographic data, offer
 
 **Support**:
 - Detailed documentation, FAQs, and a Reddit community for questions and feedback.
+
 ## Links
 
 - [GuessWhereYouAre](https://GuessWhereYouAre.com) : A game or tool related to geography, likely allowing users to guess locations based on coordinates or maps.
+
 
 ## Topics
 

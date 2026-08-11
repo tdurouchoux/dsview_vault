@@ -12,6 +12,7 @@ upload_date: '2025-11-26'
 ---
 
 https://alex-jacobs.com/posts/the-case-against-pgvector/
+
 ## Summary
 
 The author discusses the practical challenges of using pgvector, a vector search extension for PostgreSQL, in production environments. While pgvector is praised for integrating vector search into existing PostgreSQL setups, the author highlights several overlooked issues based on their hands-on experience.
@@ -33,6 +34,7 @@ Key points include:
 7. **Cost and Simplicity**: While pgvector seems cost-effective, the author argues that managed vector databases might be simpler and more cost-effective in the long run, considering the engineering time and resources required to manage pgvector in production.
 
 The author concludes that while pgvector is useful, it's not a one-size-fits-all solution. Teams should weigh the operational complexity against the benefits and consider dedicated vector databases for production-grade vector search systems.
+
 ## Links
 
 - [HNSW Indexes with Postgres and pgvector](https://www.crunchydata.com/blog/hnsw-indexes-with-postgres-and-pgvector) : This link provides an in-depth look at HNSW indexes in the context of Postgres and pgvector, discussing their implementation and performance.
@@ -41,18 +43,19 @@ The author concludes that while pgvector is useful, it's not a one-size-fits-all
 - [Exploring Postgres pgvector HNSW Index Storage](https://www.lantern.dev/blog/exploring-postgres-pgvector-hnsw-index-storage) : This link delves into the storage mechanisms of HNSW indexes in pgvector, providing a detailed analysis of how they are stored and managed within Postgres.
 - [Vector Database Basics: HNSW Index](https://www.tigerdata.com/blog/vector-database-basics-hnsw) : This link covers the basics of HNSW indexes in vector databases, explaining their structure, benefits, and how they compare to other indexing methods.
 
+
 ## Topics
 
-![[topics/Concept/IVFFlat]]
-
-![[topics/Concept/HNSW]]
-
-![[topics/Concept/Vector Embeddings]]
-
-![[topics/Concept/Vector Similarity Search]]
-
-![[topics/Concept/Approximate Nearest Neighbor ANN]]
+![[topics/Concept/Vector Embedding]]
 
 ![[topics/Tool/pgvector]]
 
 ![[topics/Tool/pgvectorscale]]
+
+![[topics/Concept/Approximate Nearest Neighbor ANN]]
+
+![[topics/Concept/Hierarchical Navigable Small World HNSW]]
+
+![[topics/Concept/Inverted File IVF Index]]
+
+![[topics/Concept/Vector Similarity Search]]

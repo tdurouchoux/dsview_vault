@@ -11,6 +11,7 @@ upload_date: '2024-03-14'
 ---
 
 https://blog.google/technology/developers/gemma-open-models/
+
 ## Summary
 
 Google has introduced Gemma, a new family of open, lightweight, state-of-the-art models designed for responsible AI development. Built using the same research and technology as the Gemini models, Gemma is available in two sizes: Gemma 2B and Gemma 7B, each with pre-trained and instruction-tuned variants. Key features include:
@@ -21,6 +22,7 @@ Google has introduced Gemma, a new family of open, lightweight, state-of-the-art
 - **Accessibility**: Gemma is available worldwide, with free access in Kaggle, a free tier for Colab notebooks, and $300 in credits for first-time Google Cloud users. Researchers can apply for additional Google Cloud credits.
 
 Google encourages developers and researchers to explore Gemma and looks forward to future innovations with the model.
+
 ## Links
 
 - [TensorFlow Official Website](https://www.tensorflow.org/) : TensorFlow is an open-source platform for machine learning and artificial intelligence developed by Google.
@@ -28,6 +30,7 @@ Google encourages developers and researchers to explore Gemma and looks forward 
 - [Google AI Blog](https://blog.google/technology/) : The Google AI Blog provides updates and insights on AI technologies and research.
 - [AlphaFold: A Solution to a 50-Year-Old Grand Challenge in Biology](https://deepmind.google/discover/blog/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology/) : AlphaFold is a deep learning system developed by DeepMind that predicts the structure of a protein given its amino acid sequence.
 - [Google AI](https://ai.google/) : Google AI is a division of Google that focuses on artificial intelligence research and development.
+
 
 ## Topics
 

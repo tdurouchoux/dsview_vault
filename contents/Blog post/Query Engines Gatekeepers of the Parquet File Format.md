@@ -12,6 +12,7 @@ upload_date: '2025-03-09'
 ---
 
 https://duckdb.org/2025/01/22/parquet-encodings
+
 ## Summary
 
 The article discusses the role of query engines in supporting the Parquet file format, highlighting that mainstream engines often lag in adopting newer Parquet encodings, which forces systems like DuckDB to default to older, less efficient encodings. Key points include:
@@ -27,10 +28,12 @@ The article discusses the role of query engines in supporting the Parquet file f
 5. **Wasted Bits**: The lack of support for newer encodings results in wasted storage space. Implementing these encodings can reduce data storage needs and potentially decrease the need for new data centers.
 
 6. **Conclusion**: The article emphasizes the shared responsibility of query engine developers to implement newer Parquet encodings to make the format more efficient and reduce wasted storage.
+
 ## Links
 
 - [Parquet Format Changelog](https://github.com/apache/parquet-format/blob/master/CHANGES.md) : The changelog for the Apache Parquet format, detailing updates and changes to the format over time.
 - [Parquet Encodings Documentation](https://parquet.apache.org/docs/file-format/data-pages/encodings/) : Documentation on Parquet encodings, explaining the different encodings available in the Parquet file format.
+
 
 ## Topics
 

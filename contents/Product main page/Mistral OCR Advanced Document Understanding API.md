@@ -12,6 +12,7 @@ upload_date: '2025-03-08'
 ---
 
 https://mistral.ai/en/news/mistral-ocr
+
 ## Summary
 
 Mistral OCR is a new Optical Character Recognition API designed for advanced document understanding. It processes images and PDFs, extracting content in an ordered interleaved text and images format, making it suitable for use with RAG systems that handle multimodal documents.
@@ -25,10 +26,12 @@ Key features include:
 - **Self-hosting option** for organizations with stringent data privacy requirements.
 
 Use cases include digitizing scientific research, preserving historical documents, streamlining customer service, and making various types of literature AI-ready. Mistral OCR is available for free trial on le Chat, with API access on la Plateforme and future availability on cloud platforms and on-premises.
+
 ## Links
 
 - [Mistral OCR Notebook](https://colab.research.google.com/github/mistralai/cookbook/blob/main/mistral/ocr/structured_ocr.ipynb) : A notebook demonstrating the use of Mistral OCR to extract text and imagery from a PDF into a markdown file.
 - [Mistral AI Documentation](https://docs.mistral.ai/capabilities/document/) : Official documentation for Mistral AI's document understanding capabilities, including Mistral OCR.
+
 
 ## Topics
 

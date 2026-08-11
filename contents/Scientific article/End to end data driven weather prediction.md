@@ -12,6 +12,7 @@ upload_date: '2025-03-21'
 ---
 
 https://www.nature.com/articles/s41586-025-08897-0
+
 ## Summary
 
 The article presents Aardvark Weather, an end-to-end data-driven weather prediction system that replaces traditional numerical weather prediction (NWP) pipelines. Key points include:
@@ -31,15 +32,17 @@ The article presents Aardvark Weather, an end-to-end data-driven weather predict
 7. **Potential Impact**: End-to-end data-driven models like Aardvark Weather have significant potential for real-world applications, including reducing computational costs, enabling bespoke models for specific regions, and improving accessibility in developing areas.
 
 The article concludes by envisioning Aardvark Weather as a pioneer for a new generation of end-to-end weather forecasting systems capable of tackling diverse tasks.
+
 ## Links
 
 - [A foundation model for the Earth system](https://doi.org/10.1038/s41586-025-09005-y) : This link points to a research article titled 'A foundation model for the Earth system' published in Nature. The article discusses the development of a comprehensive model for understanding and predicting Earth system dynamics, which is highly relevant to the field of data science and environmental modeling.
 - [Accurate medium-range global weather forecasting with 3D neural networks](https://doi.org/10.1038/s41586-023-06185-3) : This link points to a research article titled 'Accurate medium-range global weather forecasting with 3D neural networks' published in Nature. The article presents a study on using 3D neural networks for accurate weather forecasting, which is directly related to the content of the provided text.
 - [Probabilistic weather forecasting with machine learning](https://doi.org/10.1038/s41586-024-08252-9) : This link points to a research article titled 'Probabilistic weather forecasting with machine learning' published in Nature. The article explores the use of machine learning techniques for probabilistic weather forecasting, which is highly relevant to the content of the provided text.
 
+
 ## Topics
 
-![[topics/Model/Vision Transformer]]
+![[topics/Model/Vision Transformer ViT]]
 
 ![[topics/Model/Aardvark Weather]]
 

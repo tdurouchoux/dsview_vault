@@ -13,6 +13,7 @@ upload_date: '2025-05-21'
 ---
 
 https://github.com/D4Vinci/Scrapling
+
 ## Summary
 
 Scrapling is a Python library designed for web scraping, emphasizing ease of use, adaptability, and high performance. It offers several key features:
@@ -24,14 +25,16 @@ Scrapling is a Python library designed for web scraping, emphasizing ease of use
 5. **New Session Architecture**: Introduces persistent sessions, automatic session management, session inheritance, and concurrent session support.
 
 Scrapling is designed to handle modern web scraping challenges, including bypassing anti-bot systems and adapting to website changes. It outperforms many other libraries in terms of speed and efficiency. The library is available on GitHub and requires Python 3.10 or higher. Optional dependencies can be installed for additional features like the MCP server and interactive shell. The project is licensed under the BSD-3-Clause License.
+
 ## Links
 
 - [Scrapling Documentation](https://scrapling.readthedocs.io/en/latest/) : The official documentation for Scrapling, providing detailed guides, tutorials, and API references for using the library effectively.
 - [Scrapling PyPI](https://pypi.org/project/scrapling/) : The PyPI page for Scrapling, where you can find installation instructions and version information for the library.
 
+
 ## Topics
 
-![[topics/Concept/Stealthy Fetching]]
+![[topics/Concept/Stealth Mode Anti Detection]]
 
 ![[topics/Library/Scrapling]]
 

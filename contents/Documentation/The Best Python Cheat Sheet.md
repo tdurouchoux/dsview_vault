@@ -11,6 +11,7 @@ upload_date: '2024-04-10'
 ---
 
 https://kieranholland.com/best-python-cheat-sheet/
+
 ## Summary
 
 - **Python Cheat Sheet Overview**: This cheat sheet covers Python 3.8+ and includes a comprehensive list of keywords, built-in functions, operators, flow control, and various data types such as strings, lists, dictionaries, sets, and more.
@@ -78,6 +79,7 @@ https://kieranholland.com/best-python-cheat-sheet/
 - **Library**: Lists important standard and third-party libraries.
 
 - **Resource**: Provides links to Python documentation, community resources, and other helpful links.
+
 ## Links
 
 - [Python Official Documentation](https://docs.python.org/3/) : The official documentation for Python 3, providing comprehensive information on the language, libraries, and tools.
@@ -85,6 +87,7 @@ https://kieranholland.com/best-python-cheat-sheet/
 - [Python Cheat Sheet by gto76](https://gto76.github.io/python-cheatsheet/) : A detailed cheat sheet for Python, covering various aspects of the language and its libraries.
 - [Python Guide](https://docs.python-guide.org/) : A guide for Python developers, covering best practices, tools, and libraries.
 - [Python Community](https://www.python.org/community/) : Information about the Python community, including mailing lists, forums, and events.
+
 
 ## Topics
 

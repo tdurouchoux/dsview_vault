@@ -12,6 +12,7 @@ upload_date: '2022-12-15'
 ---
 
 https://stability.ai/blog/stable-diffusion-v2-release
+
 ## Summary
 
 Stable Diffusion 2.0, released by Stability AI, is an open-source update that builds on the success of its predecessor, Stable Diffusion V1. Key improvements include:
@@ -25,11 +26,13 @@ Stable Diffusion 2.0, released by Stability AI, is an open-source update that bu
 4. **Updated Inpainting Model**: Fine-tuned for easier and more intelligent image editing.
 
 The model is optimized to run on a single GPU, promoting accessibility and open-source collaboration. Stability AI encourages community contributions and will support the repository actively. The models will be integrated into Stability AI's API Platform and DreamStudio, with updates on pricing and developer information forthcoming. The release aims to foster creativity and innovation in the AI community.
+
 ## Links
 
 - [Stable Diffusion GitHub](https://github.com/Stability-AI/stablediffusion) : GitHub repository for Stable Diffusion, providing access to the model and related resources.
 - [LAION-5B Blog Post](https://laion.ai/blog/laion-5b/) : Blog post detailing the LAION-5B dataset, which was used to train the Stable Diffusion 2.0 models.
 - [Runway ML](https://runwayml.com/) : Website for Runway ML, a company involved in the development of Stable Diffusion, providing additional context on their contributions.
+
 
 ## Topics
 

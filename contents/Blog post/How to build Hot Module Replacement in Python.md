@@ -11,6 +11,7 @@ upload_date: '2025-05-09'
 ---
 
 https://www.gauge.sh/blog/how-to-build-hot-module-replacement-in-python
+
 ## Summary
 
 The content discusses the implementation of Hot Module Replacement (HMR) in Python to speed up development workflows, particularly for large projects where traditional hot-reloading methods are slow. The key points include:
@@ -28,11 +29,13 @@ The content discusses the implementation of Hot Module Replacement (HMR) in Pyth
 6. **Conclusion**: Dependency mapping, facilitated by tools like Tach, is a powerful technique for enhancing developer workflows in large Python codebases. The full code for the example is available for further exploration.
 
 The content also includes related blog posts on topics such as validating workspace dependencies, scaling to large codebases, and architectural considerations for monoliths and microservices.
+
 ## Links
 
 - [Tach Map Documentation](https://docs.gauge.sh/usage/commands#tach-map) : Documentation for the tach map command-line tool used to create dependency maps statically.
 - [Example Hot Reload GitHub Repository](https://github.com/gauge-sh/example-hot-reload) : GitHub repository containing the code for the example server demonstrating Hot Module Replacement in Python.
 - [Tach GitHub Repository](https://github.com/gauge-sh/tach) : GitHub repository for Tach, a Rust-based library providing fast dependency mapping for Python projects.
+
 
 ## Topics
 

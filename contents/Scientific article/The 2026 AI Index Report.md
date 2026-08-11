@@ -11,6 +11,7 @@ upload_date: '2026-04-28'
 ---
 
 https://hai.stanford.edu/ai-index/2026-ai-index-report
+
 ## Summary
 
 The 2026 AI Index Report by Stanford HAI highlights key trends and insights in AI development and adoption. Key takeaways include:
@@ -26,24 +27,26 @@ The 2026 AI Index Report by Stanford HAI highlights key trends and insights in A
 - Public and expert opinions on AI’s impact diverge sharply (73% of experts vs. 23% of the public see positive job impacts), and trust in AI regulation varies globally.
 
 The report covers 9 chapters: R&D, Technical Performance, Responsible AI, Economy, Science, Medicine, Education, Policy & Governance, and Public Opinion.
+
 ## Links
 
 - [2026 AI Index Report (PDF)](https://hai.stanford.edu/assets/files/ai_index_report_2026.pdf) : This link provides the full PDF version of the 2026 AI Index Report, offering comprehensive, unbiased, and rigorously vetted data on AI's technical progress, economic influence, and societal impact. It is the primary resource for understanding the latest trends and insights in the field.
 
+
 ## Topics
-
-![[topics/Concept/AI Index Report]]
-
-![[topics/Concept/AI Sovereignty]]
-
-![[topics/Concept/Jagged Frontier of AI]]
 
 ![[topics/Concept/Responsible AI]]
 
-![[topics/Concept/AI Adoption]]
-
 ![[topics/Concept/AI Benchmarks]]
 
-![[topics/Concept/AI Hardware Supply Chain]]
+![[topics/Concept/Jagged Frontier of AI]]
+
+![[topics/Concept/Sovereign AI]]
+
+![[topics/Concept/AI Index Report]]
+
+![[topics/Concept/AI and Value Realization Adoption]]
 
 ![[topics/Concept/AI Incidents]]
+
+![[topics/Concept/AI Hardware Supply Chain]]

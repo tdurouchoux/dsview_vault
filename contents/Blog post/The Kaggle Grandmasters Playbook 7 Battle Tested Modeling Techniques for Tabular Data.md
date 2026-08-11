@@ -13,6 +13,7 @@ upload_date: '2025-10-16'
 ---
 
 https://developer.nvidia.com/blog/the-kaggle-grandmasters-playbook-7-battle-tested-modeling-techniques-for-tabular-data/
+
 ## Summary
 
 The Kaggle Grandmasters Playbook outlines seven battle-tested techniques for solving real-world tabular data problems, emphasizing fast experimentation and careful validation. Key techniques include:
@@ -26,19 +27,23 @@ The Kaggle Grandmasters Playbook outlines seven battle-tested techniques for sol
 7. **Extra Training**: Train models with different random seeds and retrain on all data to boost performance.
 
 GPU acceleration (via cuDF, cuML, XGBoost, LightGBM, CatBoost) is crucial for making these techniques practical at scale. The playbook is grounded in principles of fast experimentation and careful validation, with resources provided for implementing GPU acceleration.
+
 ## Links
 
 - [Accelerating pandas with cuDF](https://colab.research.google.com/drive/1vlzvB981pej2RlKmXBUF1CNzyxl8YpJg?usp=sharing#scrollTo=p8MdG_7hthDD) : This link provides a practical guide on how to accelerate pandas operations using cuDF, which is essential for handling large-scale data transformations and feature engineering as mentioned in the article.
 - [Accelerating scikit-learn with cuML](https://colab.research.google.com/github/rapidsai-community/showcase/blob/main/getting_started_tutorials/cuml_sklearn_colab_demo.ipynb) : This link offers a practical guide on how to accelerate scikit-learn models using cuML, which is crucial for training models faster and more efficiently as discussed in the article.
 - [GPU-Accelerated XGBoost](https://colab.research.google.com/github/rapidsai-community/showcase/blob/main/getting_started_tutorials/cudf_pandas_colab_demo.ipynb) : This link provides a practical guide on how to train gradient-boosted trees on millions of rows in minutes using GPU acceleration, which is essential for rapid experimentation and model training as mentioned in the article.
 
+
 ## Topics
+
+![[topics/Concept/Feature Engineering]]
 
 ![[topics/Concept/Exploratory Data Analysis EDA]]
 
-![[topics/Concept/Ensembling]]
+![[topics/Concept/Ensemble Learning]]
 
-![[topics/Concept/Pseudo labeling]]
+![[topics/Concept/Cross Validation]]
 
 ![[topics/Concept/Gradient Boosted Decision Trees GBDTs]]
 
@@ -46,6 +51,4 @@ GPU acceleration (via cuDF, cuML, XGBoost, LightGBM, CatBoost) is crucial for ma
 
 ![[topics/Concept/Stacking]]
 
-![[topics/Concept/Cross Validation]]
-
-![[topics/Concept/Feature Engineering]]
+![[topics/Concept/Pseudo labeling]]

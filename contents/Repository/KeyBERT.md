@@ -11,6 +11,7 @@ upload_date: '2026-07-15'
 ---
 
 https://maartengr.github.io/KeyBERT/
+
 ## Summary
 
 KeyBERT is a lightweight keyword extraction tool that uses BERT embeddings and cosine similarity to identify the most relevant words/phrases in a document. It works by:
@@ -35,6 +36,7 @@ keywords = kw_model.extract_keywords(doc, keyphrase_ngram_range=(1,2))
 ```
 
 The tool is designed for simplicity while leveraging powerful BERT embeddings for semantic keyword extraction.
+
 ## Links
 
 - [KeyBERT on PyPI](https://pypi.org/project/keybert/) : Official PyPI page for KeyBERT, providing installation instructions and package details.
@@ -42,16 +44,17 @@ The tool is designed for simplicity while leveraging powerful BERT embeddings fo
 - [RAKE GitHub Repository](https://github.com/aneesha/RAKE) : GitHub repository for RAKE, a traditional keyword extraction algorithm mentioned for comparison.
 - [YAKE GitHub Repository](https://github.com/LIAAD/yake) : GitHub repository for YAKE, another traditional keyword extraction algorithm mentioned for comparison.
 
+
 ## Topics
+
+![[topics/Concept/Cosine Similarity]]
+
+![[topics/Model/BERT]]
+
+![[topics/Concept/Embeddings]]
+
+![[topics/Concept/N gram Range]]
 
 ![[topics/Library/KeyBERT]]
 
 ![[topics/Concept/Keyword Extraction]]
-
-![[topics/Concept/N gram Range]]
-
-![[topics/Model/BERT]]
-
-![[topics/Concept/Cosine Similarity]]
-
-![[topics/Concept/Embeddings]]

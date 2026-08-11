@@ -11,6 +11,7 @@ upload_date: '2026-06-22'
 ---
 
 https://huggingface.co/blog/agentic-resource-discovery-launch
+
 ## Summary
 
 Agentic Resource Discovery (ARD) is a draft open specification developed by industry contributors (Microsoft, Google, GoDaddy, Hugging Face, etc.) to address the discovery problem in agentic AI systems. It provides a discovery layer for agents to dynamically find tools, skills, and other agents at runtime, rather than relying on pre-installed, static catalogs.
@@ -25,6 +26,7 @@ Key technical points:
 - Next steps include tighter integration with federation modes and Hub-side support for static `ai-catalog.json` manifests.
 
 ARD aims to standardize how agents discover and connect to capabilities across the web, akin to DNS for AI agents. Publishers can host an `ai-catalog.json` file to make their capabilities discoverable and verifiable.
+
 ## Links
 
 - [Agentic Resource Discovery Specification](https://agenticresourcediscovery.org/) : Official website for the Agentic Resource Discovery (ARD) specification, providing detailed information about the open standard for how AI agents discover and connect to capabilities across the web.
@@ -33,20 +35,21 @@ ARD aims to standardize how agents discover and connect to capabilities across t
 - [Agent Skills on the Hub](https://huggingface.co/docs/hub/agents-skills) : Documentation for Agent Skills on the Hugging Face Hub, explaining how to define and use agent-interactable skills within Spaces.
 - [Hugging Face Spaces](https://huggingface.co/spaces) : Official page for Hugging Face Spaces, where users can host and discover interactive ML applications, including those compatible with ARD.
 
-## Topics
 
-![[topics/Concept/Agentic Resource Discovery ARD]]
+## Topics
 
 ![[topics/Concept/Model Context Protocol MCP]]
 
+![[topics/Platform/Hugging Face]]
+
 ![[topics/Concept/A2A Agent to Agent Protocol]]
 
-![[topics/Library/Hugging Face Discover Tool]]
-
-![[topics/Platform/Hugging Face]]
+![[topics/Concept/Agent Skills]]
 
 ![[topics/Concept/Federated Registries]]
 
-![[topics/Tool/ai catalog json]]
+![[topics/Library/Hugging Face Discover Tool]]
 
-![[topics/Concept/Agent Skills]]
+![[topics/Concept/Agentic Resource Discovery ARD]]
+
+![[topics/Tool/ai catalog json]]

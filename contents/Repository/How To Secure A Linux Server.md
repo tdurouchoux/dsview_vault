@@ -11,6 +11,7 @@ upload_date: '2025-11-26'
 ---
 
 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+
 ## Summary
 
 The guide provides a comprehensive approach to securing a Linux server, covering various aspects of system hardening and security best practices. Here are the main technical points and key takeaways:
@@ -83,6 +84,7 @@ The guide provides a comprehensive approach to securing a Linux server, covering
 - **License and Copyright**: License information.
 
 This guide is a valuable resource for data scientists looking to enhance the security of their Linux servers, providing practical steps and best practices to follow.
+
 ## Links
 
 - [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) : CIS Benchmarks provide industry-trusted, step-by-step instructions for securing various flavors of Linux.
@@ -91,24 +93,25 @@ This guide is a valuable resource for data scientists looking to enhance the sec
 - [Linux Server Hardening Checklist](https://securecompliance.co/linux-server-hardening-checklist/) : A comprehensive checklist for hardening a Linux server, covering various security measures and best practices.
 - [How to Secure a Linux Server With Ansible](https://github.com/moltenbit/How-To-Secure-A-Linux-Server-With-Ansible) : An Ansible playbook for automating the security hardening of a Linux server.
 
+
 ## Topics
-
-![[topics/Concept/SSH Public Private Keys]]
-
-![[topics/Concept/SSH Group for AllowGroups]]
-
-![[topics/Concept/Secure SSH Configuration]]
-
-![[topics/Concept/Two Factor Authentication 2FA for SSH]]
-
-![[topics/Concept/Limit Who Can Use sudo]]
 
 ![[topics/Concept/Limit Who Can Use su]]
 
+![[topics/Concept/Limit Who Can Use sudo]]
+
 ![[topics/Concept/Run Applications in a Sandbox with FireJail]]
 
-![[topics/Concept/NTP Client]]
+![[topics/Concept/Secure SSH Configuration]]
 
 ![[topics/Concept/Securing proc]]
 
+![[topics/Concept/SSH Group for AllowGroups]]
+
+![[topics/Concept/NTP Client]]
+
+![[topics/Concept/Two Factor Authentication 2FA for SSH]]
+
 ![[topics/Concept/Force Accounts To Use Secure Passwords]]
+
+![[topics/Concept/SSH Public Private Keys]]

@@ -12,6 +12,7 @@ upload_date: '2024-10-23'
 ---
 
 https://www.anthropic.com/news/3-5-models-and-computer-use
+
 ## Summary
 
 Anthropic has introduced upgrades and new models to their Claude AI system. The upgraded Claude 3.5 Sonnet shows significant improvements, particularly in coding tasks, outperforming other models on benchmarks like SWE-bench Verified and TAU-bench. It is now available for all users at the same price and speed as its predecessor.
@@ -23,6 +24,7 @@ Additionally, Anthropic has introduced a groundbreaking capability in public bet
 The company has also emphasized responsible deployment, developing new classifiers to identify and mitigate potential harms associated with computer use. They encourage developers to start with low-risk tasks and expect rapid improvements in this capability.
 
 Overall, these updates aim to enhance AI-powered coding, automation, and user-facing applications, with a focus on safety and responsible scaling.
+
 ## Links
 
 - [Developing computer use](https://www.anthropic.com/news/developing-computer-use) : This link points to a post discussing the research process behind the new computer use capability of Claude 3.5 Sonnet, including safety measures and further developments.
@@ -30,6 +32,7 @@ Overall, these updates aim to enhance AI-powered coding, automation, and user-fa
 - [Computer Use Documentation](https://docs.anthropic.com/en/docs/build-with-claude/computer-use) : This link points to the specific documentation for the computer use feature, offering detailed instructions and examples on how developers can implement and utilize this new capability.
 - [SWE-bench](https://www.swebench.com/) : This link points to the SWE-bench website, which is mentioned in the context as a benchmark for evaluating coding performance. It likely provides detailed information about the benchmark, its methodology, and results.
 - [OS-World](https://os-world.github.io/) : This link points to the OS-World website, which evaluates AI models' ability to use computers like people do. It provides insights into the performance of different AI models in this context.
+
 
 ## Topics
 

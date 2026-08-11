@@ -11,6 +11,7 @@ upload_date: '2025-10-01'
 ---
 
 https://deepmind.google/discover/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/
+
 ## Summary
 
 Gemini Robotics 1.5 introduces advanced AI models designed to enable robots to perform complex, multi-step tasks in the physical world. The system comprises two key models:
@@ -24,17 +25,19 @@ These models work together in an agentic framework, with Gemini Robotics-ER 1.5 
 Safety is a key focus, with the models implementing high-level semantic reasoning and adhering to safety policies. Google DeepMind has also released an upgraded ASIMOV benchmark for evaluating semantic safety.
 
 The introduction of Gemini Robotics 1.5 marks a significant step towards achieving artificial general intelligence (AGI) in the physical world, enabling robots to reason, plan, and use tools more effectively. The models are available to developers via the Gemini API in Google AI Studio, with Gemini Robotics 1.5 currently limited to select partners.
+
 ## Links
 
 - [Gemini Robotics 1.5 Tech Report](https://storage.googleapis.com/deepmind-media/gemini-robotics/Gemini-Robotics-1-5-Tech-Report.pdf) : Technical report detailing the advancements and capabilities of Gemini Robotics 1.5.
 - [Gemini Robotics ER 1.5](https://deepmind.google/models/gemini-robotics/gemini-robotics-er/) : Page detailing the Gemini Robotics-ER 1.5 model, which reasons about the physical world and creates detailed, multi-step plans to complete missions.
 
+
 ## Topics
 
 ![[topics/Model/Gemini Robotics]]
 
-![[topics/Concept/Vision Language Action VLA Models]]
-
 ![[topics/Concept/Embodied Reasoning]]
+
+![[topics/Concept/Vision Language Action VLA Models]]
 
 ![[topics/Concept/Agentic Capabilities]]

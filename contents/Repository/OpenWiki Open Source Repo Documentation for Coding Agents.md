@@ -11,6 +11,7 @@ upload_date: '2026-07-22'
 ---
 
 https://www.langchain.com/blog/introducing-openwiki-an-open-source-agent-for-repo-documentation
+
 ## Summary
 
 OpenWiki is an open-source agent and CLI tool for automatically generating and maintaining documentation for codebases. It creates a structured wiki that helps coding agents understand repo context (e.g., key logic, file connections) without manual updates. Key features:
@@ -26,6 +27,7 @@ npm install -g openwiki
 openwiki --init  # Configures model provider and generates docs
 ```
 OpenWiki is built on DeepAgents and prioritizes scalability for large repos. Future use cases may extend beyond codebases. [GitHub repo](https://github.com/langchain-ai/openwiki).
+
 ## Links
 
 - [OpenWiki GitHub Repository](https://github.com/langchain-ai/openwiki) : The official GitHub repository for OpenWiki, an open-source agent and CLI tool designed to generate and maintain documentation for codebases.
@@ -33,14 +35,15 @@ OpenWiki is built on DeepAgents and prioritizes scalability for large repos. Fut
 - [LangChain DeepAgents Documentation](https://docs.langchain.com/oss/python/deepagents/overview) : Documentation for DeepAgents, the framework underlying OpenWiki, which supports tracing and agent infrastructure.
 - [LangSmith Platform](https://langsmith.com/) : The platform where OpenWiki traces its runs for debugging, observability, and evaluation of agent-generated documentation.
 
+
 ## Topics
 
-![[topics/Tool/OpenWiki]]
-
-![[topics/Library/DeepAgents]]
+![[topics/Concept/Agent Instruction Files AGENTS md]]
 
 ![[topics/Platform/LangSmith]]
 
-![[topics/Concept/Agent Instruction Files AGENTS md]]
+![[topics/Library/DeepAgents]]
+
+![[topics/Tool/OpenWiki]]
 
 ![[topics/Concept/GitHub Action for Documentation Updates]]

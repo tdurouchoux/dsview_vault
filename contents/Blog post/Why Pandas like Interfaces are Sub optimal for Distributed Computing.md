@@ -12,6 +12,7 @@ upload_date: '2024-09-25'
 ---
 
 https://readmedium.com/https://towardsdatascience.com/why-pandas-like-interfaces-are-sub-optimal-for-distributed-computing-322dacbce43
+
 ## Summary
 
 Pandas is a popular data manipulation library in Python, but its interface is not ideal for distributed computing due to several reasons:
@@ -27,10 +28,12 @@ Pandas is a popular data manipulation library in Python, but its interface is no
 5. **Performance Bottlenecks**: Operations in Pandas are optimized for single-machine performance, not for distributed environments where different optimizations are needed.
 
 For distributed computing, frameworks like Dask, Spark, or Vaex are more suitable as they are designed to handle large datasets across multiple nodes, provide parallel processing capabilities, and offer better fault tolerance mechanisms. These tools aim to provide similar functionality to Pandas but in a distributed context.
+
 ## Links
 
 - [OpenAI o1 chat](https://openai01.net/) : OpenAI o1 chat interface.
 - [OpenAI o1 API](https://openaio1api.com/) : OpenAI o1 API documentation.
+
 
 ## Topics
 

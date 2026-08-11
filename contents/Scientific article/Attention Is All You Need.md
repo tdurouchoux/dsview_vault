@@ -12,6 +12,7 @@ upload_date: '2023-01-19'
 ---
 
 https://arxiv.org/pdf/1706.03762.pdf
+
 ## Summary
 
 The paper "Attention Is All You Need" introduces the Transformer, a novel neural network architecture for sequence transduction tasks, such as machine translation. The Transformer relies solely on attention mechanisms, eliminating the need for recurrence and convolutions. Here are the key points and takeaways:
@@ -45,7 +46,9 @@ The paper "Attention Is All You Need" introduces the Transformer, a novel neural
    - Future work includes extending the Transformer to problems involving input and output modalities other than text and investigating local, restricted attention mechanisms.
 
 In summary, the Transformer is a powerful and efficient architecture for sequence transduction tasks, leveraging attention mechanisms to achieve state-of-the-art results and improve interpretability.
+
 ## Links
+
 
 
 ## Topics

@@ -12,6 +12,7 @@ upload_date: '2024-11-01'
 ---
 
 https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/
+
 ## Summary
 
 The content discusses the limitations and complexities of current vector database abstractions and proposes a new approach called "vectorizers" to simplify AI application development. Key points include:
@@ -38,6 +39,7 @@ The content discusses the limitations and complexities of current vector databas
    - Offers flexibility in deployment options, including Timescale Cloud and self-hosted environments.
 
 The post encourages trying pgai Vectorizer in Early Access and provides additional resources for learning more about its capabilities and implementation.
+
 ## Links
 
 - [pgai Vectorizer Documentation](https://github.com/timescale/pgai/blob/main/docs/vectorizer.md) : Documentation for pgai Vectorizer, an open-source tool for managing vector embeddings in PostgreSQL.
@@ -45,6 +47,7 @@ The post encourages trying pgai Vectorizer in Early Access and provides addition
 - [TigerData Discord Community](https://discord.gg/KRdHVXAmkp) : Join the TigerData Discord community for support and discussions on pgai Vectorizer and other tools in the PGAI suite.
 - [What If Vector Embeddings Were Database Indexes?](https://www.youtube.com/watch?v=j2B5fx1p1Ps) : A video explaining the concept of treating vector embeddings as database indexes.
 - [How to Automatically Create & Update Embeddings in PostgreSQL](https://www.tigerdata.com/blog/how-to-automatically-create-update-embeddings-in-postgresql/) : A blog post explaining how to automatically create and update embeddings in PostgreSQL using pgai Vectorizer.
+
 
 ## Topics
 

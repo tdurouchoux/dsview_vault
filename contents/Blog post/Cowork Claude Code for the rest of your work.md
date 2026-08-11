@@ -11,6 +11,7 @@ upload_date: '2026-01-29'
 ---
 
 https://claude.com/blog/cowork-research-preview
+
 ## Summary
 
 Claude has introduced Cowork, a new feature that allows users to grant Claude access to specific folders on their computer, enabling it to read, edit, or create files within those folders. Cowork is designed to handle tasks with more agency than a regular conversation, planning and executing tasks while keeping the user informed. It is built on the same foundations as Claude Code and can perform similar tasks but in a more approachable form for non-coding activities.
@@ -27,10 +28,12 @@ Safety and control measures include:
 - **Precautions**: Users are advised to take precautions, particularly while learning how Cowork works.
 
 Cowork is currently available as a research preview for Claude Max subscribers on the macOS app, with plans to improve and expand its features, including cross-device sync and availability on Windows. Users are encouraged to experiment with Cowork and provide feedback to help shape its future development.
+
 ## Links
 
 - [Claude Code](https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code) : An article discussing the versatility and impact of Claude Code, highlighting its use beyond coding tasks.
 - [Using Cowork Safely](https://support.claude.com/en/articles/13364135-using-cowork-safely) : Guidelines and best practices for using Cowork safely, including precautions and security measures.
+
 
 ## Topics
 

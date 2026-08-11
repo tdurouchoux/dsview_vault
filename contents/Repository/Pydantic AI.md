@@ -11,6 +11,7 @@ upload_date: '2025-04-22'
 ---
 
 https://ai.pydantic.dev/
+
 ## Summary
 
 Pydantic AI is a Python agent framework designed for building production-grade applications and workflows with Generative AI. It emphasizes type safety, observability, and ease of use, similar to the FastAPI framework. Key features include:
@@ -26,17 +27,19 @@ Pydantic AI is a Python agent framework designed for building production-grade a
 - **Graph Support**: Defines graphs using type hints for complex applications.
 
 The documentation includes examples such as a "Hello World" example and a bank support agent, demonstrating the framework's capabilities. It also mentions integration with Pydantic Logfire for monitoring and performance tracking. The framework is designed to be extensible and customizable, with support for various models and providers.
+
 ## Links
 
 - [Pydantic AI GitHub Repository](https://github.com/pydantic/pydantic-ai) : The GitHub repository for Pydantic AI, where you can find the source code, contribute, and report issues.
 - [Pydantic AI Documentation](https://docs.pydantic.dev/latest/) : The official documentation for Pydantic AI, providing detailed information on how to use the framework.
 - [Pydantic AI PyPI](https://pypi.python.org/pypi/pydantic-ai) : The PyPI page for Pydantic AI, where you can find installation instructions and package details.
 
+
 ## Topics
 
 ![[topics/Concept/Model Context Protocol MCP]]
 
-![[topics/Concept/Agent2Agent A2A Protocol]]
+![[topics/Concept/A2A Agent to Agent Protocol]]
 
 ![[topics/Concept/Pydantic Logfire]]
 

@@ -12,6 +12,7 @@ upload_date: '2024-11-01'
 ---
 
 https://petewarden.com/2021/12/24/why-are-ml-compilers-so-hard/
+
 ## Summary
 
 The blog post discusses the challenges faced by machine learning (ML) compilers and why they are not as widely adopted as traditional procedural compilers. The author, Pete Warden, highlights several key points:
@@ -29,17 +30,19 @@ The blog post discusses the challenges faced by machine learning (ML) compilers 
 6. **Future Directions**: The author suggests two possible futures for the ML ecosystem: one resembling Matlab, where manual engineering is required for production deployments, and another resembling LLVM, where a rich intermediate representation allows for broad support. The author advocates for changing the training environment to produce more manageable representations from the start.
 
 The post concludes with a call for continued innovation in the ML compiler community to address these challenges.
+
 ## Links
 
 - [TensorFlow XLA Architecture](https://www.tensorflow.org/xla/architecture) : Explanation of the architecture behind XLA (Accelerated Linear Algebra), a domain-specific compiler for machine learning graphs integrated into TensorFlow.
 - [MLIR (Multi-Level Intermediate Representation)](https://mlir.llvm.org/) : Information about MLIR, a compiler infrastructure designed for reusable and extensible compiler construction.
 - [ONNX (Open Neural Network Exchange)](https://onnx.ai/) : Details about ONNX, an open format built to represent machine learning models, enabling interoperability between different frameworks, runtimes, and hardware platforms.
 
+
 ## Topics
 
 ![[topics/Concept/Non Max Suppression]]
 
-![[topics/Concept/Model Optimization]]
+![[topics/Concept/Model and Inference Optimization]]
 
 ![[topics/Concept/Intermediate Representation IR]]
 

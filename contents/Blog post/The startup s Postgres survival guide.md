@@ -11,6 +11,7 @@ upload_date: '2026-07-29'
 ---
 
 https://hatchet.run/blog/postgres-survival-guide
+
 ## Summary
 
 The guide provides practical advice for managing Postgres at scale, focusing on schema design, query optimization, and advanced features. Key points include:
@@ -25,6 +26,7 @@ The guide provides practical advice for managing Postgres at scale, focusing on 
 - **ORM Considerations**: ORMs may limit optimizations; consider tools like `sqlc` or `TypedSQL` to write raw SQL when needed.
 
 The guide emphasizes iterative schema development, efficient query design, and proactive monitoring to maintain Postgres performance under load.
+
 ## Links
 
 - [Database Normalization Explained](https://www.digitalocean.com/community/tutorials/database-normalization) : A detailed explanation of database normalization, referenced in the context of schema design best practices and trade-offs between normalization and query efficiency.
@@ -33,24 +35,25 @@ The guide emphasizes iterative schema development, efficient query design, and p
 - [Fastest PostgreSQL Inserts Guide](https://hatchet.run/blog/fastest-postgres-inserts) : A Hatchet blog post on optimizing write operations in PostgreSQL, focusing on batching writes and improving throughput.
 - [PostgreSQL Official Documentation](https://www.postgresql.org/docs/18/index.html) : The official PostgreSQL documentation, covering indexing, query planning, partitioning, and other advanced topics essential for PostgreSQL users.
 
+
 ## Topics
+
+![[topics/Concept/Query Planner]]
 
 ![[topics/Tool/pgBouncer]]
 
 ![[topics/Tool/sqlc]]
 
-![[topics/Tool/pg_repack]]
-
-![[topics/Concept/Autovacuum Tuning]]
-
-![[topics/Concept/Database Partitioning]]
-
 ![[topics/Concept/Connection Pooling]]
-
-![[topics/Concept/Bloat Management]]
-
-![[topics/Concept/Query Planner]]
 
 ![[topics/Concept/Compound Indexes]]
 
 ![[topics/Concept/Idempotency Keys]]
+
+![[topics/Concept/Autovacuum Tuning]]
+
+![[topics/Concept/Bloat Management]]
+
+![[topics/Concept/Database Partitioning]]
+
+![[topics/Tool/pg_repack]]

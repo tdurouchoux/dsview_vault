@@ -13,6 +13,7 @@ upload_date: '2023-09-28'
 ---
 
 https://cognitiveclass.ai/
+
 ## Summary
 
 The content presents an online learning platform focused on tech, particularly AI and Data Science. Key features include:
@@ -32,9 +33,11 @@ The content presents an online learning platform focused on tech, particularly A
   - **Data Science Fundamentals** (Beginner): Focuses on Python and Data Science.
 
 The platform aims to help users advance their tech careers with certified credentials and hands-on projects.
+
 ## Links
 
 - [Skills Network](https://skills.network) : Skills Network is a platform offering courses and projects in AI, Data Science, and other emerging technologies. It provides a personalized learning experience with interactive labs and hands-on projects to help learners advance their careers in tech.
+
 
 ## Topics
 

@@ -12,6 +12,7 @@ upload_date: '2025-03-11'
 ---
 
 https://aeturrell.com/blog/posts/the-data-validation-landscape-in-2025/
+
 ## Summary
 
 **Summary:**
@@ -35,6 +36,7 @@ https://aeturrell.com/blog/posts/the-data-validation-landscape-in-2025/
   6. **jsonschema**: Focuses on validating JSON data, similar to Cerberus. It throws ValidationError exceptions on failures.
 
 - **Recommendations for Public Sector**: The choice of tool depends on the use case. Pandera is recommended for mixed teams and non-production environments, Great Expectations for production environments, and Pydantic for user input validation. Pointblank is also promising and worth monitoring for future developments.
+
 ## Links
 
 - [Great Expectations](https://greatexpectations.io/) : Great Expectations is a data validation tool mentioned in the article. It is a production-grade tool with advanced features like Slack notifications and database integration.
@@ -42,6 +44,7 @@ https://aeturrell.com/blog/posts/the-data-validation-landscape-in-2025/
 - [Pandera](https://pandera.readthedocs.io/) : Pandera is a data validation library that integrates with multiple data sources and supports statistical hypothesis testing.
 - [Pydantic](https://docs.pydantic.dev/) : Pydantic is a data validation tool focused on schema validation for dictionaries and non-tabular data, useful for API and form input validation.
 - [jsonschema](https://github.com/python-jsonschema/jsonschema) : jsonschema is a Python library for validating JSON data against a specified schema, ensuring data integrity and correctness.
+
 
 ## Topics
 

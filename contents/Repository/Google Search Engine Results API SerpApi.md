@@ -11,6 +11,7 @@ upload_date: '2024-02-15'
 ---
 
 https://serpapi.com/search-api
+
 ## Summary
 
 The Google Search Engine Results API by SerpApi allows users to scrape Google search results programmatically. Here are the key technical points and takeaways:
@@ -44,10 +45,12 @@ The Google Search Engine Results API by SerpApi allows users to scrape Google se
 - **Support**: Includes GitHub, legal, security, libraries, release notes, public roadmap, and support resources.
 
 This API is designed to provide a robust and flexible way to access Google search results programmatically, making it easier to integrate search functionalities into applications.
+
 ## Links
 
 - [Google Business](https://www.google.com/business/) : Google Business provides tools and resources for managing your business presence on Google, including search and maps.
 - [SerpApi Plan](https://serpapi.com/plan) : SerpApi Plan page provides information on different subscription plans and pricing for using the SerpApi service.
+
 
 ## Topics
 

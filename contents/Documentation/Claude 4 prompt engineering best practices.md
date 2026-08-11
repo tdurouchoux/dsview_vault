@@ -12,6 +12,7 @@ upload_date: '2025-05-26'
 ---
 
 https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices
+
 ## Summary
 
 **Concise Summary:**
@@ -34,14 +35,16 @@ The document outlines prompt engineering best practices for Claude 4 models (Opu
    - Be specific about desired behavior and features when migrating from Sonnet 3.7 to Claude 4.
 
 The document also mentions tools like the Prompt Generator and Prompt Improver, and highlights the importance of testing and evaluating prompts.
+
 ## Links
 
 - [Anthropic Research](https://www.anthropic.com/research) : Anthropic Research page, providing insights into the research behind Claude models.
+
 
 ## Topics
 
 ![[topics/Concept/Model Context Protocol MCP]]
 
-![[topics/Concept/Prompt Engineering]]
+![[topics/Concept/Prompt Engineering and Optimization]]
 
 ![[topics/Concept/Extended Thinking]]

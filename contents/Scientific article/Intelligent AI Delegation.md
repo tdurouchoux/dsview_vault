@@ -11,6 +11,7 @@ upload_date: '2026-03-28'
 ---
 
 https://arxiv.org/pdf/2602.11865
+
 ## Summary
 
 Intelligent AI delegation is a framework for AI agents to decompose complex tasks, dynamically allocate sub-tasks across human-AI networks, and safely delegate their completion while incorporating transfer of authority, responsibility, accountability, clear specifications regarding roles and boundaries, and mechanisms for establishing trust. The framework is structured into seven chapters:
@@ -28,7 +29,9 @@ Intelligent AI delegation is a framework for AI agents to decompose complex task
 6. Protocols: Maps the framework requirements onto some of the more established and recently introduced AI agent protocols, such as MCP, A2A, AP2, and UCP, and discusses how these protocols could be extended to unlock different aspects of intelligent task delegation.
 
 7. Conclusion: Emphasizes the need for a paradigm shift from largely unsupervised automation to verifiable, intelligent delegation to safely scale towards future autonomous agentic systems while keeping them closely tethered to human intent and societal norms.
+
 ## Links
+
 
 
 ## Topics
@@ -37,14 +40,14 @@ Intelligent AI delegation is a framework for AI agents to decompose complex task
 
 ![[topics/Concept/Multi Agent Systems]]
 
-![[topics/Concept/Task Decomposition]]
-
-![[topics/Concept/Adaptive Coordination]]
-
-![[topics/Concept/Trust and Reputation Mechanisms]]
-
-![[topics/Concept/Verifiable Task Completion]]
+![[topics/Concept/Smart Contracts]]
 
 ![[topics/Concept/Permission Handling]]
 
-![[topics/Concept/Smart Contracts]]
+![[topics/Concept/Trust and Reputation Mechanisms]]
+
+![[topics/Concept/Adaptive Coordination]]
+
+![[topics/Concept/Task Decomposition]]
+
+![[topics/Concept/Verifiable Task Completion]]

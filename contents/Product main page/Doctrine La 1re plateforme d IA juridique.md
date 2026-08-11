@@ -12,6 +12,7 @@ upload_date: '2026-01-04'
 ---
 
 https://www.doctrine.fr/
+
 ## Summary
 
 Doctrine is an AI-powered legal platform designed to assist lawyers and legal professionals by automating repetitive tasks such as case analysis, legal research, and document drafting. The platform aims to enhance productivity and secure legal positions. Key features include:
@@ -23,14 +24,16 @@ Doctrine is an AI-powered legal platform designed to assist lawyers and legal pr
 5. **Expert Resources**: Offers an encyclopedia and jurisprudential review in taxation, along with conclusions from the public rapporteur, constructed with top experts in the field.
 
 The platform is trusted by over 15,000 legal professionals, including individual lawyers, large law firms, corporate legal departments, ministries, and public organizations. It is positioned as the leading AI legal platform, emphasizing security, specialization, and comprehensiveness.
+
 ## Links
 
 - [Doctrine Help Center](https://help.doctrine.fr) : The Doctrine Help Center provides comprehensive support and documentation for users of the Doctrine platform, offering guidance on various features and functionalities.
 - [Doctrine Trust Center](https://trust.doctrine.com) : The Doctrine Trust Center offers information on the security measures and privacy practices implemented by Doctrine, ensuring users understand how their data is protected.
 - [Doctrine Blog](https://blog.doctrine.fr) : The Doctrine Blog features articles, updates, and insights related to legal technology, AI in law, and the latest developments within the Doctrine platform.
 
+
 ## Topics
 
-![[topics/Platform/Doctrine]]
-
 ![[topics/Concept/Legal Graph]]
+
+![[topics/Platform/Doctrine]]

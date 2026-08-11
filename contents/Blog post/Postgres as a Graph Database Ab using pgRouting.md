@@ -11,6 +11,7 @@ upload_date: '2025-03-11'
 ---
 
 https://supabase.com/blog/pgrouting-postgres-graph-database
+
 ## Summary
 
 Postgres as a Graph Database: (Ab)using pgRouting explores the use of PostgreSQL, particularly with the pgRouting extension, for graph database applications. The content focuses on leveraging PostgreSQL's capabilities to handle graph-based data and algorithms, which are typically associated with specialized graph databases.
@@ -30,9 +31,11 @@ Key points include:
 6. **Limitations and Workarounds**: The content also addresses the limitations of using PostgreSQL for graph applications and suggests workarounds or best practices to mitigate these issues.
 
 Overall, the content emphasizes the versatility of PostgreSQL and the pgRouting extension in handling graph data, offering a cost-effective and flexible alternative to dedicated graph databases for many use cases.
+
 ## Links
 
 - [pgRouting](https://github.com/pgRouting/pgrouting) : pgRouting is an open-source extension for PostGIS that provides graph database functionality for Postgres.
+
 
 ## Topics
 

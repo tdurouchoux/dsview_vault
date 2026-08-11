@@ -12,6 +12,7 @@ upload_date: '2024-04-10'
 ---
 
 https://erikbern.com/2024/04/07/predicting-solar-eclipses-with-python.html
+
 ## Summary
 
 Erik Bernhardsson's blog post details his approach to predicting solar eclipses using Python. He leverages the Astropy package to compute the positions of the sun and moon in the sky, calculating their angular separation to determine potential eclipses. The key steps include:
@@ -23,6 +24,7 @@ Erik Bernhardsson's blog post details his approach to predicting solar eclipses 
 5. **Plotting**: He uses Basemap to plot the eclipse paths, adding local times with timezonefinder.
 
 The post concludes with a list of eclipses found, matching online sources, and notes on the brute-force approach's productivity benefits despite its computational cost. The code and further details are available in the provided links.
+
 ## Links
 
 - [Eclipse Finder GitHub Repository](https://github.com/erikbern/eclipse-finder) : The GitHub repository containing the code for predicting solar eclipses using Python.
@@ -30,6 +32,7 @@ The post concludes with a list of eclipses found, matching online sources, and n
 - [Modal Documentation](https://modal.com) : Modal is a platform used for running Python code in the cloud, mentioned in the article for parallelizing computations.
 - [Scipy Optimize Documentation](https://docs.scipy.org/doc/scipy/reference/optimize.html) : Documentation for Scipy's optimization routines, used in the article for minimizing the distance between the sun and the moon.
 - [Basemap Documentation](https://matplotlib.org/basemap/stable/) : Documentation for Basemap, a library used for plotting maps, including eclipse paths.
+
 
 ## Topics
 

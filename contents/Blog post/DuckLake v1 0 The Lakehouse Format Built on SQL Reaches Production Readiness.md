@@ -11,6 +11,7 @@ upload_date: '2026-04-26'
 ---
 
 https://ducklake.select/2026/04/13/ducklake-10/
+
 ## Summary
 
 DuckLake v1.0 is a production-ready lakehouse format specification built on SQL, with a reference implementation (DuckDB ducklake extension) available in DuckDB v1.5.2. Key features include:
@@ -27,6 +28,7 @@ DuckLake v1.0 is a production-ready lakehouse format specification built on SQL,
   - **v1.1**: Variant inlining, multi-deletion vector Puffin files.
   - **v2.0**: Git-like branching, role-based permissions, incremental materialized views.
 - **Stability**: 108 PRs focused on reliability, performance, and correctness (e.g., concurrency fixes, metadata query logging).
+
 ## Links
 
 - [DuckLake v1.0 Release Announcement by MotherDuck](https://motherduck.com/blog/announcing-ducklake-1-0-on-motherduck/) : Official announcement of DuckLake v1.0 support on MotherDuck, a hosted DuckLake service. This link highlights the production-readiness and managed service offering for DuckLake.
@@ -35,22 +37,23 @@ DuckLake v1.0 is a production-ready lakehouse format specification built on SQL,
 - [Awesome DuckLake Community Resources](https://github.com/esadek/awesome-ducklake) : A curated list of DuckLake-related tools, libraries, and resources. This repository provides a comprehensive overview of the DuckLake ecosystem, including clients for Apache DataFusion, Spark, Trino, and Pandas.
 - [DuckLake Integration Guide for MotherDuck](https://motherduck.com/docs/integrations/file-formats/ducklake/) : A detailed guide on integrating and using DuckLake with MotherDuck's platform. This includes setup instructions, best practices, and examples for leveraging DuckLake in a managed environment.
 
+
 ## Topics
-
-![[topics/Concept/Lakehouse]]
-
-![[topics/Concept/Data Inlining]]
-
-![[topics/Concept/Sorted Tables]]
-
-![[topics/Concept/Bucket Partitioning]]
-
-![[topics/Concept/Deletion Vectors]]
-
-![[topics/Concept/Variant Data Type]]
-
-![[topics/Concept/Geometry Data Type]]
 
 ![[topics/Library/DuckDB]]
 
+![[topics/Concept/Lakehouse]]
+
 ![[topics/Tool/DuckLake]]
+
+![[topics/Concept/Bucket Partitioning]]
+
+![[topics/Concept/Sorted Tables]]
+
+![[topics/Concept/Variant Data Type]]
+
+![[topics/Concept/Data Inlining]]
+
+![[topics/Concept/Deletion Vectors]]
+
+![[topics/Concept/Geometry Data Type]]

@@ -12,6 +12,7 @@ upload_date: '2026-02-03'
 ---
 
 https://www.nvidia.com/en-us/high-performance-computing/earth-2/
+
 ## Summary
 
 NVIDIA Earth-2 is an open, comprehensive platform designed to democratize access to professional-grade weather and climate AI. It offers a fully open software stack that accelerates every stage of forecasting, from data processing to high-resolution visualization. The platform integrates state-of-the-art architectures and shifts from resource-intensive physics models to an end-to-end AI pipeline, enabling researchers, startups, and government agencies to run, fine-tune, and deploy sophisticated forecasting systems on their own infrastructure with unprecedented speed and cost-efficiency.
@@ -31,24 +32,26 @@ Key components of the Earth-2 model family include:
 The platform also includes Earth2Studio, a tool for building, fine-tuning, and deploying Earth-2 open models on users' own infrastructure. Additionally, Earth-2 offers interactive visualization of AI weather forecasts, simulation data, and archived data to analyze extreme weather, and it supports various applications such as carbon capture and storage, urban environment analysis, and extreme weather event prediction.
 
 NVIDIA Earth-2 is supported by a partner ecosystem that includes leading adopters across industries, from energy and finance to global weather agencies, leveraging these open models and tools to transform raw data into actionable insights.
+
 ## Links
 
 - [Earth-2 Announcement](https://nvidianews.nvidia.com/news/nvidia-earth-2-climate-tech-weather-prediction-disaster-preparedness) : Announcement of the NVIDIA Earth-2 family of open models for weather AI, including details on global forecasting and disaster preparedness.
 - [Earth2Studio GitHub](https://github.com/NVIDIA/earth2studio) : GitHub repository for Earth2Studio, a tool for building, fine-tuning, and deploying Earth-2 open models for weather forecasting.
 - [Earth-2 Hugging Face](https://huggingface.co/collections/nvidia/earth-2) : Hugging Face collection for Earth-2, providing access to models and tools for weather AI and climate simulation.
 
+
 ## Topics
+
+![[topics/Model/Earth 2 Nowcasting]]
+
+![[topics/Model/Earth 2 FourCastNet 3]]
+
+![[topics/Tool/Earth2Studio]]
+
+![[topics/Model/Earth 2 Global Data Assimilation]]
 
 ![[topics/Platform/NVIDIA Earth 2]]
 
 ![[topics/Model/Atlas architecture]]
 
-![[topics/Model/Earth 2 Nowcasting]]
-
-![[topics/Model/Earth 2 Global Data Assimilation]]
-
 ![[topics/Model/Earth 2 CorrDiff]]
-
-![[topics/Model/Earth 2 FourCastNet 3]]
-
-![[topics/Tool/Earth2Studio]]

@@ -12,6 +12,7 @@ upload_date: '2024-05-05'
 ---
 
 https://www.aidancooper.co.uk/how-to-beat-proprietary-llms/
+
 ## Summary
 
 The article discusses the advantages of using open source large language models (LLMs) over proprietary ones, focusing on strategies to build AI applications that are cheaper, faster, and better. Key points include:
@@ -30,11 +31,13 @@ The article discusses the advantages of using open source large language models 
 4. **Technical Roadmap**: A logical order for implementing these techniques, considering dependencies and feedback loops for continuous improvement.
 
 5. **Conclusion**: Open source models can outperform proprietary LLMs when engineered to leverage their unique advantages, making them faster, cheaper, and better. The choice depends on the application, budget, and engineering resources.
+
 ## Links
 
 - [SGLang](https://lmsys.org/blog/2024-01-17-sglang/?ref=aidancooper.co.uk) : SGLang is a runtime for running LLMs locally. It is a recent player with similar capabilities as vLLM, and an innovative RadixAttention caching approach that claims especially impressive performance.
 - [vLLM](https://github.com/vllm-project/vllm?ref=aidancooper.co.uk) : vLLM is a serving framework, boasting various caching mechanisms, parallelisations, kernel optimisations, and model quantisation methods.
 - [Constrained Decoding](https://www.aidancooper.co.uk/constrained-decoding/) : Constrained decoding is a powerful technique that can guarantee outputs that conform to the desired structure, drastically improve throughput by accelerating token generation, and reducing the number of tokens that need to be generated.
+
 
 ## Topics
 
@@ -46,7 +49,7 @@ The article discusses the advantages of using open source large language models 
 
 ![[topics/Concept/Tree of Thoughts ToT]]
 
-![[topics/Concept/Chain of Thought Prompting]]
+![[topics/Concept/Chain of Thought]]
 
 ![[topics/Concept/ReAct]]
 

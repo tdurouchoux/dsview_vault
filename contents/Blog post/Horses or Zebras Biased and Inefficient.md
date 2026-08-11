@@ -12,6 +12,7 @@ upload_date: '2026-01-04'
 ---
 
 https://notstatschat.rbind.io/2025/12/01/horses-or-zebras/
+
 ## Summary
 
 The text discusses the issue of class imbalance in predictive modeling, using the metaphor of predicting horses versus zebras. Key points include:
@@ -33,16 +34,18 @@ The text discusses the issue of class imbalance in predictive modeling, using th
 6. **Oversampling vs. Weighting**: Oversampling is a form of case weighting but may not be ideal for uncertainty estimation. Weighting is more accurate as it describes the scenario more precisely.
 
 The text emphasizes that addressing class imbalance should be driven by the specific problem context and the relative costs of different types of errors.
+
 ## Links
 
 - [GitHub Repository](https://github.com/tslumley/notstatschat) : GitHub repository for the blog post author, potentially containing additional code, data, or resources related to the discussed topics.
 
+
 ## Topics
+
+![[topics/Concept/Logistic Regression]]
 
 ![[topics/Concept/Class Imbalance]]
 
 ![[topics/Concept/Bayes Theorem]]
 
 ![[topics/Concept/Case Control Sampling]]
-
-![[topics/Concept/Logistic Regression]]

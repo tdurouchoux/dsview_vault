@@ -12,6 +12,7 @@ upload_date: '2024-08-08'
 ---
 
 https://github.com/microsoft/graphrag
+
 ## Summary
 
 GraphRAG is a modular, graph-based Retrieval-Augmented Generation (RAG) system developed by Microsoft. It is designed to extract structured data from unstructured text using large language models (LLMs). The system enhances LLM outputs by utilizing knowledge graph memory structures.
@@ -26,6 +27,7 @@ Key features and guidelines include:
 - **Trademarks and Privacy**: The project adheres to Microsoft's trademark and privacy guidelines.
 
 The repository includes documentation for contributing, developing, and using the system, as well as a link to the Microsoft Research Blog Post for more detailed information.
+
 ## Links
 
 - [GraphRAG Documentation](https://microsoft.github.io/graphrag/) : Official documentation for GraphRAG, providing detailed information on how to use the system, its features, and implementation details.
@@ -33,6 +35,7 @@ The repository includes documentation for contributing, developing, and using th
 - [GraphRAG Quickstart Guide](https://microsoft.github.io/graphrag/get_started/) : Quickstart guide for GraphRAG, providing step-by-step instructions to get started with the system quickly.
 - [GraphRAG Research Paper](https://arxiv.org/pdf/2404.16130) : Research paper detailing the methodology and results of GraphRAG, providing a deeper understanding of the system's capabilities and limitations.
 - [Microsoft Research Blog on GraphRAG](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/) : Blog post from Microsoft Research discussing GraphRAG, its applications, and insights into how it enhances LLM capabilities.
+
 
 ## Topics
 

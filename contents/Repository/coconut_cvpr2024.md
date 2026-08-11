@@ -11,6 +11,7 @@ upload_date: '2024-04-29'
 ---
 
 https://github.com/bytedance/coconut_cvpr2024
+
 ## Summary
 
 The repository bytedance/coconut_cvpr2024 presents COCONut, a large-scale, human-verified dataset for segmentation tasks. Key points include:
@@ -22,6 +23,7 @@ The repository bytedance/coconut_cvpr2024 presents COCONut, a large-scale, human
 - **Acknowledgements**: COCONut builds upon several existing datasets and tools, including SAMA-COCO, COCO, Objects365, and detectron2.
 
 The repository also includes FAQs and visualization examples to aid users in understanding and utilizing the dataset effectively.
+
 ## Links
 
 - [COCONut-B Dataset on Hugging Face](https://huggingface.co/datasets/xdeng77/coconut_b) : Hugging Face dataset page for COCONut-B, a large-scale segmentation dataset.
@@ -29,6 +31,7 @@ The repository also includes FAQs and visualization examples to aid users in und
 - [COCONut-XLarge Dataset on Hugging Face](https://huggingface.co/datasets/xdeng77/coconut_xlarge) : Hugging Face dataset page for COCONut-XLarge, an even larger segmentation dataset.
 - [COCONut-Pancap-50K Dataset on Hugging Face](https://huggingface.co/datasets/xdeng77/coconut_pancap_50k/tree/main) : Hugging Face dataset page for COCONut-Pancap-50K, a dataset with panoptic grounding captions.
 - [COCONut-Pancap Region30K Dataset on Hugging Face](https://huggingface.co/datasets/xdeng77/coconut_pancap_region_30k/tree/main) : Hugging Face dataset page for COCONut-Pancap Region30K, a dataset with region-level instruction data.
+
 
 ## Topics
 

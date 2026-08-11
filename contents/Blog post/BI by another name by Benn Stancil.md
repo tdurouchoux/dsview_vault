@@ -13,6 +13,7 @@ upload_date: '2025-02-14'
 ---
 
 https://benn.substack.com/p/bi-by-another-name
+
 ## Summary
 
 The author discusses the evolution and current state of universal semantic layers in data management. Key points include:
@@ -36,6 +37,7 @@ The author discusses the evolution and current state of universal semantic layer
 9. **Future Challenges**: The next challenge for universal semantic layers is to be flexible enough to work with tools that present data in a range of different ways. Otherwise, they risk being just BI tools by another name.
 
 The author acknowledges that while he initially proposed the concept of a metrics layer, he now sees the need for a more flexible and universal semantic layer that can support a wider range of analytical tools and use cases.
+
 ## Links
 
 - [Holistics Blog on Amazon Metrics](https://www.holistics.io/blog/how-amazon-measures/#:~:text=In%20the%20early%20days%20of%20Amazon%2C%20the%20metrics%20deck%20was%20printed%20on%20paper.%20Today%2C%20decks%20are%20either%20printed%20or%20virtual.) : This link points to a blog post on Holistics.io discussing how Amazon measures and tracks its metrics, providing insights into the company's data management and analysis practices.
@@ -44,14 +46,15 @@ The author acknowledges that while he initially proposed the concept of a metric
 - [Malloy Data Website](https://www.malloydata.dev/) : This link points to the website of Malloy Data, a tool mentioned in the text that is relevant to the discussion on semantic layers and data interaction.
 - [MetricFlow Blog Post](https://blog.transform.co/product-news/introducing-metricflow-your-powerful-open-source-metrics-framework/) : This link points to a blog post introducing MetricFlow, a powerful open-source metrics framework, which is directly related to the discussion on semantic layers and data metrics in the provided text.
 
+
 ## Topics
 
-![[topics/Concept/Universal Semantic Layer]]
+![[topics/Concept/Semantic Layer]]
 
-![[topics/Concept/Metrics Layer]]
+![[topics/Concept/Metrics Standardization and Layer]]
 
 ![[topics/Concept/Malloy]]
 
 ![[topics/Concept/Motif]]
 
-![[topics/Concept/dbt Core]]
+![[topics/Platform/dbt Data Build Tool]]

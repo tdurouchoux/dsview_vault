@@ -12,6 +12,7 @@ upload_date: '2024-05-05'
 ---
 
 https://www.green-algorithms.org/
+
 ## Summary
 
 The Green Algorithms project focuses on promoting environmentally sustainable computational science. It offers several tools and resources for researchers, including:
@@ -22,10 +23,12 @@ The Green Algorithms project focuses on promoting environmentally sustainable co
 4. **Training Material and Talks**: Educational resources and past talks on the topic.
 
 The project also features a Community of Practice for discussions and a monthly newsletter. It has won the 2024 Susannah Boddie Impact of the Year Award for its significant contributions to raising awareness and providing tools for carbon footprint estimation in computational research. The project is supported by various organizations and all work is licensed under a Creative Commons Attribution 4.0 International License.
+
 ## Links
 
 - [Green Algorithms GitHub](https://github.com/GreenAlgorithms?tab=repositories) : GitHub repository for Green Algorithms, containing tools and resources for environmentally sustainable computational science.
 - [ESCS Community Forum](https://forum.escs-community.org/) : Online forum for the Environmentally Sustainable Computational Science Community, for discussions and sharing knowledge on green computing.
+
 
 ## Topics
 

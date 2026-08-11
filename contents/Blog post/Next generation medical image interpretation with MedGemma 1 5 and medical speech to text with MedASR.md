@@ -12,6 +12,7 @@ upload_date: '2026-01-29'
 ---
 
 https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/
+
 ## Summary
 
 The content discusses advancements in medical AI, focusing on two main updates: MedGemma 1.5 and MedASR.
@@ -25,6 +26,7 @@ The content also announces the **MedGemma Impact Challenge**, a hackathon with $
 Additionally, the post highlights real-world applications of MedGemma, such as its use in Malaysia's clinical practice guidelines and preoperative assessments for lung cancer surgery in Taiwan. It provides resources for developers, including tutorials and access to the models via Hugging Face and Vertex AI.
 
 The content concludes with a disclaimer emphasizing that the models are not intended for direct clinical use without appropriate validation and adaptation. It also acknowledges the collaborative efforts behind the development of MedGemma and MedASR.
+
 ## Links
 
 - [MedGemma 1.5 4B Model on Hugging Face](https://huggingface.co/google/medgemma-1.5-4b-it) : Access the MedGemma 1.5 4B model on Hugging Face for medical image interpretation and text tasks.
@@ -32,16 +34,17 @@ The content concludes with a disclaimer emphasizing that the models are not inte
 - [MedGemma GitHub Repository](https://github.com/Google-Health/medgemma/tree/main/notebooks) : Explore tutorials and notebooks for using MedGemma models on GitHub.
 - [MedGemma Impact Challenge on Kaggle](https://www.kaggle.com/competitions/med-gemma-impact-challenge) : Participate in the MedGemma Impact Challenge hackathon with $100,000 in prizes.
 
+
 ## Topics
+
+![[topics/Concept/Anatomical localization]]
 
 ![[topics/Model/MedGemma]]
 
 ![[topics/Model/MedASR]]
 
-![[topics/Concept/High dimensional medical imaging]]
+![[topics/Concept/Medical document understanding]]
 
 ![[topics/Concept/Longitudinal medical imaging]]
 
-![[topics/Concept/Anatomical localization]]
-
-![[topics/Concept/Medical document understanding]]
+![[topics/Concept/High dimensional medical imaging]]

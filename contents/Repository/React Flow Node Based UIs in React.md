@@ -11,6 +11,7 @@ upload_date: '2025-05-01'
 ---
 
 https://reactflow.dev/
+
 ## Summary
 
 React Flow is an open-source library for building node-based editors and interactive diagrams in React. It offers a customizable component with built-in features like dragging nodes, zooming, panning, and selecting multiple nodes. Key aspects include:
@@ -24,10 +25,12 @@ React Flow is an open-source library for building node-based editors and interac
 - **Community**: Active community with Discord, GitHub, and other social platforms for support and updates.
 
 React Flow is maintained by xyflow, a team based in Berlin, and is MIT-licensed.
+
 ## Links
 
 - [React Flow Playground](https://play.reactflow.dev) : Interactive playground for experimenting with React Flow features and components.
 - [About xyflow](https://xyflow.com/about) : Information about the team behind React Flow and their mission.
+
 
 ## Topics
 

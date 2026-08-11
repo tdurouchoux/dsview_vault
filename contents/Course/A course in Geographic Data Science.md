@@ -12,6 +12,7 @@ upload_date: '2026-01-15'
 ---
 
 https://gdsl-ul.github.io/gds/
+
 ## Summary
 
 This course, "Geographic Data Science," is offered by the University of Liverpool and focuses on the intersection of Geographic Information Science (GIS) and Data Science. It is designed to teach students how to integrate modern GIS tools with Data Science techniques to address real-world problems. The course is structured into several key sections:
@@ -27,14 +28,16 @@ This course, "Geographic Data Science," is offered by the University of Liverpoo
 9. **Spatial Networks**: Focuses on the analysis of spatial networks.
 
 The course is designed to be flexible, allowing students to choose between R and Python for their lab sessions. The material is inspired by Dani Arribas-Bel’s course on Geographic Data Science and is available for free under the Attribution-NonCommercial-NoDerivatives 4.0 International license. The course content is also hosted on GitHub for easy access.
+
 ## Links
 
 - [GitHub repository](https://github.com/GDSL-UL/gds) : GitHub repository for the Geographic Data Science course.
 - [Creative Commons License](https://creativecommons.org/licenses/by-nc-nd/4.0/) : Attribution-NonCommercial-NoDerivatives 4.0 International license under which the course website is licensed.
 - [Previous Version of the Course](https://darribas.org/gds_course/content/home.html) : Previous version of the Geographic Data Science course inspired by Dani Arribas-Bel.
 
+
 ## Topics
 
 ![[topics/Concept/Geographic Data Science]]
 
-![[topics/Concept/Geographic Information Science]]
+![[topics/Concept/Geographic Information System GIS]]

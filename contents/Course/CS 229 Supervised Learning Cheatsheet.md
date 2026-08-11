@@ -11,6 +11,7 @@ upload_date: '2025-12-16'
 ---
 
 https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
+
 ## Summary
 
 This cheatsheet provides a concise overview of supervised learning concepts, models, and algorithms, covering the following key points:
@@ -55,29 +56,31 @@ This cheatsheet provides a concise overview of supervised learning concepts, mod
    - VC dimension: Measures the capacity of a hypothesis class.
    - Shattering: Defines when a set is shattered by a hypothesis class.
    - Upper bound theorem: Provides a bound on the expected error of a learned classifier.
+
 ## Links
 
 - [CS 229 - Machine Learning GitHub Repository](https://github.com/afshinea/stanford-cs-229-machine-learning) : GitHub repository for Stanford's CS 229 - Machine Learning course, containing resources and materials related to machine learning.
 - [Supervised Learning Cheatsheet PDF](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-supervised-learning.pdf) : PDF version of the Supervised Learning Cheatsheet, providing a comprehensive overview of supervised learning concepts and techniques.
 
+
 ## Topics
-
-![[topics/Concept/Supervised Learning]]
-
-![[topics/Concept/Loss Function]]
-
-![[topics/Concept/Linear Regression]]
-
-![[topics/Concept/Logistic Regression]]
-
-![[topics/Concept/Support Vector Machines SVM]]
-
-![[topics/Concept/Generative Learning]]
-
-![[topics/Concept/Gaussian Discriminant Analysis GDA]]
-
-![[topics/Concept/Naive Bayes]]
 
 ![[topics/Model/Random Forest]]
 
 ![[topics/Concept/Gradient Descent]]
+
+![[topics/Concept/Logistic Regression]]
+
+![[topics/Concept/Naive Bayes]]
+
+![[topics/Concept/Support Vector Machines SVM]]
+
+![[topics/Concept/Linear Regression]]
+
+![[topics/Concept/Gaussian Discriminant Analysis GDA]]
+
+![[topics/Concept/Generative Learning]]
+
+![[topics/Concept/Supervised Learning]]
+
+![[topics/Concept/Loss Function]]

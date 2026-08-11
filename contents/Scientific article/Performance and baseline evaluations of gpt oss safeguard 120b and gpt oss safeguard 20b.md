@@ -12,6 +12,7 @@ upload_date: '2025-11-20'
 ---
 
 https://cdn.openai.com/pdf/08b7dee4-8bc6-4955-a219-7793fb69090c/Technical_report__Research_Preview_of_gpt_oss_safeguard.pdf
+
 ## Summary
 
 The report evaluates the performance of two open-weight reasoning models, gpt-oss-safeguard-120b and gpt-oss-safeguard-20b, which are designed to classify content based on provided policies. These models are fine-tuned from the gpt-oss models and are available under the Apache 2.0 license. Key findings include:
@@ -28,21 +29,23 @@ The report evaluates the performance of two open-weight reasoning models, gpt-os
    - **Fairness and Bias**: Both gpt-oss-safeguard models outperform their gpt-oss counterparts in the BBQ evaluation, indicating better performance in handling ambiguous and disambiguated questions.
 
 The report concludes that while the gpt-oss-safeguard models show promising capabilities in safety classification and multilingual performance, there are areas for improvement, particularly in handling complex safety scenarios and adhering to instruction hierarchies.
+
 ## Links
 
 
+
 ## Topics
+
+![[topics/Concept/Chain of Thought]]
+
+![[topics/Concept/Structured Output]]
+
+![[topics/Concept/Hallucination in Language Models]]
+
+![[topics/Concept/Instruction Hierarchy]]
 
 ![[topics/Model/gpt oss safeguard 120b]]
 
 ![[topics/Model/gpt oss safeguard 20b]]
 
 ![[topics/Model/gpt 5 thinking]]
-
-![[topics/Concept/Chain of Thought]]
-
-![[topics/Concept/Structured Output]]
-
-![[topics/Concept/Instruction Hierarchy]]
-
-![[topics/Concept/Hallucination in Language Models]]

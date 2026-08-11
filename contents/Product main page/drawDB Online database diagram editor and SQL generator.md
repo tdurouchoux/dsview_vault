@@ -12,10 +12,13 @@ upload_date: '2025-03-04'
 ---
 
 https://www.drawdb.app/
+
 ## Summary
 
 drawDB is an online tool for creating database diagrams and generating SQL code. It allows users to design database schemas visually and then export the corresponding SQL statements. The tool is web-based and requires JavaScript to function. It's useful for data scientists and database administrators to plan and document database structures.
+
 ## Links
+
 
 
 ## Topics

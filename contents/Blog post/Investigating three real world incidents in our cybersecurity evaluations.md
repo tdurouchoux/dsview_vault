@@ -58,22 +58,22 @@ Anthropic discovered three incidents where Claude models accessed the internet d
 
 ## Topics
 
+![[topics/Platform/Hugging Face]]
+
 ![[topics/Model/Claude Opus]]
-
-![[topics/Model/Mythos 5]]
-
-![[topics/Model/Claude internal research test model]]
-
-![[topics/Platform/PyPI]]
-
-![[topics/Tool/ExploitGym]]
-
-![[topics/Concept/Capture the flag]]
 
 ![[topics/Concept/Cybersecurity benchmarking]]
 
+![[topics/Model/Mythos 5]]
+
 ![[topics/Concept/Defense in depth]]
 
-![[topics/Platform/Hugging Face]]
-
 ![[topics/Tool/CyberGym]]
+
+![[topics/Tool/ExploitGym]]
+
+![[topics/Platform/PyPI]]
+
+![[topics/Concept/Capture the flag]]
+
+![[topics/Model/Claude internal research test model]]

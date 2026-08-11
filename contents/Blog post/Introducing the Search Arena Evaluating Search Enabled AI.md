@@ -11,6 +11,7 @@ upload_date: '2025-04-21'
 ---
 
 https://blog.lmarena.ai/blog/2025/search-arena/
+
 ## Summary
 
 The document introduces Search Arena, a crowdsourced evaluation platform for search-augmented LLM systems based on human preference. Key points include:
@@ -26,10 +27,12 @@ The document introduces Search Arena, a crowdsourced evaluation platform for sea
 5. **Future Directions**: The platform aims to expand participation, evaluate cross-task performance, and improve open models.
 
 The dataset and analysis code have been open-sourced for further exploration and contributions.
+
 ## Links
 
 - [Search Arena Dataset](https://huggingface.co/datasets/lmarena-ai/search-arena-v1-7k) : The dataset used for the Search Arena evaluation, containing 7k human votes on search-augmented LLM systems.
 - [Colab Notebook for Leaderboard Analysis](https://colab.research.google.com/drive/1h7rR7rhePBPuIfaWsVNlW87kv3DLibPS?usp=sharing) : A Colab notebook for analyzing the leaderboard data from Search Arena.
+
 
 ## Topics
 

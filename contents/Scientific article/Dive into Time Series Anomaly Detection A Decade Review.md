@@ -12,6 +12,7 @@ upload_date: '2025-01-08'
 ---
 
 https://arxiv.org/pdf/2412.20512
+
 ## Summary
 
 The content discusses various aspects of time-series anomaly detection, focusing on technical points and key takeaways. Here's a concise summary:
@@ -64,7 +65,9 @@ The content discusses various aspects of time-series anomaly detection, focusing
    - The field is evolving with new methods and benchmarks, indicating a continuous need for improvement and innovation in anomaly detection techniques.
 
 This summary captures the main technical points and key takeaways from the content, providing a concise overview of time-series anomaly detection.
+
 ## Links
+
 
 
 ## Topics

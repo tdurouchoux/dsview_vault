@@ -12,6 +12,7 @@ upload_date: '2023-10-05'
 ---
 
 https://readmedium.com/https://towardsdatascience.com/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c
+
 ## Summary
 
 Entity Resolution: Identifying Real-World Entities in Noisy Data
@@ -40,10 +41,12 @@ Entity Resolution: Identifying Real-World Entities in Noisy Data
 - Techniques range from simple string matching to advanced machine learning models.
 - Tools like OpenRefine and Dedupe can streamline the process.
 - Effective entity resolution improves data quality and decision-making.
+
 ## Links
 
 - [OpenAI o1 Chat](https://openai01.net/) : OpenAI o1 chat interface for AI interactions.
 - [OpenAI o1 API](https://openaio1api.com/) : API documentation for integrating OpenAI o1 capabilities into applications.
+
 
 ## Topics
 

@@ -12,6 +12,7 @@ upload_date: '2024-04-24'
 ---
 
 https://distill.pub/2021/gnn-intro/
+
 ## Summary
 
 The article provides an introduction to Graph Neural Networks (GNNs), which are neural networks designed to operate on graph-structured data. The content is divided into several sections, each focusing on different aspects of GNNs.
@@ -25,10 +26,12 @@ The article also covers more advanced topics, such as learning edge representati
 The article concludes with a discussion on the design choices and empirical lessons learned from exploring the architecture space of GNNs. It highlights the importance of inductive biases, the challenges of sampling and batching in GNNs, and the potential of GNNs in generative modeling and graph explanations.
 
 Overall, the article serves as a comprehensive guide to understanding and building modern GNNs, with a focus on the design choices and practical considerations involved in their implementation.
+
 ## Links
 
 - [Understanding Convolutions on Graphs](https://doi.org/10.23915/distill.00032) : This link points to an article that explains convolutions on graphs, which is a fundamental concept in graph neural networks. It provides insights into how convolutions over images generalize naturally to convolutions over graphs.
 - [GitHub Repository for the Article](https://github.com/distillpub/post--gnn-intro) : This link points to the GitHub repository for the article. It contains the source code, diagrams, and additional resources related to the article on graph neural networks.
+
 
 ## Topics
 

@@ -12,6 +12,7 @@ upload_date: '2024-09-27'
 ---
 
 https://beam.apache.org/
+
 ## Summary
 
 Apache Beam is a unified model for batch and streaming data processing, enabling users to write pipelines once and run them on multiple execution environments. Key features include:
@@ -38,10 +39,12 @@ Apache Beam is a unified model for batch and streaming data processing, enabling
 - Comprehensive documentation and community support.
 
 Apache Beam is designed for mission-critical production workloads, offering flexibility, scalability, and efficiency in data processing.
+
 ## Links
 
 - [Apache Beam GitHub Repository](https://github.com/apache/beam) : The GitHub repository for Apache Beam, where you can find the source code, contribute to the project, and explore the latest developments.
 - [Apache Beam Playground](https://play.beam.apache.org) : An interactive environment to try out Apache Beam transforms and examples without installing Apache Beam in your environment.
+
 
 ## Topics
 

@@ -11,6 +11,7 @@ upload_date: '2025-02-25'
 ---
 
 https://github.com/akmalsoliev/Validoopsie
+
 ## Summary
 
 Validoopsie is a lightweight and user-friendly data validation library for Python, designed to simplify the data validation process. It allows users to declare classes and chain validations together, similar to popular DataFrame libraries. Key features include:
@@ -49,10 +50,12 @@ vd.EqualityValidation.PairColumnEquality(
 ```
 
 Validoopsie is licensed under the MIT license and is available on GitHub.
+
 ## Links
 
 - [Narwhals](https://github.com/narwhals-dev/narwhals) : Narwhals is a library that supports the Bring Your Own DataFrame (BYOD) concept, allowing users to use any DataFrame for data validation tasks.
 - [Validoopsie Documentation](https://akmalsoliev.github.io/Validoopsie/) : The official documentation for Validoopsie, providing detailed information on how to use the library, including installation, getting started, development, and contribution guidelines.
+
 
 ## Topics
 

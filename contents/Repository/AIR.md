@@ -11,6 +11,7 @@ upload_date: '2025-09-19'
 ---
 
 https://feldroy.github.io/air/
+
 ## Summary
 
 AIR is a Python web framework built with FastAPI, Starlette, and Pydantic. It offers several features for web development:
@@ -32,23 +33,25 @@ AIR is a Python web framework built with FastAPI, Starlette, and Pydantic. It of
 - **Combining FastAPI and Air using Jinja2**: Use Jinja2 templates with Air for rendering HTML.
 
 **Contributing**: Guidelines are provided for setting up a development environment and making contributions to AIR.
+
 ## Links
 
 - [Air Documentation](http://feldroy.github.io/air/) : The official documentation for Air, a Python web framework built with FastAPI, Starlette, and Pydantic. It provides comprehensive guides, tutorials, and references for using Air.
 - [Air GitHub Repository](https://github.com/feldroy/air) : The GitHub repository for Air, where you can find the source code, contribute to the project, and access additional resources.
 
+
 ## Topics
+
+![[topics/Library/Pydantic]]
+
+![[topics/Library/FastAPI]]
+
+![[topics/Concept/HTMX]]
+
+![[topics/Concept/Air Tags]]
+
+![[topics/Library/Jinja2]]
 
 ![[topics/Library/Air]]
 
 ![[topics/Library/Starlette]]
-
-![[topics/Library/Jinja2]]
-
-![[topics/Concept/Air Tags]]
-
-![[topics/Concept/HTMX]]
-
-![[topics/Library/FastAPI]]
-
-![[topics/Library/Pydantic]]

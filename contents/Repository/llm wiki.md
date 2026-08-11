@@ -11,6 +11,7 @@ upload_date: '2026-04-17'
 ---
 
 https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+
 ## Summary
 
 Core idea: Replace raw RAG retrieval with a persistent, LLM-maintained wiki that accumulates, cross-references, and updates knowledge incrementally. The wiki is a structured artifact between you and raw sources, not just indexed chunks.
@@ -39,6 +40,7 @@ Why it works:
 Contexts: Personal knowledge tracking, deep research, reading books, business/team wikis, competitive analysis, trip planning.
 
 Note: This is an abstract pattern, not a specific implementation. Directory structure, page formats, tooling will depend on your domain, preferences, and LLM of choice. Everything mentioned is optional and modular — pick what’s useful, ignore what isn’t.
+
 ## Links
 
 - [OmegaWiki: An LLM-Powered Knowledge Base](https://github.com/skyllwt/OmegaWiki) : A GitHub repository for OmegaWiki, an actively maintained LLM-powered knowledge base with structured entities, edges, and bilingual support (English and Chinese). It includes 23 Claude Code skills covering the full research lifecycle and is designed for end-to-end knowledge synthesis and expansion.
@@ -47,20 +49,21 @@ Note: This is an abstract pattern, not a specific implementation. Directory stru
 - [Synthadoc: A Structured LLM-Wiki Implementation with Human-in-the-Loop](https://github.com/axoviq-ai/synthadoc) : A structured implementation of the LLM-Wiki pattern using JSON schemas, source URL pinning, and confidence scoring. Features automated contradiction detection, human-in-the-loop review for low-confidence updates, and a focus on maintaining consistency between wiki pages and source documents.
 - [SwarmVault: A Local-First LLM-Wiki Tool with Multi-Agent Support](https://github.com/swarmclawai/swarmvault) : A local-first, provider-agnostic tool for building and maintaining LLM-Wikis. Supports 16+ agent integrations, interactive graph viewers, bulk ingest/resume, and cross-file call graphs. Designed for scalability and resilience in knowledge management.
 
+
 ## Topics
-
-![[topics/Concept/Personal Knowledge Management PKM]]
-
-![[topics/Concept/Structured Knowledge Bases]]
-
-![[topics/Tool/Obsidian]]
-
-![[topics/Concept/Knowledge Compounding]]
-
-![[topics/Concept/Contradiction Detection]]
-
-![[topics/Concept/Agent Based Knowledge Curation]]
 
 ![[topics/Concept/Hybrid Search]]
 
+![[topics/Tool/Obsidian]]
+
+![[topics/Concept/Agent Based Knowledge Curation]]
+
+![[topics/Concept/Structured Knowledge Bases]]
+
 ![[topics/Concept/Local First Architecture]]
+
+![[topics/Concept/Contradiction Detection]]
+
+![[topics/Concept/Personal Knowledge Management PKM]]
+
+![[topics/Concept/Knowledge Compounding]]

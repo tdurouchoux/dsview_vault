@@ -13,6 +13,7 @@ upload_date: '2023-09-21'
 ---
 
 https://www.10pourcent.etalab.gouv.fr/projets/
+
 ## Summary
 
 The Programme 10% is a collaborative initiative between public data and AI experts from the French government. It focuses on projects that have a common interest, concrete impact, and open data. The program is structured into three phases: Investigation (January-February), Construction (March-June), and Amplification (September-November).
@@ -34,10 +35,12 @@ The Programme 10% is a collaborative initiative between public data and AI exper
 - **DataNonyme:** Explores methods for data anonymization to ensure confidentiality while allowing data reuse.
 
 The program aims to foster innovation and collaboration among government agencies, leveraging data and AI to improve public services.
+
 ## Links
 
 - [KALLM](https://github.com/pedevineau/llm-experiment) : KALLM is a guide of practical recommendations for implementing Large Language Models (LLMs).
 - [ChartsGouv](https://github.com/etalab-ia/chartsgouv/) : ChartsGouv is a project aimed at providing a unified, free, and open-source tool for data visualization within the French administration.
+
 
 ## Topics
 

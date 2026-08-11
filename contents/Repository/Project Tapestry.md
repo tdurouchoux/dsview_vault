@@ -11,6 +11,7 @@ upload_date: '2026-07-27'
 ---
 
 https://thealliance.ai/projects/tapestry
+
 ## Summary
 
 Project Tapestry, led by the AI Alliance, aims to create a globally federated, open-source platform for training frontier AI models while preserving local control and sovereignty. Key technical points include:
@@ -30,27 +31,29 @@ Project Tapestry, led by the AI Alliance, aims to create a globally federated, o
 - **Who should join**: ML researchers, systems engineers, compute providers, governments, and institutions with relevant datasets.
 
 **Next steps**: Get involved via learning, contributing code, or proposing data.
+
 ## Links
 
 - [Tapestry Training Data Proposals](https://thealliance.ai/projects/tapestry/training-data-proposals?hsLang=en) : This link points to a page where users can propose datasets for inclusion in the Tapestry consortium's training data catalog. It aligns with the content's emphasis on globally sourced training data and the metadata-first contribution approach.
 - [Tapestry GitHub Repository](https://github.com/The-AI-Alliance/tapestry) : This link directs to the official GitHub repository for Project Tapestry, where users can explore the code, follow the work, and contribute by opening issues or pull requests. It is directly related to the technical implementation and collaborative development aspects of the project. The repository is also referenced in the context of Phase 0 milestones.
 
+
 ## Topics
 
-![[topics/Concept/Sovereign AI]]
+![[topics/Concept/Distributed Training]]
 
-![[topics/Platform/AI Alliance]]
+![[topics/Concept/Federated Learning]]
+
+![[topics/Concept/Foundation Models]]
+
+![[topics/Concept/Sovereign AI]]
 
 ![[topics/Concept/Sovereign Derivatives]]
 
 ![[topics/Concept/Decentralized Contribution]]
 
-![[topics/Tool/Weight Update and Aggregation Framework]]
-
 ![[topics/Dataset/Training Data Catalog]]
 
-![[topics/Concept/Federated Learning]]
+![[topics/Platform/AI Alliance]]
 
-![[topics/Concept/Distributed Training]]
-
-![[topics/Concept/Foundation Models]]
+![[topics/Tool/Weight Update and Aggregation Framework]]

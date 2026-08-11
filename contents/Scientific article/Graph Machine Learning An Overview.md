@@ -12,6 +12,7 @@ upload_date: '2023-04-06'
 ---
 
 https://readmedium.com/https://towardsdatascience.com/graph-machine-learning-an-overview-c996e53fab90
+
 ## Summary
 
 Graph Machine Learning: An Overview
@@ -23,10 +24,12 @@ Key points include the challenges of handling graph data, such as scalability an
 The content emphasizes the importance of understanding graph theory fundamentals and the role of feature engineering in GML. It also touches on popular frameworks and tools used in the field, such as PyTorch Geometric and DGL (Deep Graph Library).
 
 Overall, the overview provides a concise introduction to GML, highlighting its significance and the tools available for practitioners.
+
 ## Links
 
 - [OpenAI o1 chat](https://openai01.net/) : OpenAI o1 chat interface.
 - [OpenAI o1 API](https://openaio1api.com/) : OpenAI o1 API documentation.
+
 
 ## Topics
 

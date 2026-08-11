@@ -11,6 +11,7 @@ upload_date: '2024-03-14'
 ---
 
 https://www.lemonde.fr/en/european-union/article/2024/03/13/european-parliament-adopts-historic-ai-act_6615022_156.html
+
 ## Summary
 
 The European Parliament has adopted the AI Act, a comprehensive regulation aimed at managing the risks and fostering innovation in artificial intelligence. Key points include:
@@ -23,11 +24,13 @@ The European Parliament has adopted the AI Act, a comprehensive regulation aimed
 - **Future-Proofing**: The EU aims to balance innovation with protection, setting a global standard for trustworthy AI.
 
 The AI Act is expected to be endorsed by the EU's 27 states in April and published in the EU's Official Journal in May or June.
+
 ## Links
 
 - [AI Action Plan](https://www.lemonde.fr/en/economy/article/2024/03/13/ai-action-plan-outlines-how-to-place-france-at-the-cutting-edge_6614625_19.html) : This link provides details on France's AI action plan, outlining strategies to position France at the forefront of AI innovation.
 - [Mistral AI Co-founder](https://www.lemonde.fr/en/economy/article/2024/02/26/mistral-ai-co-founder-we-can-compete-with-google-or-openai_6561401_19.html) : This link discusses the co-founder of Mistral AI and their vision for competing with major AI companies like Google and OpenAI.
 - [France's AI Surveillance Plan](https://www.lemonde.fr/en/opinion/article/2023/03/10/france-plans-to-use-ai-surveillance-during-olympics-but-it-has-never-proven-its-worth_6018880_23.html) : This link explores France's plans to use AI surveillance during the Olympics and the effectiveness of such measures.
+
 
 ## Topics
 

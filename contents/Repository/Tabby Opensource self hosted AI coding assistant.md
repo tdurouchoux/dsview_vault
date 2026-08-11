@@ -11,6 +11,7 @@ upload_date: '2023-10-19'
 ---
 
 https://tabby.tabbyml.com/
+
 ## Summary
 
 Tabby is an open-source, self-hosted AI coding assistant designed to enhance development workflows with transparency, flexibility, and configurability. Key features include:
@@ -22,10 +23,12 @@ Tabby is an open-source, self-hosted AI coding assistant designed to enhance dev
 - **Data Connectors**: Allows integration with various data sources to enrich the AI's understanding of the project context.
 
 Tabby supports multiple IDEs, including VS Code, Neovim, IntelliJ, and others. It emphasizes security, flexibility, and transparency, making it a robust alternative to proprietary solutions. The platform offers different plans, including a free community plan with simple self-onboarding and local-first deployment.
+
 ## Links
 
 - [TabbyML GitHub Repository](https://github.com/TabbyML/tabby) : The GitHub repository for Tabby, an open-source AI coding assistant.
 - [TabbyML Blog](https://tabby.tabbyml.com/blog) : The official blog of TabbyML, featuring updates, tutorials, and insights related to AI coding assistance.
+
 
 ## Topics
 

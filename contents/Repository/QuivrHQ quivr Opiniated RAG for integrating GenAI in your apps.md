@@ -12,6 +12,7 @@ upload_date: '2023-10-12'
 ---
 
 https://github.com/StanGirard/quivr
+
 ## Summary
 
 Quivr is an opinionated RAG (Retrieval-Augmented Generation) framework designed to simplify the integration of Generative AI into applications. It supports various LLMs (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), and works with any file type. Key features include easy customization, integration with Megaparse for file ingestion, and a focus on allowing developers to concentrate on their product rather than the RAG implementation.
@@ -37,10 +38,12 @@ Quivr is an opinionated RAG (Retrieval-Augmented Generation) framework designed 
 - **Partners:** Acknowledges support from partners.
 
 **License:** Apache 2.0.
+
 ## Links
 
 - [Quivr Documentation](https://core.quivr.com) : The official documentation for Quivr, providing detailed information on how to use the Quivr core for integrating Generative AI into applications.
 - [Quivr GitHub Repository](https://github.com/quivrhq/quivr) : The GitHub repository for Quivr, containing the source code, issues, and pull requests for the Quivr project.
+
 
 ## Topics
 

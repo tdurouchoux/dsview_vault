@@ -12,6 +12,7 @@ upload_date: '2025-03-09'
 ---
 
 https://www.databenchmarks.com/
+
 ## Summary
 
 - **Data Team Size**: Analysis of data team size relative to total company size in 100 tech scaleups.
@@ -21,10 +22,12 @@ https://www.databenchmarks.com/
 - **Data Stack**: Popular tools in data warehousing, BI, transformation, ingestion, and catalogs.
 
 The content provides benchmarks for data teams, including size, composition, ratios, salaries, and popular tools, based on extensive company data.
+
 ## Links
 
 - [SYNQ's guide](https://synq.io/guide) : A guide to build reliable data products.
 
+
 ## Topics
 
-![[topics/Concept/Data Products Observability]]
+![[topics/Concept/Data Observability]]

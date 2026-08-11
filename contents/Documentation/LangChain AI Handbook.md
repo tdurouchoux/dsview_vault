@@ -12,6 +12,7 @@ upload_date: '2024-11-07'
 ---
 
 https://www.pinecone.io/learn/series/langchain/
+
 ## Summary
 
 LangChain is a framework designed to leverage large language models (LLMs) for various applications like chatbots, generative question-answering, and summarization. The LangChain AI Handbook, authored by James Briggs and Francisco Ingham, provides a comprehensive guide to using LangChain effectively. The handbook is structured into several chapters, each focusing on different aspects of LangChain:
@@ -29,10 +30,12 @@ LangChain is a framework designed to leverage large language models (LLMs) for v
 11. **LangChain Expression Language (LCEL)**: Understanding and using LCEL.
 
 The handbook aims to empower developers to create intelligent applications by harnessing the full potential of LangChain and LLMs.
+
 ## Links
 
 - [Pinecone GitHub](https://github.com/pinecone-io) : GitHub repository for Pinecone, likely containing code samples, documentation, and other resources related to the LangChain library and its integration with Pinecone's vector database.
 - [Pinecone Documentation](https://docs.pinecone.io/) : Official documentation for Pinecone, providing detailed information on how to use Pinecone's vector database, including integration with LangChain and other tools.
+
 
 ## Topics
 

@@ -11,6 +11,7 @@ upload_date: '2026-04-25'
 ---
 
 https://pixi.prefix.dev/latest/
+
 ## Summary
 
 Pixi is a modern, fast, and reproducible package management tool supporting Python, C/C++, Java, Rust, Node.js, and CLI tools. Key features include:
@@ -47,6 +48,7 @@ pixi global install gh nvim ipython
 **Developers praise** Pixi for seamless PyPI/conda-forge integration and global tool management.
 
 **Links**: [GitHub](https://github.com/prefix-dev/pixi), [Discord](https://discord.gg/kKV8Zxyzz8), [Prefix.dev](https://prefix.dev), [conda-forge](https://conda-forge.org).
+
 ## Links
 
 - [Pixi GitHub Repository](https://github.com/prefix-dev/pixi) : Official GitHub repository for Pixi, containing the source code, issue tracker, and contribution guidelines.
@@ -55,7 +57,14 @@ pixi global install gh nvim ipython
 - [conda-forge Package Repository](https://conda-forge.org/) : The conda-forge community-driven repository, which Pixi uses as its default package source containing over 30,000 packages.
 - [Rattler (Backend of Pixi)](https://github.com/conda/rattler) : The Rust-based backend for Pixi, providing core functionality for package management and environment handling.
 
+
 ## Topics
+
+![[topics/Tool/uv]]
+
+![[topics/Concept/Portability Software]]
+
+![[topics/Platform/conda forge]]
 
 ![[topics/Tool/Pixi]]
 
@@ -66,9 +75,3 @@ pixi global install gh nvim ipython
 ![[topics/Concept/Workspace Management]]
 
 ![[topics/Concept/Global Tools]]
-
-![[topics/Platform/conda forge]]
-
-![[topics/Concept/Portability Software]]
-
-![[topics/Tool/uv]]

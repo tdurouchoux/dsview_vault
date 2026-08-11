@@ -12,6 +12,7 @@ upload_date: '2025-05-05'
 ---
 
 https://docs.devin.ai/work-with-devin/deepwiki
+
 ## Summary
 
 **Key Technical Points:**
@@ -35,9 +36,11 @@ https://docs.devin.ai/work-with-devin/deepwiki
 - DeepWiki automates the generation of comprehensive documentation for repositories.
 - Configuration file `.devin/wiki.json` allows for customization and control over the documentation process.
 - Best practices and troubleshooting tips ensure accurate and complete documentation, especially for large repositories.
+
 ## Links
 
 - [DeepWiki](https://deepwiki.com/) : DeepWiki is a tool that automatically generates architecture diagrams, documentation, and links to source code to help users understand unfamiliar codebases quickly. It is available for public GitHub repositories and allows users to submit their own public GitHub repository URL for indexing.
+
 
 ## Topics
 

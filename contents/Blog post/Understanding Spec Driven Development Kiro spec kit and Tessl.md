@@ -12,6 +12,7 @@ upload_date: '2026-03-14'
 ---
 
 https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
+
 ## Summary
 
 **Summary:**
@@ -33,16 +34,18 @@ https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
   - Spec-as-source may combine the downsides of MDD and LLMs: inflexibility and non-determinism.
 - The term "spec-driven development" is not well-defined and is already semantically diffused.
 - While spec-first approaches are valuable, the real-world usefulness of SDD tools and their potential to amplify existing challenges like review overload and hallucinations remain uncertain.
+
 ## Links
 
 - [Kiro](https://kiro.dev/) : Kiro is a tool for spec-driven development, guiding users through a structured workflow for requirements, design, and tasks using markdown documents.
 - [Spec-kit](https://github.com/github/spec-kit/blob/main/spec-driven.md) : Spec-kit is GitHub's version of SDD, providing a CLI for setting up workspaces and interacting via slash commands in coding assistants, with a focus on a constitution-based workflow.
 - [Tessl Framework](https://docs.tessl.io/introduction-to-tessl/quick-start-guide-tessl-framework) : Tessl Framework is a tool for spec-driven development that aims for a spec-anchored approach, allowing specs to be the main artifact maintained and edited, with code generated from these specs.
 
+
 ## Topics
 
-![[topics/Concept/Spec Driven Development SDD]]
+![[topics/Tool/Tessl Framework]]
 
 ![[topics/Tool/Kiro]]
 
-![[topics/Tool/Tessl Framework]]
+![[topics/Concept/Spec Driven Development SDD]]

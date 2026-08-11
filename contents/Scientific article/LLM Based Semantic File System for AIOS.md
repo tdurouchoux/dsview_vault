@@ -13,6 +13,7 @@ upload_date: '2025-05-04'
 ---
 
 https://arxiv.org/pdf/2410.11843
+
 ## Summary
 
 The paper introduces an LLM-based Semantic File System (LSFS) designed to enhance file management in AIOS by incorporating semantic understanding. Key points include:
@@ -39,7 +40,9 @@ The paper introduces an LLM-based Semantic File System (LSFS) designed to enhanc
 7. **Future Work**: Suggests further exploration of multi-modal and multi-extension file management, security and privacy enhancements, optimized retrieval strategies, and more instantiated APIs and syscalls.
 
 Overall, LSFS aims to make file management more intuitive and efficient by leveraging the semantic understanding capabilities of LLMs.
+
 ## Links
+
 
 
 ## Topics
@@ -50,6 +53,6 @@ Overall, LSFS aims to make file management more intuitive and efficient by lever
 
 ![[topics/Concept/LLM based Semantic File System LSFS]]
 
-![[topics/Concept/Semantic Indexing]]
+![[topics/Concept/Semantic Search]]
 
 ![[topics/Concept/Semantic File Retrieval]]

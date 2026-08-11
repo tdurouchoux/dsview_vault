@@ -12,6 +12,7 @@ upload_date: '2024-06-05'
 ---
 
 https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/
+
 ## Summary
 
 The article discusses key lessons and methodologies for building effective products using large language models (LLMs). It is organized into three sections: tactical, operational, and strategic, with this part focusing on the tactical aspects. The authors, who have diverse backgrounds and experiences in building real-world applications with LLMs, share their insights and best practices.
@@ -45,6 +46,7 @@ The article discusses key lessons and methodologies for building effective produ
    - Address hallucinations through prompt engineering and factual inconsistency guardrails.
 
 The authors emphasize the importance of rigorous evaluation and monitoring, as well as the need for structured, deterministic approaches to building reliable LLM applications. They also highlight the challenges and costs associated with fine-tuning and the benefits of using RAG for incorporating new knowledge.
+
 ## Links
 
 - [Eugene Yan's Personal Website](https://eugeneyan.com/) : Eugene Yan's personal website, where he writes and speaks about machine learning, recommendation systems, LLMs, and engineering.
@@ -53,11 +55,12 @@ The authors emphasize the importance of rigorous evaluation and monitoring, as w
 - [Introducing Query Assistant by Honeycomb](https://www.honeycomb.io/blog/introducing-query-assistant) : Introduction to Honeycomb's Natural Language Query Assistant, which uses fine-tuning to improve output quality.
 - [Shortwave's RAG Pipeline](https://www.shortwave.com/blog/deep-dive-into-worlds-smartest-email-ai/) : A deep dive into Shortwave's RAG pipeline, including query rewriting, keyword + embedding retrieval, and ranking.
 
+
 ## Topics
 
 ![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Prompt Engineering]]
+![[topics/Concept/Prompt Engineering and Optimization]]
 
 ![[topics/Concept/Fine Tuning]]
 

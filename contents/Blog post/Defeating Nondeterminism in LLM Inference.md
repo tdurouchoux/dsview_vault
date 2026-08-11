@@ -12,6 +12,7 @@ upload_date: '2025-09-21'
 ---
 
 https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/
+
 ## Summary
 
 The blog post discusses the challenges of achieving deterministic results in large language model (LLM) inference, even when using greedy sampling (temperature=0). The common hypothesis that floating-point non-associativity and concurrent execution cause nondeterminism is only partially correct. The true culprit is the lack of batch invariance in LLM inference engines, which makes results depend on the batch size and other concurrent user requests.
@@ -25,19 +26,21 @@ Key takeaways:
 - Achieving deterministic inference requires making kernels batch-invariant.
 - Batch-invariant kernels can be designed for RMSNorm, matrix multiplication, and attention operations.
 - Deterministic inference enables true on-policy RL and improves the reliability of LLM applications.
+
 ## Links
 
 - [arXiv Preprint on Floating-Point Non-Associativity](https://arxiv.org/abs/2502.17387) : A preprint discussing the impact of floating-point non-associativity on attention scores and logits in transformer architectures, highlighting how parallel operations can lead to different results based on execution order.
 - [OpenAI Community Discussion on Determinism](https://community.openai.com/t/a-question-on-determinism/8185/2) : A discussion on the OpenAI community forum about the determinism of LLM inference, exploring why even setting the temperature to 0 does not guarantee deterministic results.
 
+
 ## Topics
-
-![[topics/Concept/Nondeterminism in Machine Learning]]
-
-![[topics/Concept/Floating point non associativity]]
-
-![[topics/Concept/Batch Invariance]]
 
 ![[topics/Concept/FlexAttention]]
 
 ![[topics/Concept/RLVR]]
+
+![[topics/Concept/Batch Invariance]]
+
+![[topics/Concept/Floating point non associativity]]
+
+![[topics/Concept/Nondeterminism in Machine Learning]]

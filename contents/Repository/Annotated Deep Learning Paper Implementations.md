@@ -11,6 +11,7 @@ upload_date: '2023-11-23'
 ---
 
 https://github.com/labmlai/annotated_deep_learning_paper_implementations
+
 ## Summary
 
 This GitHub repository, "annotated_deep_learning_paper_implementations," offers over 60 PyTorch implementations of deep learning algorithms, each accompanied by detailed explanations. The implementations are rendered as side-by-side notes on the labml.ai website, facilitating a better understanding of the algorithms. The repository is actively maintained, with new implementations added regularly.
@@ -38,6 +39,7 @@ Key areas covered include:
 10. **Scalable Training/Inference**: Techniques like Zero3 memory optimizations.
 
 The repository is well-documented and includes a README with installation instructions and a list of implemented papers. It is licensed under the MIT license and has a significant number of stars and forks, indicating its popularity and utility within the deep learning community.
+
 ## Links
 
 - [Deep Learning Paper Implementations](https://nn.labml.ai) : This is a collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, and the website renders these as side-by-side formatted notes.
@@ -45,6 +47,7 @@ The repository is well-documented and includes a README with installation instru
 - [Diffusion Models](https://nn.labml.ai/diffusion/index.html) : An in-depth look at diffusion models, including implementations and explanations of key concepts.
 - [Generative Adversarial Networks (GANs)](https://nn.labml.ai/gan/index.html) : Detailed implementations and explanations of various GAN architectures, including original GAN, DCGAN, CycleGAN, and StyleGAN.
 - [Optimizers in Deep Learning](https://nn.labml.ai/optimizers/index.html) : A collection of implementations and explanations of various optimizers used in deep learning, such as Adam, AMSGrad, and AdaBelief.
+
 
 ## Topics
 

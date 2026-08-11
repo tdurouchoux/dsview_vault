@@ -11,6 +11,7 @@ upload_date: '2026-04-06'
 ---
 
 https://jina.ai/
+
 ## Summary
 
 Jina AI offers a suite of tools for enhancing search and retrieval systems, including:
@@ -30,6 +31,7 @@ API endpoints:
 - Customizable parameters (timeout, locale, caching, etc.).
 
 Enterprise-focused with offices in Sunnyvale (CA) and Berlin.
+
 ## Links
 
 - [Jina AI Documentation](https://docs.jina.ai) : Official documentation for Jina AI, covering APIs, models, and tools like Reader, Embeddings, and Reranker. Essential for developers integrating Jina AI's capabilities.
@@ -39,22 +41,23 @@ Enterprise-focused with offices in Sunnyvale (CA) and Berlin.
 - [Jina AI Status Page](https://status.jina.ai) : Real-time status and uptime information for Jina AI's services, including APIs and tools. Critical for monitoring service reliability and performance.
 - [Jina AI Embeddings on Hugging Face](https://huggingface.co/jinaai) : Hugging Face repository for Jina AI's embeddings models, providing pre-trained models for multimodal and multilingual tasks. Useful for leveraging Jina AI's embeddings in AI projects.
 
+
 ## Topics
 
-![[topics/Tool/Jina AI Reader]]
+![[topics/Concept/Knowledge Distillation]]
 
-![[topics/Library/ReaderLM v2]]
+![[topics/Concept/Reranking]]
 
 ![[topics/Concept/Multimodal Embeddings]]
 
-![[topics/Concept/Reranking]]
+![[topics/Library/ReaderLM v2]]
+
+![[topics/Model/jina reranker v3]]
 
 ![[topics/Platform/Jina AI Search Foundation]]
 
 ![[topics/Model/jina embeddings v5 text]]
 
-![[topics/Model/jina reranker v3]]
-
-![[topics/Concept/Knowledge Distillation]]
+![[topics/Tool/Jina AI Reader]]
 
 ![[topics/Concept/SERP Search Engine Results Page]]

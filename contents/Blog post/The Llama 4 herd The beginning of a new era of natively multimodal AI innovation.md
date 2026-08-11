@@ -11,6 +11,7 @@ upload_date: '2025-04-09'
 ---
 
 https://ai.meta.com/blog/llama-4-multimodal-intelligence/
+
 ## Summary
 
 Meta AI Research introduces the Llama 4 herd, marking a new era in multimodal AI innovation. The Llama 4 models are the first open-weight, natively multimodal models with unprecedented context length support and a mixture-of-experts (MoE) architecture.
@@ -27,10 +28,12 @@ Post-training involved a revamped pipeline with lightweight supervised fine-tuni
 Safeguards and protections include pre- and post-training mitigations, system-level approaches like Llama Guard and Prompt Guard, and evaluations through red-teaming and GOAT (Generative Offensive Agent Testing). The models aim to address bias, with Llama 4 performing better than previous versions in reducing bias and refusing responses less often on debated topics.
 
 The Llama 4 models are available for download on llama.com and Hugging Face, with integrations in WhatsApp, Messenger, Instagram Direct, and the Meta.AI website. Meta AI Research continues to innovate and collaborate with partners across the AI community.
+
 ## Links
 
 - [Llama 4 Models Download](https://www.llama.com/) : Download the Llama 4 Scout and Llama 4 Maverick models on llama.com.
 - [LlamaCon Signup](https://www.llama.com/events/llamacon/signup/) : Sign up for LlamaCon to hear more about the future of Llama models and their applications.
+
 
 ## Topics
 

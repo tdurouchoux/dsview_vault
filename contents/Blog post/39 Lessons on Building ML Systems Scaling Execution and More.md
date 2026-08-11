@@ -13,6 +13,7 @@ upload_date: '2024-11-07'
 ---
 
 https://eugeneyan.com//writing/conf-lessons/
+
 ## Summary
 
 The content presents 39 lessons learned from ML conferences in 2024, focusing on building, scaling, and executing ML systems, as well as conference experiences. Key points include:
@@ -51,11 +52,13 @@ The content presents 39 lessons learned from ML conferences in 2024, focusing on
 - Conferences foster inspiration, ideas, and motivation.
 
 The content emphasizes practical advice for ML practitioners, focusing on system design, scaling, execution, and collaboration, as well as the value of industry conferences.
+
 ## Links
 
 - [Mental Model for How to Use LLMs in Products](https://lethain.com/mental-model-for-how-to-use-llms-in-products/) : This link points to an article discussing a mental model for integrating Large Language Models (LLMs) into products, likely covering strategies and considerations for effective implementation.
 - [Applied LLMs](https://applied-llms.org/) : This link points to a resource on applied Large Language Models (LLMs), likely providing practical insights, case studies, or tools for applying LLMs in real-world scenarios.
 - [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) : This link points to a PDF document titled 'The Bitter Lesson,' which likely discusses key lessons or insights in the field of machine learning or AI, emphasizing the importance of leveraging scale and simplicity over complex, specialized solutions.
+
 
 ## Topics
 

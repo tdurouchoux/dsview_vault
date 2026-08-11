@@ -12,6 +12,7 @@ upload_date: '2024-10-08'
 ---
 
 https://github.com/KruxAI/ragbuilder
+
 ## Summary
 
 RagBuilder is a toolkit for creating optimized, production-ready Retrieval-Augmented Generation (RAG) setups. It automates hyperparameter tuning for various RAG parameters and evaluates configurations against test datasets to identify the best setup. Key features include:
@@ -69,10 +70,12 @@ print(results.summary())
 
 **License**:
 - The project is licensed under the MIT License.
+
 ## Links
 
 - [RagBuilder Documentation](https://docs.ragbuilder.io/quickstart/#installation) : This link points to the official documentation of RagBuilder, providing detailed instructions on installation and quick start guides for the toolkit.
 - [RagBuilder Demo](https://ragbuilder.pages.dev) : This link points to the demo page of RagBuilder, showcasing the capabilities and features of the toolkit.
+
 
 ## Topics
 
@@ -84,6 +87,6 @@ print(results.summary())
 
 ![[topics/Tool/RagBuilder]]
 
-![[topics/Concept/Hyperparameter Tuning]]
+![[topics/Concept/Hyperparameter Optimization HPO]]
 
 ![[topics/Concept/Graph Retriever]]

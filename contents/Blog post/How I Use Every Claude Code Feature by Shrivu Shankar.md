@@ -12,6 +12,7 @@ upload_date: '2025-12-08'
 ---
 
 https://blog.sshh.io/p/how-i-use-every-claude-code-feature
+
 ## Summary
 
 **Key Points and Takeaways:**
@@ -41,6 +42,7 @@ https://blog.sshh.io/p/how-i-use-every-claude-code-feature
 - **settings.json**: Your settings.json is a powerful place for advanced customization. Use it to configure proxy settings, timeouts, API keys, and permissions.
 
 - **Conclusion**: CLI-based agents like Claude Code are powerful tools for data scientists. The only way to learn is to dive in and experiment with the advanced features.
+
 ## Links
 
 - [Claude Code Sub-agents](https://docs.claude.com/en/docs/claude-code/sub-agents) : Documentation on Claude Code Sub-agents, a feature that allows for context management by delegating tasks to specialized agents.
@@ -49,20 +51,21 @@ https://blog.sshh.io/p/how-i-use-every-claude-code-feature
 - [Claude Code SDK](https://docs.claude.com/en/api/agent-sdk/overview) : Documentation on the Claude Code SDK, a powerful tool for building entirely new agents for both coding and non-coding tasks.
 - [Claude Code GitHub Action](https://github.com/anthropics/claude-code-action) : GitHub repository for the Claude Code GitHub Action, a feature that allows for the operationalization of Claude Code within a GitHub Actions workflow.
 
+
 ## Topics
 
+![[topics/Concept/Model Context Protocol MCP]]
+
+![[topics/Tool/Claude Code]]
+
+![[topics/Tool/Claude SDK]]
+
 ![[topics/Concept/Claude md]]
+
+![[topics/Concept/Agent Skills]]
 
 ![[topics/Concept/Subagents]]
 
 ![[topics/Concept/Hooks]]
 
-![[topics/Concept/Agent Skills]]
-
-![[topics/Tool/Claude SDK]]
-
 ![[topics/Tool/Claude Code GitHub Action GHA]]
-
-![[topics/Tool/Claude Code]]
-
-![[topics/Concept/Model Context Protocol MCP]]

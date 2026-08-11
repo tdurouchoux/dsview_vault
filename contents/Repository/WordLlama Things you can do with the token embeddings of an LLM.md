@@ -11,6 +11,7 @@ upload_date: '2024-10-02'
 ---
 
 https://github.com/dleemiller/WordLlama
+
 ## Summary
 
 WordLlama is a lightweight NLP toolkit designed for tasks like fuzzy deduplication, similarity computation, ranking, clustering, and semantic text splitting. It operates with minimal dependencies and is optimized for CPU hardware.
@@ -27,15 +28,17 @@ WordLlama recycles components from large language models (LLMs) to create effici
 The toolkit includes various usage examples, such as embedding text, calculating similarity, ranking documents, fuzzy deduplication, clustering, filtering, top-K retrieval, and semantic text splitting. It also supports loading Model2Vec for static embeddings and provides an inference class for direct use with custom static embeddings arrays.
 
 WordLlama is licensed under the MIT License and includes a citation for academic or project use. The project is actively maintained with a roadmap that includes additional example notebooks for DSPy evaluators and RAG pipelines. Community projects and contributions are also highlighted.
+
 ## Links
 
 - [WordLlama Gradio Demo](https://huggingface.co/spaces/1littlecoder/wordllama) : A Gradio demo for WordLlama, showcasing its capabilities in an interactive environment.
 - [Model2Vec](https://github.com/MinishLab/model2vec) : Model2Vec repository, which provides multilingual and glove-based models for word similarity tasks.
 - [CPU-ish RAG](https://github.com/dinhanhx/cpu-ish-rag) : A repository demonstrating the use of WordLlama in a Retrieval-Augmented Generation (RAG) pipeline optimized for CPU.
 
+
 ## Topics
 
-![[topics/Concept/Matryoshka Representation Learning]]
+![[topics/Concept/Matryoshka Representation Learning MRL]]
 
 ![[topics/Concept/Fuzzy Deduplication]]
 
@@ -47,4 +50,4 @@ WordLlama is licensed under the MIT License and includes a citation for academic
 
 ![[topics/Concept/Binary Embeddings]]
 
-![[topics/Concept/Text Embeddings]]
+![[topics/Concept/Vector Embedding]]

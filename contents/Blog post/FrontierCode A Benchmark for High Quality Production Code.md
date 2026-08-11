@@ -11,6 +11,7 @@ upload_date: '2026-06-10'
 ---
 
 https://cognition.ai/blog/frontier-code
+
 ## Summary
 
 FrontierCode introduces a new benchmark for evaluating AI models' ability to write high-quality, production-ready code, moving beyond mere correctness to assess mergeability based on maintainers' standards. Key technical points:
@@ -31,24 +32,26 @@ FrontierCode introduces a new benchmark for evaluating AI models' ability to wri
 - **Rubric Creation Process**: Involves design, adversarial hacking, calibration, and multi-stage review to ensure robustness and fairness.
 
 - **Conclusion**: FrontierCode aims to be the gold standard for evaluating production-ready coding agents, with plans to open evaluations to model creators while keeping tasks private to avoid contamination.
+
 ## Links
 
 - [METR's Analysis on SWE-Bench Misclassifications](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/#introduction) : This link points to an analysis by METR discussing the misclassification errors in SWE-Bench and similar benchmarks, highlighting issues like false positives and false negatives. It aligns with the content's critique of existing benchmarks and their lack of realism in evaluating code quality. This is directly relevant to the discussion on why FrontierCode was developed.
 
+
 ## Topics
+
+![[topics/Concept/Reverse Classical Testing]]
+
+![[topics/Concept/Adaptive Classical Grading]]
 
 ![[topics/Concept/Code Mergeability]]
 
 ![[topics/Concept/Code Quality Benchmarking]]
 
-![[topics/Concept/Benchmark Misclassification Errors]]
-
-![[topics/Concept/Adaptive Classical Grading]]
-
-![[topics/Concept/Reverse Classical Testing]]
-
 ![[topics/Concept/Code Scope Enforcement]]
 
 ![[topics/Concept/Rubric Based Evaluation]]
+
+![[topics/Concept/Benchmark Misclassification Errors]]
 
 ![[topics/Concept/Cost Intelligence Tradeoff]]

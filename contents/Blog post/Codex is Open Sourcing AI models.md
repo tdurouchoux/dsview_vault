@@ -12,6 +12,7 @@ upload_date: '2026-01-07'
 ---
 
 https://huggingface.co/blog/hf-skills-training-codex
+
 ## Summary
 
 The content discusses the open-sourcing of AI models by Codex and its integration with Hugging Face Skills for end-to-end machine learning experiments. Key points include:
@@ -26,26 +27,28 @@ The content discusses the open-sourcing of AI models by Codex and its integratio
 - **What's Next**: Encourages users to experiment with fine-tuning models on their own datasets and explore different training methods.
 
 The content also provides resources for further reading and learning about Codex and Hugging Face Skills.
+
 ## Links
 
 - [Hugging Face Skills Repository](https://github.com/huggingface/skills) : The Hugging Face Skills repository contains skills for Machine Learning and AI tasks such as training or evaluating models.
 - [Hugging Face Trackio Documentation](https://huggingface.co/docs/trackio) : Trackio is a real-time training monitoring tool that helps review, explain, and act on live training metrics.
 - [OpenAI Codex Documentation](https://developers.openai.com/codex/) : Documentation for OpenAI's Codex, an AI coding agent that assists in development workflows.
 
+
 ## Topics
 
-![[topics/Model/Qwen3 0 6B]]
-
-![[topics/Concept/Supervised Fine Tuning]]
-
-![[topics/Concept/GGUF GGML Format]]
-
-![[topics/Concept/Trackio]]
-
-![[topics/Concept/Reinforcement Learning from Human Feedback RLHF]]
-
-![[topics/Concept/Direct Preference Optimization DPO]]
+![[topics/Concept/Model Context Protocol MCP]]
 
 ![[topics/Concept/LoRA Low Rank Adaptation]]
 
-![[topics/Concept/Model Context Protocol MCP]]
+![[topics/Concept/Reinforcement Learning from Human Feedback RLHF]]
+
+![[topics/Concept/GGUF]]
+
+![[topics/Concept/Direct Preference Optimization DPO]]
+
+![[topics/Concept/Supervised Fine Tuning]]
+
+![[topics/Concept/Trackio]]
+
+![[topics/Model/Qwen3 0 6B]]

@@ -12,6 +12,7 @@ upload_date: '2023-10-05'
 ---
 
 https://inseefrlab.github.io/formation-mlops/slides/fr/index.html
+
 ## Summary
 
 The content introduces MLOps concepts and MLflow, a platform for managing the machine learning lifecycle. Key points include:
@@ -24,10 +25,12 @@ The content introduces MLOps concepts and MLflow, a platform for managing the ma
 - **Hyperparameter Optimization**: Distributed training using Argo Workflows.
 
 The content also covers practical applications, including setting up environments, training models, deploying APIs, and monitoring models in production. The goal is to streamline the transition from experimentation to production and improve collaboration among data scientists, IT, and business teams.
+
 ## Links
 
 - [Quarto Dashboards](https://quarto.org/docs/dashboards/) : Documentation for creating interactive dashboards using Quarto, which can be used for monitoring and visualizing model performance metrics.
 - [MLflow Documentation](https://docs.python.org/3/library/logging.html) : Documentation for the Python logging library, which is used for tracking and logging metrics, parameters, and artifacts in MLflow.
+
 
 ## Topics
 

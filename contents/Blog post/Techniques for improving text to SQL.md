@@ -12,6 +12,7 @@ upload_date: '2025-05-21'
 ---
 
 https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql
+
 ## Summary
 
 The blog post discusses advancements in text-to-SQL technology, focusing on Google Cloud's techniques to improve the accuracy and usability of generating SQL queries from natural language. Key points include:
@@ -34,10 +35,12 @@ The blog post discusses advancements in text-to-SQL technology, focusing on Goog
    - **Continuous Evaluation**: Using evaluations to quickly test new models, prompting techniques, and other improvements.
 
 The post concludes by encouraging readers to try Gemini text-to-SQL in various Google Cloud products and stay tuned for more deep dives into text-to-SQL solutions.
+
 ## Links
 
 - [Bird-Bench](https://bird-bench.github.io/) : Bird-Bench is a benchmark for text-to-SQL evaluation. It is used to measure the performance of text-to-SQL models and systems. It is mentioned in the article as a baseline for understanding model and end-to-end system performance.
 - [Google Cloud BigQuery SQL Generation](https://cloud.google.com/bigquery/docs/write-sql-gemini#use_the_sql_generation_tool) : This link points to the documentation for using the SQL generation tool in BigQuery, which is mentioned in the article as one of the places where text-to-SQL capabilities are available.
+
 
 ## Topics
 
@@ -47,6 +50,6 @@ The post concludes by encouraging readers to try Gemini text-to-SQL in various G
 
 ![[topics/Concept/Self consistency]]
 
-![[topics/Concept/In context learning]]
+![[topics/Concept/In Context Learning ICL]]
 
-![[topics/Concept/LLM as a judge]]
+![[topics/Concept/Judge Model LLM as a Judge]]

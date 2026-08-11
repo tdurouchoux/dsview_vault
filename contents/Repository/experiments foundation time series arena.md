@@ -11,6 +11,7 @@ upload_date: '2024-06-12'
 ---
 
 https://github.com/Nixtla/nixtla/tree/main/experiments/foundation-time-series-arena
+
 ## Summary
 
 The GitHub repository "experiments/foundation-time-series-arena" by Nixtla is a collection of experiments and benchmarks for time series forecasting models. The main technical points and key takeaways include:
@@ -28,10 +29,12 @@ The GitHub repository "experiments/foundation-time-series-arena" by Nixtla is a 
 - **Community and Contributions**: The repository encourages community contributions, allowing for collaborative improvement and expansion of the benchmark suite.
 
 Overall, this repository is a valuable resource for data scientists and researchers interested in time series forecasting, providing a structured approach to model evaluation and comparison.
+
 ## Links
 
 - [GitHub Documentation](https://docs.github.com) : GitHub's official documentation, providing detailed information on how to use GitHub's features and services.
 - [GitHub Learning Pathways](https://resources.github.com/learn/pathways) : GitHub's learning pathways offer structured learning resources to help users improve their skills in various areas related to software development and GitHub's tools.
+
 
 ## Topics
 

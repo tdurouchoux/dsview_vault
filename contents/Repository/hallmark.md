@@ -11,6 +11,7 @@ upload_date: '2026-05-27'
 ---
 
 https://github.com/Nutlope/hallmark
+
 ## Summary
 
 **Hallmark** is an anti-AI-slop design tool for Claude Code, Cursor, and Codex, ensuring outputs don’t look AI-generated. Key features:
@@ -33,6 +34,7 @@ https://github.com/Nutlope/hallmark
   - Codex: `~/.codex/skills/hallmark/` (personal) or `.codex/skills/hallmark/` (project).
 
 - **License**: MIT. Rule-set in `SKILL.md`; examples in `docs/recipes.md` and `docs/study-examples.md`.
+
 ## Links
 
 - [Hallmark Live Demo Site](https://www.usehallmark.com) : The official live demo site for Hallmark, showcasing examples of generated designs across various themes and briefs. It provides a visual representation of the tool's capabilities and output quality.
@@ -41,18 +43,19 @@ https://github.com/Nutlope/hallmark
 - [Hallmark Design Examples - BananaStudio (Studio)](https://www.usehallmark.com/examples/bananastudio/) : A specific example of a Hallmark-generated design for a creative studio named 'BananaStudio.' It showcases the tool's ability to produce playful and unique designs.
 - [Hallmark Design Examples - Hyperlane (Dev Infrastructure)](https://www.usehallmark.com/examples/hyperlane/) : A specific example of a Hallmark-generated design for a dev infrastructure company named 'Hyperlane.' It demonstrates the tool's capability to create professional and technical designs.
 
+
 ## Topics
 
-![[topics/Concept/Anti AI slop Design]]
-
-![[topics/Tool/Hallmark Design Skill]]
+![[topics/Concept/AI Assisted Development]]
 
 ![[topics/Concept/Macrostructure]]
 
 ![[topics/Concept/Slop Test Gates]]
 
+![[topics/Tool/Hallmark Design Skill]]
+
+![[topics/Concept/Anti AI slop Design]]
+
 ![[topics/Concept/Design DNA Extraction]]
 
 ![[topics/Platform/usehallmark com]]
-
-![[topics/Concept/AI Assisted Development]]

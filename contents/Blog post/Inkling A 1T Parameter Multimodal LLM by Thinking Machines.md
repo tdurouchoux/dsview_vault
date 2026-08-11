@@ -11,6 +11,7 @@ upload_date: '2026-07-16'
 ---
 
 https://huggingface.co/blog/thinkingmachines-inkling
+
 ## Summary
 
 Inkling by Thinking Machines is a groundbreaking 1T-parameter multimodal LLM supporting text, image, and audio inputs with a 1M context window. Key technical highlights:
@@ -38,6 +39,7 @@ Inkling by Thinking Machines is a groundbreaking 1T-parameter multimodal LLM sup
 - Superior safety scores (FORTRESS, StrongREJECT)
 
 **Key Takeaway**: Inkling sets new standards for open multimodal LLMs with massive context support, efficient MoE architecture, and strong cross-modal reasoning capabilities.
+
 ## Links
 
 - [Inkling Model on Hugging Face](https://huggingface.co/thinkingmachines/Inkling) : The official Hugging Face repository for the Inkling model by Thinking Machines. This link provides access to the model card, architecture details, and downloadable checkpoints for inference.
@@ -46,24 +48,25 @@ Inkling by Thinking Machines is a groundbreaking 1T-parameter multimodal LLM sup
 - [Tinker Echo Demo for Post-Training](https://github.com/huggingface/OpenEnv/blob/main/examples/echo_world_model/backends/tinker_echo_demo.py) : A Python script demonstrating how to use the Tinker tool for post-training Inkling with reinforcement learning. This script is part of the OpenEnv framework and showcases the ECHO algorithm for training a model to predict environment tokens.
 - [GOLD Algorithm for Knowledge Distillation](https://github.com/huggingface/trl/blob/main/examples/scripts/gold.py) : A script implementing the GOLD algorithm for knowledge distillation, which can be used to distill knowledge from Inkling to smaller models. This is useful for improving the performance of on-device models. Part of the Transformers Reinforcement Learning (TRL) library.
 
+
 ## Topics
 
-![[topics/Model/Inkling]]
-
 ![[topics/Concept/Mixture of Experts MoE]]
-
-![[topics/Concept/Relative Attention]]
-
-![[topics/Concept/Hybrid Attention]]
-
-![[topics/Concept/Short Convolution SConv]]
-
-![[topics/Tool/tinker]]
-
-![[topics/Dataset/BigBenchAudio]]
-
-![[topics/Dataset/GlobeAudio]]
 
 ![[topics/Concept/Multi Token Prediction MTP]]
 
 ![[topics/Concept/Speculative Decoding]]
+
+![[topics/Dataset/BigBenchAudio]]
+
+![[topics/Model/Inkling]]
+
+![[topics/Dataset/GlobeAudio]]
+
+![[topics/Tool/tinker]]
+
+![[topics/Concept/Hybrid Attention]]
+
+![[topics/Concept/Relative Attention]]
+
+![[topics/Concept/Short Convolution SConv]]

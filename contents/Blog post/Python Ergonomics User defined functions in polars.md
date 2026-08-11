@@ -12,6 +12,7 @@ upload_date: '2025-12-08'
 ---
 
 https://www.emilyriederer.com/post/py-rgo-udf/
+
 ## Summary
 
 The post discusses integrating user-defined functions (UDFs) into Polars, a DataFrame library in Python, while maintaining the library's consistent API and flow. Key points include:
@@ -34,15 +35,17 @@ The post discusses integrating user-defined functions (UDFs) into Polars, a Data
    - **Partitions**: The `partition_by()` method splits a DataFrame into separate frames based on grouping columns, useful for breaking the DataFrame abstraction when necessary.
 
 The post emphasizes the importance of maintaining the Polars flow while incorporating UDFs and provides practical examples and patterns for doing so effectively.
+
 ## Links
 
 - [Awesome Polars](https://github.com/ddotta/awesome-polars?tab=readme-ov-file#librariespackagesscripts) : A curated list of awesome Polars libraries, packages, and scripts.
 - [Polars Expression Expansion](https://docs.pola.rs/user-guide/expressions/expression-expansion/) : Official documentation on expression expansion in Polars, detailing how to programmatically generate expressions.
 
+
 ## Topics
 
-![[topics/Concept/User Defined Functions UDFs]]
+![[topics/Library/Polars]]
 
 ![[topics/Concept/Expression Expansion]]
 
-![[topics/Library/polars]]
+![[topics/Concept/User Defined Functions UDFs]]

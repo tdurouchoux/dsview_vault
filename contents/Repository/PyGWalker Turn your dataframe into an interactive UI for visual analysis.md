@@ -12,6 +12,7 @@ upload_date: '2023-03-02'
 ---
 
 https://github.com/Kanaries/pygwalker
+
 ## Summary
 
 PyGWalker is a Python library designed to simplify exploratory data analysis (EDA) and visualization workflows by converting pandas DataFrames into interactive visual interfaces. It integrates Jupyter Notebooks with Graphic Walker, an open-source alternative to Tableau, enabling data scientists to visualize, clean, and annotate data through drag-and-drop operations and natural language queries.
@@ -56,12 +57,14 @@ PyGWalker is a Python library designed to simplify exploratory data analysis (ED
 - **Community Support**: Discord channel and GitHub issues for support.
 
 PyGWalker aims to streamline the data analysis process, making it more accessible and efficient for data scientists.
+
 ## Links
 
 - [PyGWalker Documentation](https://pygwalker-docs.vercel.app/api-reference/jupyter) : Official documentation for PyGWalker, providing detailed information on how to use the library in Jupyter environments.
 - [PyGWalker Cloud](https://kanaries.net/pygwalker?from=gh_md) : PyGWalker Cloud service for saving charts, publishing interactive cells as web apps, and using advanced GPT-powered features.
 - [PyGWalker on PyPI](https://pypi.org/project/pygwalker) : PyGWalker project page on the Python Package Index, providing installation instructions and package details.
 - [PyGWalker on Conda-Forge](https://anaconda.org/conda-forge/pygwalker) : PyGWalker project page on Conda-Forge, providing installation instructions and package details for Conda users.
+
 
 ## Topics
 

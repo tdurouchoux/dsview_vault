@@ -12,6 +12,7 @@ upload_date: '2025-05-04'
 ---
 
 https://motherduck.com/learn-more/duckdb-vs-sqlite-databases/
+
 ## Summary
 
 **Summary:**
@@ -37,11 +38,13 @@ https://motherduck.com/learn-more/duckdb-vs-sqlite-databases/
 - **Decision Making**: Evaluate workload nature, data scale, query complexity, performance requirements, ease of use, and tool integration. Benchmark both databases for real-world performance.
 
 - **Additional Resources**: MotherDuck for DuckDB, Turso/SQLite Cloud for SQLite, and various learning resources (videos, blogs, tutorials).
+
 ## Links
 
 - [SQLite Official Website](https://www.sqlite.org/mostdeployed.html) : SQLite's official website, providing information about its widespread deployment and usage.
 - [Turso](https://turso.tech/) : Turso's website, offering cloud services for SQLite.
 - [SQLite DuckDB Benchmark](https://www.lukas-barth.net/blog/sqlite-duckdb-benchmark/) : A benchmark comparison between SQLite and DuckDB, highlighting their performance differences.
+
 
 ## Topics
 

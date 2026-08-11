@@ -12,6 +12,7 @@ upload_date: '2023-05-25'
 ---
 
 https://readmedium.com/https://towardsdatascience.com/top-data-science-and-machine-learning-books-to-read-in-2023-5a0a82876f0
+
 ## Summary
 
 - **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron**: Covers practical machine learning techniques using popular libraries. Focuses on implementation and real-world applications.
@@ -35,10 +36,12 @@ https://readmedium.com/https://towardsdatascience.com/top-data-science-and-machi
 - **"The Elements of Statistical Learning" by Trevor Hastie, Robert Tibshirani, and Jerome Friedman**: A rigorous and comprehensive guide to statistical learning, suitable for advanced readers.
 
 These books cover a range of topics from foundational concepts to advanced techniques, providing valuable insights for data scientists at various levels of expertise.
+
 ## Links
 
 - [OpenAI o1 chat](https://openai01.net/) : OpenAI o1 chat interface.
 - [OpenAI o1 API](https://openaio1api.com/) : OpenAI o1 API documentation.
+
 
 ## Topics
 

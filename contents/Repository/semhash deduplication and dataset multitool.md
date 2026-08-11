@@ -12,6 +12,7 @@ upload_date: '2025-01-22'
 ---
 
 https://minishlab.github.io/semhash-blogpost/
+
 ## Summary
 
 - **Introduction**: semhash is a tool for semantic deduplication and dataset management, designed to improve data quality for tasks like training Large Language Models (LLMs). It focuses on removing semantically similar documents, addressing limitations of traditional methods like minhash or simhash.
@@ -33,11 +34,13 @@ https://minishlab.github.io/semhash-blogpost/
   - Supports multi-column datasets, ensuring similarity across multiple text fields.
 
 - **Conclusion**: semhash is a versatile tool for efficient and effective dataset deduplication and analysis.
+
 ## Links
 
 - [semhash GitHub Repository](https://github.com/MinishLab/semhash) : The GitHub repository for semhash, a semantic deduplication and dataset multitool.
 - [potion-base-8M Model](https://huggingface.co/minishlab/potion-base-8M) : The potion-base-8M model, a fast model used by semhash for encoding documents.
 - [Squad V2 Dataset](https://huggingface.co/datasets/rajpurkar/squad_v2) : The Squad V2 dataset, used as an example in the semhash blogpost.
+
 
 ## Topics
 

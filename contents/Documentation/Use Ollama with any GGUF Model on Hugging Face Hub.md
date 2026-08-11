@@ -11,6 +11,7 @@ upload_date: '2024-12-28'
 ---
 
 https://huggingface.co/docs/hub/en/ollama
+
 ## Summary
 
 The document provides instructions on using Ollama with GGUF models on the Hugging Face Hub. Key points include:
@@ -26,10 +27,12 @@ The document provides instructions on using Ollama with GGUF models on the Huggi
 5. **References**: Links to Ollama's documentation and Hugging Face's GGUF documentation are provided for further details.
 
 The document is structured into sections: Custom Quantization, Custom Chat Template and Parameters, Run Private GGUFs from the Hugging Face Hub, and References.
+
 ## Links
 
 - [Ollama Documentation](https://github.com/ollama/ollama/blob/main/docs/README.md) : The official documentation for Ollama, providing detailed information on how to use the application with GGUF models.
 - [GGUF Usage with Ollama](https://huggingface.co/docs/hub/en/gguf) : Detailed guide on using GGUF models with Ollama on the Hugging Face Hub.
+
 
 ## Topics
 

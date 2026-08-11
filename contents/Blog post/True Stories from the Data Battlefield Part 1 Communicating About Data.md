@@ -12,6 +12,7 @@ upload_date: '2026-01-15'
 ---
 
 https://methodmatters.github.io/true-stories-part-1/
+
 ## Summary
 
 The blog post discusses common non-technical challenges faced by data professionals when communicating about data with organizational stakeholders. It presents four case studies, each illustrating a different communication issue, its diagnosis, and potential solutions.
@@ -25,12 +26,14 @@ The blog post discusses common non-technical challenges faced by data profession
 4. **When the Data Reveal an Uncomfortable Truth**: Presenting data that revealed an uncomfortable truth led to a negative reaction. The solution is to seek a more professional organization if such behavior is common.
 
 The post concludes by emphasizing the importance of discussing and addressing these common communication issues in data projects. The next blog post will focus on interpersonal issues in data projects. The post also includes R code used to produce the graphs discussed.
+
 ## Links
 
 - [GitHub Repository](http://github.com/methodmatters) : GitHub repository of Method Matters, likely containing additional resources, code, or data related to the blog posts and data science work discussed on the blog.
 - [LinkedIn Profile](https://in.linkedin.com/in/mike-friedman) : LinkedIn profile of Mike Friedman, the author of the blog post. This link provides more information about the author's professional background and expertise.
 - [mtcars Dataset Documentation](https://www.rdocumentation.org/packages/datasets/versions/3.6.2/topics/mtcars) : Documentation for the mtcars dataset used in one of the examples in the blog post. This link provides detailed information about the dataset, which is a built-in dataset in R commonly used for demonstration and practice.
 
+
 ## Topics
 
-![[topics/Concept/Data Communication]]
+![[topics/Concept/Data Storytelling and Communication]]

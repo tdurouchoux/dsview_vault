@@ -11,6 +11,7 @@ upload_date: '2025-10-25'
 ---
 
 https://masonjwang.com/writing/reading-research
+
 ## Summary
 
 To effectively read research papers in five minutes, follow this concise approach:
@@ -30,7 +31,9 @@ To effectively read research papers in five minutes, follow this concise approac
 7. **Appendices**: If time permits, glance at the appendices for supplementary information or technical details.
 
 This approach allows you to quickly understand the main points and decide if the paper is relevant to your work or warrants a more in-depth reading.
+
 ## Links
+
 
 
 ## Topics

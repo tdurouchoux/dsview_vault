@@ -11,6 +11,7 @@ upload_date: '2026-02-19'
 ---
 
 https://mistral.ai/fr/news/mistral-3
+
 ## Summary
 
 Mistral AI introduces Mistral 3, a next-generation open multimodal and multilingual AI model family. Key points include:
@@ -23,6 +24,7 @@ Mistral AI introduces Mistral 3, a next-generation open multimodal and multiling
 - **Key Features**: Frontier performance, multimodal and multilingual support, scalable efficiency, and adaptability for various applications.
 
 The release emphasizes open access, transparency, and collective progress in AI development.
+
 ## Links
 
 - [Mistral 3 on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/12/mistral-large-3-ministral-3-family-available-amazon-bedrock/) : Mistral 3 availability on Amazon Bedrock.
@@ -31,16 +33,17 @@ The release emphasizes open access, transparency, and collective progress in AI 
 - [Mistral 3 on NVIDIA](https://blogs.nvidia.com/blog/mistral-frontier-open-models/) : Mistral 3 on NVIDIA.
 - [Mistral 3 on GitHub](https://github.com/mistralai) : Mistral 3 on GitHub.
 
+
 ## Topics
 
 ![[topics/Model/Mistral 3]]
 
-![[topics/Model/Mistral Large 3]]
+![[topics/Concept/Mixture of Experts MoE]]
 
 ![[topics/Model/Ministral 3]]
 
-![[topics/Concept/Mixture of Experts MoE]]
+![[topics/Concept/Speculative Decoding]]
 
 ![[topics/Concept/Distributed Intelligence]]
 
-![[topics/Concept/Speculative Decoding]]
+![[topics/Model/Mistral Large 3]]

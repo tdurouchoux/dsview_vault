@@ -11,6 +11,7 @@ upload_date: '2026-04-06'
 ---
 
 https://openclaw.ai/
+
 ## Summary
 
 OpenClaw is an open-source, hackable personal AI assistant that runs on your machine (macOS, Windows, Linux) with persistent memory and proactive capabilities. It integrates with any chat app (WhatsApp, Telegram, Discord, etc.) and can autonomously perform tasks like managing emails, calendars, flights, running tests, generating code, handling APIs, and even controlling hardware (e.g., air purifiers via voice commands).
@@ -33,6 +34,7 @@ Quick start:
 - Hackable macOS installer also available via GitHub.
 
 Works with 50+ integrations (e.g., Gmail, GitHub, Spotify, Hue, Obsidian, Twitter, Browser).
+
 ## Links
 
 - [OpenClaw GitHub Repository](https://github.com/openclaw/openclaw) : The official GitHub repository for OpenClaw, containing the source code, installation instructions, and community contributions. This is a critical resource for developers and users looking to explore, contribute, or deploy OpenClaw.
@@ -41,20 +43,21 @@ Works with 50+ integrations (e.g., Gmail, GitHub, Spotify, Hue, Obsidian, Twitte
 - [OpenClaw Trust Center](https://trust.openclaw.ai/) : A dedicated page outlining OpenClaw's trust, security, and privacy policies. This is important for users concerned about data handling and compliance.
 - [OpenClaw Releases Page](https://github.com/openclaw/openclaw/releases/latest) : The latest release page for OpenClaw on GitHub, where users can find updates, changelogs, and downloadable versions of the software. This ensures users stay up-to-date with the newest features and fixes.
 
+
 ## Topics
 
 ![[topics/Concept/Agentic AI]]
 
-![[topics/Concept/Agentic and Dynamic Workflows]]
+![[topics/Concept/Proactive AI Assistants]]
+
+![[topics/Concept/AI Agent Workflows]]
 
 ![[topics/Tool/OpenClaw]]
 
-![[topics/Concept/Persistent Memory]]
-
-![[topics/Concept/Hackable AI Systems]]
-
 ![[topics/Concept/Multi Interface AI Assistants]]
+
+![[topics/Concept/Persistent Memory in AI]]
 
 ![[topics/Concept/On Premise AI Deployment]]
 
-![[topics/Concept/Proactive AI Assistants]]
+![[topics/Concept/Hackable AI Systems]]

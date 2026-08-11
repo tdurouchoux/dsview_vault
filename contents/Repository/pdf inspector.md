@@ -73,18 +73,18 @@ pdf-inspector is a high-performance Rust library for classifying and extracting 
 
 ## Topics
 
-![[topics/Library/pdf inspector]]
-
-![[topics/Library/lopdf]]
-
-![[topics/Dataset/opendataloader bench]]
-
-![[topics/Concept/PDF classification]]
-
-![[topics/Concept/Position aware text extraction]]
+![[topics/Concept/Structured Data Extraction]]
 
 ![[topics/Library/MarkItDown]]
 
-![[topics/Concept/Structured Data Extraction]]
-
 ![[topics/Tool/Firecrawl]]
+
+![[topics/Library/lopdf]]
+
+![[topics/Library/pdf inspector]]
+
+![[topics/Concept/Position aware text extraction]]
+
+![[topics/Concept/PDF classification]]
+
+![[topics/Dataset/opendataloader bench]]
