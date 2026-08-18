@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Interactive visualization involves creating graphical representations of data that allow users to manipulate and explore the data dynamically. This can include creating self-contained, interactive HTML files to visualize and review extracted entities in their original context, enhancing data understanding, insight discovery, usability, and transparency of the extraction process.
+A technique for rendering and exploring data dynamically, allowing users to manipulate and explore graphical representations interactively. This includes network graph visualization (e.g., via tools like `ipysigma` in Jupyter widgets) and other data types, supporting features like zooming, panning, selection, and synchronized views to enhance data understanding, insight discovery, usability, and transparency.
