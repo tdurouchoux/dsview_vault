@@ -49,7 +49,7 @@ The article discusses the advantages of using open source large language models 
 
 ![[topics/Concept/Tree of Thoughts ToT]]
 
-![[topics/Concept/Chain of Thought]]
+![[topics/Concept/Chain of Thought CoT]]
 
 ![[topics/Concept/ReAct]]
 

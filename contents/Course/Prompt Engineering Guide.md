@@ -87,7 +87,7 @@ The guide covers prompt basics, including:
 
 ![[topics/Concept/Prompt Engineering and Optimization]]
 
-![[topics/Concept/Chain of Thought]]
+![[topics/Concept/Chain of Thought CoT]]
 
 ![[topics/Concept/Few shot Prompting]]
 

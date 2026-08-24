@@ -39,7 +39,7 @@ The Graph of Thoughts (GoT) framework is introduced as a new paradigm for prompt
 
 ![[topics/Concept/Graph Based Reasoning]]
 
-![[topics/Concept/Chain of Thought]]
+![[topics/Concept/Chain of Thought CoT]]
 
 ![[topics/Concept/Large Language Models]]
 

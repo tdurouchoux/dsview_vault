@@ -42,7 +42,7 @@ The article also discusses the cost and efficiency of developing reasoning model
 
 ![[topics/Concept/Reinforcement Learning]]
 
-![[topics/Concept/Chain of Thought]]
+![[topics/Concept/Chain of Thought CoT]]
 
 ![[topics/Concept/Supervised Fine Tuning]]
 

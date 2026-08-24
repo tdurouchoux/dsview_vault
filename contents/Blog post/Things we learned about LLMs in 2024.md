@@ -40,8 +40,8 @@ In 2024, significant advancements were made in the field of Large Language Model
 
 ![[topics/Model/Llama 4]]
 
-![[topics/Concept/Inference scaling reasoning models]]
+![[topics/Concept/Inference Horizon]]
 
-![[topics/Model/o1 Models]]
+![[topics/Model/o1]]
 
 ![[topics/Model/Gemini]]

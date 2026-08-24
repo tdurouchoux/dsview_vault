@@ -36,7 +36,7 @@ The report concludes that while the gpt-oss-safeguard models show promising capa
 
 ## Topics
 
-![[topics/Concept/Chain of Thought]]
+![[topics/Concept/Chain of Thought CoT]]
 
 ![[topics/Concept/Structured Output]]
 
