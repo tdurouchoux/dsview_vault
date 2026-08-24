@@ -32,7 +32,7 @@ In 2024, significant advancements were made in the field of Large Language Model
 
 ![[topics/Model/DeepSeek v3]]
 
-![[topics/Model/GPT 4]]
+![[topics/Model/GPT]]
 
 ![[topics/Concept/Slop]]
 
