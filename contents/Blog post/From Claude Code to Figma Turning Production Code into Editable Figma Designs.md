@@ -44,6 +44,6 @@ Figma now integrates with Claude Code to convert production UI code into editabl
 
 ![[topics/Tool/Figma Make]]
 
-![[topics/Tool/Figma MCP Server]]
+![[topics/Tool/MCP servers]]
 
 ![[topics/Concept/Code to Design Workflows]]
