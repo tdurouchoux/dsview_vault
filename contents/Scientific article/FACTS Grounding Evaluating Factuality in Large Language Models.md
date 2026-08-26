@@ -42,4 +42,4 @@ The initiative is a collaboration between Google DeepMind and Google Research, w
 
 ![[topics/Concept/Hallucination in Language Models]]
 
-![[topics/Concept/LLM Judges]]
+![[topics/Concept/LLM as Judge]]
