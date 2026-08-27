@@ -52,6 +52,6 @@ The paper also discusses the potential implications of these findings for the sa
 
 ![[topics/Concept/Feature Survey]]
 
-![[topics/Concept/Feature Interpretability]]
+![[topics/Concept/Concept based Modeling]]
 
 ![[topics/Concept/Dictionary Learning]]
