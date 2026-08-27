@@ -28,7 +28,7 @@ StellarGraph is a Python library for machine learning on graphs and networks, bu
 
 ## Topics
 
-![[topics/Concept/Graph Attention Network GAT]]
+![[topics/Model/Graph Attention Network GAT]]
 
 ![[topics/Model/Node2Vec]]
 

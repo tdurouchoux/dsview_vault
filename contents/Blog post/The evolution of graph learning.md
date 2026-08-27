@@ -27,7 +27,7 @@ The blog post discusses the evolution of graph learning, highlighting key milest
 
 ## Topics
 
-![[topics/Model/Graph Neural Networks]]
+![[topics/Model/Graph Neural Network]]
 
 ![[topics/Concept/Graph Learning]]
 

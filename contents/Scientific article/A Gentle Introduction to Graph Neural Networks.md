@@ -41,6 +41,6 @@ Overall, the article serves as a comprehensive guide to understanding and buildi
 
 ![[topics/Concept/Pooling]]
 
-![[topics/Model/Graph Neural Networks]]
+![[topics/Model/Graph Neural Network]]
 
-![[topics/Concept/Graph Attention Network GAT]]
+![[topics/Model/Graph Attention Network GAT]]

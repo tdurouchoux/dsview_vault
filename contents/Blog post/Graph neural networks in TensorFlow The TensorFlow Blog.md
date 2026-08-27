@@ -38,7 +38,7 @@ The article concludes by encouraging users to try the Colab demo, browse user gu
 
 ## Topics
 
-![[topics/Model/Graph Neural Networks]]
+![[topics/Model/Graph Neural Network]]
 
 ![[topics/Model/Message Passing Neural Networks MPNNs]]
 

@@ -1,0 +1,5 @@
+---
+type: Model
+---
+
+Graph Neural Networks (GNNs) are a class of deep learning models designed to perform inference on data structured as graphs. GNNs operate by passing messages between nodes (and edges) in a graph, aggregating information from neighboring nodes, and updating node representations iteratively. They are used for tasks such as node classification, link prediction, and graph-level predictions. GNNs are particularly effective for modeling relational data and irregular structures, such as social networks, molecular structures, and recommendation systems. Developed by Peter Battaglia and colleagues, GNNs have been extended with concepts like attention, allowing models to focus on important parts of the input data. They encode a graph's discrete, relational information in a continuous way, enabling integration into other deep learning systems and handling graph-level, node-level, and edge-level tasks with applications in molecular discovery, physics simulations, fake news detection, traffic prediction, and recommendation systems.
