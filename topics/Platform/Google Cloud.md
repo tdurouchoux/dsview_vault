@@ -2,4 +2,4 @@
 type: Platform
 ---
 
-Google Cloud is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube. It provides a series of modular cloud services including computing, data storage, data analytics and machine learning.
+A suite of cloud computing services provided by Google, offering scalable infrastructure for data processing, machine learning, and general computing tasks. It runs on the same infrastructure used internally for Google's end-user products (e.g., Google Search, YouTube) and includes modular services for computing, data storage, data analytics, and machine learning. Widely used for hosting experiments, training models, and deploying applications in research and industry.
