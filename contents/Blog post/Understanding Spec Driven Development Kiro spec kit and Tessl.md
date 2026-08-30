@@ -1,8 +1,8 @@
 ---
-already_read: false
+already_read: true
 link: https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
-read_priority: 5
-relevance: 0
+read_priority: 0
+relevance: 4
 source: Data Elixir
 tags:
 - AI_agent
