@@ -29,7 +29,7 @@ Langfuse is an open-source LLM engineering platform for tracing, prompt manageme
 
 ![[topics/Concept/Judge Model LLM as a Judge]]
 
-![[topics/Concept/Tracing]]
+![[topics/Concept/Distributed Tracing]]
 
 ![[topics/Concept/OpenTelemetry]]
 
