@@ -1,8 +1,8 @@
 ---
-already_read: false
+already_read: true
 link: https://www.anthropic.com/glasswing
-read_priority: 5
-relevance: 0
+read_priority: 0
+relevance: 5
 source: null
 tags:
 - AI_regulation
