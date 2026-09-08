@@ -48,7 +48,7 @@ PyC is an alpha-stage PyTorch/PyTorch Lightning library for building interpretab
 
 ![[topics/Library/WandB]]
 
-![[topics/Concept/Interpretable Deep Learning]]
+![[topics/Concept/Interpretable Machine Learning]]
 
 ![[topics/Concept/Probabilistic Graphical Models]]
 

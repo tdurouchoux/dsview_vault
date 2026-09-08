@@ -30,7 +30,7 @@ While feature selection can aid interpretation by reducing the number of feature
 
 ![[topics/Concept/Feature Selection]]
 
-![[topics/Concept/SHAP SHapley Additive exPlanations]]
+![[topics/Concept/SHAP]]
 
 ![[topics/Concept/Feature Importance]]
 
