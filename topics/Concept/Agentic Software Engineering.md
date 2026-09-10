@@ -1,5 +1,0 @@
----
-type: Concept
----
-
-Agentic software engineering, also referred to as the third era of software development, represents a paradigm shift where AI agents play a central role in the creation, management, and deployment of software. This emerging field involves AI systems acting as active collaborators in the software development process, capable of planning, executing, and iterating on solutions with increasing autonomy. These AI agents can understand tasks, take initiative to solve problems, and interact with development environments, such as launching browsers, running tests, and implementing fixes. The goal is to create a symbiotic relationship between human developers and AI, where the AI handles routine and complex tasks while humans focus on high-level design, quality assurance, and user experience. This era is characterized by autonomous coding, where fleets of agents collaborate to deliver improvements and handle complex tasks with minimal human intervention, leading to more efficient, scalable, and collaborative software development processes.

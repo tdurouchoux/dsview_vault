@@ -36,7 +36,7 @@ Focus: Scaling from individual agent oversight to autonomous agent fleets, with 
 
 ![[topics/Concept/Language Server Protocol LSP]]
 
-![[topics/Concept/Agentic Software Engineering]]
+![[topics/Concept/Agentic Software Development]]
 
 ![[topics/Concept/Multi Agent Parallel Execution]]
 

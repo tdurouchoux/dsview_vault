@@ -38,4 +38,4 @@ Anthropic has introduced Claude 3.7 Sonnet, a hybrid reasoning model that offers
 
 ![[topics/Tool/Claude Code]]
 
-![[topics/Concept/Agentic Software Engineering]]
+![[topics/Concept/Agentic Software Development]]

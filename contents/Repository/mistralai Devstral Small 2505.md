@@ -34,7 +34,7 @@ The model achieves a score of 46.8% on SWE-Bench Verified, outperforming prior o
 
 ![[topics/Tool/Ollama]]
 
-![[topics/Concept/Agentic Software Engineering]]
+![[topics/Concept/Agentic Software Development]]
 
 ![[topics/Tool/OpenHands]]
 

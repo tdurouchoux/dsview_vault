@@ -56,7 +56,7 @@ smevals is a lightweight Python CLI tool for evaluating models, prompts, and har
 
 ![[topics/Model/gpt 4 1 mini]]
 
-![[topics/Platform/OpenAI Codex]]
+![[topics/Tool/Codex]]
 
 ![[topics/Concept/Eval Suite]]
 

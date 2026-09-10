@@ -36,10 +36,10 @@ Anthropic introduces Claude Opus 4 and Claude Sonnet 4, setting new standards in
 
 ![[topics/Concept/Parallel tool execution]]
 
-![[topics/Model/Claude Sonnet 4]]
+![[topics/Model/Sonnet]]
 
 ![[topics/Concept/Extended thinking with tool use]]
 
-![[topics/Model/Claude Opus 4]]
+![[topics/Model/Opus]]
 
 ![[topics/Concept/Memory capabilities]]

@@ -47,7 +47,7 @@ The content discusses the impact of AI-assisted coding on software development, 
 
 ## Topics
 
-![[topics/Concept/Agentic Software Engineering]]
+![[topics/Concept/Agentic Software Development]]
 
 ![[topics/Concept/The 70 problem]]
 
