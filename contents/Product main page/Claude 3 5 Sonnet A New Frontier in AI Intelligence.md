@@ -35,7 +35,7 @@ The model is available for free on Claude.ai and iOS, with higher rate limits fo
 
 ## Topics
 
-![[topics/Model/Claude Sonnet]]
+![[topics/Model/Claude]]
 
 ![[topics/Platform/Amazon Bedrock]]
 

@@ -28,7 +28,7 @@ Claude Sonnet 4.5 is introduced as the best coding model, excelling in complex a
 
 ## Topics
 
-![[topics/Model/Claude Sonnet]]
+![[topics/Model/Claude]]
 
 ![[topics/Tool/Claude Code]]
 

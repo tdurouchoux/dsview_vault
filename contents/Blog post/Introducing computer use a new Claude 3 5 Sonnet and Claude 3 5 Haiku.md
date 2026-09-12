@@ -36,7 +36,7 @@ Overall, these updates aim to enhance AI-powered coding, automation, and user-fa
 
 ## Topics
 
-![[topics/Model/Claude Sonnet]]
+![[topics/Model/Claude]]
 
 ![[topics/Model/Claude 3 Series]]
 
