@@ -43,7 +43,7 @@ Agent Plugins is an open standard for portable, reusable AI agent components tha
 
 ## Topics
 
-![[topics/Platform/Agent Plugins]]
+![[topics/Concept/Plugin based Architecture]]
 
 ![[topics/Tool/MCP servers]]
 
