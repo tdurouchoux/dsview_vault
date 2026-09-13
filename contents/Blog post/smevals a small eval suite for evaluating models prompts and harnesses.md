@@ -52,7 +52,7 @@ smevals is a lightweight Python CLI tool for evaluating models, prompts, and har
 
 ![[topics/Model/GPT]]
 
-![[topics/Model/GPT 5 4 nano]]
+![[topics/Model/GPT 5]]
 
 ![[topics/Model/gpt 4 1 mini]]
 
