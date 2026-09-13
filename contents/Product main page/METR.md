@@ -63,7 +63,7 @@ METR is a research nonprofit that scientifically evaluates AI systems' capabilit
 
 ![[topics/Concept/Time Horizon Evaluations]]
 
-![[topics/Concept/Monitorability Evaluations]]
+![[topics/Platform/METR]]
 
 ![[topics/Concept/AI Safety]]
 

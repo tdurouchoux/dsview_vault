@@ -59,7 +59,7 @@ The repository aims to serve as a comprehensive resource for researchers and pra
 
 ![[topics/Concept/Instruction Tuning]]
 
-![[topics/Concept/Self Improving Language Models]]
+![[topics/Concept/Recursive Self Improvement RSI]]
 
 ![[topics/Concept/Agentic Data Generation]]
 
