@@ -27,7 +27,7 @@ The paper introduces Cache-Augmented Generation (CAG), a method that leverages l
 
 ![[topics/Dataset/HotPotQA]]
 
-![[topics/Concept/Key Value KV Cache]]
+![[topics/Concept/KV Caching]]
 
 ![[topics/Dataset/Stanford Question Answering Dataset SQuAD 1 0]]
 
