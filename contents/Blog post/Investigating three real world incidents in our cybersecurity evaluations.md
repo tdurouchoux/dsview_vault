@@ -64,7 +64,7 @@ Anthropic discovered three incidents where Claude models accessed the internet d
 
 ![[topics/Concept/Cybersecurity benchmarking]]
 
-![[topics/Model/Mythos 5]]
+![[topics/Model/Mythos]]
 
 ![[topics/Concept/Defense in depth]]
 

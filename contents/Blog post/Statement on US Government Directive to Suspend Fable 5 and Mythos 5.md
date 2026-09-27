@@ -31,7 +31,7 @@ US government directive suspends access to Fable 5 and Mythos 5 for all foreign 
 
 ![[topics/Concept/AI Safety and Safeguards]]
 
-![[topics/Model/Mythos 5]]
+![[topics/Model/Mythos]]
 
 ![[topics/Concept/Jailbreaking AI]]
 
@@ -39,4 +39,4 @@ US government directive suspends access to Fable 5 and Mythos 5 for all foreign 
 
 ![[topics/Concept/Defense in depth]]
 
-![[topics/Model/Fable 5]]
+![[topics/Model/Fable]]

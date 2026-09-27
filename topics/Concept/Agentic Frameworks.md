@@ -2,4 +2,4 @@
 type: Concept
 ---
 
-Agentic frameworks are structures that enable AI agents to perform tasks autonomously or semi-autonomously. These frameworks can vary, such as LangChain and CrewAI, and are used to build agents that can reason, gather information, and make predictions. The performance of these frameworks can be compared by keeping the underlying models and tools constant.
+Systems enabling AI agents to perform tasks autonomously or semi-autonomously, including multi-agent frameworks where multiple agents collaborate to achieve complex tasks (e.g., cyber operations, reconnaissance, or data exfiltration). These frameworks reduce human intervention by orchestrating autonomous or semi-autonomous workflows, with applications ranging from threat actor tooling to reasoning, information gathering, and prediction. Examples include LangChain and CrewAI, and their performance can be compared by standardizing underlying models and tools.

@@ -82,6 +82,6 @@ OpenHands is an open-source AI agent platform for autonomous software developmen
 
 ![[topics/Tool/OpenHands]]
 
-![[topics/Model/Fable 5]]
+![[topics/Model/Fable]]
 
 ![[topics/Tool/Claude Code]]
