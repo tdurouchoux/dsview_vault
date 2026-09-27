@@ -51,6 +51,6 @@ Works with agents like **Claude Code, Cursor, GitHub Copilot** and models such a
 
 ![[topics/Concept/Workspace organization for ML]]
 
-![[topics/Concept/AI agents for ML experimentation]]
+![[topics/Concept/Semi autonomous research]]
 
 ![[topics/Concept/ML pipeline lifecycle]]

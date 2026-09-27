@@ -23,4 +23,4 @@ DuckDB-WASM is a WebAssembly (WASM) port of DuckDB, enabling SQL operations dire
 
 ## Topics
 
-![[topics/Concept/DuckDB WASM]]
+![[topics/Platform/DuckDB WASM]]
