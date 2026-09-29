@@ -46,6 +46,6 @@ Documentation covers user guides (setup, features), library extensions, contribu
 
 ![[topics/Tool/Apache DataFusion Comet]]
 
-![[topics/Library/DataFusion Ballista]]
+![[topics/Library/DataFusion]]
 
 ![[topics/Tool/DataFusion CLI]]
