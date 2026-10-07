@@ -27,7 +27,7 @@ The content is a GitHub repository named "open-llms" curated by eugeneyan, which
 
 ## Topics
 
-![[topics/Concept/Open LLMs]]
+![[topics/Concept/Open Weight Models]]
 
 ![[topics/Concept/Open Data]]
 

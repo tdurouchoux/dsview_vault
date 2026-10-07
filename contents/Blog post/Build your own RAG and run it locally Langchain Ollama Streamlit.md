@@ -55,7 +55,7 @@ The full source code for the project is available on GitHub. The guide also prov
 
 ![[topics/Library/Chroma]]
 
-![[topics/Model/Mistral 3]]
+![[topics/Model/Mistral]]
 
 ![[topics/Tool/Ollama]]
 

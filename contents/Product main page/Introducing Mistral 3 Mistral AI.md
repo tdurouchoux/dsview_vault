@@ -36,7 +36,7 @@ The release emphasizes open access, transparency, and collective progress in AI 
 
 ## Topics
 
-![[topics/Model/Mistral 3]]
+![[topics/Model/Mistral]]
 
 ![[topics/Concept/Mixture of Experts MoE]]
 
