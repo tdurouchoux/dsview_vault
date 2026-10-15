@@ -49,7 +49,7 @@ Polars 2.0 release candidate introduces major defaults and API improvements, foc
 
 ![[topics/Concept/Error Reporting]]
 
-![[topics/Concept/Out of Core Support]]
+![[topics/Concept/Out of core processing]]
 
 ![[topics/Concept/IO Plugin Design]]
 
