@@ -37,7 +37,7 @@ The post emphasizes the importance of understanding these categories to avoid co
 
 ![[topics/Concept/Classifier]]
 
-![[topics/Concept/ROC Curve]]
+![[topics/Concept/ROC Curve and AUC]]
 
 ![[topics/Concept/Confusion Matrix]]
 
