@@ -38,7 +38,7 @@ The report concludes that while the gpt-oss-safeguard models show promising capa
 
 ![[topics/Concept/Chain of Thought CoT]]
 
-![[topics/Concept/Structured Output]]
+![[topics/Concept/Structured Outputs]]
 
 ![[topics/Concept/Hallucination in Language Models]]
 

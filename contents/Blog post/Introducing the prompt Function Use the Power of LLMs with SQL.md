@@ -38,7 +38,7 @@ The blog post introduces the `prompt()` function in MotherDuck, which integrates
 
 ![[topics/Concept/Retrieval Augmented Generation RAG]]
 
-![[topics/Concept/Structured Output]]
+![[topics/Concept/Structured Outputs]]
 
 ![[topics/Concept/Compute Units]]
 
