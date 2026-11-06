@@ -43,6 +43,6 @@ Agentic coding tasks consume **1000–3500x more tokens** than single-turn code 
 
 ![[topics/Concept/Pre Execution Token Consumption Prediction]]
 
-![[topics/Concept/Token Consumption in AI Agents]]
+![[topics/Concept/Tokenomics]]
 
 ![[topics/Concept/Token Efficiency in Models]]
