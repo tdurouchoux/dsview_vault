@@ -1,0 +1,5 @@
+---
+type: Model
+---
+
+Jev is a proprietary text classification model developed by TypeSafe AI, designed to handle a wide range of classification tasks efficiently and cost-effectively. It is optimized for speed and low latency, making it suitable for real-time applications. Jev supports multiple APIs (Choice, Noul, Score) for different classification needs, including multi-class, binary, and ordinal classification. The model is trained using a proprietary algorithm called Reinforcement Learning for Calibrated Decisions (RLCD), which emphasizes calibrated probability outputs. Jev is positioned as a general-purpose classifier that can replace task-specific fine-tuning for many use cases, offering performance comparable to larger LLMs like GPT-5.6 Luna but at a fraction of the cost and latency.
