@@ -31,7 +31,7 @@ Agentic coding tasks consume **1000–3500x more tokens** than single-turn code 
 
 ## Topics
 
-![[topics/Concept/SWE bench Verified]]
+![[topics/Concept/SWE bench]]
 
 ![[topics/Tool/OpenHands]]
 
