@@ -36,7 +36,7 @@ The post concludes by emphasizing the importance of tools in enhancing agent cap
 
 ## Topics
 
-![[topics/Concept/Function Calling]]
+![[topics/Concept/Tool Calling]]
 
 ![[topics/Concept/Agentic AI]]
 

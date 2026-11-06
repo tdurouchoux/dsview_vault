@@ -34,7 +34,7 @@ FunctionGemma is ideal for applications with a defined API surface, those ready 
 
 ## Topics
 
-![[topics/Concept/Function Calling]]
+![[topics/Concept/Tool Calling]]
 
 ![[topics/Concept/Fine Tuning]]
 

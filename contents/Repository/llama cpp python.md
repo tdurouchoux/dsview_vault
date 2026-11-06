@@ -43,7 +43,7 @@ llama-cpp-python provides Python bindings for the C++ library llama.cpp, enablin
 
 ## Topics
 
-![[topics/Concept/Function Calling]]
+![[topics/Concept/Tool Calling]]
 
 ![[topics/Concept/GGUF]]
 

@@ -42,7 +42,7 @@ For reporting issues or contributing, users are encouraged to use the GitHub Iss
 
 ## Topics
 
-![[topics/Concept/Function Calling]]
+![[topics/Concept/Tool Calling]]
 
 ![[topics/Tool/LiteRT LM]]
 

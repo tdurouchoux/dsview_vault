@@ -31,7 +31,7 @@ This course, offered by Hugging Face, focuses on AI Agents, covering theory, des
 
 ![[topics/Library/LlamaIndex]]
 
-![[topics/Concept/Function Calling]]
+![[topics/Concept/Tool Calling]]
 
 ![[topics/Concept/Agentic AI]]
 

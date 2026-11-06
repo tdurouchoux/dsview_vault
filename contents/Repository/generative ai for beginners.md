@@ -35,7 +35,7 @@ This GitHub repository, "generative-ai-for-beginners" by Microsoft, offers a com
 
 ![[topics/Concept/Prompt Engineering and Optimization]]
 
-![[topics/Concept/Function Calling]]
+![[topics/Concept/Tool Calling]]
 
 ![[topics/Concept/Small Language Models]]
 

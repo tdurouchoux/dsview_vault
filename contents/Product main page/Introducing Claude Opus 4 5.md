@@ -28,7 +28,7 @@ Claude Opus 4.5, the latest model from Anthropic, is now available and excels in
 
 ![[topics/Tool/Claude Code]]
 
-![[topics/Concept/Effort Parameter]]
+![[topics/Concept/Reasoning Effort]]
 
 ![[topics/Concept/Prompt Injection]]
 

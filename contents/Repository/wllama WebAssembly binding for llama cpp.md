@@ -29,7 +29,7 @@ wllama is a WebAssembly binding for llama.cpp, enabling on-browser LLM inference
 
 ![[topics/Concept/Quantization]]
 
-![[topics/Concept/Function Calling]]
+![[topics/Concept/Tool Calling]]
 
 ![[topics/Platform/Hugging Face]]
 
