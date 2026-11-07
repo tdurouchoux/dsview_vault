@@ -2,4 +2,4 @@
 type: Model
 ---
 
-LLaMA (Large Language Model Meta AI) is a foundational large language model developed by Meta. It is a successor of the Llama 2 model, and is available under a permissive license. It is designed to understand and generate text based on input prompts. LLaMA is known for its extensive training on diverse datasets, enabling it to perform a wide range of natural language processing tasks with high accuracy and coherence.
+A foundational family of large language models developed by Meta, including variants like Llama 2 and Llama 3.1 405B. LLaMA models are designed to understand and generate text based on input prompts, trained on diverse datasets to perform a wide range of natural language processing tasks with high accuracy and coherence. Some variants, such as the 405B model, can be run on commodity hardware with optimizations like AirLLM.

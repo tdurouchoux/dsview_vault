@@ -30,7 +30,7 @@ In 2024, significant advancements were made in the field of Large Language Model
 
 ![[topics/Model/Claude 3 Series]]
 
-![[topics/Model/DeepSeek v3]]
+![[topics/Model/DeepSeek V3]]
 
 ![[topics/Model/GPT]]
 

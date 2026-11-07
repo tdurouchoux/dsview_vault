@@ -51,4 +51,4 @@ The content also provides resources for further reading and learning about Codex
 
 ![[topics/Concept/Trackio]]
 
-![[topics/Model/Qwen3 0 6B]]
+![[topics/Model/Qwen3]]

@@ -25,7 +25,7 @@ The document discusses the evaluation of AI agents' ability to predict future ev
 
 ## Topics
 
-![[topics/Model/DeepSeek v3]]
+![[topics/Model/DeepSeek V3]]
 
 ![[topics/Concept/SmolAgents]]
 

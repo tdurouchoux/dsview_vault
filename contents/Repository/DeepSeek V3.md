@@ -32,7 +32,7 @@ DeepSeek-V3 is a powerful Mixture-of-Experts (MoE) language model with 671B tota
 
 ![[topics/Concept/Mixture of Experts MoE]]
 
-![[topics/Model/DeepSeek v3]]
+![[topics/Model/DeepSeek V3]]
 
 ![[topics/Concept/Multi head Latent Attention MLA]]
 
